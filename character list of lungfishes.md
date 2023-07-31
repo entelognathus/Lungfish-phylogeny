@@ -85,13 +85,11 @@ I-bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-22. Maximum width of skull roof situated posterior to
-the level of the bone Y1: 0. yes; 1. No.
+22. Maximum width of skull roof situated posterior to the level of the bone Y1: 0. yes; 1. No.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-23. Sutures between median series of skull roofing
-bones: 0 = straight, 1 = interdigitate, 2 = open.
+23. Sutures between median series of skull roofing bones: 0 = straight, 1 = interdigitate, 2 = open.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -99,8 +97,7 @@ bones: 0 = straight, 1 = interdigitate, 2 = open.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-25. Ossified upper lip in adult: 0. mosaic; 1. fused;
-2. absent.
+25. Ossified upper lip in adult: 0. mosaic; 1. fused; 2. absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -116,13 +113,11 @@ bones: 0 = straight, 1 = interdigitate, 2 = open.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-29. Cheek bones: 0. cheek bones 1-11 present; 1. no 11;
-2. no 10, 11
+29. Cheek bones: 0. cheek bones 1-11 present; 1. no 11; 2. no 10, 11
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-30. Length of postorbital cheek: 0. substantially
-longer than diameter of orbit; 1. equal to or shorter than diameter of orbit.
+30. Length of postorbital cheek: 0. substantially longer than diameter of orbit; 1. equal to or shorter than diameter of orbit.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -130,38 +125,31 @@ longer than diameter of orbit; 1. equal to or shorter than diameter of orbit.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-32. Bone 6: 0. reaching ventral margin of cheek; 1.
-excluded from ventral margin of cheek by Bone 10.
+32. Bone 6: 0. reaching ventral margin of cheek; 1. excluded from ventral margin of cheek by Bone 10.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-33. Bone 7: 0. approximately equilateral; 1. much
-longer than deep.
+33. Bone 7: 0. approximately equilateral; 1. much longer than deep.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-34. 
-Size of bone 10 (quadratojugal): 0. large, as 5 or
-greater; 1. much smaller than 5, or absent.
+34. Size of bone 10 (quadratojugal): 0. large, as 5 or greater; 1. much smaller than 5, or absent.
+
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
 35. Subopercular: 0. two; 1. one.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-36. Buccohypophyseal opening (foramen): 0. present; 1.
-absent.
+36. Buccohypophyseal opening (foramen): 0. present; 1. absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-37. Palatal construction: 0. parasphenoid separates
-pterygoids; 1. pterygoids articulate with each other with suture; 2. pterygoids
-fused.
+37. Palatal construction: 0. parasphenoid separates pterygoids; 1. pterygoids articulate with each other with suture; 2. pterygoids fused.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-38. Parasphenoid: 0. fused into palate; 1. visible
-sutures; 2. overlapping (pterygoids).
+38. Parasphenoid: 0. fused into palate; 1. visible sutures; 2. overlapping (pterygoids).
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -169,99 +157,73 @@ sutures; 2. overlapping (pterygoids).
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-40. Parasphenoid stalk: 0. no stalk; 1. simple stalk
-without sharp division into tapering proximal portion and parallel-sided distal
-portion; 2. stalk with sharp division into tapering proximal portion and
-parallel-sided distal portion. (ordered)
+40. Parasphenoid stalk: 0. no stalk; 1. simple stalk without sharp division into tapering proximal portion and parallel-sided distal portion; 2. stalk with sharp division into tapering proximal portion and parallel-sided distal portion. (ordered)
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-41. Ratio of posterior length to anterior length of
-parasphenoid: 0. less than 1 or about 1; 1. greater than 1.
+41. Ratio of posterior length to anterior length of parasphenoid: 0. less than 1 or about 1; 1. greater than 1.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-42. Furrow on ventral surface of parasphenoid stalk: 0.
-absent; 1. present.
+42. Furrow on ventral surface of parasphenoid stalk: 0. absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-43. Furrow on dorsal surface of parasphenoid stalk: 0.
-absent; 1. present.
+43. Furrow on dorsal surface of parasphenoid stalk: 0. absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-44. Parasphenoid bearing denticle-lined ascending
-process: 0. no; 1. yes.
+44. Parasphenoid bearing denticle-lined ascending process: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-45. Dental material on parasphenoid: 0. present; 1.
-absent.
+45. Dental material on parasphenoid: 0. present; 1. absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-46. Parasphenoid reaching posterior margin of occiput:
-0. no; 1. yes.
+46. Parasphenoid reaching posterior margin of occiput: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-47. Shape of parasphenoid: 0 = anteriad elongated, 1 =
-plow-shaped, 2 = with lozenge, 3 = round anterior portion, 4 = angled anterior
-portion.
+47. Shape of parasphenoid: 0 = anteriad elongated, 1 = plow-shaped, 2 = with lozenge, 3 = round anterior portion, 4 = angled anterior portion.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-48. Position of parasphenoid: 0. below ethmosphenoid;
-1. below otico-occipital; 2. below both.
+48. Position of parasphenoid: 0. below ethmosphenoid; 1. below otico-occipital; 2. below both.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-49. Position of anterior end of parasphenoid: 0. in
-front of jaw articulation; 1. not in front.
+49. Position of anterior end of parasphenoid: 0. in front of jaw articulation; 1. not in front.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-50. Ratio maximal width of parasphenoid to distance
-articulation points of jaws: 0. less than 1/3; 1. between 1/3 and 2/3; 2.
-greater than 2/3.
+50. Ratio maximal width of parasphenoid to distance articulation points of jaws: 0. less than 1/3; 1. between 1/3 and 2/3; 2. greater than 2/3.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-51. Lateral angle of parasphenoid: 0 = no angle, 1 =
-angular, 2 = rounded, 3 = reflexed.
+51. Lateral angle of parasphenoid: 0 = no angle, 1 = angular, 2 = rounded, 3 = reflexed.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-52. Posterior end of parasphenoid (stalk): 0. single
-point; 1. bifid; 2. trifid with lateral projections.
+52. Posterior end of parasphenoid (stalk): 0. single point; 1. bifid; 2. trifid with lateral projections.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-53. Margins of posterior stalk of parasphenoid: 0.
-converge to posterior angle; 1. subparallel.
+53. Margins of posterior stalk of parasphenoid: 0. converge to posterior angle; 1. subparallel.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-54. Vomer: 0. present; 1. absent. We follow Rosen et
-al. (1981) to assign the ‘dermopalatine 1’ of lungfishes in Miles (1977) as the
-vomer.
+54. Vomer: 0. present; 1. absent. We follow Rosen et al. (1981) to assign the ‘dermopalatine 1’ of lungfishes in Miles (1977) as the vomer.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-55. Vomer *sensu* Rosen et al. (1981): 0. Fused
-with each other; 1. Not meet each other in the mid line. We reformulate this
-character with regard to that “dermopalatine 1” *sensu* Miles (1977) is
-equivalent of vomer *sensu* Rosen et al. (1981).
+55. Vomer *sensu* Rosen et al. (1981): 0. Fused with each other; 1. Not meet each other in the mid line. We reformulate this character with regard to that “dermopalatine 1” *sensu* Miles (1977) is equivalent of vomer *sensu* Rosen et al. (1981).
 
-56. Vomer *sensu* Rosen et al. (1981) and
-pterygoid: 0. fused to pterygoid; 1. present, not contact; 2. isolated.
+56. Vomer *sensu* Rosen et al. (1981) and pterygoid: 0. fused to pterygoid; 1. present, not contact; 2. isolated.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-57. Series anterolateral to pterygoids: 0. present,
-with tusks; 1. present with denticles or dentine sheet; 2. present with tooth
-row.
+57. Series anterolateral to pterygoids: 0. present, with tusks; 1. present with denticles or dentine sheet; 2. present with tooth row.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
