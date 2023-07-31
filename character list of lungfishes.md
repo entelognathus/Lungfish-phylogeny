@@ -2,7 +2,9 @@
 **Character list of lungfishes**
 > 189 characters in total. 1-186 from Clack et al. (2019), 3 newly added characters
 
-> All characters are from Clack et al. (2019), Challands et al. (2019) which in turn were derived from Qiao and Zhu (2015), Qiao & Zhu (2009), Schultze (2001), Ahlberg et al. (2006) and Friedman (2007) with modifications as described below.
+> All characters are from Clack et al. (2019), Challands et al. (2019) which in turn were derived from Qiao and Zhu (2015), Qiao and Zhu (2009), Schultze (2001), Ahlberg et al. (2006) and Friedman (2007) with modifications as described below.
+
+> To Luo Yanchao: Qiao and Zhu (2015), Qiao and Zhu (2009), Schultze (2001), Ahlberg et al. (2006) and Friedman (2007), and other references to be added in the comments below.
 
 1. Pineal opening: 0. open; 1. closed.
 
