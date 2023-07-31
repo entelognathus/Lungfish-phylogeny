@@ -751,7 +751,7 @@ I-bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 186.
 
-**3 newly added characters**
+**3 newly added characters based on Challands *et al*. (2019)**
 
 187. Vomer *sensu* Rosen et al. (1981): 0. paired; 1. unpaired
 
