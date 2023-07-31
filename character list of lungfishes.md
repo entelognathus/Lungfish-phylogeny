@@ -101,11 +101,9 @@ I-bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-26. Snout/skull roof: 0. with diffuse posterior margin;
-1. with sharp posterior margin.
+26. Snout/skull roof: 0. with diffuse posterior margin; 1. with sharp posterior margin.
 
-27. Supraorbital and infraorbital canals: 0. separated;
-1. connected.
+27. Supraorbital and infraorbital canals: 0. separated; 1. connected.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -227,21 +225,17 @@ I-bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-58. Parasphenoid separating pterygoids along more than
-half of their length: 0. yes; 1. no.
+58. Parasphenoid separating pterygoids along more than half of their length: 0. yes; 1. no.
 
-59. Angle between midline and anterolateral margin of
-pterygoid: 0. less than 55 degrees; 1. more than 55 degrees.
+59. Angle between midline and anterolateral margin of pterygoid: 0. less than 55 degrees; 1. more than 55 degrees.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-60. Anterior nostril: 0. located dorsal to oral margin;
-1. marginal.
+60. Anterior nostril: 0. located dorsal to oral margin; 1. marginal.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-61. Posterior nostril: 0. located dorsal to oral
-margin; 1. marginal 2. palatal. (ordered)
+61. Posterior nostril: 0. located dorsal to oral margin; 1. marginal 2. palatal. (ordered)
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -257,18 +251,15 @@ yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-65. Lateral lines in mandible: 0. parallel; 1.
-converging in one bone.
+65. Lateral lines in mandible: 0. parallel; 1. converging in one bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-66. Length of symphysis (ratio length of symphysis to
-length of jaw): 0. greater than 1/3; 1. between 1/5 and 1/3; 2. less than 1/5.
+66. Length of symphysis (ratio length of symphysis to length of jaw): 0. greater than 1/3; 1. between 1/5 and 1/3; 2. less than 1/5.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-67. Adsymphysial plate: 0 = present, but fused, 1 =
-isolated, sutured bone, 2 = missing.
+67. Adsymphysial plate: 0 = present, but fused, 1 = isolated, sutured bone, 2 = missing.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -276,26 +267,21 @@ isolated, sutured bone, 2 = missing.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-69. Dentary-prearticular relationship: 0.
-dentition-generating gap; 1. small midline hole only; 2. no gap.
+69. Dentary-prearticular relationship: 0. dentition-generating gap; 1. small midline hole only; 2. no gap.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-70. Slot between dentary and prearticular: 0. broad; 1.
-narrow; 2. no slot.
+70. Slot between dentary and prearticular: 0. broad; 1. narrow; 2. no slot.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-71. Adductor fossa: 0. not overhung by prearticular; 1.
-overhung by prearticular.
+71. Adductor fossa: 0. not overhung by prearticular; 1. overhung by prearticular.
 
-72. Length of adductor fossa: 0. more than 20% of jaw
-length; 1. 5%-20% of jaw length; 2. 0-5% of jaw length (ordered).
+72. Length of adductor fossa: 0. more than 20% of jaw length; 1. 5%-20% of jaw length; 2. 0-5% of jaw length (ordered).
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-73. Morphology of adductor fossa: 0. open; 1. reduced
-to vestigial slit.
+73. Morphology of adductor fossa: 0. open; 1. reduced to vestigial slit.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -307,37 +293,29 @@ to vestigial slit.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-76. Meckelian bone: 0. wholly ossified; 1. only
-articular ossified, or not ossified at all.
+76. Meckelian bone: 0. wholly ossified; 1. only articular ossified, or not ossified at all.
 
-77. Retroarticular process: 0. small and poorly
-developed; 1. robust, squarish.
+77. Retroarticular process: 0. small and poorly developed; 1. robust, squarish.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-78. Skin contact surface on infradentary bones: 0.
-reaching up to lip of adductor fossa; 1. widely separated from lip of adductor
-fossa.
+78. Skin contact surface on infradentary bones: 0. reaching up to lip of adductor fossa; 1. widely separated from lip of adductor fossa.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-79. Curvature of ventral mandibular margin: 0. strongly
-convex; 1. essentially flat.
+79. Curvature of ventral mandibular margin: 0. strongly convex; 1. essentially flat.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-80. Orientation of glenoid: 0. mostly dorsally; 1.
-posterodorsally.
+80. Orientation of glenoid: 0. mostly dorsally; 1. posterodorsally.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-81. Shape of glenoid fossa: 0. double structure; 1.
-single groove.
+81. Shape of glenoid fossa: 0. double structure; 1. single groove.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-82. Angular and surangular: 0. separate; 1. fused into
-a single long bone.
+82. Angular and surangular: 0. separate; 1. fused into a single long bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -345,18 +323,15 @@ a single long bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-84. Teeth on upper lip: 0. shedding teeth; 1. statodont
-tooth row; 2. teeth absent.
+84. Teeth on upper lip: 0. shedding teeth; 1. statodont tooth row; 2. teeth absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-85. Teeth on dentary: 0. shedding teeth present; 1.
-statodont tooth rows present; 2. teeth absent.
+85. Teeth on dentary: 0. shedding teeth present; 1. statodont tooth rows present; 2. teeth absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-86. Number of tooth ridges in adult specimens: 0.
-<10; 1. >10.
+86. Number of tooth ridges in adult specimens: 0. <10; 1. >10.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -364,29 +339,23 @@ statodont tooth rows present; 2. teeth absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-88. Morphology of teeth on pterygoid and prearticular:
-0. round/conical; 1., forming distinct proximodistal cutting ridge.
+88. Morphology of teeth on pterygoid and prearticular: 0. round/conical; 1., forming distinct proximodistal cutting ridge.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-89. Addition of large dentine elements at regular
-intervals to lateral margin of pterygoid/ prearticular: 0. yes; 1. no.
+89. Addition of large dentine elements at regular intervals to lateral margin of pterygoid/ prearticular: 0. yes; 1. no.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-90. Nature of large dentine elements: 0. teeth; 1.
-petrodentine cores; 2. thick irregular dentine; 3. ridges narrow regular
-dentine ridges.
+90. Nature of large dentine elements: 0. teeth; 1. petrodentine cores; 2. thick irregular dentine; 3. ridges narrow regular dentine ridges.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-91. Addition of marginal blisters to
-pterygoid/prearticular: 0. no; 1. yes.
+91. Addition of marginal blisters to pterygoid/prearticular: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-92. Shape of marginal blisters: 0. bead-shaped; 1.
-elongated strips.
+92. Shape of marginal blisters: 0. bead-shaped; 1. elongated strips.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
