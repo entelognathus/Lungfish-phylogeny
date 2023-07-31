@@ -30,23 +30,19 @@
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-8. Contact between E- and C-bones: 0. absent; 1.
-present.
+8. Contact between E- and C-bones: 0. absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-9. Paired E-bones: 0. mosaic; 1 present; 2. single
-E-bone; 3. absent.
+9. Paired E-bones: 0. mosaic; 1 present; 2. single E-bone; 3. absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-10. Length of E-bone(s): 0. less than twice their width;
-1. more than twice their width.
+10. Length of E-bone(s): 0. less than twice their width; 1. more than twice their width.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-11. I-bones meeting in midline: 0. yes; 1. no,
-separated by B bone.
+11. I-bones meeting in midline: 0. yes; 1. no, separated by B bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -58,23 +54,17 @@ separated by B bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-14. L-bone: 0 = two present, 1 = one present, 2 = space
-of K+L, 3 = space of K+L+M, 4 = other bones included.
+14. L-bone: 0 = two present, 1 = one present, 2 = space of K+L, 3 = space of K+L+M, 4 = other bones included.
 
-15. Length of L-bone: 0. similar to others in
-supraorbital canal series; 1. about twice as long as others in supraorbital
-canal series.
+15. Length of L-bone: 0. similar to others in supraorbital canal series; 1. about twice as long as others in supraorbital canal series.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-16. K-bone: 0 = single, 1 = space of K+X, 2 = neither
-single nor K+X (e.g. fused (i.e ‘space of’) K- + L-bones) both, 3 = K-bone
-absent.
+16. K-bone: 0 = single, 1 = space of K+X, 2 = neither single nor K+X (e.g. fused (i.e ‘space of’) K- + L-bones) both, 3 = K-bone absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-17. K-bone: 0. medial to X bone; 1. anterior to X bone;
-2. in sequence.
+17. K-bone: 0. medial to X bone; 1. anterior to X bone; 2. in sequence.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
