@@ -359,72 +359,55 @@ yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-93. Addition of inter-row dentine along edge of
-pterygoid/ prearticular: 0. no; 1. yes.
+93. Addition of inter-row dentine along edge of pterygoid/ prearticular: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-94. Nature of inter-row dentine: 0. always fuses or
-wears down into sheet; 1. separate denticles persist between some tooth rows.
+94. Nature of inter-row dentine: 0. always fuses or wears down into sheet; 1. separate denticles persist between some tooth rows.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-95. Pulp cavity: 0. tooth plates without pulp cavity;
-1. with pulp cavity.
+95. Pulp cavity: 0. tooth plates without pulp cavity; 1. with pulp cavity.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-96. Diffuse dentine deposition on surface of
-palate/lower jaw: 0. yes, diffusely across whole palate; 1. no; 2. redeposition
-of denticles only within “footprint” (outer circumference) of resorbed tooth
-plate.
+96. Diffuse dentine deposition on surface of palate/lower jaw: 0. yes, diffusely across whole palate; 1. no; 2. redeposition of denticles only within “footprint” (outer circumference) of resorbed tooth plate.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-97. Relative areas of denticle field/thin dentine sheet
-on palate: 0. all or nearly all denticles; 1. both dentine sheet and denticles;
-2. mostly dentine sheet; 3. denticles outside toothplate; 4 dentine sheet on
-resorption areas within toothplate.
+97. Relative areas of denticle field/thin dentine sheet on palate: 0. all or nearly all denticles; 1. both dentine sheet and denticles; 2. mostly dentine sheet; 3. denticles outside toothplate; 4 dentine sheet on resorption areas within toothplate.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-98. Relative areas of denticle field and dentine sheet
-on lower jaw: 0. all or nearly all denticles; 1. both denticles and dentine
-sheet; 2. mostly dentine sheet.
+98. Relative areas of denticle field and dentine sheet on lower jaw: 0. all or nearly all denticles; 1. both denticles and dentine sheet; 2. mostly dentine sheet.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-99. Resorption of dentition on pterygoid/prearticular
-plate origin: 0. little or no resorption, origin left unmodified; 1. extensive
-resorption, removing mesial parts of plate; 2. resorption and deposition of
-dentine sheet within toothplate only, not crossing edges.
+99. Resorption of dentition on pterygoid/prearticular plate origin: 0. little or no resorption, origin left unmodified; 1. extensive resorption, removing mesial parts of plate; 2. resorption and deposition of dentine sheet within toothplate only, not crossing edges.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-100. Distinct vertically growing “heel” on prearticular:
-0. no; 1. yes.
+100. Distinct vertically growing “heel” on prearticular: 0. no; 1. yes.
+
+> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
 101. Petrodentine: 0. absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-102. Sharp “additive” mesial and posterior edges on
-tooth plates: 0. absent; 1. present.
+102. Sharp “additive” mesial and posterior edges on tooth plates: 0. absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-103. Behaviour of “additive edges” (if present): 0.
-quiescent; 1. active.
+103. Behaviour of “additive edges” (if present): 0. quiescent; 1. active.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-104. Braincase/skull table relationship: 0. broad
-contact; 1. supported by cristae.
+104. Braincase/skull table relationship: 0. broad contact; 1. supported by cristae.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-105. Angle between quadrate and plane of parasphenoid:
-0. 90-95 degrees; 1. 80 -65 degrees; 2. 55-35 degrees.
+105. Angle between quadrate and plane of parasphenoid: 0. 90-95 degrees; 1. 80 -65 degrees; 2. 55-35 degrees.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -432,9 +415,7 @@ contact; 1. supported by cristae.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-107. Lateral commissure: 0. separate from
-palatoquadrate; 1. partly fused but distinguishable; 2. wholly fused to
-palatoquadrate. (ordered).
+107. Lateral commissure: 0. separate from palatoquadrate; 1. partly fused but distinguishable; 2. wholly fused to palatoquadrate. (ordered).
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -442,54 +423,43 @@ palatoquadrate. (ordered).
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-109. Dorsolateral process on palatoquadrate: 0. absent;
-1. present.
+109. Dorsolateral process on palatoquadrate: 0. absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-110. Metotic (lateral otic) fissure: 0. present; 1.
-absent.
+110. Metotic (lateral otic) fissure: 0. present; 1. absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-111. Intracranial joint/ventral cranial fissure: 0.
-mobile joint; 1. ventral cranial fissure; 2. neither fissure nor joint.
+111. Intracranial joint/ventral cranial fissure: 0. mobile joint; 1. ventral cranial fissure; 2. neither fissure nor joint.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-112. Occiput inset from posterior margin of
-neurocranium: 0. no; 1. yes.
+112. Occiput inset from posterior margin of neurocranium: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-113. Notochordal canal occluded by ossified cranial
-centrum: 0. no; 1. yes.
+113. Notochordal canal occluded by ossified cranial centrum: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-114. Neural cavity and notochordal canal separated by an
-ossified shelf in the occipital region, posterior to the foramen for N. X: 0.
-yes; 1. no.
+114. Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: 0. yes; 1. no.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-115. Ossification complete along ventral midline of
-notochordal canal posteriorly: 0. yes; 1. no.
+115. Ossification complete along ventral midline of notochordal canal posteriorly: 0. yes; 1. no.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-116. Occipital region bears transverse processes
-flanking foramen magnum: 0. no; 1. yes.
+116. Occipital region bears transverse processes flanking foramen magnum: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-117. Dorsal aorta: 0. divides at or anterior to occiput;
-1. divides posterior to occiput.
+117. Dorsal aorta: 0. divides at or anterior to occiput; 1. divides posterior to occiput.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-118. Lateral dorsal aortae: 0. run along ventral surface
-of neurocranium; 1. run in grooves on parasphenoid.
+118. Lateral dorsal aortae: 0. run along ventral surface of neurocranium; 1. run in grooves on parasphenoid.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -497,8 +467,7 @@ of neurocranium; 1. run in grooves on parasphenoid.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-120. Neurocranium extends far posterior to hind margin
-of postparietals: 0. no; 1. yes.
+120. Neurocranium extends far posterior to hind margin of postparietals: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -510,9 +479,7 @@ of postparietals: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-123. Little or no overlap between intersections of
-median and dorsolateral cristae with the dermal skull roof (median crista
-abbreviated): 0. no; 1. yes.
+123. Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -520,122 +487,91 @@ abbreviated): 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-125. Development of a pronounced ridge anterior to and
-continuous with the dorsolateral cristae: 0. no; 1. yes.
+125. Development of a pronounced ridge anterior to and continuous with the dorsolateral cristae: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-126. Articulation of first epibranchial posterior to the
-level of the foramen for N. IX: 0. no; 1. yes.
+126. Articulation of first epibranchial posterior to the level of the foramen for N. IX: 0. no; 1. yes.
 
-127. Notochord extending to or beyond level of N. V: 0.
-yes; 1. no.
+127. Notochord extending to or beyond level of N. V: 0. yes; 1. no.
 
-128. Development of a deep “spiracular recess” sensu
-Thomson and Campbell (1971): 0. yes; 1. no.
+128. Development of a deep “spiracular recess” sensu Thomson and Campbell (1971): 0. yes; 1. no.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-129. Separate foramina for the internal carotid artery
-and efferent pseudobranchial artery: 0. no; 1. yes.
+129. Separate foramina for the internal carotid artery and efferent pseudobranchial artery: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-130. Jugular vein: 0. little or no groove; 1. travels
-through deep groove along length of otic region.
+130. Jugular vein: 0. little or no groove; 1. travels through deep groove along length of otic region.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-131. Foramina for the jugular vein and the ramus
-hyomandibularis N. VII on the posterior surface of the transverse wall of the
-otic region: 0. confluent; 1. separate.
+131. Foramina for the jugular vein and the ramus hyomandibularis N. VII on the posterior surface of the transverse wall of the otic region: 0. confluent; 1. separate.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-132. Foramina for the jugular vein and the orbital
-artery on the posterior surface of the transverse wall of the otic region: 0.
-confluent; 1. separate.
+132. Foramina for the jugular vein and the orbital artery on the posterior surface of the transverse wall of the otic region: 0. confluent; 1. separate.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-133. Foramina for the ramus hyomandibularis N. VII and
-the orbital artery on the posterior surface of the transverse wall of the otic
-region: 0. confluent1; 1. separate.
+133. Foramina for the ramus hyomandibularis N. VII and the orbital artery on the posterior surface of the transverse wall of the otic region: 0. confluent1; 1. separate.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-134. Hyomandibular facet traverses fissure in transverse
-otic wall (hyomandibular facet extends on to palatoquadrate): 0. no; 1. yes.
+134. Hyomandibular facet traverses fissure in transverse otic wall (hyomandibular facet extends on to palatoquadrate): 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-135. Separate ossified canals for pineal and parapineal
-organs: 0. yes; 1. no.
+135. Separate ossified canals for pineal and parapineal organs: 0. yes; 1. no.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-136. Foramen for N. II above the level of foramen
-sphenoticum minus: 0. no; 1. yes.
+136. Foramen for N. II above the level of foramen sphenoticum minus: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-137. Foramen for N. III above level of foramen
-sphenoticum minus: 0. no; 1. yes.
+137. Foramen for N. III above level of foramen sphenoticum minus: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-138. Ventral face of nasal capsule: 0. complete; 1.
-perforated by fenestration that opens posteroventrolaterally (fenestra
-ventralis); 2. solum nasi completely unossified. (ordered)
+138. Ventral face of nasal capsule: 0. complete; 1. perforated by fenestration that opens posteroventrolaterally (fenestra ventralis); 2. solum nasi completely unossified. (ordered)
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-139. Nasal capsule set well posterior to snout margin or
-preoral eminence: 0. no; 1. yes.
+139. Nasal capsule set well posterior to snout margin or preoral eminence: 0. no; 1. yes.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-140. Enlarged, knob-shaped protrusion on the
-posteroventral surface of the quadrate (hyosuspensory eminence of Miles, 1977):
-0. absent; 1. present .
+140. Enlarged, knob-shaped protrusion on the posteroventral surface of the quadrate (hyosuspensory eminence of Miles, 1977): 0. absent; 1. present .
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-141. Overlap relationship between entopterygoids and
-parasphenoid: 0. parasphenoid overlaps entopterygoids dorsally; 1.
-entopterygoids overlap parasphenoid dorsally.
+141. Overlap relationship between entopterygoids and parasphenoid: 0. parasphenoid overlaps entopterygoids dorsally; 1. entopterygoids overlap parasphenoid dorsally.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-142. Cleithrum and clavicle: 0. with cosmine; 1. without
-cosmine.
+142. Cleithrum and clavicle: 0. with cosmine; 1. without cosmine.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-143. Median fin morphologies: 0. all separate and
-short-based; 1. posterior dorsal fin long-based; 2. both dorsal fins long-based
-uninterrupted fin fringe.
+143. Median fin morphologies: 0. all separate and short-based; 1. posterior dorsal fin long-based; 2. both dorsal fins long-based uninterrupted fin fringe.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-144. Posterior dorsal fin support: 0. all radials
-carried by basal plate; 1. anterior radials on basal plate, posterior radials
-free; 2. no basal plate.
+144. Posterior dorsal fin support: 0. all radials carried by basal plate; 1. anterior radials on basal plate, posterior radials free; 2. no basal plate.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-145. Anal fin support: 0. trapezoidal with no distinct
-shaft; 1. cylindrical proximal shaft and triangular distal plate.
+145. Anal fin support: 0. trapezoidal with no distinct shaft; 1. cylindrical proximal shaft and triangular distal plate.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-146. Median fin radials: 0. cylindrical; 1.
-hourglass-shaped.
+146. Median fin radials: 0. cylindrical; 1. hourglass-shaped.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-147. Vertebral column: 0. unconstricted notochord; 1.
-disc centra.
+147. Vertebral column: 0. unconstricted notochord; 1. disc centra.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -649,10 +585,10 @@ disc centra.
 
 150. Cosmine on scales: 0. present; 1. absent.
 
-151. Adlateral cristae (postero-dorsal extensions of the
-lateral cristae that connect the otic region of the neurocranium to the
-visceral surface of the dermal skull roof) present: 0. yes; 1. no.
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
+151. Adlateral cristae (postero-dorsal extensions of the lateral cristae that connect the otic region of the neurocranium to the visceral surface of the dermal skull roof) present: 0. yes; 1. no.
+    
+     > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
+
 152. Median callus on palate: 0. absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
@@ -661,11 +597,9 @@ visceral surface of the dermal skull roof) present: 0. yes; 1. no.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-154. Foramen for the internal carotid anterior to that
-for the efferent pseudobranchial artery: 0. no; 1. yes.
+154. Foramen for the internal carotid anterior to that for the efferent pseudobranchial artery: 0. no; 1. yes.
 
-155. Ossification of neurocranium: 0. completely
-ossified; 1. poorly-ossified/cartilagenous.
+155. Ossification of neurocranium: 0. completely ossified; 1. poorly-ossified/cartilagenous.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -673,45 +607,35 @@ ossified; 1. poorly-ossified/cartilagenous.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-157. Angle between first and last tooth ridge: 0. 50 –
-100 degrees; 1. less than 50 degrees or greater than 100 degrees.
+157. Angle between first and last tooth ridge: 0. 50 – 100 degrees; 1. less than 50 degrees or greater than 100 degrees.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-158. Lower jaw: 0 . short mandible rami, 1. elongated
-rami with short symphysis; 2. elongated symphysis.
+158. Lower jaw: 0 . short mandible rami, 1. elongated rami with short symphysis; 2. elongated symphysis.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-159. Kinesis between nasal region and braincase behind
-it: 0. Absent; 1. present.
+159. Kinesis between nasal region and braincase behind it: 0. Absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-160. A-bone: 0. independent A-bone, 1. not present as
-independent bone; 2. incorporated into skull roof.
+160. A-bone: 0. independent A-bone, 1. not present as independent bone; 2. incorporated into skull roof.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-161. Supraoccipital commissure: 0. through
-Z-G-I-A-I-G-Z, 1. through I-A-I, 2. through I-B-I, 3. through Z-B-Z, 4. above
-bones.
+161. Supraoccipital commissure: 0. through Z-G-I-A-I-G-Z, 1. through I-A-I, 2. through I-B-I, 3. through Z-B-Z, 4. above bones.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-162. Adductor muscles: 0. below skull roof, 1. above
-skull roof.
+162. Adductor muscles: 0. below skull roof, 1. above skull roof.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-163. F-bone: 0. not existing, 1. present; 2. place of
-F+E.
+163. F-bone: 0. not existing, 1. present; 2. place of F+E.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-164. Space taken by K+L or more bones (i.e. K- and
-L-bones missing): 0. not; 1. yes; 2. in addition M; 3. in addition M+N; 4. in
-addition J+M; 5. in addition X.
+164. Space taken by K+L or more bones (i.e. K- and L-bones missing): 0. not; 1. yes; 2. in addition M; 3. in addition M+N; 4. in addition J+M; 5. in addition X.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -719,33 +643,27 @@ addition J+M; 5. in addition X.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-166. I-bone: 0. present; 1. space of I+J; 2. space of
-I+J+L+M; 3. space of I+Z; 4. space of A+B+I+J; 5. space of I+Y+Z.
+166. I-bone: 0. present; 1. space of I+J; 2. space of I+J+L+M; 3. space of I+Z; 4. space of A+B+I+J; 5. space of I+Y+Z.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-167. J-bone: 0. present, 1. space of J+K+L+M; 2. space
-of I+J; 3. space of J+L+M; 4. space of A+B+I+J; 5. space of J+C.
+167. J-bone: 0. present, 1. space of J+K+L+M; 2. space of I+J; 3. space of J+L+M; 4. space of A+B+I+J; 5. space of J+C.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-168. Z-bone: 0. behind skull roof; 1. integrated into
-skull roof; 2. space of Y+Z; 3. lacking as isolated bone.
+168. Z-bone: 0. behind skull roof; 1. integrated into skull roof; 2. space of Y+Z; 3. lacking as isolated bone.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-169. Lateral line entering skull table through: 0. bone
-Z; 1. bone I; 2. above bones.
+169. Lateral line entering skull table through: 0. bone Z; 1. bone I; 2. above bones.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-170. Y-bone: 0. Y1- and Y2-bones present; 1. only one Y-
-bone; 2. space of X+Y; 3. space of Y+Z.
+170. Y-bone: 0. Y1- and Y2-bones present; 1. only one Y- bone; 2. space of X+Y; 3. space of Y+Z.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-171. X-bone: 0. isolated; 1. space of X+K; 2. space of
-X+Y; 3. missing.
+171. X-bone: 0. isolated; 1. space of X+K; 2. space of X+Y; 3. missing.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -761,9 +679,7 @@ X+Y; 3. missing.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-175. Space taken by L+M: 0. not present; 1 = present; 2.
-space of J+L+M; 3. space of J+K+L+M (+ possible N); 4. space of I+J+L+M; 5.
-space of K+L+M.
+175. Space taken by L+M: 0. not present; 1 = present; 2. space of J+L+M; 3. space of J+K+L+M (+ possible N); 4. space of I+J+L+M; 5. space of K+L+M.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -771,13 +687,11 @@ space of K+L+M.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-177. Ascending process on pterygoid: 0. absent; 1.
-short; 2. long.
+177. Ascending process on pterygoid: 0. absent; 1. short; 2. long.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-178. Number of infradentaries: 0. four; 1. two; 2. one;
-3. three.
+178. Number of infradentaries: 0. four; 1. two; 2. one; 3. three.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -785,29 +699,23 @@ short; 2. long.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-180. Dentition: 0. dentine plates; 1. tooth plates; 2.
-toothed (shedding denticles).
+180. Dentition: 0. dentine plates; 1. tooth plates; 2. toothed (shedding denticles).
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-181. Form of marginal tooth ridge: 0. absent; 1.
-continuous; 2. incomplete.
+181. Form of marginal tooth ridge: 0. absent; 1. continuous; 2. incomplete.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-182. Tuberosities on palate: 0. present and irregular;
-1. arranged radially; 2. arranged in rows; 3. absent.
+182. Tuberosities on palate: 0. present and irregular; 1. arranged radially; 2. arranged in rows; 3. absent.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-183. Denticles: 0. no denticles; 1. episodically shed
-denticles.
+183. Denticles: 0. no denticles; 1. episodically shed denticles.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-184. Tooth plates ridges: 0. no tooth plates; 1. without
-radial pattern; 2. radial pattern with cusps; 3. radial pattern without cusps;
-4. parallel ridges.
+184. Tooth plates ridges: 0. no tooth plates; 1. without radial pattern; 2. radial pattern with cusps; 3. radial pattern without cusps; 4. parallel ridges.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
@@ -815,20 +723,19 @@ radial pattern; 2. radial pattern with cusps; 3. radial pattern without cusps;
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
-186. Basihyal: 0. short without denticles; 1. long and
-denticulated; 2. short and denticulated.
+186. Basihyal: 0. short without denticles; 1. long and denticulated; 2. short and denticulated.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
 
 **3 newly added characters**
 
-187. Vomer *sensu* Rosen et al. (1981):
-0. paired; 1. unpaired
+187. Vomer *sensu* Rosen et al. (1981): 0. paired; 1. unpaired
 
 > Luo *et al*. (2022), Character 1.
 
-188. Dermopalatine *sensu* Rosen et al.
-(1981): 0. absent; 1. present
+188. Dermopalatine *sensu* Rosen et al. (1981): 0. absent; 1. present
+
 > Luo *et al*. (2022), Character 1.
+
 189. Oral growth lines: 0. absent; 1. Present
 > Luo *et al*. (2022), Character 1.
