@@ -431,10 +431,13 @@ I-bone.
 106. Autostyly: 0. absent; 1. present.
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 106.
+> - Phaneropleuron andersoni code 0 ?? need to check
 
 107. Lateral commissure: 0. separate from palatoquadrate; 1. partly fused but distinguishable; 2. wholly fused to palatoquadrate. (ordered).
 
 > Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 107.
+
+> - Diabolepis, Palelophus and Uranolophus code 0
 
 108. Palatoquadrate: 0. fused into palate; 1. free.
 
