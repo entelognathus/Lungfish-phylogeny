@@ -9,11 +9,11 @@
 1. Pineal opening: 0. open; 1. closed.
 
 > - Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 1.
->  - notes test
+
 
 2. Pineal region marked by short eminence: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 2.
+> - Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 2.
 
 3. Cosmine present on skull: 0. yes, full cover; 1.yes, but strongly reduced; 2. no. (ordered)
 
