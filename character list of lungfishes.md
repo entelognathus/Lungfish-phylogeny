@@ -294,162 +294,162 @@ I-bone.
 
 72. Length of adductor fossa: 0. more than 20% of jaw length; 1. 5%-20% of jaw length; 2. 0-5% of jaw length (ordered).
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 72.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 72.
 
 73. Morphology of adductor fossa: 0. open; 1. reduced to vestigial slit.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 73.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 73.
 
 74. Coronoids: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 74.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 74.
 
 75. Lip fold: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 75.
+>  Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 75.
 
 76. Meckelian bone: 0. wholly ossified; 1. only articular ossified, or not ossified at all.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 76.
+> Schultze (2001), Character 70, different from ossified; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 76.
 
 77. Retroarticular process: 0. small and poorly developed; 1. robust, squarish.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 77.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 77.
 
 78. Skin contact surface on infradentary bones: 0. reaching up to lip of adductor fossa; 1. widely separated from lip of adductor fossa.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 78.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 78.
 
 79. Curvature of ventral mandibular margin: 0. strongly convex; 1. essentially flat.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 79.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 79.
 
 80. Orientation of glenoid: 0. mostly dorsally; 1. posterodorsally.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 80.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 80.
 
 81. Shape of glenoid fossa: 0. double structure; 1. single groove.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 81.
+> Schultze (2001), Character 71; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 81.
 
 82. Angular and surangular: 0. separate; 1. fused into a single long bone.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 82.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 82.
 
 83. Splenial and postsplenial: 0. separate; 1. fused.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 83.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 83.
 
 84. Teeth on upper lip: 0. shedding teeth; 1. statodont tooth row; 2. teeth absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 84.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 84.
 
 85. Teeth on dentary: 0. shedding teeth present; 1. statodont tooth rows present; 2. teeth absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 85.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 85.
 
 86. Number of tooth ridges in adult specimens: 0. <10; 1. >10.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 86.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 86.
 
 87. Tooth plates: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 87.
+> Schultze (2001), similar with Character 72, dentition; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 87.
 
 88. Morphology of teeth on pterygoid and prearticular: 0. round/conical; 1., forming distinct proximodistal cutting ridge.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 88.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 88.
 
 89. Addition of large dentine elements at regular intervals to lateral margin of pterygoid/ prearticular: 0. yes; 1. no.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 89.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 89.
 
 90. Nature of large dentine elements: 0. teeth; 1. petrodentine cores; 2. thick irregular dentine; 3. ridges narrow regular dentine ridges.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 90.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 90.
 
 91. Addition of marginal blisters to pterygoid/prearticular: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 91.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 91.
 
 92. Shape of marginal blisters: 0. bead-shaped; 1. elongated strips.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 92.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 92.
 
 93. Addition of inter-row dentine along edge of pterygoid/ prearticular: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 93.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 93.
 
 94. Nature of inter-row dentine: 0. always fuses or wears down into sheet; 1. separate denticles persist between some tooth rows.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 94.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 94.
 
 95. Pulp cavity: 0. tooth plates without pulp cavity; 1. with pulp cavity.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 95.
+> Schultze (2001), Character 77; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 95.
 
 96. Diffuse dentine deposition on surface of palate/lower jaw: 0. yes, diffusely across whole palate; 1. no; 2. redeposition of denticles only within “footprint” (outer circumference) of resorbed tooth plate.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 96.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 96.
 
 97. Relative areas of denticle field/thin dentine sheet on palate: 0. all or nearly all denticles; 1. both dentine sheet and denticles; 2. mostly dentine sheet; 3. denticles outside toothplate; 4 dentine sheet on resorption areas within toothplate.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 97.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 97.
 
 98. Relative areas of denticle field and dentine sheet on lower jaw: 0. all or nearly all denticles; 1. both denticles and dentine sheet; 2. mostly dentine sheet.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 98.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 98.
 
 99. Resorption of dentition on pterygoid/prearticular plate origin: 0. little or no resorption, origin left unmodified; 1. extensive resorption, removing mesial parts of plate; 2. resorption and deposition of dentine sheet within toothplate only, not crossing edges.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 99.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 99.
 
 100. Distinct vertically growing “heel” on prearticular: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 100.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 100.
 
 101. Petrodentine: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 101.
+> Schultze (2001), Character 78; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 101.
 
 102. Sharp “additive” mesial and posterior edges on tooth plates: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 102.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 102.
 
 103. Behaviour of “additive edges” (if present): 0. quiescent; 1. active.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 103.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 103.
 
 104. Braincase/skull table relationship: 0. broad contact; 1. supported by cristae.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 104.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 104.
 
 105. Angle between quadrate and plane of parasphenoid: 0. 90-95 degrees; 1. 80 -65 degrees; 2. 55-35 degrees.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 105.
+> Schultze (2001), Character 42; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 105.
 
 106. Autostyly: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 106.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 106.
 > - Phaneropleuron andersoni code 0 ?? need to check
 
 107. Lateral commissure: 0. separate from palatoquadrate; 1. partly fused but distinguishable; 2. wholly fused to palatoquadrate. (ordered).
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 107.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 107.
 
 > - Diabolepis, Palelophus and Uranolophus code 0
 
 108. Palatoquadrate: 0. fused into palate; 1. free.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 108.
+> Schultze (2001), Character 41;  Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 108.
 
 109. Dorsolateral process on palatoquadrate: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 109.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 109.
 
 110. Metotic (lateral otic) fissure: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 110.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 110.
 
 111. Intracranial joint/ventral cranial fissure: 0. mobile joint; 1. ventral cranial fissure; 2. neither fissure nor joint.
 
