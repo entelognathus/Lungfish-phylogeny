@@ -453,179 +453,179 @@ I-bone.
 
 111. Intracranial joint/ventral cranial fissure: 0. mobile joint; 1. ventral cranial fissure; 2. neither fissure nor joint.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 111.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 111.
 
 112. Occiput inset from posterior margin of neurocranium: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 112.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 112.
 
 113. Notochordal canal occluded by ossified cranial centrum: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 113.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 113.
 
 114. Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: 0. yes; 1. no.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 114.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 114.
 
 115. Ossification complete along ventral midline of notochordal canal posteriorly: 0. yes; 1. no.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 115.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 115.
 
 116. Occipital region bears transverse processes flanking foramen magnum: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 116.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 116.
 
 117. Dorsal aorta: 0. divides at or anterior to occiput; 1. divides posterior to occiput.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 117.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 117.
 
 118. Lateral dorsal aortae: 0. run along ventral surface of neurocranium; 1. run in grooves on parasphenoid.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 118.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 118.
 
 119. Occipital artery extramural: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 119.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 119.
 
 120. Neurocranium extends far posterior to hind margin of postparietals: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 120.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 120.
 
 121. Dorsolateral crista fenestrated: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 121.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 121.
 
 122. Median crista discontinuous: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 122.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 122.
 
 123. Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 123.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 123.
 
 124. Lateral cristae fenestrated: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 124.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 124.
 
 125. Development of a pronounced ridge anterior to and continuous with the dorsolateral cristae: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 125.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 125.
 
 126. Articulation of first epibranchial posterior to the level of the foramen for N. IX: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 126.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 126.
 
 127. Notochord extending to or beyond level of N. V: 0. yes; 1. no.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 127.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 127.
 
 128. Development of a deep “spiracular recess” sensu Thomson and Campbell (1971): 0. yes; 1. no.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 128.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 128.
 
 129. Separate foramina for the internal carotid artery and efferent pseudobranchial artery: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 129.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 129.
 
 130. Jugular vein: 0. little or no groove; 1. travels through deep groove along length of otic region.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 130.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 130.
 
 131. Foramina for the jugular vein and the ramus hyomandibularis N. VII on the posterior surface of the transverse wall of the otic region: 0. confluent; 1. separate.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 131.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 131.
 
 132. Foramina for the jugular vein and the orbital artery on the posterior surface of the transverse wall of the otic region: 0. confluent; 1. separate.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 132.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 132.
 
 133. Foramina for the ramus hyomandibularis N. VII and the orbital artery on the posterior surface of the transverse wall of the otic region: 0. confluent1; 1. separate.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 133.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 133.
 
 134. Hyomandibular facet traverses fissure in transverse otic wall (hyomandibular facet extends on to palatoquadrate): 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 134.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 134.
 
 135. Separate ossified canals for pineal and parapineal organs: 0. yes; 1. no.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 135.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 135.
 
 136. Foramen for N. II above the level of foramen sphenoticum minus: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 136.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 136.
 
 137. Foramen for N. III above level of foramen sphenoticum minus: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 137.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 137.
 
 138. Ventral face of nasal capsule: 0. complete; 1. perforated by fenestration that opens posteroventrolaterally (fenestra ventralis); 2. solum nasi completely unossified. (ordered)
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 138.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 138.
 
 139. Nasal capsule set well posterior to snout margin or preoral eminence: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 139.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 139.
 
 140. Enlarged, knob-shaped protrusion on the posteroventral surface of the quadrate (hyosuspensory eminence of Miles, 1977): 0. absent; 1. present .
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 140.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 140.
 
 141. Overlap relationship between entopterygoids and parasphenoid: 0. parasphenoid overlaps entopterygoids dorsally; 1. entopterygoids overlap parasphenoid dorsally.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 141.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 141.
 
 142. Cleithrum and clavicle: 0. with cosmine; 1. without cosmine.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 142.
+> Schultze (2001), Character 81; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 142.
 
 143. Median fin morphologies: 0. all separate and short-based; 1. posterior dorsal fin long-based; 2. both dorsal fins long-based uninterrupted fin fringe.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 143.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 143.
 
 144. Posterior dorsal fin support: 0. all radials carried by basal plate; 1. anterior radials on basal plate, posterior radials free; 2. no basal plate.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 144.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 144.
 
 145. Anal fin support: 0. trapezoidal with no distinct shaft; 1. cylindrical proximal shaft and triangular distal plate.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 145.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 145.
 
 146. Median fin radials: 0. cylindrical; 1. hourglass-shaped.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 146.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 146.
 
 147. Vertebral column: 0. unconstricted notochord; 1. disc centra.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 147.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 147.
 
 148. Neural arches and spines: 0. separate; 1. fused.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 148.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 148.
 
 149. Scales: 0. rhombic; 1. round.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 149.
+> Schultze (2001), Character 82; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 149.
 
 150. Cosmine on scales: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 150.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 150.
 
 151. Adlateral cristae (postero-dorsal extensions of the lateral cristae that connect the otic region of the neurocranium to the visceral surface of the dermal skull roof) present: 0. yes; 1. no.
     
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 151.
+> Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 151.
 
 152. Median callus on palate: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 152.
+> Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 152.
 
 153. B-bone: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 153.
+> Schultze (2001), Character 8, different description of B-bone; Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 153.
 
 154. Foramen for the internal carotid anterior to that for the efferent pseudobranchial artery: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 154.
+> Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 154.
 
 155. Ossification of neurocranium: 0. completely ossified; 1. poorly-ossified/cartilagenous.
 
@@ -633,7 +633,7 @@ I-bone.
 
 156. C-bone(s): 0. paired; 1. single.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 156.
+> Schultze (2001), Character 11; Qiao and Zhu (2009), Character 6;  Qiao and Zhu (2015), Character 6; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 156.
 
 157. Angle between first and last tooth ridge: 0. 50 – 100 degrees; 1. less than 50 degrees or greater than 100 degrees.
 
