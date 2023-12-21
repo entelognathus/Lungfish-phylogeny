@@ -17,7 +17,7 @@
 
 3. Cosmine present on skull: 0. yes, full cover; 1.yes, but strongly reduced; 2. no. (ordered)
 
->  Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022) Character 3.
+>  Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Luo *et al*. (2022), Character 3.
 
 4. Length of B-bone: 0. short (less than 2 times its width); 1. long (equal or more than 2 times its width); 2. broad (wider than long).
 
@@ -25,7 +25,7 @@
 
 5. Pit-lines on B-bone: 0. absent; 1. anterior and middle pit-line present; 2. only anterior pit-line.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 5.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 5.
 
 6. C-bone: 0. absent; 1. present.
 
