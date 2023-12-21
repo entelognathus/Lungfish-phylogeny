@@ -274,23 +274,23 @@ I-bone.
 
 67. Adsymphysial plate: 0 = present, but fused, 1 = isolated, sutured bone, 2 = missing.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 67.
+>  Schultze (2001), Character 66; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 67.
 
 68. “Dentary”: 0. unpaired; 1. paired; 2. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 68.
+> Schultze (2001), Character 63; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 68.
 
 69. Dentary-prearticular relationship: 0. dentition-generating gap; 1. small midline hole only; 2. no gap.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 69.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 69.
 
 70. Slot between dentary and prearticular: 0. broad; 1. narrow; 2. no slot.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 70.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 70.
 
 71. Adductor fossa: 0. not overhung by prearticular; 1. overhung by prearticular.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 71.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 71.
 
 72. Length of adductor fossa: 0. more than 20% of jaw length; 1. 5%-20% of jaw length; 2. 0-5% of jaw length (ordered).
 
