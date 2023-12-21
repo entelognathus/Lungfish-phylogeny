@@ -29,104 +29,104 @@
 
 6. C-bone: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 6.
+> Schultze (2001), Character 11; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 6.
 
 7. D-bone: 0. many; 1. single; 2. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 7.
+> Schultze (2001), Character 2; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 7.
 
 8. Contact between E- and C-bones: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 8.
+> Schultze (2001), Character 12; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 8.
 
 9. Paired E-bones: 0. mosaic; 1 present; 2. single E-bone; 3. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 9.
+> Schultze (2001), Character 13; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 9.
 
 10. Length of E-bone(s): 0. less than twice their width; 1. more than twice their width.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 10.
+> Schultze (2001), Character 14; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 10.
 
 11. I-bones meeting in midline: 0. yes; 1. no, separated by B bone.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 11.
+> Schultze (2001), Character 20; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 11.
 
 12. Posterior process of I bone: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 12.
+> Schultze (2001), Character 21; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 12.
 
 13. J-bones meeting in midline: 0. yes; 1. no.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 13.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 13.
 
 14. L-bone: 0 = two present, 1 = one present, 2 = space of K+L, 3 = space of K+L+M, 4 = other bones included.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 14.
+> Schultze (2001), Character 25; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 14.
 
 15. Length of L-bone: 0. similar to others in supraorbital canal series; 1. about twice as long as others in supraorbital canal series.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 15.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 15.
 
 16. K-bone: 0 = single, 1 = space of K+X, 2 = neither single nor K+X (e.g. fused (i.e ‘space of’) K- + L-bones) both, 3 = K-bone absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 16.
+>  Schultze (2001), Character 24; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 16.
 
 17. K-bone: 0. medial to X bone; 1. anterior to X bone; 2. in sequence.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 17.
+> Schultze (2001), Character 23; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 17.
 
 18. M-bone: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 18.
+> Schultze (2001), Character 26; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 18.
 
 19. N-bone: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 19.
+> Schultze (2001), Character 27; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 19.
 
 20. Q-bone: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 20.
+> Schultze (2001), Character 28; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 20.
 
 21. Z-bone: 0. posterior to I-bone; 1. lateral to
 I-bone.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 21.
+> Schultze (2001), Character 29, different description for Z-bone; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 21.
 
 22. Maximum width of skull roof situated posterior to the level of the bone Y1: 0. yes; 1. No.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 22.
+>   Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 22.
 
 23. Sutures between median series of skull roofing bones: 0 = straight, 1 = interdigitate, 2 = open.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 23.
+> Schultze (2001), Character 3; Qiao and Zhu (2009), Qiao and Zhu (2015), Character 23;Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 23.
 
 24. Elongated snout: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 24.
+> Schultze (2001), Character 39, different description for snout; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 24.
 
 25. Ossified upper lip in adult: 0. mosaic; 1. fused; 2. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 25.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 25.
 
 26. Snout/skull roof: 0. with diffuse posterior margin; 1. with sharp posterior margin.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 26.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 26.
 
 27. Supraorbital and infraorbital canals: 0. separated; 1. connected.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 27.
+> Schultze (2001), Character 33; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 27.
 
 28. Lateral line/bone 3: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 28.
+> Schultze (2001), Character 35; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 28.
 
 29. Cheek bones: 0. cheek bones 1-11 present; 1. no 11; 2. no 10, 11
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 29.
+> Schultze (2001), Character 36; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 29.
 
 30. Length of postorbital cheek: 0. substantially longer than diameter of orbit; 1. equal to or shorter than diameter of orbit.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 30.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 30.
 
 31. Ratio snout/cheek: 0. <1; 1. >=1.
 
