@@ -190,87 +190,87 @@ I-bone.
 
 46. Parasphenoid reaching posterior margin of occiput: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 46.
+> Qiao and Zhu (2009), Qiao and Zhu (2015)，Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 46.
 
 47. Shape of parasphenoid: 0 = anteriad elongated, 1 = plow-shaped, 2 = with lozenge, 3 = round anterior portion, 4 = angled anterior portion.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 47.
+> Schultze (2001), Character 49; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 47.
 
 48. Position of parasphenoid: 0. below ethmosphenoid; 1. below otico-occipital; 2. below both.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 48.
+> Schultze (2001), Character 44;  Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 48.
 
 49. Position of anterior end of parasphenoid: 0. in front of jaw articulation; 1. not in front.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 49.
+> Schultze (2001), Character 46; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 49.
 
 50. Ratio maximal width of parasphenoid to distance articulation points of jaws: 0. less than 1/3; 1. between 1/3 and 2/3; 2. greater than 2/3.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 50.
+> Schultze (2001), Character 45; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 50.
 
 51. Lateral angle of parasphenoid: 0 = no angle, 1 = angular, 2 = rounded, 3 = reflexed.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 51.
+> Schultze (2001), Character 48; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 51.
 
 52. Posterior end of parasphenoid (stalk): 0. single point; 1. bifid; 2. trifid with lateral projections.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 52.
+> Schultze (2001), Character 52,different description; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 52.
 
 53. Margins of posterior stalk of parasphenoid: 0. converge to posterior angle; 1. subparallel.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 53.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 53.
 
 54. Vomer: 0. present; 1. absent. We follow Rosen et al. (1981) to assign the ‘dermopalatine 1’ of lungfishes in Miles (1977) as the vomer.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 54.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 54.
 
 55. Vomer *sensu* Rosen et al. (1981): 0. Fused with each other; 1. Not meet each other in the mid line. We reformulate this character with regard to that “dermopalatine 1” *sensu* Miles (1977) is equivalent of vomer *sensu* Rosen et al. (1981).
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 55.
+> Schultze (2001), Character 59; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 55.
 
 56. Vomer *sensu* Rosen et al. (1981) and pterygoid: 0. fused to pterygoid; 1. present, not contact; 2. isolated.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 56.
+> Schultze (2001), Character 58; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 56.
 
 57. Series anterolateral to pterygoids: 0. present, with tusks; 1. present with denticles or dentine sheet; 2. present with tooth row.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 57.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 57.
 
 58. Parasphenoid separating pterygoids along more than half of their length: 0. yes; 1. no.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 58.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 58.
 
 59. Angle between midline and anterolateral margin of pterygoid: 0. less than 55 degrees; 1. more than 55 degrees.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 59.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), different angle for classification; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 59.
 
 60. Anterior nostril: 0. located dorsal to oral margin; 1. marginal.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 60.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 60.
 
 61. Posterior nostril: 0. located dorsal to oral margin; 1. marginal 2. palatal. (ordered)
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 61.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 61.
 
 62. Internasal pits: 0. well developed; 1. reduced or absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 62.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 62.
 
 63. Cosmine-like tissue within oral cavity: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 63.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 63.
 
 64. Premaxilla: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 64.
+> Schultze (2001), Character 38, different description of character; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 64.
 
 65. Lateral lines in mandible: 0. parallel; 1. converging in one bone.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 65.
+> Schultze (2001), Character 65; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 65.
 
 66. Length of symphysis (ratio length of symphysis to length of jaw): 0. greater than 1/3; 1. between 1/5 and 1/3; 2. less than 1/5.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 66.
+> Schultze (2001), Character 62; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 66.
 
 67. Adsymphysial plate: 0 = present, but fused, 1 = isolated, sutured bone, 2 = missing.
 
