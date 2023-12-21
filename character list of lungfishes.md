@@ -306,11 +306,11 @@ I-bone.
 
 75. Lip fold: 0. absent; 1. present.
 
->  Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 75.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 75.
 
 76. Meckelian bone: 0. wholly ossified; 1. only articular ossified, or not ossified at all.
 
-> Schultze (2001), Character 70, different from ossified; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 76.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 76.
 
 77. Retroarticular process: 0. small and poorly developed; 1. robust, squarish.
 
@@ -641,67 +641,67 @@ I-bone.
 
 158. Lower jaw: 0 . short mandible rami, 1. elongated rami with short symphysis; 2. elongated symphysis.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 158.
+> Schultze (2001), Character 61; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 158.
 
 159. Kinesis between nasal region and braincase behind it: 0. Absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 159.
+> Schultze (2001), Character 4; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 159.
 
 160. A-bone: 0. independent A-bone, 1. not present as independent bone; 2. incorporated into skull roof.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 160.
+> Schultze (2001), Character 5; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 160.
 
 161. Supraoccipital commissure: 0. through Z-G-I-A-I-G-Z, 1. through I-A-I, 2. through I-B-I, 3. through Z-B-Z, 4. above bones.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 161.
+> Schultze (2001), Character 6; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 161.
 
 162. Adductor muscles: 0. below skull roof, 1. above skull roof.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 162.
+> Schultze (2001), Character 10; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 162.
 
 163. F-bone: 0. not existing, 1. present; 2. place of F+E.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 163.
+> Schultze (2001), Character 15; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 163.
 
 164. Space taken by K+L or more bones (i.e. K- and L-bones missing): 0. not; 1. yes; 2. in addition M; 3. in addition M+N; 4. in addition J+M; 5. in addition X.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 164.
+> Schultze (2001), Character 16; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 164.
 
 165. G-bone: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 165.
+> Schultze (2001), Character 18; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 165.
 
 166. I-bone: 0. present; 1. space of I+J; 2. space of I+J+L+M; 3. space of I+Z; 4. space of A+B+I+J; 5. space of I+Y+Z.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 166.
+> Schultze (2001), Character 19; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 166.
 
 167. J-bone: 0. present, 1. space of J+K+L+M; 2. space of I+J; 3. space of J+L+M; 4. space of A+B+I+J; 5. space of J+C.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 167.
+> Schultze (2001), Character 22; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 167.
 
 168. Z-bone: 0. behind skull roof; 1. integrated into skull roof; 2. space of Y+Z; 3. lacking as isolated bone.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 168.
+> Schultze (2001), Character 29; Qiao and Zhu (2009), Character 21, different description of Z-bone; Qiao and Zhu (2009), Character 21, different description of Z-bone; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 168.
 
 169. Lateral line entering skull table through: 0. bone Z; 1. bone I; 2. above bones.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 169.
+> Schultze (2001), Character 30; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 169.
 
 170. Y-bone: 0. Y1- and Y2-bones present; 1. only one Y- bone; 2. space of X+Y; 3. space of Y+Z.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 170.
+> Schultze (2001), Character 31; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 170.
 
 171. X-bone: 0. isolated; 1. space of X+K; 2. space of X+Y; 3. missing.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 171.
+> Schultze (2001), Character 32; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 171.
 
 172. T-bone: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 172.
+> Schultze (2001), Character 34; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 172.
 
 173. Bone 10: 0.present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 173.
+> Qiao and Zhu (2009), Character 34, different dsecription of size of bone 10; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 173.
 
 174. Bone 11: 0. present; 1. absent.
 
@@ -709,51 +709,51 @@ I-bone.
 
 175. Space taken by L+M: 0. not present; 1 = present; 2. space of J+L+M; 3. space of J+K+L+M (+ possible N); 4. space of I+J+L+M; 5. space of K+L+M.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 175.
+> Schultze (2001), Character 37; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 175.
 
 176. Maxilla and premaxilla: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 176.
+> Schultze (2001), Character 38; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 176.
 
 177. Ascending process on pterygoid: 0. absent; 1. short; 2. long.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 177.
+> Schultze (2001), Character 56; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 177.
 
 178. Number of infradentaries: 0. four; 1. two; 2. one; 3. three.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 178.
+> Schultze (2001), Character 64; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 178.
 
 179. Ossified meckelian bone: 0. present; 1. lacking.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 179.
+> Schultze (2001), Character 70; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 179.
 
 180. Dentition: 0. dentine plates; 1. tooth plates; 2. toothed (shedding denticles).
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 180.
+> Schultze (2001), Character 72; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 180.
 
 181. Form of marginal tooth ridge: 0. absent; 1. continuous; 2. incomplete.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 181.
+> Schultze (2001), Character 73; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 181.
 
 182. Tuberosities on palate: 0. present and irregular; 1. arranged radially; 2. arranged in rows; 3. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 182.
+> Schultze (2001), Character 74; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 182.
 
 183. Denticles: 0. no denticles; 1. episodically shed denticles.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 183.
+> Schultze (2001), Character 75; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 183.
 
 184. Tooth plates ridges: 0. no tooth plates; 1. without radial pattern; 2. radial pattern with cusps; 3. radial pattern without cusps; 4. parallel ridges.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 184.
+> Schultze (2001), Character 76; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 184.
 
 185. Ceratohyal: 0. short and stout; 1. long.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 185.
+> Schultze (2001), Character 79; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 185.
 
 186. Basihyal: 0. short without denticles; 1. long and denticulated; 2. short and denticulated.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 186.
+> Schultze (2001), Character 80; Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 186.
 
 **3 newly added characters based on Challands *et al*. (2019)**
 
