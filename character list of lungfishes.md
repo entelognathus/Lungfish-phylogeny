@@ -166,7 +166,7 @@ I-bone.
 
 40. Parasphenoid stalk: 0. no stalk; 1. simple stalk without sharp division into tapering proximal portion and parallel-sided distal portion; 2. stalk with sharp division into tapering proximal portion and parallel-sided distal portion. (ordered)
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 40.
+> Schultze (2001), Character 86; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 40.
 
 41. Ratio of posterior length to anterior length of parasphenoid: 0. less than 1 or about 1; 1. greater than 1.
 
