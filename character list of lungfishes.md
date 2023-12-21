@@ -130,39 +130,39 @@ I-bone.
 
 31. Ratio snout/cheek: 0. <1; 1. >=1.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 31.
+> Schultze (2001), Character 85; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 31.
 
 32. Bone 6: 0. reaching ventral margin of cheek; 1. excluded from ventral margin of cheek by Bone 10.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 32.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 32.
 
 33. Bone 7: 0. approximately equilateral; 1. much longer than deep.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 33.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 33.
 
 34. Size of bone 10 (quadratojugal): 0. large, as 5 or greater; 1. much smaller than 5, or absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 34.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 34.
 
 35. Subopercular: 0. two; 1. one.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 35.
+> Schultze (2001), Character 90, description as suboperculum; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 35.
 
 36. Buccohypophyseal opening (foramen): 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 36.
+> Schultze (2001), Character 54, description as buccohypophysial; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 36.
 
 37. Palatal construction: 0. parasphenoid separates pterygoids; 1. pterygoids articulate with each other with suture; 2. pterygoids fused.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 37.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 37.
 
 38. Parasphenoid: 0. fused into palate; 1. visible sutures; 2. overlapping (pterygoids).
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 38.
+> Schultze (2001), Character 43; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 38.
 
 39. Transverse curvature of palate: 0. flat; 1. arched.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 39.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 39.
 
 40. Parasphenoid stalk: 0. no stalk; 1. simple stalk without sharp division into tapering proximal portion and parallel-sided distal portion; 2. stalk with sharp division into tapering proximal portion and parallel-sided distal portion. (ordered)
 
