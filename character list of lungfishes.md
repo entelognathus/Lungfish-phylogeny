@@ -170,23 +170,23 @@ I-bone.
 
 41. Ratio of posterior length to anterior length of parasphenoid: 0. less than 1 or about 1; 1. greater than 1.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 41.
+> Schultze (2001), Character 47; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 41.
 
 42. Furrow on ventral surface of parasphenoid stalk: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 42.
+> Schultze (2001), Character 51;  Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 42.
 
 43. Furrow on dorsal surface of parasphenoid stalk: 0. absent; 1. present.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 43.
+> Schultze (2001), Character 50; Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 43.
 
 44. Parasphenoid bearing denticle-lined ascending process: 0. no; 1. yes.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 44.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 44.
 
 45. Dental material on parasphenoid: 0. present; 1. absent.
 
-> Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 45.
+> Qiao and Zhu (2009), Qiao and Zhu (2015), Clack *et al*. (2019), Challands *et al*. (2019), Luo *et al*. (2022), Character 45.
 
 46. Parasphenoid reaching posterior margin of occiput: 0. no; 1. yes.
 
