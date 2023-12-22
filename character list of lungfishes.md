@@ -90,7 +90,7 @@
 21. Z-bone: 0. posterior to I-bone; 1. lateral to
 I-bone.
 
-> Schultze (2001), Character 29, different description for Z-bone; Qiao and Zhu (2009), Character 21; Qiao and Zhu (2015), Character 21; Clack *et al*. (2019), Character 21; Challands *et al*. (2019), Character 21; Luo *et al*. (2022), Character 21.
+> Qiao and Zhu (2009), Character 21; Qiao and Zhu (2015), Character 21; Clack *et al*. (2019), Character 21; Challands *et al*. (2019), Character 21; Luo *et al*. (2022), Character 21.
 
 22. Maximum width of skull roof situated posterior to the level of the bone Y1: 0. yes; 1. No.
 
@@ -214,7 +214,7 @@ I-bone.
 
 52. Posterior end of parasphenoid (stalk): 0. single point; 1. bifid; 2. trifid with lateral projections.
 
-> Schultze (2001), Character 52, different description; Friedman (2007), Character 65; Qiao and Zhu (2009), Character 52; Qiao and Zhu (2015), Character 52; Clack *et al*. (2019), Character 52; Challands *et al*. (2019), Character 52; Luo *et al*. (2022), Character 52.
+> Friedman (2007), Character 65; Qiao and Zhu (2009), Character 52; Qiao and Zhu (2015), Character 52; Clack *et al*. (2019), Character 52; Challands *et al*. (2019), Character 52; Luo *et al*. (2022), Character 52.
 
 53. Margins of posterior stalk of parasphenoid: 0. converge to posterior angle; 1. subparallel.
 
@@ -262,7 +262,7 @@ I-bone.
 
 64. Premaxilla: 0. present; 1. absent.
 
-> Schultze (2001), Character 38, different description of character; Qiao and Zhu (2009), Character 64; Qiao and Zhu (2015), Character 64; Clack *et al*. (2019), Character 64; Challands *et al*. (2019), Character 64; Luo *et al*. (2022), Character 64.
+> Qiao and Zhu (2009), Character 64; Qiao and Zhu (2015), Character 64; Clack *et al*. (2019), Character 64; Challands *et al*. (2019), Character 64; Luo *et al*. (2022), Character 64.
 
 65. Lateral lines in mandible: 0. parallel; 1. converging in one bone.
 
@@ -683,7 +683,7 @@ I-bone.
 
 168. Z-bone: 0. behind skull roof; 1. integrated into skull roof; 2. space of Y+Z; 3. lacking as isolated bone.
 
-> Schultze (2001), Character 29; Qiao and Zhu (2009), Character 21, different description of Z-bone; Qiao and Zhu (2009), Character 21, different description of Z-bone; Clack *et al*. (2019), Character 168; Challands *et al*. (2019), Character 168; Luo *et al*. (2022), Character 168.
+> Schultze (2001), Character 29; Clack *et al*. (2019), Character 168; Challands *et al*. (2019), Character 168; Luo *et al*. (2022), Character 168.
 
 169. Lateral line entering skull table through: 0. bone Z; 1. bone I; 2. above bones.
 
@@ -703,7 +703,7 @@ I-bone.
 
 173. Bone 10: 0.present; 1. absent.
 
-> Qiao and Zhu (2009), Character 34, different dsecription of size of bone 10; Clack *et al*. (2019), Character 173; Challands *et al*. (2019), Character 173; Luo *et al*. (2022), Character 173.
+> Clack *et al*. (2019), Character 173; Challands *et al*. (2019), Character 173; Luo *et al*. (2022), Character 173.
 
 174. Bone 11: 0. present; 1. absent.
 
