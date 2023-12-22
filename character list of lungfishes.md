@@ -8,7 +8,7 @@
 
 1. Pineal opening: 0. open; 1. closed.
 
-> Schultze (2001), Character 1; Ahlberg *et al*. (2006) Character 55; Qiao and Zhu (2009), Character 1; Qiao and Zhu (2015), Character 1; Clack *et al*. (2019), Character 1; Challands *et al*. (2019), Character 1; Luo *et al*. (2022), Character 1.
+> Schultze (2001), Character 1; Ahlberg *et al*. (2006), Character 55; Qiao and Zhu (2009), Character 1; Qiao and Zhu (2015), Character 1; Clack *et al*. (2019), Character 1; Challands *et al*. (2019), Character 1; Luo *et al*. (2022), Character 1.
 
 
 2. Pineal region marked by short eminence: 0. no; 1. yes.
@@ -25,7 +25,7 @@
 
 5. Pit-lines on B-bone: 0. absent; 1. anterior and middle pit-line present; 2. only anterior pit-line.
 
-> Qiao and Zhu (2009), Character 5; Qiao and Zhu (2015), Character 5; Clack *et al*. (2019),Character 5; Challands *et al*. (2019), Character 5; Luo *et al*. (2022), Character 5.
+> Qiao and Zhu (2009), Character 5; Qiao and Zhu (2015), Character 5; Clack *et al*. (2019), Character 5; Challands *et al*. (2019), Character 5; Luo *et al*. (2022), Character 5.
 
 6. C-bone: 0. absent; 1. present.
 
@@ -190,7 +190,7 @@ I-bone.
 
 46. Parasphenoid reaching posterior margin of occiput: 0. no; 1. yes.
 
-> Friedman (2007), Character 64; Qiao and Zhu (2009), Character 46; Qiao and Zhu (2015)，Character 46; Clack *et al*. (2019), Character 46; Challands *et al*. (2019), Character 46; Luo *et al*. (2022), Character 46.
+> Friedman (2007), Character 64; Qiao and Zhu (2009), Character 46; Qiao and Zhu (2015), Character 46; Clack *et al*. (2019), Character 46; Challands *et al*. (2019), Character 46; Luo *et al*. (2022), Character 46.
 
 47. Shape of parasphenoid: 0 = anteriad elongated, 1 = plow-shaped, 2 = with lozenge, 3 = round anterior portion, 4 = angled anterior portion.
 
