@@ -646,6 +646,7 @@ I-bone.
 159. Kinesis between nasal region and braincase behind it: 0. Absent; 1. present.
 
 > Schultze (2001), Character 4; Clack *et al*. (2019), Character 159; Challands *et al*. (2019), Character 159; Luo *et al*. (2022), Character 159.
+> - uninformative in Luo 2022?
 
 160. A-bone: 0. independent A-bone, 1. not present as independent bone; 2. incorporated into skull roof.
 
