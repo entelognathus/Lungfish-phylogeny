@@ -613,7 +613,7 @@ I-bone.
 
 151. Adlateral cristae (postero-dorsal extensions of the lateral cristae that connect the otic region of the neurocranium to the visceral surface of the dermal skull roof) present: 0. yes; 1. no.
     
-> Qiao and Zhu (2015), Character 151; Clack *et al*. (2019), Character 151; Challands *et al*. (2019), Character 151; Luo *et al*. (2022), Character 151.
+> Friedman (2007), Character 15; Qiao and Zhu (2015), Character 151; Clack *et al*. (2019), Character 151; Challands *et al*. (2019), Character 151; Luo *et al*. (2022), Character 151.
 
 152. Median callus on palate: 0. absent; 1. present.
 
@@ -625,7 +625,7 @@ I-bone.
 
 154. Foramen for the internal carotid anterior to that for the efferent pseudobranchial artery: 0. no; 1. yes.
 
-> Qiao and Zhu (2015), Character 154; Clack *et al*. (2019), Character 154; Challands *et al*. (2019), Character 154; Luo *et al*. (2022), Character 154.
+> Friedman (2007), Character 29; Qiao and Zhu (2015), Character 154; Clack *et al*. (2019), Character 154; Challands *et al*. (2019), Character 154; Luo *et al*. (2022), Character 154.
 
 155. Ossification of neurocranium: 0. completely ossified; 1. poorly-ossified/cartilagenous.
 
