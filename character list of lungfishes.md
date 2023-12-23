@@ -17,7 +17,7 @@
 
 3. Cosmine present on skull: 0. yes, full cover; 1.yes, but strongly reduced; 2. no. (ordered)
 
-> Qiao and Zhu (2009), Character 3; Qiao and Zhu (2015), Character 3; Clack *et al*. (2019), Character 3; Challands *et al*. (2019), Character 3; Luo *et al*. (2022), Character 3.
+> Ahlberg *et al*. (2006), Character 72; Qiao and Zhu (2009), Character 3; Qiao and Zhu (2015), Character 3; Clack *et al*. (2019), Character 3; Challands *et al*. (2019), Character 3; Luo *et al*. (2022), Character 3.
 
 4. Length of B-bone: 0. short (less than 2 times its width); 1. long (equal or more than 2 times its width); 2. broad (wider than long).
 
@@ -29,19 +29,19 @@
 
 6. C-bone: 0. absent; 1. present.
 
-> Schultze (2001), Character 11; Qiao and Zhu (2009), Character 6; Qiao and Zhu (2015), Character 6; Clack *et al*. (2019), Character 6; Challands *et al*. (2019), Character 6; Luo *et al*. (2022), Character 6.
+> Ahlberg *et al*. (2006), Character 54; Schultze (2001), Character 11; Qiao and Zhu (2009), Character 6; Qiao and Zhu (2015), Character 6; Clack *et al*. (2019), Character 6; Challands *et al*. (2019), Character 6; Luo *et al*. (2022), Character 6.
 
 7. D-bone: 0. many; 1. single; 2. absent.
 
-> Schultze (2001), Character 2; Qiao and Zhu (2009), Character 7; Qiao and Zhu (2015), Character 7; Clack *et al*. (2019), Character 7; Challands *et al*. (2019), Character 7; Luo *et al*. (2022), Character 7.
+> Schultze (2001), Character 2; Ahlberg *et al*. (2006), Character 56; Qiao and Zhu (2009), Character 7; Qiao and Zhu (2015), Character 7; Clack *et al*. (2019), Character 7; Challands *et al*. (2019), Character 7; Luo *et al*. (2022), Character 7.
 
 8. Contact between E- and C-bones: 0. absent; 1. present.
 
-> Schultze (2001), Character 12; Qiao and Zhu (2009), Character 8; Qiao and Zhu (2015), Character 8; Clack *et al*. (2019), Character 8; Challands *et al*. (2019), Character 8; Luo *et al*. (2022), Character 8.
+> Schultze (2001), Character 12; Ahlberg *et al*. (2006), Character 58; Qiao and Zhu (2009), Character 8; Qiao and Zhu (2015), Character 8; Clack *et al*. (2019), Character 8; Challands *et al*. (2019), Character 8; Luo *et al*. (2022), Character 8.
 
 9. Paired E-bones: 0. mosaic; 1 present; 2. single E-bone; 3. absent.
 
-> Schultze (2001), Character 13; Qiao and Zhu (2009), Character 9; Qiao and Zhu (2015), Character 9; Clack *et al*. (2019), Character 9; Challands *et al*. (2019), Character 9; Luo *et al*. (2022), Character 9.
+> Schultze (2001), Character 13; Ahlberg *et al*. (2006), Character 57; Qiao and Zhu (2009), Character 9; Qiao and Zhu (2015), Character 9; Clack *et al*. (2019), Character 9; Challands *et al*. (2019), Character 9; Luo *et al*. (2022), Character 9.
 
 10. Length of E-bone(s): 0. less than twice their width; 1. more than twice their width.
 
@@ -49,7 +49,7 @@
 
 11. I-bones meeting in midline: 0. yes; 1. no, separated by B bone.
 
-> Schultze (2001), Character 20; Qiao and Zhu (2009), Character 11; Qiao and Zhu (2015), Character 11; Clack *et al*. (2019), Character 11; Challands *et al*. (2019), Character 11; Luo *et al*. (2022), Character 11.
+> Schultze (2001), Character 20; Ahlberg *et al*. (2006), Character 53; Qiao and Zhu (2009), Character 11; Qiao and Zhu (2015), Character 11; Clack *et al*. (2019), Character 11; Challands *et al*. (2019), Character 11; Luo *et al*. (2022), Character 11.
 
 12. Posterior process of I bone: 0. absent; 1. present.
 
@@ -57,7 +57,7 @@
 
 13. J-bones meeting in midline: 0. yes; 1. no.
 
-> Qiao and Zhu (2009), Character 13; Qiao and Zhu (2015), Character 13; Clack *et al*. (2019), Character 13; Challands *et al*. (2019), Character 13; Luo *et al*. (2022), Character 13.
+> Ahlberg *et al*. (2006), Character 51; Qiao and Zhu (2009), Character 13; Qiao and Zhu (2015), Character 13; Clack *et al*. (2019), Character 13; Challands *et al*. (2019), Character 13; Luo *et al*. (2022), Character 13.
 
 14. L-bone: 0 = two present, 1 = one present, 2 = space of K+L, 3 = space of K+L+M, 4 = other bones included.
 
@@ -65,7 +65,7 @@
 
 15. Length of L-bone: 0. similar to others in supraorbital canal series; 1. about twice as long as others in supraorbital canal series.
 
-> Qiao and Zhu (2009), Character 15; Qiao and Zhu (2015), Character 15; Clack *et al*. (2019), Character 15; Challands *et al*. (2019), Character 15; Luo *et al*. (2022), Character 15.
+> Ahlberg *et al*. (2006), Character 65; Qiao and Zhu (2009), Character 15; Qiao and Zhu (2015), Character 15; Clack *et al*. (2019), Character 15; Challands *et al*. (2019), Character 15; Luo *et al*. (2022), Character 15.
 
 16. K-bone: 0 = single, 1 = space of K+X, 2 = neither single nor K+X (e.g. fused (i.e ‘space of’) K- + L-bones) both, 3 = K-bone absent.
 
@@ -102,15 +102,15 @@ I-bone.
 
 24. Elongated snout: 0. absent; 1. present.
 
-> Schultze (2001), Character 39, different description for snout; Qiao and Zhu (2009), Character 24; Qiao and Zhu (2015), Character 24; Clack *et al*. (2019), Character 24; Challands *et al*. (2019), Character 24; Luo *et al*. (2022), Character 24.
+> Schultze (2001), Character 39; Ahlberg *et al*. (2006), Character 70; Qiao and Zhu (2009), Character 24; Qiao and Zhu (2015), Character 24; Clack *et al*. (2019), Character 24; Challands *et al*. (2019), Character 24; Luo *et al*. (2022), Character 24.
 
 25. Ossified upper lip in adult: 0. mosaic; 1. fused; 2. absent.
 
-> Qiao and Zhu (2009), Character 25; Qiao and Zhu (2015), Character 25; Clack *et al*. (2019), Character 25; Challands *et al*. (2019), Character 25; Luo *et al*. (2022), Character 25.
+> Ahlberg *et al*. (2006), Character 50; Qiao and Zhu (2009), Character 25; Qiao and Zhu (2015), Character 25; Clack *et al*. (2019), Character 25; Challands *et al*. (2019), Character 25; Luo *et al*. (2022), Character 25.
 
 26. Snout/skull roof: 0. with diffuse posterior margin; 1. with sharp posterior margin.
 
-> Qiao and Zhu (2009), Character 26; Qiao and Zhu (2015), Character 26; Clack *et al*. (2019), Character 26; Challands *et al*. (2019), Character 26; Luo *et al*. (2022), Character 26.
+> Ahlberg *et al*. (2006), Character 71; Qiao and Zhu (2009), Character 26; Qiao and Zhu (2015), Character 26; Clack *et al*. (2019), Character 26; Challands *et al*. (2019), Character 26; Luo *et al*. (2022), Character 26.
 
 27. Supraorbital and infraorbital canals: 0. separated; 1. connected.
 
@@ -118,7 +118,7 @@ I-bone.
 
 28. Lateral line/bone 3: 0. absent; 1. present.
 
-> Schultze (2001), Character 35; Qiao and Zhu (2009), Character 28; Qiao and Zhu (2015), Character 28; Clack *et al*. (2019), Character 28; Challands *et al*. (2019), Character 28; Luo *et al*. (2022), Character 28.
+> Schultze (2001), Character 35; Ahlberg *et al*. (2006), Character 62; Qiao and Zhu (2009), Character 28; Qiao and Zhu (2015), Character 28; Clack *et al*. (2019), Character 28; Challands *et al*. (2019), Character 28; Luo *et al*. (2022), Character 28.
 
 29. Cheek bones: 0. cheek bones 1-11 present; 1. no 11; 2. no 10, 11
 
@@ -126,7 +126,7 @@ I-bone.
 
 30. Length of postorbital cheek: 0. substantially longer than diameter of orbit; 1. equal to or shorter than diameter of orbit.
 
-> Qiao and Zhu (2009), Character 30; Qiao and Zhu (2015), Character 30; Clack *et al*. (2019), Character 30; Challands *et al*. (2019), Character 30; Luo *et al*. (2022), Character 30.
+> Ahlberg *et al*. (2006), Character 66; Qiao and Zhu (2009), Character 30; Qiao and Zhu (2015), Character 30; Clack *et al*. (2019), Character 30; Challands *et al*. (2019), Character 30; Luo *et al*. (2022), Character 30.
 
 31. Ratio snout/cheek: 0. <1; 1. >=1.
 
@@ -134,15 +134,15 @@ I-bone.
 
 32. Bone 6: 0. reaching ventral margin of cheek; 1. excluded from ventral margin of cheek by Bone 10.
 
-> Qiao and Zhu (2009), Character 32; Qiao and Zhu (2015), Character 32; Clack *et al*. (2019), Character 32; Challands *et al*. (2019), Character 32; Luo *et al*. (2022), Character 32.
+> Ahlberg *et al*. (2006), Character 67; Qiao and Zhu (2009), Character 32; Qiao and Zhu (2015), Character 32; Clack *et al*. (2019), Character 32; Challands *et al*. (2019), Character 32; Luo *et al*. (2022), Character 32.
 
 33. Bone 7: 0. approximately equilateral; 1. much longer than deep.
 
-> Qiao and Zhu (2009), Character 33; Qiao and Zhu (2015), Character 33; Clack *et al*. (2019), Character 33; Challands *et al*. (2019), Character 33; Luo *et al*. (2022), Character 33.
+> Ahlberg *et al*. (2006), Character 69; Qiao and Zhu (2009), Character 33; Qiao and Zhu (2015), Character 33; Clack *et al*. (2019), Character 33; Challands *et al*. (2019), Character 33; Luo *et al*. (2022), Character 33.
 
 34. Size of bone 10 (quadratojugal): 0. large, as 5 or greater; 1. much smaller than 5, or absent.
 
-> Qiao and Zhu (2009), Character 34; Qiao and Zhu (2015), Character 34; Clack *et al*. (2019), Character 34; Challands *et al*. (2019), Character 34; Luo *et al*. (2022), Character 34.
+> Ahlberg *et al*. (2006), Character 68; Qiao and Zhu (2009), Character 34; Qiao and Zhu (2015), Character 34; Clack *et al*. (2019), Character 34; Challands *et al*. (2019), Character 34; Luo *et al*. (2022), Character 34.
 
 35. Subopercular: 0. two; 1. one.
 
@@ -154,19 +154,19 @@ I-bone.
 
 37. Palatal construction: 0. parasphenoid separates pterygoids; 1. pterygoids articulate with each other with suture; 2. pterygoids fused.
 
-> Qiao and Zhu (2009), Character 37; Qiao and Zhu (2015), Character 37; Clack *et al*. (2019), Character 37; Challands *et al*. (2019), Character 37; Luo *et al*. (2022), Character 37.
+> Ahlberg *et al*. (2006), Character 23; Qiao and Zhu (2009), Character 37; Qiao and Zhu (2015), Character 37; Clack *et al*. (2019), Character 37; Challands *et al*. (2019), Character 37; Luo *et al*. (2022), Character 37.
 
 38. Parasphenoid: 0. fused into palate; 1. visible sutures; 2. overlapping (pterygoids).
 
-> Schultze (2001), Character 43; Qiao and Zhu (2009), Character 38; Qiao and Zhu (2015), Character 38; Clack *et al*. (2019), Character 38; Challands *et al*. (2019), Character 38; Luo *et al*. (2022), Character 38.
+> Schultze (2001), Character 43; Ahlberg *et al*. (2006), Character 29; Qiao and Zhu (2009), Character 38; Qiao and Zhu (2015), Character 38; Clack *et al*. (2019), Character 38; Challands *et al*. (2019), Character 38; Luo *et al*. (2022), Character 38.
 
 39. Transverse curvature of palate: 0. flat; 1. arched.
 
-> Qiao and Zhu (2009), Character 39; Qiao and Zhu (2015), Character 39; Clack *et al*. (2019), Character 39; Challands *et al*. (2019), Character 39; Luo *et al*. (2022), Character 39.
+> Ahlberg *et al*. (2006), Character 25; Qiao and Zhu (2009), Character 39; Qiao and Zhu (2015), Character 39; Clack *et al*. (2019), Character 39; Challands *et al*. (2019), Character 39; Luo *et al*. (2022), Character 39.
 
 40. Parasphenoid stalk: 0. no stalk; 1. simple stalk without sharp division into tapering proximal portion and parallel-sided distal portion; 2. stalk with sharp division into tapering proximal portion and parallel-sided distal portion. (ordered)
 
-> Schultze (2001), Character 86; Qiao and Zhu (2009), Character 40; Qiao and Zhu (2015), Character 40; Clack *et al*. (2019), Character 40; Challands *et al*. (2019), Character 40; Luo *et al*. (2022), Character 40.
+> Schultze (2001), Character 86; Ahlberg *et al*. (2006), Character 26; Qiao and Zhu (2009), Character 40; Qiao and Zhu (2015), Character 40; Clack *et al*. (2019), Character 40; Challands *et al*. (2019), Character 40; Luo *et al*. (2022), Character 40.
 
 41. Ratio of posterior length to anterior length of parasphenoid: 0. less than 1 or about 1; 1. greater than 1.
 
@@ -174,7 +174,7 @@ I-bone.
 
 42. Furrow on ventral surface of parasphenoid stalk: 0. absent; 1. present.
 
-> Schultze (2001), Character 51;  Qiao and Zhu (2009), Character 42; Qiao and Zhu (2015), Character 42; Clack *et al*. (2019), Character 42; Challands *et al*. (2019), Character 42; Luo *et al*. (2022), Character 42.
+> Schultze (2001), Character 51;  Ahlberg *et al*. (2006), Character 27; Qiao and Zhu (2009), Character 42; Qiao and Zhu (2015), Character 42; Clack *et al*. (2019), Character 42; Challands *et al*. (2019), Character 42; Luo *et al*. (2022), Character 42.
 
 43. Furrow on dorsal surface of parasphenoid stalk: 0. absent; 1. present.
 
@@ -186,7 +186,7 @@ I-bone.
 
 45. Dental material on parasphenoid: 0. present; 1. absent.
 
-> Friedman (2007), Character 66; Qiao and Zhu (2009), Character 45; Qiao and Zhu (2015), Character 45; Clack *et al*. (2019), Character 45; Challands *et al*. (2019), Character 45; Luo *et al*. (2022), Character 45.
+> Ahlberg *et al*. (2006), Character 21; Friedman (2007), Character 66; Qiao and Zhu (2009), Character 45; Qiao and Zhu (2015), Character 45; Clack *et al*. (2019), Character 45; Challands *et al*. (2019), Character 45; Luo *et al*. (2022), Character 45.
 
 46. Parasphenoid reaching posterior margin of occiput: 0. no; 1. yes.
 
@@ -214,7 +214,7 @@ I-bone.
 
 52. Posterior end of parasphenoid (stalk): 0. single point; 1. bifid; 2. trifid with lateral projections.
 
-> Friedman (2007), Character 65; Qiao and Zhu (2009), Character 52; Qiao and Zhu (2015), Character 52; Clack *et al*. (2019), Character 52; Challands *et al*. (2019), Character 52; Luo *et al*. (2022), Character 52.
+> Ahlberg *et al*. (2006), Character 28; Friedman (2007), Character 65; Qiao and Zhu (2009), Character 52; Qiao and Zhu (2015), Character 52; Clack *et al*. (2019), Character 52; Challands *et al*. (2019), Character 52; Luo *et al*. (2022), Character 52.
 
 53. Margins of posterior stalk of parasphenoid: 0. converge to posterior angle; 1. subparallel.
 
@@ -234,7 +234,7 @@ I-bone.
 
 57. Series anterolateral to pterygoids: 0. present, with tusks; 1. present with denticles or dentine sheet; 2. present with tooth row.
 
-> Qiao and Zhu (2009), Character 57; Qiao and Zhu (2015), Character 57; Clack *et al*. (2019), Character 57; Challands *et al*. (2019), Character 57; Luo *et al*. (2022), Character 57.
+> Ahlberg *et al*. (2006), Character 64; Qiao and Zhu (2009), Character 57; Qiao and Zhu (2015), Character 57; Clack *et al*. (2019), Character 57; Challands *et al*. (2019), Character 57; Luo *et al*. (2022), Character 57.
 
 58. Parasphenoid separating pterygoids along more than half of their length: 0. yes; 1. no.
 
@@ -264,11 +264,11 @@ I-bone.
 
 64. Premaxilla: 0. present; 1. absent.
 
-> Qiao and Zhu (2009), Character 64; Qiao and Zhu (2015), Character 64; Clack *et al*. (2019), Character 64; Challands *et al*. (2019), Character 64; Luo *et al*. (2022), Character 64.
+> Ahlberg *et al*. (2006), Character 30; Qiao and Zhu (2009), Character 64; Qiao and Zhu (2015), Character 64; Clack *et al*. (2019), Character 64; Challands *et al*. (2019), Character 64; Luo *et al*. (2022), Character 64.
 
 65. Lateral lines in mandible: 0. parallel; 1. converging in one bone.
 
-> Schultze (2001), Character 65; Qiao and Zhu (2009), Character 65; Qiao and Zhu (2015), Character 65; Clack *et al*. (2019), Character 65; Challands *et al*. (2019), Character 65; Luo *et al*. (2022), Character 65.
+> Schultze (2001), Character 65; Ahlberg *et al*. (2006), Character 63; Qiao and Zhu (2009), Character 65; Qiao and Zhu (2015), Character 65; Clack *et al*. (2019), Character 65; Challands *et al*. (2019), Character 65; Luo *et al*. (2022), Character 65.
 
 66. Length of symphysis (ratio length of symphysis to length of jaw): 0. greater than 1/3; 1. between 1/5 and 1/3; 2. less than 1/5.
 
@@ -280,55 +280,55 @@ I-bone.
 
 68. “Dentary”: 0. unpaired; 1. paired; 2. absent.
 
-> Schultze (2001), Character 63; Qiao and Zhu (2009), Character 68; Qiao and Zhu (2015), Character 68; Clack *et al*. (2019), Character 68; Challands *et al*. (2019), Character 68; Luo *et al*. (2022), Character 68.
+> Schultze (2001), Character 63; Ahlberg *et al*. (2006), Character 48; Qiao and Zhu (2009), Character 68; Qiao and Zhu (2015), Character 68; Clack *et al*. (2019), Character 68; Challands *et al*. (2019), Character 68; Luo *et al*. (2022), Character 68.
 
 69. Dentary-prearticular relationship: 0. dentition-generating gap; 1. small midline hole only; 2. no gap.
 
-> Qiao and Zhu (2009), Character 69; Qiao and Zhu (2015), Character 69; Clack *et al*. (2019), Character 69; Challands *et al*. (2019), Character 69; Luo *et al*. (2022), Character 69.
+> Ahlberg *et al*. (2006), Character 37; Qiao and Zhu (2009), Character 69; Qiao and Zhu (2015), Character 69; Clack *et al*. (2019), Character 69; Challands *et al*. (2019), Character 69; Luo *et al*. (2022), Character 69.
 
 70. Slot between dentary and prearticular: 0. broad; 1. narrow; 2. no slot.
 
-> Qiao and Zhu (2009), Character 70; Qiao and Zhu (2015), Character 70; Clack *et al*. (2019), Character 70; Challands *et al*. (2019), Character 70; Luo *et al*. (2022), Character 70.
+> Ahlberg *et al*. (2006), Character 38; Qiao and Zhu (2009), Character 70; Qiao and Zhu (2015), Character 70; Clack *et al*. (2019), Character 70; Challands *et al*. (2019), Character 70; Luo *et al*. (2022), Character 70.
 
 71. Adductor fossa: 0. not overhung by prearticular; 1. overhung by prearticular.
 
-> Qiao and Zhu (2009), Character 71; Qiao and Zhu (2015), Character 71; Clack *et al*. (2019), Character 71; Challands *et al*. (2019), Character 71; Luo *et al*. (2022), Character 71.
+> Ahlberg *et al*. (2006), Character 39; Qiao and Zhu (2009), Character 71; Qiao and Zhu (2015), Character 71; Clack *et al*. (2019), Character 71; Challands *et al*. (2019), Character 71; Luo *et al*. (2022), Character 71.
 
 72. Length of adductor fossa: 0. more than 20% of jaw length; 1. 5%-20% of jaw length; 2. 0-5% of jaw length (ordered).
 
-> Qiao and Zhu (2009), Character 72; Qiao and Zhu (2015), Character 72; Clack *et al*. (2019), Character 72; Challands *et al*. (2019), Character 72; Luo *et al*. (2022), Character 72.
+> Ahlberg *et al*. (2006), Character 40; Qiao and Zhu (2009), Character 72; Qiao and Zhu (2015), Character 72; Clack *et al*. (2019), Character 72; Challands *et al*. (2019), Character 72; Luo *et al*. (2022), Character 72.
 
 73. Morphology of adductor fossa: 0. open; 1. reduced to vestigial slit.
 
-> Qiao and Zhu (2009), Character 73; Qiao and Zhu (2015), Character 73; Clack *et al*. (2019), Character 73; Challands *et al*. (2019), Character 73; Luo *et al*. (2022), Character 73.
+> Ahlberg *et al*. (2006), Character 41; Qiao and Zhu (2009), Character 73; Qiao and Zhu (2015), Character 73; Clack *et al*. (2019), Character 73; Challands *et al*. (2019), Character 73; Luo *et al*. (2022), Character 73.
 
 74. Coronoids: 0. present; 1. absent.
 
-> Qiao and Zhu (2009), Character 74; Qiao and Zhu (2015), Character 74; Clack *et al*. (2019), Character 74; Challands *et al*. (2019), Character 74; Luo *et al*. (2022), Character 74.
+> Ahlberg *et al*. (2006), Character 35; Qiao and Zhu (2009), Character 74; Qiao and Zhu (2015), Character 74; Clack *et al*. (2019), Character 74; Challands *et al*. (2019), Character 74; Luo *et al*. (2022), Character 74.
 
 75. Lip fold: 0. absent; 1. present.
 
-> Qiao and Zhu (2009), Character 75; Qiao and Zhu (2015), Character 75; Clack *et al*. (2019), Character 75; Challands *et al*. (2019), Character 75; Luo *et al*. (2022), Character 75.
+> Ahlberg *et al*. (2006), Character 36; Qiao and Zhu (2009), Character 75; Qiao and Zhu (2015), Character 75; Clack *et al*. (2019), Character 75; Challands *et al*. (2019), Character 75; Luo *et al*. (2022), Character 75.
 
 76. Meckelian bone: 0. wholly ossified; 1. only articular ossified, or not ossified at all.
 
-> Qiao and Zhu (2009), Character 76; Qiao and Zhu (2015), Character 76; Clack *et al*. (2019), Character 76; Challands *et al*. (2019), Character 76; Luo *et al*. (2022), Character 76.
+> Ahlberg *et al*. (2006), Character 49; Qiao and Zhu (2009), Character 76; Qiao and Zhu (2015), Character 76; Clack *et al*. (2019), Character 76; Challands *et al*. (2019), Character 76; Luo *et al*. (2022), Character 76.
 
 77. Retroarticular process: 0. small and poorly developed; 1. robust, squarish.
 
-> Qiao and Zhu (2009), Character 77; Qiao and Zhu (2015), Character 77; Clack *et al*. (2019), Character 77; Challands *et al*. (2019), Character 77; Luo *et al*. (2022), Character 77.
+> Ahlberg *et al*. (2006), Character 43; Qiao and Zhu (2009), Character 77; Qiao and Zhu (2015), Character 77; Clack *et al*. (2019), Character 77; Challands *et al*. (2019), Character 77; Luo *et al*. (2022), Character 77.
 
 78. Skin contact surface on infradentary bones: 0. reaching up to lip of adductor fossa; 1. widely separated from lip of adductor fossa.
 
-> Qiao and Zhu (2009), Character 78; Qiao and Zhu (2015), Character 78; Clack *et al*. (2019), Character 78; Challands *et al*. (2019), Character 78; Luo *et al*. (2022), Character 78.
+> Ahlberg *et al*. (2006), Character 45; Qiao and Zhu (2009), Character 78; Qiao and Zhu (2015), Character 78; Clack *et al*. (2019), Character 78; Challands *et al*. (2019), Character 78; Luo *et al*. (2022), Character 78.
 
 79. Curvature of ventral mandibular margin: 0. strongly convex; 1. essentially flat.
 
-> Qiao and Zhu (2009), Character 79; Qiao and Zhu (2015), Character 79; Clack *et al*. (2019), Character 79; Challands *et al*. (2019), Character 79; Luo *et al*. (2022), Character 79.
+> Ahlberg *et al*. (2006), Character 42; Qiao and Zhu (2009), Character 79; Qiao and Zhu (2015), Character 79; Clack *et al*. (2019), Character 79; Challands *et al*. (2019), Character 79; Luo *et al*. (2022), Character 79.
 
 80. Orientation of glenoid: 0. mostly dorsally; 1. posterodorsally.
 
-> Qiao and Zhu (2009), Character 80; Qiao and Zhu (2015), Character 80; Clack *et al*. (2019), Character 80; Challands *et al*. (2019), Character 80; Luo *et al*. (2022), Character 80.
+> Ahlberg *et al*. (2006), Character 44; Qiao and Zhu (2009), Character 80; Qiao and Zhu (2015), Character 80; Clack *et al*. (2019), Character 80; Challands *et al*. (2019), Character 80; Luo *et al*. (2022), Character 80.
 
 81. Shape of glenoid fossa: 0. double structure; 1. single groove.
 
@@ -336,19 +336,19 @@ I-bone.
 
 82. Angular and surangular: 0. separate; 1. fused into a single long bone.
 
-> Qiao and Zhu (2009), Character 82; Qiao and Zhu (2015), Character 82; Clack *et al*. (2019), Character 82; Challands *et al*. (2019), Character 82; Luo *et al*. (2022), Character 82.
+> Ahlberg *et al*. (2006), Character 46; Qiao and Zhu (2009), Character 82; Qiao and Zhu (2015), Character 82; Clack *et al*. (2019), Character 82; Challands *et al*. (2019), Character 82; Luo *et al*. (2022), Character 82.
 
 83. Splenial and postsplenial: 0. separate; 1. fused.
 
-> Qiao and Zhu (2009), Character 83; Qiao and Zhu (2015), Character 83; Clack *et al*. (2019), Character 83; Challands *et al*. (2019), Character 83; Luo *et al*. (2022), Character 83.
+> Ahlberg *et al*. (2006), Character 47; Qiao and Zhu (2009), Character 83; Qiao and Zhu (2015), Character 83; Clack *et al*. (2019), Character 83; Challands *et al*. (2019), Character 83; Luo *et al*. (2022), Character 83.
 
 84. Teeth on upper lip: 0. shedding teeth; 1. statodont tooth row; 2. teeth absent.
 
-> Qiao and Zhu (2009), Character 84; Qiao and Zhu (2015), Character 84; Clack *et al*. (2019), Character 84; Challands *et al*. (2019), Character 84; Luo *et al*. (2022), Character 84.
+> Ahlberg *et al*. (2006), Character 20; Qiao and Zhu (2009), Character 84; Qiao and Zhu (2015), Character 84; Clack *et al*. (2019), Character 84; Challands *et al*. (2019), Character 84; Luo *et al*. (2022), Character 84.
 
 85. Teeth on dentary: 0. shedding teeth present; 1. statodont tooth rows present; 2. teeth absent.
 
-> Qiao and Zhu (2009), Character 85; Qiao and Zhu (2015), Character 85; Clack *et al*. (2019), Character 85; Challands *et al*. (2019), Character 85; Luo *et al*. (2022), Character 85.
+> Ahlberg *et al*. (2006), Character 19; Qiao and Zhu (2009), Character 85; Qiao and Zhu (2015), Character 85; Clack *et al*. (2019), Character 85; Challands *et al*. (2019), Character 85; Luo *et al*. (2022), Character 85.
 
 86. Number of tooth ridges in adult specimens: 0. <10; 1. >10.
 
@@ -356,35 +356,35 @@ I-bone.
 
 87. Tooth plates: 0. present; 1. absent.
 
-> Qiao and Zhu (2009), Character 87; Qiao and Zhu (2015), Character 87; Clack *et al*. (2019), Character 87; Challands *et al*. (2019), Character 87; Luo *et al*. (2022), Character 87.
+> Ahlberg *et al*. (2006), Character 1; Qiao and Zhu (2009), Character 87; Qiao and Zhu (2015), Character 87; Clack *et al*. (2019), Character 87; Challands *et al*. (2019), Character 87; Luo *et al*. (2022), Character 87.
 
 88. Morphology of teeth on pterygoid and prearticular: 0. round/conical; 1., forming distinct proximodistal cutting ridge.
 
-> Qiao and Zhu (2009), Character 88; Qiao and Zhu (2015), Character 88; Clack *et al*. (2019), Character 88; Challands *et al*. (2019), Character 88; Luo *et al*. (2022), Character 88.
+> Ahlberg *et al*. (2006), Character 5; Qiao and Zhu (2009), Character 88; Qiao and Zhu (2015), Character 88; Clack *et al*. (2019), Character 88; Challands *et al*. (2019), Character 88; Luo *et al*. (2022), Character 88.
 
 89. Addition of large dentine elements at regular intervals to lateral margin of pterygoid/ prearticular: 0. yes; 1. no.
 
-> Qiao and Zhu (2009), Character 89; Qiao and Zhu (2015), Character 89; Clack *et al*. (2019), Character 89; Challands *et al*. (2019), Character 89; Luo *et al*. (2022), Character 89.
+> Ahlberg *et al*. (2006), Character 2; Qiao and Zhu (2009), Character 89; Qiao and Zhu (2015), Character 89; Clack *et al*. (2019), Character 89; Challands *et al*. (2019), Character 89; Luo *et al*. (2022), Character 89.
 
 90. Nature of large dentine elements: 0. teeth; 1. petrodentine cores; 2. thick irregular dentine; 3. ridges narrow regular dentine ridges.
 
-> Qiao and Zhu (2009), Character 90; Qiao and Zhu (2015), Character 90; Clack *et al*. (2019), Character 90; Challands *et al*. (2019), Character 90; Luo *et al*. (2022), Character 90.
+> Ahlberg *et al*. (2006), Character 3; Qiao and Zhu (2009), Character 90; Qiao and Zhu (2015), Character 90; Clack *et al*. (2019), Character 90; Challands *et al*. (2019), Character 90; Luo *et al*. (2022), Character 90.
 
 91. Addition of marginal blisters to pterygoid/prearticular: 0. no; 1. yes.
 
-> Qiao and Zhu (2009), Character 91; Qiao and Zhu (2015), Character 91; Clack *et al*. (2019), Character 91; Challands *et al*. (2019), Character 91; Luo *et al*. (2022), Character 91.
+> Ahlberg *et al*. (2006), Character 6; Qiao and Zhu (2009), Character 91; Qiao and Zhu (2015), Character 91; Clack *et al*. (2019), Character 91; Challands *et al*. (2019), Character 91; Luo *et al*. (2022), Character 91.
 
 92. Shape of marginal blisters: 0. bead-shaped; 1. elongated strips.
 
-> Qiao and Zhu (2009), Character 92; Qiao and Zhu (2015), Character 92; Clack *et al*. (2019), Character 92; Challands *et al*. (2019), Character 92; Luo *et al*. (2022), Character 92.
+> Ahlberg *et al*. (2006), Character 7; Qiao and Zhu (2009), Character 92; Qiao and Zhu (2015), Character 92; Clack *et al*. (2019), Character 92; Challands *et al*. (2019), Character 92; Luo *et al*. (2022), Character 92.
 
 93. Addition of inter-row dentine along edge of pterygoid/ prearticular: 0. no; 1. yes.
 
-> Qiao and Zhu (2009), Character 93; Qiao and Zhu (2015), Character 93; Clack *et al*. (2019), Character 93; Challands *et al*. (2019), Character 93; Luo *et al*. (2022), Character 93.
+> Ahlberg *et al*. (2006), Character 8; Qiao and Zhu (2009), Character 93; Qiao and Zhu (2015), Character 93; Clack *et al*. (2019), Character 93; Challands *et al*. (2019), Character 93; Luo *et al*. (2022), Character 93.
 
 94. Nature of inter-row dentine: 0. always fuses or wears down into sheet; 1. separate denticles persist between some tooth rows.
 
-> Qiao and Zhu (2009), Character 94; Qiao and Zhu (2015), Character 94; Clack *et al*. (2019), Character 94; Challands *et al*. (2019), Character 94; Luo *et al*. (2022), Character 94.
+> Ahlberg *et al*. (2006), Character 9; Qiao and Zhu (2009), Character 94; Qiao and Zhu (2015), Character 94; Clack *et al*. (2019), Character 94; Challands *et al*. (2019), Character 94; Luo *et al*. (2022), Character 94.
 
 95. Pulp cavity: 0. tooth plates without pulp cavity; 1. with pulp cavity.
 
@@ -392,52 +392,52 @@ I-bone.
 
 96. Diffuse dentine deposition on surface of palate/lower jaw: 0. yes, diffusely across whole palate; 1. no; 2. redeposition of denticles only within “footprint” (outer circumference) of resorbed tooth plate.
 
-> Qiao and Zhu (2009), Character 96; Qiao and Zhu (2015), Character 96; Clack *et al*. (2019), Character 96; Challands *et al*. (2019), Character 96; Luo *et al*. (2022), Character 96.
+> Ahlberg *et al*. (2006), Character 10; Qiao and Zhu (2009), Character 96; Qiao and Zhu (2015), Character 96; Clack *et al*. (2019), Character 96; Challands *et al*. (2019), Character 96; Luo *et al*. (2022), Character 96.
 
 97. Relative areas of denticle field/thin dentine sheet on palate: 0. all or nearly all denticles; 1. both dentine sheet and denticles; 2. mostly dentine sheet; 3. denticles outside toothplate; 4 dentine sheet on resorption areas within toothplate.
 
-> Qiao and Zhu (2009), Character 97; Qiao and Zhu (2015), Character 97; Clack *et al*. (2019), Character 97; Challands *et al*. (2019), Character 97; Luo *et al*. (2022), Character 97.
+> Ahlberg *et al*. (2006), Character 11; Qiao and Zhu (2009), Character 97; Qiao and Zhu (2015), Character 97; Clack *et al*. (2019), Character 97; Challands *et al*. (2019), Character 97; Luo *et al*. (2022), Character 97.
 
 98. Relative areas of denticle field and dentine sheet on lower jaw: 0. all or nearly all denticles; 1. both denticles and dentine sheet; 2. mostly dentine sheet.
 
-> Qiao and Zhu (2009), Character 98; Qiao and Zhu (2015), Character 98; Clack *et al*. (2019), Character 98; Challands *et al*. (2019), Character 98; Luo *et al*. (2022), Character 98.
+> Ahlberg *et al*. (2006), Character 12; Qiao and Zhu (2009), Character 98; Qiao and Zhu (2015), Character 98; Clack *et al*. (2019), Character 98; Challands *et al*. (2019), Character 98; Luo *et al*. (2022), Character 98.
 
 99. Resorption of dentition on pterygoid/prearticular plate origin: 0. little or no resorption, origin left unmodified; 1. extensive resorption, removing mesial parts of plate; 2. resorption and deposition of dentine sheet within toothplate only, not crossing edges.
 
-> Qiao and Zhu (2009), Character 99; Qiao and Zhu (2015), Character 99; Clack *et al*. (2019), Character 99; Challands *et al*. (2019), Character 99; Luo *et al*. (2022), Character 99.
+> Ahlberg *et al*. (2006), Character 13; Qiao and Zhu (2009), Character 99; Qiao and Zhu (2015), Character 99; Clack *et al*. (2019), Character 99; Challands *et al*. (2019), Character 99; Luo *et al*. (2022), Character 99.
 
 100. Distinct vertically growing “heel” on prearticular: 0. no; 1. yes.
 
-> Qiao and Zhu (2009), Character 100; Qiao and Zhu (2015), Character 100; Clack *et al*. (2019), Character 100; Challands *et al*. (2019), Character 100; Luo *et al*. (2022), Character 100.
+> Ahlberg *et al*. (2006), Character 14; Qiao and Zhu (2009), Character 100; Qiao and Zhu (2015), Character 100; Clack *et al*. (2019), Character 100; Challands *et al*. (2019), Character 100; Luo *et al*. (2022), Character 100.
 
 101. Petrodentine: 0. absent; 1. present.
 
-> Schultze (2001), Character 78; Qiao and Zhu (2009), Character 101; Qiao and Zhu (2015), Character 101; Clack *et al*. (2019), Character 101; Challands *et al*. (2019), Character 101; Luo *et al*. (2022), Character 101.
+> Schultze (2001), Character 78; Ahlberg *et al*. (2006), Character 17; Qiao and Zhu (2009), Character 101; Qiao and Zhu (2015), Character 101; Clack *et al*. (2019), Character 101; Challands *et al*. (2019), Character 101; Luo *et al*. (2022), Character 101.
 
 102. Sharp “additive” mesial and posterior edges on tooth plates: 0. absent; 1. present.
 
-> Qiao and Zhu (2009), Character 102; Qiao and Zhu (2015), Character 102; Clack *et al*. (2019), Character 102; Challands *et al*. (2019), Character 102; Luo *et al*. (2022), Character 102.
+> Ahlberg *et al*. (2006), Character 15; Qiao and Zhu (2009), Character 102; Qiao and Zhu (2015), Character 102; Clack *et al*. (2019), Character 102; Challands *et al*. (2019), Character 102; Luo *et al*. (2022), Character 102.
 
 103. Behaviour of “additive edges” (if present): 0. quiescent; 1. active.
 
-> Qiao and Zhu (2009), Character 103; Qiao and Zhu (2015), Character 103; Clack *et al*. (2019), Character 103; Challands *et al*. (2019), Character 103; Luo *et al*. (2022), Character 103.
+> Ahlberg *et al*. (2006), Character 16; Qiao and Zhu (2009), Character 103; Qiao and Zhu (2015), Character 103; Clack *et al*. (2019), Character 103; Challands *et al*. (2019), Character 103; Luo *et al*. (2022), Character 103.
 
 104. Braincase/skull table relationship: 0. broad contact; 1. supported by cristae.
 
-> Qiao and Zhu (2009), Character 104; Qiao and Zhu (2015), Character 104; Clack *et al*. (2019), Character 104; Challands *et al*. (2019), Character 104; Luo *et al*. (2022), Character 104.
+> Ahlberg *et al*. (2006), Character 59; Qiao and Zhu (2009), Character 104; Qiao and Zhu (2015), Character 104; Clack *et al*. (2019), Character 104; Challands *et al*. (2019), Character 104; Luo *et al*. (2022), Character 104.
 
 105. Angle between quadrate and plane of parasphenoid: 0. 90-95 degrees; 1. 80 -65 degrees; 2. 55-35 degrees.
 
-> Schultze (2001), Character 42; Qiao and Zhu (2009), Character 105; Qiao and Zhu (2015), Character 105; Clack *et al*. (2019), Character 105; Challands *et al*. (2019), Character 105; Luo *et al*. (2022), Character 105.
+> Schultze (2001), Character 42; Ahlberg *et al*. (2006), Character 32; Qiao and Zhu (2009), Character 105; Qiao and Zhu (2015), Character 105; Clack *et al*. (2019), Character 105; Challands *et al*. (2019), Character 105; Luo *et al*. (2022), Character 105.
 
 106. Autostyly: 0. absent; 1. present.
 
-> Qiao and Zhu (2009), Character 106; Qiao and Zhu (2015), Character 106; Clack *et al*. (2019), Character 106; Challands *et al*. (2019), Character 106; Luo *et al*. (2022), Character 106.
+> Ahlberg *et al*. (2006), Character 33; Qiao and Zhu (2009), Character 106; Qiao and Zhu (2015), Character 106; Clack *et al*. (2019), Character 106; Challands *et al*. (2019), Character 106; Luo *et al*. (2022), Character 106.
 > - Phaneropleuron andersoni code 0 ?? need to check
 
 107. Lateral commissure: 0. separate from palatoquadrate; 1. partly fused but distinguishable; 2. wholly fused to palatoquadrate. (ordered).
 
-> Qiao and Zhu (2009), Character 107; Qiao and Zhu (2015), Character 107; Clack *et al*. (2019), Character 107; Challands *et al*. (2019), Character 107; Luo *et al*. (2022), Character 107.
+> Ahlberg *et al*. (2006), Character 34; Qiao and Zhu (2009), Character 107; Qiao and Zhu (2015), Character 107; Clack *et al*. (2019), Character 107; Challands *et al*. (2019), Character 107; Luo *et al*. (2022), Character 107.
 
 > - Diabolepis, Palelophus and Uranolophus code 0
 
@@ -447,15 +447,15 @@ I-bone.
 
 109. Dorsolateral process on palatoquadrate: 0. absent; 1. present.
 
-> Friedman (2007), Character 54; Qiao and Zhu (2009), Character 109; Qiao and Zhu (2015), Character 109; Clack *et al*. (2019), Character 109; Challands *et al*. (2019), Character 109; Luo *et al*. (2022), Character 109.
+> Ahlberg *et al*. (2006), Character 31; Friedman (2007), Character 54; Qiao and Zhu (2009), Character 109; Qiao and Zhu (2015), Character 109; Clack *et al*. (2019), Character 109; Challands *et al*. (2019), Character 109; Luo *et al*. (2022), Character 109.
 
 110. Metotic (lateral otic) fissure: 0. present; 1. absent.
 
-> Friedman (2007), Character 13; Qiao and Zhu (2009), Character 110; Qiao and Zhu (2015), Character 110; Clack *et al*. (2019), Character 110; Challands *et al*. (2019), Character 110; Luo *et al*. (2022), Character 110.
+> Ahlberg *et al*. (2006), Character 61; Friedman (2007), Character 13; Qiao and Zhu (2009), Character 110; Qiao and Zhu (2015), Character 110; Clack *et al*. (2019), Character 110; Challands *et al*. (2019), Character 110; Luo *et al*. (2022), Character 110.
 
 111. Intracranial joint/ventral cranial fissure: 0. mobile joint; 1. ventral cranial fissure; 2. neither fissure nor joint.
 
-> Qiao and Zhu (2009), Character 111; Qiao and Zhu (2015), Character 111; Clack *et al*. (2019), Character 111; Challands *et al*. (2019), Character 111; Luo *et al*. (2022), Character 111.
+> Ahlberg *et al*. (2006), Character 60; Qiao and Zhu (2009), Character 111; Qiao and Zhu (2015), Character 111; Clack *et al*. (2019), Character 111; Challands *et al*. (2019), Character 111; Luo *et al*. (2022), Character 111.
 
 112. Occiput inset from posterior margin of neurocranium: 0. no; 1. yes.
 
@@ -467,11 +467,11 @@ I-bone.
 
 114. Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: 0. yes; 1. no.
 
-> Friedman (2007), Character 6; Qiao and Zhu (2009), Character 114; Qiao and Zhu (2015), Character 114; Clack *et al*. (2019), Character 114; Challands *et al*. (2019), Character 114; Luo *et al*. (2022), Character 114.
+> Ahlberg *et al*. (2006), Character 78; Friedman (2007), Character 6; Qiao and Zhu (2009), Character 114; Qiao and Zhu (2015), Character 114; Clack *et al*. (2019), Character 114; Challands *et al*. (2019), Character 114; Luo *et al*. (2022), Character 114.
 
 115. Ossification complete along ventral midline of notochordal canal posteriorly: 0. yes; 1. no.
 
-> Friedman (2007), Character 7; Qiao and Zhu (2009), Character 115; Qiao and Zhu (2015), Character 115; Clack *et al*. (2019), Character 115; Clack *et al*. (2019), Character 115; Challands *et al*. (2019), Character 115; Luo *et al*. (2022), Character 115.
+> Ahlberg *et al*. (2006), Character 79; Friedman (2007), Character 7; Qiao and Zhu (2009), Character 115; Qiao and Zhu (2015), Character 115; Clack *et al*. (2019), Character 115; Clack *et al*. (2019), Character 115; Challands *et al*. (2019), Character 115; Luo *et al*. (2022), Character 115.
 
 116. Occipital region bears transverse processes flanking foramen magnum: 0. no; 1. yes.
 
@@ -583,35 +583,35 @@ I-bone.
 
 143. Median fin morphologies: 0. all separate and short-based; 1. posterior dorsal fin long-based; 2. both dorsal fins long-based uninterrupted fin fringe.
 
-> Qiao and Zhu (2009), Character 143; Qiao and Zhu (2015), Character 143; Clack *et al*. (2019), Character 143; Challands *et al*. (2019), Character 143; Luo *et al*. (2022), Character 143.
+> Ahlberg *et al*. (2006), Character 74; Qiao and Zhu (2009), Character 143; Qiao and Zhu (2015), Character 143; Clack *et al*. (2019), Character 143; Challands *et al*. (2019), Character 143; Luo *et al*. (2022), Character 143.
 
 144. Posterior dorsal fin support: 0. all radials carried by basal plate; 1. anterior radials on basal plate, posterior radials free; 2. no basal plate.
 
-> Qiao and Zhu (2009), Character 144; Qiao and Zhu (2015), Character 144; Clack *et al*. (2019), Character 144; Challands *et al*. (2019), Character 144; Luo *et al*. (2022), Character 144.
+> Ahlberg *et al*. (2006), Character 75; Qiao and Zhu (2009), Character 144; Qiao and Zhu (2015), Character 144; Clack *et al*. (2019), Character 144; Challands *et al*. (2019), Character 144; Luo *et al*. (2022), Character 144.
 
 145. Anal fin support: 0. trapezoidal with no distinct shaft; 1. cylindrical proximal shaft and triangular distal plate.
 
-> Qiao and Zhu (2009), Character 145; Qiao and Zhu (2015), Character 145; Clack *et al*. (2019), Character 145; Challands *et al*. (2019), Character 145; Luo *et al*. (2022), Character 145.
+> Ahlberg *et al*. (2006), Character 76; Qiao and Zhu (2009), Character 145; Qiao and Zhu (2015), Character 145; Clack *et al*. (2019), Character 145; Challands *et al*. (2019), Character 145; Luo *et al*. (2022), Character 145.
 
 146. Median fin radials: 0. cylindrical; 1. hourglass-shaped.
 
-> Qiao and Zhu (2009), Character 146; Qiao and Zhu (2015), Character 146; Clack *et al*. (2019), Character 146; Challands *et al*. (2019), Character 146; Luo *et al*. (2022), Character 146.
+> Ahlberg *et al*. (2006), Character 77; Qiao and Zhu (2009), Character 146; Qiao and Zhu (2015), Character 146; Clack *et al*. (2019), Character 146; Challands *et al*. (2019), Character 146; Luo *et al*. (2022), Character 146.
 
 147. Vertebral column: 0. unconstricted notochord; 1. disc centra.
 
-> Qiao and Zhu (2009), Character 147; Qiao and Zhu (2015), Character 147; Clack *et al*. (2019), Character 147; Challands *et al*. (2019), Character 147; Luo *et al*. (2022), Character 147.
+> Ahlberg *et al*. (2006), Character 78; Qiao and Zhu (2009), Character 147; Qiao and Zhu (2015), Character 147; Clack *et al*. (2019), Character 147; Challands *et al*. (2019), Character 147; Luo *et al*. (2022), Character 147.
 
 148. Neural arches and spines: 0. separate; 1. fused.
 
-> Qiao and Zhu (2009), Character 148; Qiao and Zhu (2015), Character 148; Clack *et al*. (2019), Character 148; Challands *et al*. (2019), Character 148; Luo *et al*. (2022), Character 148.
+> Ahlberg *et al*. (2006), Character 79; Qiao and Zhu (2009), Character 148; Qiao and Zhu (2015), Character 148; Clack *et al*. (2019), Character 148; Challands *et al*. (2019), Character 148; Luo *et al*. (2022), Character 148.
 
 149. Scales: 0. rhombic; 1. round.
 
-> Schultze (2001), Character 82; Qiao and Zhu (2009), Character 149; Qiao and Zhu (2015), Character 149; Clack *et al*. (2019), Character 149; Challands *et al*. (2019), Character 149; Luo *et al*. (2022), Character 149.
+> Schultze (2001), Character 82; Ahlberg *et al*. (2006), Character 73; Qiao and Zhu (2009), Character 149; Qiao and Zhu (2015), Character 149; Clack *et al*. (2019), Character 149; Challands *et al*. (2019), Character 149; Luo *et al*. (2022), Character 149.
 
 150. Cosmine on scales: 0. present; 1. absent.
 
-> Qiao and Zhu (2009), Character 150; Qiao and Zhu (2015), Character 150; Clack *et al*. (2019), Character 150; Challands *et al*. (2019), Character 150; Luo *et al*. (2022), Character 150.
+> Ahlberg *et al*. (2006), Character 73; Qiao and Zhu (2009), Character 150; Qiao and Zhu (2015), Character 150; Clack *et al*. (2019), Character 150; Challands *et al*. (2019), Character 150; Luo *et al*. (2022), Character 150.
 
 151. Adlateral cristae (postero-dorsal extensions of the lateral cristae that connect the otic region of the neurocranium to the visceral surface of the dermal skull roof) present: 0. yes; 1. no.
     
