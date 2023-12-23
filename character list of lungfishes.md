@@ -717,7 +717,7 @@ I-bone.
 
 176. Maxilla and premaxilla: 0. absent; 1. present.
 
-> Schultze (2001), Character 38; Clack *et al*. (2019), Character 176; Challands *et al*. (2019), Character 176; Luo *et al*. (2022), Character 176.
+> Schultze (2001), Character 38; Ahlberg *et al*. (2006), Character 30; Qiao and Zhu (2009), Character 64; Qiao and Zhu (2015), Character 64; Clack *et al*. (2019), Character 176; Challands *et al*. (2019), Character 176; Luo *et al*. (2022), Character 176.
 
 177. Ascending process on pterygoid: 0. absent; 1. short; 2. long.
 
@@ -729,7 +729,7 @@ I-bone.
 
 179. Ossified meckelian bone: 0. present; 1. lacking.
 
-> Schultze (2001), Character 70; Clack *et al*. (2019), Character 179; Challands *et al*. (2019), Character 179; Luo *et al*. (2022), Character 179.
+> Schultze (2001), Character 70; Ahlberg *et al*. (2006), Character 49; Qiao and Zhu (2009), Character 76; Qiao and Zhu (2015), Character 76; Clack *et al*. (2019), Character 179; Challands *et al*. (2019), Character 179; Luo *et al*. (2022), Character 76.
 
 180. Dentition: 0. dentine plates; 1. tooth plates; 2. toothed (shedding denticles).
 
