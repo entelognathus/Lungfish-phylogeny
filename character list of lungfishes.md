@@ -242,7 +242,9 @@ I-bone.
 
 59. Angle between midline and anterolateral margin of pterygoid: 0. less than 55 degrees; 1. more than 55 degrees.
 
-> Qiao and Zhu (2009), Character 59; Qiao and Zhu (2015), Character 59; Clack *et al*. (2019), Character 59; Challands *et al*. (2019), Character 59; Luo *et al*. (2022), Character 59.
+> Ahlberg (2006),  Character 24; Qiao and Zhu (2009), Character 59; Qiao and Zhu (2015), Character 59; Clack *et al*. (2019), Character 59; Challands *et al*. (2019), Character 59; Luo *et al*. (2022), Character 59.
+>
+> - Ahlberg (2006) originally coded this character as 0. less than 50；1. more than 55
 
 60. Anterior nostril: 0. located dorsal to oral margin; 1. marginal.
 
