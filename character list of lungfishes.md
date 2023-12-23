@@ -619,11 +619,11 @@ I-bone.
 
 152. Median callus on palate: 0. absent; 1. present.
 
-> Qiao and Zhu (2015), Character 152; Clack *et al*. (2019), Character 152; Challands *et al*. (2019), Character 152; Luo *et al*. (2022), Character 152.
+> Ahlberg *et al*. (2006), Character 18; Qiao and Zhu (2015), Character 152; Clack *et al*. (2019), Character 152; Challands *et al*. (2019), Character 152; Luo *et al*. (2022), Character 152.
 
 153. B-bone: 0. absent; 1. present.
 
-> Schultze (2001), Character 8, different description of B-bone; Qiao and Zhu (2015), Character 153; Clack *et al*. (2019), Character 153; Challands *et al*. (2019), Character 153; Luo *et al*. (2022), Character 153.
+> Schultze (2001), Character 8; Ahlberg *et al*. (2006), Character 52; Qiao and Zhu (2015), Character 153; Clack *et al*. (2019), Character 153; Challands *et al*. (2019), Character 153; Luo *et al*. (2022), Character 153.
 
 154. Foramen for the internal carotid anterior to that for the efferent pseudobranchial artery: 0. no; 1. yes.
 
@@ -635,7 +635,7 @@ I-bone.
 
 156. C-bone(s): 0. paired; 1. single.
 
-> Schultze (2001), Character 11; Qiao and Zhu (2009), Character 6;  Qiao and Zhu (2015), Character 6; Clack *et al*. (2019), Character 156; Challands *et al*. (2019), Character 156; Luo *et al*. (2022), Character 156.
+> Schultze (2001), Character 11; Ahlberg *et al*. (2006), Character 54; Qiao and Zhu (2009), Character 6;  Qiao and Zhu (2015), Character 6; Clack *et al*. (2019), Character 156; Challands *et al*. (2019), Character 156; Luo *et al*. (2022), Character 156.
 
 157. Angle between first and last tooth ridge: 0. 50 – 100 degrees; 1. less than 50 degrees or greater than 100 degrees.
 
