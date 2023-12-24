@@ -90,7 +90,7 @@
 21. Z-bone: 0. posterior to I-bone; 1. lateral to
 I-bone.
 
-> Qiao and Zhu (2009), Character 21; Qiao and Zhu (2015), Character 21; Clack *et al*. (2019), Character 21; Challands *et al*. (2019), Character 21; Luo *et al*. (2022), Character 21.
+> Schultze (2001), Character 28; Qiao and Zhu (2009), Character 21; Qiao and Zhu (2015), Character 21; Clack *et al*. (2019), Character 21; Challands *et al*. (2019), Character 21; Luo *et al*. (2022), Character 21.
 
 22. Maximum width of skull roof situated posterior to the level of the bone Y1: 0. yes; 1. No.
 
@@ -122,7 +122,7 @@ I-bone.
 
 29. Cheek bones: 0. cheek bones 1-11 present; 1. no 11; 2. no 10, 11
 
-> Schultze (2001), Character 36; Qiao and Zhu (2009), Character 29; Qiao and Zhu (2015), Character 29; Clack *et al*. (2019), Character 29; Challands *et al*. (2019), Character 29; Luo *et al*. (2022), Character 29.
+> Schultze (2001), Character 29; different description; Qiao and Zhu (2009), Character 29; Qiao and Zhu (2015), Character 29; Clack *et al*. (2019), Character 29; Challands *et al*. (2019), Character 29; Luo *et al*. (2022), Character 29.
 
 30. Length of postorbital cheek: 0. substantially longer than diameter of orbit; 1. equal to or shorter than diameter of orbit.
 
