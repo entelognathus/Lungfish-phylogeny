@@ -771,3 +771,5 @@ I-bone.
 
 189. Oral growth lines: 0. absent; 1. Present
 > Luo *et al*. (2022), Character 189.
+
+> - Specimens with preserved toothplates should be coded
