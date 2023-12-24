@@ -467,7 +467,7 @@ I-bone.
 
 114. Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: 0. yes; 1. no.
 
-> Ahlberg *et al*. (2006), Character 78; Friedman (2007), Character 6; Qiao and Zhu (2009), Character 114; Qiao and Zhu (2015), Character 114; Clack *et al*. (2019), Character 114; Challands *et al*. (2019), Character 114; Luo *et al*. (2022), Character 114.
+> Friedman (2007), Character 6; Qiao and Zhu (2009), Character 114; Qiao and Zhu (2015), Character 114; Clack *et al*. (2019), Character 114; Challands *et al*. (2019), Character 114; Luo *et al*. (2022), Character 114.
 
 115. Ossification complete along ventral midline of notochordal canal posteriorly: 0. yes; 1. no.
 
