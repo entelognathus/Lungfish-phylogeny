@@ -763,7 +763,7 @@ I-bone.
 
 187. Vomer *sensu* Rosen et al. (1981): 0. paired; 1. unpaired
 
-> Luo *et al*. (2022), Character 187.
+> Schultze (2001), Character 59; Luo *et al*. (2022), Character 187.
 
 188. Dermopalatine *sensu* Rosen et al. (1981): 0. absent; 1. present
 
