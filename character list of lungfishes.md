@@ -685,7 +685,7 @@ I-bone.
 
 168. Z-bone: 0. behind skull roof; 1. integrated into skull roof; 2. space of Y+Z; 3. lacking as isolated bone.
 
-> Schultze (2001), Character 29; Clack *et al*. (2019), Character 168; Challands *et al*. (2019), Character 168; Luo *et al*. (2022), Character 168.
+> Schultze (2001), Character 29; Qiao and Zhu (2009), Character 21; Qiao and Zhu (2015), Character 21; Clack *et al*. (2019), Character 168; Challands *et al*. (2019), Character 168; Luo *et al*. (2022), Character 168.
 
 169. Lateral line entering skull table through: 0. bone Z; 1. bone I; 2. above bones.
 
