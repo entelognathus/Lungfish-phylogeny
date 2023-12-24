@@ -29,7 +29,7 @@
 
 6. C-bone: 0. absent; 1. present.
 
-> Ahlberg *et al*. (2006), Character 54; Schultze (2001), Character 11; Qiao and Zhu (2009), Character 6; Qiao and Zhu (2015), Character 6; Clack *et al*. (2019), Character 6; Challands *et al*. (2019), Character 6; Luo *et al*. (2022), Character 6.
+> Schultze (2001), Character 11; Ahlberg *et al*. (2006), Character 54; Qiao and Zhu (2009), Character 6; Qiao and Zhu (2015), Character 6; Clack *et al*. (2019), Character 6; Challands *et al*. (2019), Character 6; Luo *et al*. (2022), Character 6.
 
 7. D-bone: 0. many; 1. single; 2. absent.
 
