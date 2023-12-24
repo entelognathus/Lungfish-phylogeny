@@ -150,7 +150,7 @@ I-bone.
 
 36. Buccohypophyseal opening (foramen): 0. present; 1. absent.
 
-> Schultze (2001), Character 54, description as buccohypophysial; Friedman (2007), Character 67; Qiao and Zhu (2009), Character 36; Qiao and Zhu (2015), Character 36; Clack *et al*. (2019), Character 36; Challands *et al*. (2019), Character 36; Luo *et al*. (2022), Character 36.
+> Schultze (2001), Character 54, description as buccohypophysial; Qiao and Zhu (2009), Character 36; Qiao and Zhu (2015), Character 36; Clack *et al*. (2019), Character 36; Challands *et al*. (2019), Character 36; Luo *et al*. (2022), Character 36.
 
 37. Palatal construction: 0. parasphenoid separates pterygoids; 1. pterygoids articulate with each other with suture; 2. pterygoids fused.
 
