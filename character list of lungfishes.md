@@ -356,7 +356,7 @@ I-bone.
 
 87. Tooth plates: 0. present; 1. absent.
 
-> Ahlberg *et al*. (2006), Character 1; Qiao and Zhu (2009), Character 87; Qiao and Zhu (2015), Character 87; Clack *et al*. (2019), Character 87; Challands *et al*. (2019), Character 87; Luo *et al*. (2022), Character 87.
+> Clack *et al*. (2019), Character 87; Challands *et al*. (2019), Character 87; Luo *et al*. (2022), Character 87.
 
 88. Morphology of teeth on pterygoid and prearticular: 0. round/conical; 1., forming distinct proximodistal cutting ridge.
 
