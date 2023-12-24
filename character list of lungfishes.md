@@ -264,7 +264,7 @@ I-bone.
 
 64. Premaxilla: 0. present; 1. absent.
 
-> Ahlberg *et al*. (2006), Character 30; Qiao and Zhu (2009), Character 64; Qiao and Zhu (2015), Character 64; Clack *et al*. (2019), Character 64; Challands *et al*. (2019), Character 64; Luo *et al*. (2022), Character 64.
+> Schultze (2001), Character 38; Ahlberg *et al*. (2006), Character 30; Qiao and Zhu (2009), Character 64; Qiao and Zhu (2015), Character 64; Clack *et al*. (2019), Character 64; Challands *et al*. (2019), Character 64; Luo *et al*. (2022), Character 64.
 
 65. Lateral lines in mandible: 0. parallel; 1. converging in one bone.
 
