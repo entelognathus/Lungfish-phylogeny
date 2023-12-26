@@ -409,28 +409,42 @@
 122.	Size of profundus canal in postnasal wall: (0) small; (1) large. 
 > - Lu *et al*., (2017; char. 265).
 
-Oral elements (Dentition and jaw bones)
-123.	  Premaxilla: (0) present; (1) absent. > - Challands *et al*., (2019; char. 64).
-124.	Maxilla: (0) absent, (1) present. > - Schultze and Marshall (1993; char. 38), Schultze (2001; char. 38), Lloyd *et al*., (2012; char. 39), Challands *et al*., (2019; char. 61).
-125.	  Lateral lines in mandible: (0) parallel; (1) converging in one bone. > - Challands *et al*., (2019; char. 65).
-Holoptychius from ‘?’ to ‘1’
-126.	Length of symphysis (ratio length of symphysis to length of jaw): (0) greater than 1/3; (1) between 1/5 and 1/3; (2) less than 1/5. > - Challands *et al*., (2019; char. 66).
-127.	Adsymphysial plate (MdY bone): (0) present, but fused, (1) isolated, sutured bone, (2) missing. > - Schultze and Marshall (1993; char. 66), Schultze (2001; char. 66), Schultze (2004; char. 45), Challands *et al*., (2019; char. 67). Here we consider the adsymphysial is homologized with the parasymphysial dental plate in osteolepiforms, porolepiforms. 
-128.	 Parasymphysial tooth whorl: (0) tooth whorl; (1) denticles; (2) plate with a tusk. New character. The parasymphysial and the adsymphysial are homologous. And they all belong to the coronoid series.
-129.	“Dentary”: (0) unpaired; (1) paired; (2) absent. Some lungfishes have the unpaired ‘dentary’ between the left and right lower jaws. > - Challands *et al*., (2019; char. 68).
-Dipnorhynchus kurikae from ‘?’ to ‘0’ (Campbell and Barwick 2000, Fig. 13)
-13(0)	Dentary-prearticular relationship: (0) dentition-generating gap; (1) small midline hole only; (2) no gap. > - Challands *et al*., (2019; char. 69).
-13(1)	Slot between dentary and prearticular: (0) broad; (1) narrow; (2) no slot. > - Challands *et al*., (2019; char. 70).
-13(2)	Adductor fossa: (0) not overhung by prearticular; (1) overhung by prearticular. > - Challands *et al*., (2019; char. 71).
-> - *Psarolepis* from ‘1’ to ‘0’
-Dipnorhynchus kurikae from ‘?’ to ‘0’ (Campbell and Barwick 2000, Fig. 12)
-Griphognathus sculpta from ‘?’ to ‘1’ (Schultze 1969, p.24)
-Griphognathus whitei from ‘?’ to ‘1’ (Miles 1977, p.195)
-133.	Length of adductor fossa (revised): More than 1/3; (1) 20%–1/3 of jaw length; (2) 5–20% of jaw length; 3. 0–5% of jaw length. Revised from > - Challands *et al*., (2019; char. 72).
-Chirodipterus wildungensis from ‘?’ to ‘1’ (Jarvik 1967, Text-fig.4A)
-Dipnorhynchus kurikae from ‘?’ to ‘0’ (Campbell and Barwick 2000, Fig. 12)
-Griphognathus sculpta from ‘?’ to ‘3’ (Schultze 1969, p.24)
-Griphognathus whitei from ‘?’ to ‘3’ (Miles 1977, p.195)
+## Oral elements (Dentition and jaw bones)
+123. Premaxilla: (0) present; (1) absent. 
+> - Challands *et al*., (2019; char. 64).
+
+124.	Maxilla: (0) absent, (1) present. 
+> - Schultze and Marshall (1993; char. 38), Schultze (2001; char. 38), Lloyd *et al*., (2012; char. 39), Challands *et al*., (2019; char. 61).
+
+125. Lateral lines in mandible: (0) parallel; (1) converging in one bone. 
+> - Challands *et al*., (2019; char. 65).
+
+126.	Length of symphysis (ratio length of symphysis to length of jaw): (0) greater than 1/3; (1) between 1/5 and 1/3; (2) less than 1/5. 
+> - Challands *et al*., (2019; char. 66).
+
+127.	Adsymphysial plate (MdY bone): (0) present, but fused, (1) isolated, sutured bone, (2) missing. 
+> - Schultze and Marshall (1993; char. 66), Schultze (2001; char. 66), Schultze (2004; char. 45), Challands *et al*., (2019; char. 67). 
+> - Cui *et al*., (2019)：“Here we consider the adsymphysial is homologized with the parasymphysial dental plate in osteolepiforms, porolepiforms.”
+
+128.	 Parasymphysial tooth whorl: (0) tooth whorl; (1) denticles; (2) plate with a tusk.  
+> - Cui *et al*., (2022; char. 128).
+> - Cui *et al*., (2019)：“The parasymphysial and the adsymphysial are homologous. And they all belong to the coronoid series."
+
+129.	“Dentary”: (0) unpaired; (1) paired; (2) absent. Some lungfishes have the unpaired ‘dentary’ between the left and right lower jaws. 
+> - Challands *et al*., (2019; char. 68).
+
+130.	Dentary-prearticular relationship: (0) dentition-generating gap; (1) small midline hole only; (2) no gap. 
+> - Challands *et al*., (2019; char. 69).
+
+131.	Slot between dentary and prearticular: (0) broad; (1) narrow; (2) no slot. 
+> - Challands *et al*., (2019; char. 70).
+
+132.	Adductor fossa: (0) not overhung by prearticular; (1) overhung by prearticular. 
+> - Challands *et al*., (2019; char. 71).
+
+133.	Length of adductor fossa (revised): More than 1/3; (1) 20%–1/3 of jaw length; (2) 5–20% of jaw length; 3. 0–5% of jaw length. 
+> - Revised from Challands *et al*., (2019; char. 72).
+
 134.	Morphology of adductor fossa: (0) open; (1) reduced to vestigial slit. > - Challands *et al*., (2019; char. 73).
 Dipnorhynchus kurikae from ‘?’ to ‘0’ (Campbell and Barwick 2000, Fig. 12)
 Griphognathus sculpta from ‘?’ to ‘1’ (Schultze 1969, p.24)
