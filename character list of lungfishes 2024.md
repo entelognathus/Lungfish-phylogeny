@@ -1,6 +1,5 @@
-**Character list of lungfishes**
-# Character list
-> We assembled a matrix based on characters taken from four analyses: > - Challands *et al*. (2019) for lungfishes, Schultze (2000) for porolepiforms, Lu *et al*. (2017) for sarcopterygians more generally, and Giles *et al*. (2015) for actinopterygians. We also added some new characters, which are indicated below. In cases where taxa have been recoded for specific characters, we note this explicitly. 
+# Character list of lungfishes
+> We assembled a matrix based on characters taken from four analyses: > - Challands *et al*. (2019) for lungfishes, Schultze (2000) for porolepiforms, Lu *et al*. (2017) for sarcopterygians more generally, and Giles *et al*. (2015) for actinopterygians. We also added some new characters, which are indicated below. In cases where taxa have been recoded for specific characters, we note this explicitly.
 
 ## External dermal bones of the skull 
 1. Pineal opening: (0) open; (1) closed.
@@ -445,95 +444,152 @@
 133.	Length of adductor fossa (revised): More than 1/3; (1) 20%–1/3 of jaw length; (2) 5–20% of jaw length; 3. 0–5% of jaw length. 
 > - Revised from Challands *et al*., (2019; char. 72).
 
-134.	Morphology of adductor fossa: (0) open; (1) reduced to vestigial slit. > - Challands *et al*., (2019; char. 73).
-Dipnorhynchus kurikae from ‘?’ to ‘0’ (Campbell and Barwick 2000, Fig. 12)
-Griphognathus sculpta from ‘?’ to ‘1’ (Schultze 1969, p.24)
-Griphognathus whitei from ‘?’ to ‘1’ (Miles 1977, p.195)
-135.	Coronoids: (0) present; (1) absent. > - Challands *et al*., (2019; char. 74).
-Dipnorhynchus kurikae from ‘?’ to ‘1’ (Campbell and Barwick 2000, Fig. 12)
-136.	Lip fold: (0) absent; (1) present. > - Challands *et al*., (2019; char. 75).
-Dipnorhynchus kurikae from ‘?’ to ‘1’ (Campbell and Barwick 2000, Fig. 12)
-Griphognathus sculpta from ‘?’ to ‘1’ (Schultze 1969, p.24)
-Griphognathus whitei from ‘?’ to ‘1’ (Miles 1977, p.195)
-137.	Meckelian bone: (0) wholly ossified; (1) only articular ossified, or not ossified at all. > - Challands *et al*., (2019; char. 676).
-Griphognathus whitei from ‘?’ to ‘0’ (Miles 1977, p.195)
-138.	Retroarticular process: (0) small and poorly developed; (1) robust, squarish. > - Challands *et al*., (2019; char. 77).
-Griphognathus whitei from ‘?’ to ‘1’ (Miles 1977, p.195)
-139.	Skin contact surface on infradentary bones: (0) reaching up to lip of adductor fossa; (1) widely separated from lip of adductor fossa. > - Challands *et al*., (2019; char. 78).
-Griphognathus sculpta from ‘?’ to ‘1’ (Schultze 1969, p.24)
-Griphognathus whitei from ‘?’ to ‘1’ (Miles 1977, p.195)
-14(0)	Curvature of ventral mandibular margin: (0) strongly convex; (1) essentially flat. > - Challands *et al*., (2019; char. 79).
-Griphognathus sculpta from ‘?’ to ‘1’ (Schultze 1969, p.24)
-Griphognathus whitei from ‘?’ to ‘1’ (Miles 1977, p.195)
-14(1)	Orientation of glenoid: (0) mostly dorsally; (1) posterodorsally. > - Challands *et al*., (2019; char. 80).
-Griphognathus sculpta from ‘?’ to ‘1’ (Schultze 1969, p.24)
-Griphognathus whitei from ‘?’ to ‘1’ (Miles 1977, p.195)
-14(2)	Shape of glenoid fossa: (0) double structure; (1) single groove. > - Challands *et al*., (2019; char. 81).
-Griphognathus sculpta from ‘?’ to ‘0’ (Schultze 1969, p.24)
-Griphognathus whitei from ‘?’ to ‘1’ (Miles 1977, p.195)
+134.	Morphology of adductor fossa: (0) open; (1) reduced to vestigial slit. 
+> - Challands *et al*., (2019; char. 73).
+
+135.	Coronoids: (0) present; (1) absent. 
+> - Challands *et al*., (2019; char. 74).
+
+136.	Lip fold: (0) absent; (1) present. 
+> - Challands *et al*., (2019; char. 75).
+
+137.	Meckelian bone: (0) wholly ossified; (1) only articular ossified, or not ossified at all. 
+> - Challands *et al*., (2019; char. 676).
+
+138.	Retroarticular process: (0) small and poorly developed; (1) robust, squarish. 
+> - Challands *et al*., (2019; char. 77).
+
+139.	Skin contact surface on infradentary bones: (0) reaching up to lip of adductor fossa; (1) widely separated from lip of adductor fossa. 
+> - Challands *et al*., (2019; char. 78).
+
+140.	Curvature of ventral mandibular margin: (0) strongly convex; (1) essentially flat. 
+> - Challands *et al*., (2019; char. 79).
+
+141.	Orientation of glenoid: (0) mostly dorsally; (1) posterodorsally. 
+> - Challands *et al*., (2019; char. 80).
+
+142.	Shape of glenoid fossa: (0) double structure; (1) single groove.
+> - Challands *et al*., (2019; char. 81).
+
 143.	Angular (infradentary 3) and surangular (infradentary 4): (0) separate; (1) fused into a single long bone. > - Challands *et al*., (2019; char. 82).
+
 144.	 Splenial (infradentary 1) and postsplenial (infradentary 2): (0) separate; (1) fused. > - Challands *et al*., (2019; char. 83).
+
 145.	Teeth on upper lip: (0) shedding teeth; (1) statodont tooth row; (2) teeth absent. > - Challands *et al*., (2019; char. 84).
-146.	Teeth on dentary: (0) shedding teeth present; (1) statodont tooth rows present; (2) teeth absent. > - Challands *et al*., (2019; char. 85).
-147.	Number of tooth ridges in adult specimens: (0) <10; (1) >1(0) > - Challands *et al*., (2019; char. 86).
-> - *Psarolepis* from ‘0’ to ‘?’.
-148.	Lower jaw: (0) short mandible rami (most lungfishes), (1) elongated rami with short symphysis (most outgroup), (2) elongated symphysis. > - Schultze and Marshall (1993; char. 61), Schultze (2001; char. 61), Lloyd *et al*., (2012; Char. 62), Challands *et al*., (2019; char. 158).
-*Diabolepis* from ‘?’ to ‘1’
-Dipnorhynchus kurikae from ‘?’ to ‘0’ (Campbell and Barwick 2000, Fig. 12)
-149.	Adductor muscles: (0) below skull roof, (1) above skull roof. > - Schultze and Marshall (1993; char. 10), Schultze (2001; char. 10), Schultze (2004; char. 8), Lloyd (2012; char. 10), Challands *et al*., (2019; char. 162).
-15(0)	Number of infradentaries: (0) four, (1) two, (2) one, 3. three. > - Schultze and Marshall (1993; char. 64), Schultze and Chorn (1997; char. 21), Schultze (2001; char. 64), Schultze (2004; char. 43), Lloyd (2012; char. 65), Challands *et al*., (2019; char. 178).
-15(1)	Ossified Meckelian bone: (0) present, (1) lacking. > - Schultze and Marshall (1993; char. 70), Schultze (2001; char. 70), Schultze (2004; char. 48), Lloyd (2012; char. 71), Challands *et al*., (2019; char. 179).
-15(2)	Posteriorly deep maxilla: (0) present; (1) absent. > - Schultze (2000; char. 21).
-*Youngolepis* from ‘0’to ‘1’
-153.	Anterior end of dentary: (0) not modified; (1) modified into support for parasymphysial tooth whorl. > - Schultze (2000; char. 30).
-154.	Axis of parasymphysial tooth whorl: (0) parallel to dentary; (1) perpendicular to dentary. > - Schultze (2000; char. 31).
-Holoptychius from ‘1’ to ‘0’
-155.	Dentition on coronoid: (0) broad marginal “tooth field”; (1) narrow marginal tooth row; (2) single tooth row. > - Schultze (2000; char. 32).
-156.	Foramina on external surface of lower jaw: (0) absent; (1) present. > - Schultze (2000; char. 33).
-157.	Length of dentary: (0) constitutes a majority of jaw length (1) half the length of jaw or less. Lu *et al*., (2017; char. 248).
-158.	Labial pit: (0) absent; (1) Present. Lu *et al*., (2017; char. 249).
-159.	Prearticular symphysis: (0) absent; (1) present. Lu *et al*., (2017; char. 250).
-16(0)	Inturned medial process of premaxilla: (0) absent; (1) present. Lu *et al*., (2017; char. 255).
-16(1)	Coronoids: (0) Four or more; (1) Three or less. Lu *et al*., (2017; char. 106).
-16(2)	Premaxilla: (0) Extends under orbit; (1) Restricted anterior to orbit. Lu *et al*., (2017; char. 89).
-163.	Maxilla shape: (0) Splint-shaped; (1) Cleaver-shaped. Lu *et al*., (2017; char. 90).
 
+146.	Teeth on dentary: (0) shedding teeth present; (1) statodont tooth rows present; (2) teeth absent. 
+> - Challands *et al*., (2019; char. 85).
 
-Oral elements (Tooth plate)
+147.	Number of tooth ridges in adult specimens: (0) <10; (1) >10. 
+> - Challands *et al*., (2019; char. 86).
+
+148.	Lower jaw: (0) short mandible rami (most lungfishes), (1) elongated rami with short symphysis (most outgroup), (2) elongated symphysis. 
+> - Schultze and Marshall (1993; char. 61), Schultze (2001; char. 61), Lloyd *et al*., (2012; Char. 62), Challands *et al*., (2019; char. 158).
+
+149.	Adductor muscles: (0) below skull roof, (1) above skull roof. 
+> - Schultze and Marshall (1993; char. 10), Schultze (2001; char. 10), Schultze (2004; char. 8), Lloyd (2012; char. 10), Challands *et al*., (2019; char. 162).
+
+150.	Number of infradentaries: (0) four, (1) two, (2) one, 3. three. 
+> - Schultze and Marshall (1993; char. 64), Schultze and Chorn (1997; char. 21), Schultze (2001; char. 64), Schultze (2004; char. 43), Lloyd (2012; char. 65), Challands *et al*., (2019; char. 178).
+
+151.	Ossified Meckelian bone: (0) present, (1) lacking. 
+> - Schultze and Marshall (1993; char. 70), Schultze (2001; char. 70), Schultze (2004; char. 48), Lloyd (2012; char. 71), Challands *et al*., (2019; char. 179).
+
+152.	Posteriorly deep maxilla: (0) present; (1) absent. 
+> - Schultze (2000; char. 21).
+
+153.	Anterior end of dentary: (0) not modified; (1) modified into support for parasymphysial tooth whorl. 
+> - Schultze (2000; char. 30).
+
+154.	Axis of parasymphysial tooth whorl: (0) parallel to dentary; (1) perpendicular to dentary. 
+> - Schultze (2000; char. 31).
+
+155.	Dentition on coronoid: (0) broad marginal “tooth field”; (1) narrow marginal tooth row; (2) single tooth row. 
+> - Schultze (2000; char. 32).
+
+156.	Foramina on external surface of lower jaw: (0) absent; (1) present. 
+> - Schultze (2000; char. 33).
+
+157.	Length of dentary: (0) constitutes a majority of jaw length (1) half the length of jaw or less. 
+> - Lu *et al*., (2017; char. 248).
+
+158.	Labial pit: (0) absent; (1) Present. 
+> - Lu *et al*., (2017; char. 249).
+
+159.	Prearticular symphysis: (0) absent; (1) present. 
+> - Lu *et al*., (2017; char. 250).
+
+16(0)	Inturned medial process of premaxilla: (0) absent; (1) present. 
+> - Lu *et al*., (2017; char. 255).
+
+16(1)	Coronoids: (0) Four or more; (1) Three or less. 
+> - Lu *et al*., (2017; char. 106).
+
+16(2)	Premaxilla: (0) Extends under orbit; (1) Restricted anterior to orbit. 
+> - Lu *et al*., (2017; char. 89).
+
+163.	Maxilla shape: (0) Splint-shaped; (1) Cleaver-shaped. 
+> - Lu *et al*., (2017; char. 90).
+
+## Oral elements (Tooth plate)
 164.	Tooth plates: (0) present; (1) absent. > - Challands *et al*., (2019; char. 87).
+
 Chirodipterus wildungensis from ‘?’ to ‘1’ (Säve-Söderbergh, 1952) Fig. 10, p. 22
+
 165.	Morphology of teeth on pterygoid and prearticular: (0) round/conical; (1) forming distinct proximodistal cutting ridge. > - Challands *et al*., (2019; char. 88).
+
 166.	Addition of large dentine elements at regular intervals to lateral margin of pterygoid/ prearticular: (0) yes; (1) no. > - Challands *et al*., (2019; char. 89).
+
 167.	Nature of large dentine elements: (0) teeth; (1) petrodentine cores; (2) thick irregular dentine; 3. ridges narrow regular dentine ridges. > - Challands *et al*., (2019; char. 90).
+
 168.	Addition of marginal blisters to pterygoid/prearticular: (0) no; (1) yes. > - Challands *et al*., (2019; char. 91).
+
 169.	Shape of marginal blisters: (0) bead-shaped; (1) elongated strips. > - Challands *et al*., (2019; char. 92).
+
 17(0)	Addition of inter-row dentine along edge of pterygoid/prearticular: (0) no; (1) yes. > - Challands *et al*., (2019; char. 93).
+
 17(1)	Nature of inter-row dentine: (0) always fuses or wears down into sheet; (1) separate denticles persist between some tooth rows. > - Challands *et al*., (2019; char. 94).
+
 17(2)	Pulp cavity: (0) tooth plates without pulp cavity; (1) with pulp cavity. > - Challands *et al*., (2019; char. 95).
+
 173.	Diffuse dentine deposition on surface of palate/lower jaw: (0) yes, diffusely across whole palate; (1) no; (2) redeposition of denticles only within “footprint” (outer circumference) of resorbed tooth plate. > - Challands *et al*., (2019; char. 96).
+
 174.	Relative areas of denticle field/thin dentine sheet on palate: (0) all or nearly all denticles; (1) both dentine sheet and denticles; (2) mostly dentine sheet; 3. denticles outside tooth plate; 4 dentine sheet on resorption areas within tooth plate. > - Challands *et al*., (2019; char. 97).
 *Youngolepis* from ‘0’ to ‘3’
+
 175.	 Relative areas of denticle field and dentine sheet on lower jaw: (0) all or nearly all denticles; (1) both denticles and dentine sheet; (2) mostly dentine sheet. > - Challands *et al*., (2019; char. 98).
+
 176.	Resorption of dentition on pterygoid/prearticular plate origin: (0) little or no resorption, origin left unmodified; (1) extensive resorption, removing mesial parts of plate; (2) resorption and deposition of dentine sheet within toothplate only, not crossing edges. > - Challands *et al*., (2019; char. 99).
 *Youngolepis* from ‘?’ to ‘0’
+
 177.	Distinct vertically growing “heel” on prearticular: (0) no; (1) yes. > - Challands *et al*., (2019; char. 100).
+
 178.	Petrodentine: (0) absent; (1) present. > - Challands *et al*., (2019; char. 101). Petrodentine is a highly mineralized tissue noticeably analogous to that of enameloid, and is deposited intermittently in a proximal direction by the sole participation of mesenchymal petroblasts.
+
 179.	Sharp “additive” mesial and posterior edges on tooth plates: (0) absent; (1) present. > - Challands *et al*., (2019; char. 102).
 > - *Psarolepis* from ‘0’ to ‘?’
+
 18(0)	 Behaviour of “additive edges” (if present): (0) quiescent; (1) active. > - Challands *et al*., (2019; char. 103).
+
 18(1)	Angle between first and last tooth ridge: (0) 50–100o; (1) less than 50o or greater than 100o. > - Challands *et al*., (2019; char. 157).
 *Youngolepis* from ‘-’. to ‘0’
+
 18(2)	Ascending process on pterygoid: (0) absent; (1) short; (2) long. > - Schultze and Marshall (1993; char. 56), Schultze and Chorn (1997; char. 20), Schultze (2001; char. 56), Schultze (2004; char. 40). Lloyd *et al*., (2012; char. 57), Challands *et al*., (2019; char. 177).
+
 183.	Dentition on the entoptergoid: (0) dentine plates; (1) tooth plates; (2) toothed (shedding denticles). > - Schultze and Marshall (1993; char. 72), Schultze (2001; char. 72), Schultze (2004; char. 49). Lloyd *et al*., (2012; char. 73), Challands *et al*., (2019; char. 180).
 *Youngolepis* from ‘1/2’ to ‘1’
 > - *Psarolepis* from ‘2’ to ‘-’.
+
 184.	Form of marginal tooth ridge: (0) absent; (1) continuous; (2) incomplete. > - Schultze and Marshall (1993; char. 73), Schultze (2001; char. 73). Lloyd *et al*., (2012; char. 74), Challands *et al*., (2019; char. 181). 
 > - *Psarolepis* from ‘0’ to ‘?’
+
 185.	Tuberosities (denticles) on palate: (0) present and irregular; (1) arranged radially; (2) arranged in rows; 3. absent. > - Schultze and Marshall (1993; char. 74), Schultze (2001; char. 74), Lloyd *et al*., (2012; char. 75), Challands *et al*., (2019; char. 182).
+
 186.	Denticles. (0) no denticles; (1) episodically shed denticles. > - Schultze and Marshall (1993; char. 75), Schultze (2001; char. 75), Schultze (2004; char. 50), Lloyd *et al*., (2012; char. 76), Challands *et al*., (2019; char. 183).
+
 187.	Tooth plates ridges: (0) no tooth plates; (1) without radial pattern; (2) radial pattern with cusps; 3. radial pattern without cusps; 4. parallel ridges. > - Schultze and Marshall (1993; char. 76), Schultze (2001; char. 76), Lloyd *et al*., (2012; char. 77), Challands *et al*., (2019; char. 184). 
 
-Neurocranium
+## Neurocranium
 188.	Braincase/skull table relationship: (0) broad contact; (1) supported by cristae. > - Challands *et al*., (2019; char. 104).
 189.	Metotic (lateral otic) fissure: (0) present; (1) absent. > - Challands *et al*., (2019; char. 110).
 19(0)	Intracranial joint/ventral cranial fissure: (0) mobile joint; (1) ventral cranial fissure; (2) neither fissure nor joint. Partially repeats information from Lu *et al*., (2017; char. 123), Challands *et al*., (2019; char. 111). 
