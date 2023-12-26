@@ -7,24 +7,23 @@
 
 2.	Pineal region marked by short eminence: (0) no; (1) yes.
 > - Lu *et al*., (2012; char. 24), Challands *et al*., (2019; char. 2).
-> - Cui *et al*. (2022) "Some early sarcopterygians without pineal foramen in the dermal skull roof bear the pineal region marked by a small, dome-shaped elevation. This structure is found in porolepiforms (*Glyptolepis*, *Holoptychius*, and *Porolepis*; Jarvik, 1972) as well as in *Youngolepis* (Chang, 1982: figs 5, 6) and *Diabolepis*. Friedman (2007) argued that this character cannot logically be coded for those taxa that possess a pineal foramen. We therefore change Guiyu from ‘0’ to ‘-’., because it has a pineal foramen (Qiao and Zhu, 2010)."
+> - Cui *et al*. (2022): "Some early sarcopterygians without pineal foramen in the dermal skull roof bear the pineal region marked by a small, dome-shaped elevation. This structure is found in porolepiforms (*Glyptolepis*, *Holoptychius*, and *Porolepis*; Jarvik, 1972) as well as in *Youngolepis* (Chang, 1982: figs 5, 6) and *Diabolepis*. Friedman (2007) argued that this character cannot logically be coded for those taxa that possess a pineal foramen. We therefore change *Guiyu* from ‘0’ to ‘-’., because it has a pineal foramen (Qiao and Zhu, 2010)."
 
 3.	Cosmine present on skull: (0) yes, full cover; (1) yes, but strongly reduced; (2) no. (**Ordered**)
 > - Challands *et al*., (2019; char. 3).
 
 4.	Length of B bone: (0) short (less than 2 times its width); (1) long (equal or more than 2 times its width); (2) broad (wider than long).
 > - Challands *et al*., (2019; char. 4).
-> - Cui *et al*. (2022) "*Diabolepis* from ‘-’. to ‘2’ Taxa more distantly related to lungfishes than *Diabolepis* do not possess a B bone (Chang and Yu, 1984)."
+> - Cui *et al*. (2022): "*Diabolepis* from ‘-’. to ‘2’ Taxa more distantly related to lungfishes than *Diabolepis* do not possess a B bone (Chang and Yu, 1984)."
 
 5.	Pit-lines on B bone: (0) absent; (1) anterior and middle pit-line present; (2) only anterior pit-line; (3) only posterior pit line.
  > - Challands *et al*., (2019; char. 5).
 
-6.	C-bone: (0) absent; (1) present. > - Challands *et al*., (2019; char. 6).
-> - *Psarolepis* from ‘-’. to ‘0’.
+6.	C-bone: (0) absent; (1) present. 
+> - Challands *et al*., (2019; char. 6).
 
-7.	D-bone: (0) many; (1) single; (2) absent. > - Challands *et al*., (2019; char. 7).
-> - *Psarolepis* from ‘-’. to ‘2’
-> - *Glyptolepis* from ‘0’ to ‘2’
+7.	D-bone: (0) many; (1) single; (2) absent. 
+> - Challands *et al*., (2019; char. 7).
 
 8.	Contact between E and C bones: (0) absent; (1) present.
 > - Challands *et al*., (2019; char. 8).
@@ -37,17 +36,16 @@
 
 11. I-bones meeting in midline: (0) yes; (1) no, separated by B bone.
 > - Challands *et al*., (2019; char. 11).
-> - Cui *et al*. (2022) "This character changed to just refer to I-bones, which we regard as homologues of the postparietals. In the present matrix, we expanded the ingroup by adding more porolepiforms, which show the primitive contact between the postparietals."
-> - *Psarolepis* from ‘-’. to ‘0’
-> - *Glyptolepis* from ‘-’. to ‘0’
+> - Cui *et al*. (2022): "This character changed to just refer to I-bones, which we regard as homologues of the postparietals. In the present matrix, we expanded the ingroup by adding more porolepiforms, which show the primitive contact between the postparietals."
 
-12.	Posterior process of I bone: (0) absent; (1) present. > - Challands *et al*., (2019; char. 12).
-> - *Psarolepis* from ‘-’. to ‘0’
-> - *Youngolepis* from ‘1’ to ‘0’
 
-13. J-bones (parietals) meeting in midline: (0) yes; (1) no. > - Challands *et al*., (2019; char. 13).
-> - Cui *et al*. (2022) "This character changed to just refer to J-bones, which we regard as homologues of the parietals." 
-> - *Psarolepis* form ‘-’. to ‘0’
+12.	Posterior process of I bone: (0) absent; (1) present. 
+> - Challands *et al*., (2019; char. 12).
+
+13. J-bones (parietals) meeting in midline: (0) yes; (1) no. 
+> - Challands *et al*., (2019; char. 13).
+> - Cui *et al*. (2022): "This character changed to just refer to J-bones, which we regard as homologues of the parietals." 
+
 
 14. L-bone: (0) two present; (1) one present; (2) fused K+L, (3) fused K+L+M, (4) other bones included.
 > - Schultze and Marshall (1993; char. 25), Schultze and Chorn (1997; char. 10, 37, 38, 39, 40), Schultze (2001; char. 25), Schultze (2004; char. 18), Challands *et al*., (2019; char. 14).
@@ -75,18 +73,15 @@
 
 22. Maximum width of skull roof situated posterior to the level of the bone Y1 (supratemporal): (0) yes; (1) no.
 > - Challands *et al*., (2019; char. 22).
-> - *Psarolepis* from ‘-’. to ‘0’.
 
 23. Sutures between median series of skull roofing bones: (0) straight; (1) interdigitate; (2) open.
 > - Schultze and Marshall (1993; char. 3), Schultze (2001; char. 3), Schultze (2004; char. 1), Challands *et al*., (2019; char. 1).
-> - *Powichthys* from ‘-’. to ‘0’.
 
 24. Elongated snout: (0) absent; (1) present.
 > - Challands *et al*., (2019; char. 24).
 
 25. Ossified upper lip in adult: (0) mosaic; (1) fused; (2) absent.
 > - Challands *et al*., (2019; char. 25).
-> - *Glyptolepis* from ‘0’ to ‘1’.
 
 26. Snout/skull roof: (0) with diffuse posterior margin; (1) with sharp posterior margin.
 > - Challands *et al*., (2019; char. 26).
@@ -94,13 +89,11 @@
 27. Supraorbital and infraorbital canals: (0) separated; (1) connected.
 > - Challands *et al*., (2019; char. 27).
 
-28. Lateral line in bone 3: (0) absent; (1) present. > - Challands *et al*., (2019; char. 28).
-> - *Glyptolepis* from ‘0’ to ‘-’.
-> - *Psarolepis* from ‘0’ to ‘-’.
+28. Lateral line in bone 3: (0) absent; (1) present. 
+> - Challands *et al*., (2019; char. 28).
 
 29. Cheek bones: (0) cheek bones 1–11 present; (1) no 11; (2) no 10, 11.
 > - Challands *et al*., (2019; char. 29).
-> - *Psarolepis* from ‘0’ to ‘-’.
 
 30. Length of postorbital cheek: (0) substantially longer than diameter of orbit; (1) equal to or shorter than diameter of orbit.
 > - Challands *et al*., (2019; char. 30).
@@ -110,7 +103,6 @@
 
 32. Bone 6: (0) reaching ventral margin of cheek; (1) excluded from ventral margin of cheek by bone 10.
 > - Challands *et al*., (2019; char. 32).
-> - *Psarolepis* from ‘0’ to ‘-’., no bone 6.
 
 33. Bone 7: (0) approximately equilateral; (1) much longer than deep.
 > - Challands *et al*., (2019; char. 33).
@@ -123,19 +115,18 @@
 
 36. Buccohypophyseal opening (foramen): (0) present; (1) absent.
 > - Challands *et al*., (2019; char. 36).
-> - *Psarolepis* from ‘?’ to ‘0’.
 
-37. B-bone (Median skull roof bone between postparietals): (0) absent; (1) present. > - Schultze (2001; char. 8), Lu *et al*., (2017; char. 242), Challands *et al*., (2019; char. 153).
-38. C-bone(s): (0) paired; (1) single. Character state ‘1’ changed from ‘single/absent’ to differentiate between character 6: C-bone: (0) absent; (1) absent. Lloyd *et al*., (2012; char. 11), Challands *et al*., (2019; char. 156).
-> - *Psarolepis* from ‘?’ to ‘-’.
-> - *Diabolepis* from ‘?’ to ‘-’.
+37. B-bone (Median skull roof bone between postparietals): (0) absent; (1) present. 
+> - Schultze (2001; char. 8), Lu *et al*., (2017; char. 242), Challands *et al*., (2019; char. 153).
+
+38. C-bone(s): (0) paired; (1) single. Character state ‘1’ changed from ‘single/absent’ to differentiate between character 6: C-bone: (0) absent; (1) absent. 
+> - Lloyd *et al*., (2012; char. 11), Challands *et al*., (2019; char. 156).
 
 39. A-bone (median extrascapular): (0) independent A-bone; (1) not present as independent bone; (2) incorporated into skull roof.
 > - Schultze and Marshall (1993; char. 5), Schultze (2001; char. 5), Schultze (2004; char. 3), Lloyd *et al*., (2012; char. 5), Challands *et al*., (2019; char. 160).
-> - *Psarolepis* from ‘1’ to ‘?’.
 
-40. F-bone: (0) not existing; (1) present; (2) place of F+E. > - Schultze and Marshall (1993; char. 15), Schultze (2001; char. 15), Schultze (2004; char. 12), Lloyd *et al*., (2012; char. 15), Challands *et al*., (2019; char. 163).
-> - *Psarolepis* from ‘?’ to ‘-’.
+40. F-bone: (0) not existing; (1) present; (2) place of F+E. 
+> - Schultze and Marshall (1993; char. 15), Schultze (2001; char. 15), Schultze (2004; char. 12), Lloyd *et al*., (2012; char. 15), Challands *et al*., (2019; char. 163).
 
 41. Space taken by K+L or more bones (i.e. K- and L-bones missing if ‘0’): (0) not; (1) yes; (2) in addition M; 3. in addition M+N; 4. in addition J+M; 5. in addition X.
 > - Schultze and Marshall (1993; char. 16), Schultze (2001; char. 16), Schultze (2004; char. 13), Lloyd *et al*., (2012; char. 16), Challands *et al*., (2019; char. 164).
@@ -148,43 +139,39 @@
 
 44. J-bone (parietal): (0) present; (1) space of J+K+L+M; (2) space of I+J; 3. space of J+L+M; 4. space of A+B+I+J, 5. space of J+C.
 > - Schultze and Marshall (1993; char. 22), Schultze and Chorn (1997; char. 2), Schultze (2001; char. 22), Schultze (2004; char. 16), Lloyd *et al*., (2012; char. 22), Challands *et al*., (2019; char. 167).
-> - *Psarolepis* from ‘?’ to ‘0’.
 
 45. Z-bone (lateral extrascapular): (0) behind skull roof; (1) integrated into skull roof; (2) space of Y+Z; (3) lacking as isolated bone.
 > - Schultze and Marshall (1993; char. 29), Schultze and Chorn (1997; char. 12,34), Schultze (2001; char. 29), Schultze (2004; char. 22), Lloyd *et al*., (2012; char. 29), Challands *et al*., (2019; char. 168).
-> - Z-bone is homoglogous with the lateral extrascapular.
+> - Cui *et al.* (2022): "Z-bone is homoglogous with the lateral extrascapular."
 
 46. Lateral line entering skull table through: (0) bone Z; (1) bone I; (2) above bones.
 > - Schultze and Marshall (1993; char. 30), Schultze (2001; char. 30), Schultze (2004; char. 23), Lloyd *et al*., (2012; char. 30), Challands *et al*., (2019; char. 169). 
-> - *Sinodipterus beibei* from ‘?’ to ‘0’.
 
 47. Y-bone: (0) Y1- and Y2-bones present; (1) only one Y-bone; (2) space of X+Y; 3. space of Y+Z.
 > - Schultze and Marshall (1993; char. 31), Schultze and Chorn (1997; char. 13,35), Schultze (2001; char. 31), Schultze (2004; char. 24), Lloyd *et al*., (2012; char. 31), Challands *et al*., (2019; char. 170).
 
-48. X-bone (intertemporal): (0) isolated; (1) space of X+K; (2) space of X+Y; (3) missing; (4) fused with the fronto-ethmoidal shield (like *Porolepis* and *Glyptolepis*) (Jarvik 1972, Figs 38, 43)
+48. X-bone (intertemporal): (0) isolated; (1) space of X+K; (2) space of X+Y; (3) missing; (4) fused with the fronto-ethmoidal shield (like *Porolepis* and *Glyptolepis*) (Jarvik 1972, Figs 38, 43).
 > - Schultze and Marshall (1993; char. 32), Schultze and Chorn (1997; char. 14), Schultze (2001; char. 32), Schultze (2004; char. 25), Lloyd *et al*., (2012; char. 32), Challands *et al*., (2019; char. 171).
-> - *Psarolepis* from ‘?’ to ‘3’.
 
 49. T-bone: (0) present; (1) absent.
 > - Schultze and Marshall (1993; char. 34), Schultze (2001; char. 34), Lloyd *et al*., (2012; char. 34, Challands *et al*., (2019; char. 172).
-> - T bone only in some lungfishes.
+> - Cui *et al*. (2022): "T bone only in some lungfishes."
 
 50.	Bone 10 (qudratojugal): (0) present, (1) absent.
 > -	Schultze and Marshall (1993; char. 36), Schultze (2001; char. 36), Schultze (2004; char. 28), Lloyd *et al*., (2012; char. 36), Challands *et al*., (2019; char. 173). 
+
 51	Bone 11: (0) Present; (1) absent.
 > - Schultze and Marshall (1993; char. 36), Schultze (2001; char. 36), Schultze (2004; char. 28), Lloyd *et al*., (2012; char. 37), Challands *et al*., (2019; char. 174). 
-> - *Psarolepis* from ‘?’ to ‘-’.
 
 52.	Space taken by L+M: (0) not present, (1) present, (2) space of J+L+M, 3. space of J+K+L+M (+ possible N), 4. space of I+J+L+M, 5. space of K+L+M.
 > - Schultze and Marshall (1993; char. 37), Schultze (2001; char. 37), Schultze (2004; char. 29), Lloyd *et al*., (2012; char. 38), Challands *et al*., (2019; char. 175).
-> - *Psarolepis* from ‘?’ to ‘-’.
 
 53.	Tectal (sensu Cloutier & Ahlberg, 1996): absent (0); present (1).
 > - (Zhu *et al* 2002 char. 9).
 
 54.	Number of tectals: (0) one; (1) two or more; (2) absent or no suture.
 > - Zhu and Yu (2002 char. 10), Schultze (2000; char. 2).
-> - Tectals are bones anterior to the orbit that lie between bones carrying the supraorbital canal (nasals) and those carrying the infraorbital canal.
+> - Cui *et al*. (2022): "Tectals are bones anterior to the orbit that lie between bones carrying the supraorbital canal (nasals) and those carrying the infraorbital canal."
 
 55.	Number of supraorbitals (Revised): (0) one (0); (1) two; (2) more than two; 3. missing.
 > - Zhu and Yu (2002 char. 12), Schultze (2000; char. 3).
@@ -197,19 +184,16 @@
 
 58.	Supratemporal (Y1 bone): (0) present; (1) absent.
 > - Schultze (2000; char. 8).
-> - *Porolepis* from ‘1’ to ‘0’.
-> - *Glyptolepis* from ‘1’ to ‘0’.
 
 59.	Postparietal and cheek contact: (0) absent; (1) present.
 > - Schultze (2000; char. 9).
-> - *Porolepis* from ‘1’ to ‘0’.
-> - *Glyptolepis* from ‘1’ to ‘0’.
  
 60.	Dermal joint between parietal and postparietal: (0) absent;(1) present.
 > - Zhu and Yu (2002 char. 20), Schultze (2000; char. 10).
+
 61.	Processus dermintermedius: (0) absent; (1) present.
 > - Zhu and Yu (2002 char. 24), Schultze (2000; char. 11).
-> -(This is a process of dermal bone that extends into the opening of the nostril (Jarvik 1972, Fig 67, p162). It is very hard to determine presence or absence.
+> - Cui *et al*. (2022): "This is a process of dermal bone that extends into the opening of the nostril (Jarvik 1972, Fig 67, p162). It is very hard to determine presence or absence."
 
 62.	Ethmoid commissure (sensory canal): (0) present; (1) absent.
 > - Zhu and Yu (2002 char. 30), Schultze (2000; char. 13).
@@ -242,7 +226,7 @@
 > - Schultze (2000; char. 23).
 
 72.	Squamosal, quadratojugal and preopercular bones: (0) Separated; (1) fused.
-> - Lu *et al*. (2017 char. 54, status is inverse) Zhu and Yu (2002; char. 46), Schultze (2000; char. 24).
+> - Lu *et al*. (2017 char. 54, status is inverse), Zhu and Yu (2002; char. 46), Schultze (2000; char. 24).
  
 73.	Subsquamosals: (0) absent; (1) present.
 >- Lu *et al*., (2017; char. 55), Zhu and Yu (2002; char. 48), Schultze (2000; char. 25).
@@ -285,28 +269,24 @@
 > - Challands *et al*., (2019; char. 40).
 
 86.	Ratio of posterior length to anterior length of parasphenoid: (0) less than 1 or about 1; (1) greater than 1. 
-> - This distinction is usually made between the body (or corpus) of the parasphenoid and the stalk. In some taxa this distinction is very clear. But in many cases, this is not so obvious (e.g. *Dipterus*).
 > - Challands *et al*., (2019; char. 41).
+> - Cui *et al*. (2022): "This distinction is usually made between the body (or corpus) of the parasphenoid and the stalk. In some taxa this distinction is very clear. But in many cases, this is not so obvious (e.g. *Dipterus*)."
 
 87.	Furrow on ventral surface of parasphenoid stalk: (0) absent; (1) present. 
 > - Challands *et al*., (2019; char. 42).
-> - *Psarolepis* from ‘0’ to ‘-’.
 
 88.	Furrow on dorsal surface of parasphenoid stalk: (0) absent; (1) present.
 > - Challands *et al*., (2019; char. 43).
 
 89.	Parasphenoid bearing denticle-lined ascending process: (0) no; (1) yes. 
 > - Lu *et al*., (2017; char. 113), Challands *et al*., (2019; char. 44).
-> - *Chirodipterus wildungensis* from ‘?’ to ‘0’ (Säve-Söderbergh, 1952) Fig. 10, p. 22.
 
 90.	Dental material on parasphenoid: (0) present; (1) absent. 
 > - Challands *et al*., (2019; char. 45).
-> - *Psarolepis* from ‘?’ to ‘0’.
 
 91.	Parasphenoid reaching posterior margin of occiput: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 46).
-> - This assumes the presence of a stalk. Can only be coded for taxa with a stalked paraphenoid.
-> - *Chirodipterus wildungensis* from ‘?’ to ‘1’ (Säve-Söderbergh, 1952) Fig. 10, p. 22
+> - Cui *et al*. (2022): "This assumes the presence of a stalk. Can only be coded for taxa with a stalked paraphenoid."
 
 92.	Shape of parasphenoid: (0) anteriad elongated, (1) plow-shaped, (2) with lozenge, 3. round anterior portion, 4. angled anterior portion. 
 > - Schultze and Marshall (1993; char. 49), Schultze and Chorn (1997; char. 18), Schultze (2001; char. 49), Schultze (2004; char. 34), Challands *et al*., (2019; char. 47).
@@ -322,19 +302,15 @@
 
 96.	Lateral angle of parasphenoid: (0) no angle, (1) angular, (2) rounded, 3. reflexed. 
 > - Schultze and Marshall (1993; char. 48), Schultze (2001; char. 48), Schultze (2004; char. 33), Challands *et al*., (2019; char. 51).
-> - *Psarolepis* from ‘-’. to ‘0’
 
 98.	(Posterior) end of parasphenoid (stalk): (0) single point; (1) bifid; (2) trifid with lateral projections. 
 > - Challands *et al*., (2019; char. 52).
-> - *Chirodipterus wildungensis* from ‘?’ to ‘1’ (Säve-Söderbergh, 1952) Fig. 10, p. 22.
 
-98.	Margins of posterior stalk of parasphenoid: (0) converge to posterior angle; (1) subparallel. > - Challands *et al*., (2019; char. 53).
-> - *Psarolepis* from ‘0’ to ‘-’.
-> - *Chirodipterus wildungensis* from ‘?’ to ‘0’ (Säve-Söderbergh, 1952) Fig. 10, p. 22.
+98.	Margins of posterior stalk of parasphenoid: (0) converge to posterior angle; (1) subparallel. 
+> - Challands *et al*., (2019; char. 53).
 
 99. “Vomer” sensu Miles (1977): (0) present; (1) absent. 
 > - Challands *et al*., (2019; char. 54).
-> - *Chirodipterus wildungensis* from ‘?’ to ‘0’ (Säve-Söderbergh, 1952) Fig. 10, p. 22.
 
 100. Vomer: (0) Paired; (1) Unpaired. 
 > - *Cui et al*., (2022, char. 100).
@@ -344,11 +320,10 @@
 
 102. “Dermopalatine 1” sensu Miles (1977) / pterygoid: (0) fused to pterygoid; (1) sutured to pterygoid; (2) isolated.
 > - Challands *et al*., (2019; char. 56).
-> - *Psarolepis* from ‘1’ to ‘?’
 
 103.	Series anterolateral to pterygoids (dermopalatine, extopterygoid, and vomer): (0) present, with tusks; (1) present with denticles or dentine sheet; (2) present with tooth row. 
 > - Challands *et al*., (2019; char. 57).
-> - *Cui et al*., (2022): "This is interpreted as meaning ‘dental’ series anterolateral to pterygoids. Here, we consider the series anterolateral to pterygoids include the dermopalatine, extopterygoid, and vomer."
+> - Cui *et al*. (2022): "This is interpreted as meaning ‘dental’ series anterolateral to pterygoids. Here, we consider the series anterolateral to pterygoids include the dermopalatine, extopterygoid, and vomer."
 
 104.	Parasphenoid separating pterygoids along more than half of their length: (0) yes; (1) no. 
 > - Challands *et al*., (2019; char. 58).
@@ -423,11 +398,11 @@
 
 127.	Adsymphysial plate (MdY bone): (0) present, but fused, (1) isolated, sutured bone, (2) missing. 
 > - Schultze and Marshall (1993; char. 66), Schultze (2001; char. 66), Schultze (2004; char. 45), Challands *et al*., (2019; char. 67). 
-> - Cui *et al*., (2019)：“Here we consider the adsymphysial is homologized with the parasymphysial dental plate in osteolepiforms, porolepiforms.”
+> - Cui *et al*. (2022)：“Here we consider the adsymphysial is homologized with the parasymphysial dental plate in osteolepiforms, porolepiforms.”
 
 128.	 Parasymphysial tooth whorl: (0) tooth whorl; (1) denticles; (2) plate with a tusk.  
 > - Cui *et al*., (2022; char. 128).
-> - Cui *et al*., (2019)：“The parasymphysial and the adsymphysial are homologous. And they all belong to the coronoid series."
+> - Cui *et al*. (2022)：“The parasymphysial and the adsymphysial are homologous. And they all belong to the coronoid series."
 
 129.	“Dentary”: (0) unpaired; (1) paired; (2) absent. Some lungfishes have the unpaired ‘dentary’ between the left and right lower jaws. 
 > - Challands *et al*., (2019; char. 68).
@@ -471,9 +446,11 @@
 142.	Shape of glenoid fossa: (0) double structure; (1) single groove.
 > - Challands *et al*., (2019; char. 81).
 
-143.	Angular (infradentary 3) and surangular (infradentary 4): (0) separate; (1) fused into a single long bone. > - Challands *et al*., (2019; char. 82).
+143.	Angular (infradentary 3) and surangular (infradentary 4): (0) separate; (1) fused into a single long bone. 
+> - Challands *et al*., (2019; char. 82).
 
-144.	 Splenial (infradentary 1) and postsplenial (infradentary 2): (0) separate; (1) fused. > - Challands *et al*., (2019; char. 83).
+144.	Splenial (infradentary 1) and postsplenial (infradentary 2): (0) separate; (1) fused. 
+> - Challands *et al*., (2019; char. 83).
 
 145.	Teeth on upper lip: (0) shedding teeth; (1) statodont tooth row; (2) teeth absent. > - Challands *et al*., (2019; char. 84).
 
@@ -576,7 +553,7 @@
 
 178.	Petrodentine: (0) absent; (1) present.  
 > - Challands *et al*., (2019; char. 101).
-> - Cui *et al*., (2022):" Petrodentine is a highly mineralized tissue noticeably analogous to that of enameloid, and is deposited intermittently in a proximal direction by the sole participation of mesenchymal petroblasts."
+> - Cui *et al*. (2022): "Petrodentine is a highly mineralized tissue noticeably analogous to that of enameloid, and is deposited intermittently in a proximal direction by the sole participation of mesenchymal petroblasts."
 
 179.	Sharp “additive” mesial and posterior edges on tooth plates: (0) absent; (1) present. 
 > - Challands *et al*., (2019; char. 102).
@@ -686,134 +663,196 @@
 214.	Separate ossified canals for pineal and parapineal organs: (0) yes; (1) no. 
 > - Challands *et al*., (2019; char. 135). 
 
-215.	Foramen for N. II above the level of foramen sphenoticum minus: (0) no; (1) yes. > - Challands *et al*., (2019; char. 136).
+215.	Foramen for N. II above the level of foramen sphenoticum minus: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 136).
 
-216.	Foramen for N. III above level of foramen sphenoticum minus: (0) no; (1) yes. > - Challands *et al*., (2019; char. 137).
+216.	Foramen for N. III above level of foramen sphenoticum minus: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 137).
 
-217.	Ventral face of nasal capsule: (0) complete; (1) perforated by fenestration that opens posteroventrolaterally (fenestra ventralis); (2) solum nasi completely unossified. (**Ordered**). > - Challands *et al*., (2019; char. 138).
+217.	Ventral face of nasal capsule: (0) complete; (1) perforated by fenestration that opens posteroventrolaterally (fenestra ventralis); (2) solum nasi completely unossified. (**Ordered**). 
+> - Challands *et al*., (2019; char. 138).
 
-218.	Nasal capsule set well posterior to snout margin or preoral eminence: (0) no; (1) yes. > - Challands *et al*., (2019; char. 139).
+218.	Nasal capsule set well posterior to snout margin or preoral eminence: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 139).
 
-219.	Enlarged, knob-shaped protrusion on the posteroventral surface of the quadrate (hyosuspensory eminence of Miles, 1977): (0) absent; (1) present. > - Challands *et al*., (2019; char. 140).
+219.	Enlarged, knob-shaped protrusion on the posteroventral surface of the quadrate (hyosuspensory eminence of Miles, 1977): (0) absent; (1) present. 
+> - Challands *et al*., (2019; char. 140).
 
-22(0)	Adlateral cristae (posterodorsal extensions of the lateral cristae that connect the otic region of the neurocranium to the visceral surface of the dermal skull roof) present: (0) yes; (1) no. > - Challands *et al*., (2019; char. 151).
+220.	Adlateral cristae (posterodorsal extensions of the lateral cristae that connect the otic region of the neurocranium to the visceral surface of the dermal skull roof) present: (0) yes; (1) no.
+> - Challands *et al*., (2019; char. 151).
 
-22(1)	Foramen for the internal carotid anterior to that for the efferent pseudobranchial artery: (0) no; (1) yes. > - Challands *et al*., (2019; char. 154).
+221.	Foramen for the internal carotid anterior to that for the efferent pseudobranchial artery: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 154).
 
-22(2)	Ossification of neurocranium: (0) completely ossified; (1) poorly-ossified/cartilaginous. > - Challands *et al*., (2019; char.155).
+222.	Ossification of neurocranium: (0) completely ossified; (1) poorly-ossified/cartilaginous. 
+> - Challands *et al*., (2019; char.155).
 
-223.	Kinesis between nasal region and braincase behind it: (0) absent; (1) present. > - Schultze and Marshall (1993; char. 4), Schultze (2001; char. 4), Schultze (2004; char. 2), Lloyd *et al*., (2012; char. 4), Challands *et al*., (2019; char. 159).
+223.	Kinesis between nasal region and braincase behind it: (0) absent; (1) present. 
+> - Schultze and Marshall (1993; char. 4), Schultze (2001; char. 4), Schultze (2004; char. 2), Lloyd *et al*., (2012; char. 4), Challands *et al*., (2019; char. 159).
 
-224.	Supraoccipital commissure: (0) through Z-G-I-A-I-G-Z; (1) through I-A-I; (2) through I-B-I; 3. through Z-B-Z; 4. above bones. > - Schultze and 1Marshall (1993; char. 6), Schultze and Chorn (1997; char. 3), Schultze (2001; char. 6), Schultze (2004; char. 4), Lloyd *et al*., (2012; char. 6), Challands *et al*., (2019; char. 161).
+224.	Supraoccipital commissure: (0) through Z-G-I-A-I-G-Z; (1) through I-A-I; (2) through I-B-I; 3. through Z-B-Z; 4. above bones. 
+> - Schultze and 1Marshall (1993; char. 6), Schultze and Chorn (1997; char. 3), Schultze (2001; char. 6), Schultze (2004; char. 4), Lloyd *et al*., (2012; char. 6), Challands *et al*., (2019; char. 161).
 
-225.	Buccohypophysial foramen of parasphenoid: (0) single; (1) double. > - Schultze (2000; char. 37).
-*Diabolepis* from ‘?’ to ‘0’
+225.	Buccohypophysial foramen of parasphenoid: (0) single; (1) double. 
+> - Schultze (2000; char. 37).
 
-226.	Parasphenoid: (0) protruding forward in ethmoid region of endocranium; (1) behind ethmoid region. > - Zhu and Yu (2002; char. 93), Schultze (2000; char. 38).
+226.	Parasphenoid: (0) protruding forward in ethmoid region of endocranium; (1) behind ethmoid region. 
+> - Zhu and Yu (2002; char. 93), Schultze (2000; char. 38).
 
-227.	Dorsal endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. > - Zhu and Yu (2002; char. 98), Schultze (2000; char. 39).
+227.	Dorsal endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. 
+> - Zhu and Yu (2002; char. 98), Schultze (2000; char. 39).
 
-228.	Ventral endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
+228.	Ventral endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. 
+Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
 
-229.	Orientation of intracranial joint or fissure: (0) vertical or anteroventrally slanting; (1) posteroventrally slanting. > - Zhu and Yu (2002; char. 100), Schultze (2000; char. 41).
+229.	Orientation of intracranial joint or fissure: (0) vertical or anteroventrally slanting; (1) posteroventrally slanting. 
+> - Zhu and Yu (2002; char. 100), Schultze (2000; char. 41).
 
-23(0)	Position of intracranial joint or fissure relative to cranial nerves: (0) joint through profundus foramen; (1) joint through trigeminal foramen. > - Zhu and Yu (2002; char. 101), Schultze (2000; char. 42).
+230.	Position of intracranial joint or fissure relative to cranial nerves: (0) joint through profundus foramen; (1) joint through trigeminal foramen. 
+> - Zhu and Yu (2002; char. 101), Schultze (2000; char. 42).
 
-23(1)	Processus descendens of sphenoid: (0) absent; (1) present. > - Zhu and Yu (2002; char. 102), Schultze (2000; char. 43).
+231.	Processus descendens of sphenoid: (0) absent; (1) present. 
+> - Zhu and Yu (2002; char. 102), Schultze (2000; char. 43).
 
-23(2)	Fossa autopalatina: (0) absent; (1) present. > - Schultze (2000; char. 44).
+232.	Fossa autopalatina: (0) absent; (1) present. 
+> - Schultze (2000; char. 44).
 
-233.	Vomeral area with grooves and raised areas: (0) absent; (1) present. > - Zhu and Yu (2002; char. 106), Schultze (2000; char. 45).
-> - *Psarolepis* from ‘1’ to ‘0’ Yu 1998, fig. 3
+233.	Vomeral area with grooves and raised areas: (0) absent; (1) present. 
+> - Zhu and Yu (2002; char. 106), Schultze (2000; char. 45).
 
-234.	Fenestra ventralis: (0) absent; (1) large, medially situated; (2) common ventral fenestra for anterior and posterior nostrils. > - Zhu and Yu (2002; char. 107), Schultze (2000; char. 46).
+234.	Fenestra ventralis: (0) absent; (1) large, medially situated; (2) common ventral fenestra for anterior and posterior nostrils. 
+> - Zhu and Yu (2002; char. 107), Schultze (2000; char. 46).
 
-235.	Large median opening and several small dorsolateral openings in postnasal wall: (0) absent; (1) present. > - Zhu and Yu (2002; char. 108), Schultze (2000; char. 47).
+235.	Large median opening and several small dorsolateral openings in postnasal wall: (0) absent; (1) present. 
+> - Zhu and Yu (2002; char. 108), Schultze (2000; char. 47).
 
-236.	Postorbital process on braincase: (0) present; (1) absent. Lu *et al*., (2017; char. 132） (statuses are inverse), Schultze (2000; char. 48).
+236.	Postorbital process on braincase: (0) present; (1) absent. 
+> - Lu *et al*., (2017; char. 132) (statuses are inverse), Schultze (2000; char. 48).
 
-237.	Basicranial fenestra with arcual plates: (0) absent; (1) present. > - Zhu and Yu (2002; char. 114), Schultze (2000; char. 49).
+237.	Basicranial fenestra with arcual plates: (0) absent; (1) present. 
+> - Zhu and Yu (2002; char. 114), Schultze (2000; char. 49).
 
-238.	Otico-sphenoid bridge: (0) present; (1) absent. > - Schultze (2000; char. 50).
+238.	Otico-sphenoid bridge: (0) present; (1) absent. 
+> - Schultze (2000; char. 50).
 
-239.	Posttemporal fossae: (0) absent; (1) present. > - Schultze (2000; char. 51).
+239.	Posttemporal fossae: (0) absent; (1) present. 
+> - Schultze (2000; char. 51).
 
-24(0)	Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent. Lu *et al*., (2017; char. 118).
+240.	Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent. 
+> - Lu *et al*., (2017; char. 118).
 
-24(1)	Spiracular groove on basicranial surface: (0) absent; (1) Present. Lu *et al*., (2017; char. 124).
+241.	Spiracular groove on basicranial surface: (0) absent; (1) Present. 
+> - Lu *et al*., (2017; char. 124).
 
-24(2)	Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal. Lu *et al*., (2017; char. 268).
+242.	Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal. 
+> - Lu *et al*., (2017; char. 268).
 
-243.	Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium Lu *et al*., (2017; char. 124).
+244.	Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium. 
+> - Lu *et al*., (2017; char. 124).
 
-244.	Articulation between neurocranium and palatoquadrate posterodorsal to orbit
-(suprapterygoid articulation): (0) absent (1) present. Lu *et al*., (2017; char. 147).
+245.	Articulation between neurocranium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): (0) absent (1) present. 
+> - Lu *et al*., (2017; char. 147).
 
-245.	Vestibular fontanelle: (0) absent (1) present. Lu *et al*., (2017; char. 171).
-Porolepis from ‘?’ to ‘1’, (Jarvik, 1972; Plate 10 fig.3)
+246.	Vestibular fontanelle: (0) absent (1) present. 
+> - Lu *et al*., (2017; char. 171).
 
-246.	Paired pineal and parapineal tracts: (0) absent; (1) present. Lu *et al*., (2017; char. 266).
+247.	Paired pineal and parapineal tracts: (0) absent; (1) present. 
+> - Lu *et al*., (2017; char. 266).
 
-247.	Lateral cranial canal: (0) absent, (1) present. Lu *et al*., (2017; char. 155).
+248.	Lateral cranial canal: (0) absent, (1) present. 
+> - Lu *et al*., (2017; char. 155).
 
+## Postcranium
+248.	Cleithrum and clavicle: (0) with cosmine; (1) without cosmine. 
+> - Lu *et al*., (2017; char. 142).
 
-## Postcranium (Fins and girdles)
-248.	Cleithrum and clavicle: (0) with cosmine; (1) without cosmine. Lu *et al*., (2017; char. 142).
-> - *Psarolepis* from ‘?’ to ‘0’ Zhu 1999, fig. 2
-249.	Median fin morphologies: (0) all separate and short-based; (1) posterior dorsal fin long-based; (2) both dorsal fins long-based uninterrupted fin fringe. Lu *et al*., (2017; char. 143).
-25(0)	Posterior dorsal fin support: (0) all radials carried by basal plate; (1) anterior radials on basal plate, posterior radials free; (2) no basal plate. Lu *et al*., (2017; char. 144).
-25(1)	Anal fin support: (0) trapezoidal with no distinct shaft; (1) cylindrical proximal shaft and triangular distal plate. Lu *et al*., (2017; char. 145).
-25(2)	Median fin radials: (0) cylindrical; (1) hourglass-shaped. Lu *et al*., (2017; char. 146).
-253.	Dorsal cleithrum (AL of the Placodermi), ventral cleithruin (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused. > - Zhu and Yu (2002; char. 120), Schultze (2000; char. 52).
-254.	Interclavicle: absent (0); present (1). > - Zhu and Yu (2002; char. 126), Schultze (2000; char. 53).
-255.	Proximal articular surface of humerus: (0) concave; (1) flat: convex. > - Schultze (2000; char. 54).
-256.	Basal plates in dorsal fin supports: (0) absent; (1) present. > - Schultze (2000; char. 55).
-257.	 Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): (0) spatulate; (1) pointed. Lu *et al*., (2017; char. 183).
+249.	Median fin morphologies: (0) all separate and short-based; (1) posterior dorsal fin long-based; (2) both dorsal fins long-based uninterrupted fin fringe. 
 
+250.	Posterior dorsal fin support: (0) all radials carried by basal plate; (1) anterior radials on basal plate, posterior radials free; (2) no basal plate. Lu *et al*., (2017; char. 144).
+> - Lu *et al*., (2017; char. 143).
 
-Postcranium (Axial skeleton)
-258.	Vertebral column: (0) unconstricted notochord; (1) disc centra. > - Challands *et al*., (2019; char. 147).
-Adelargo schultzei from ‘?’ to ‘0’ (Johanson and Ritchie, 2000, Fig. 3D)
-259.	Neural arches and spines: (0) separate; (1) fused. > - Challands *et al*., (2019; char. 148).
-Adelargo schultzei from ‘?’ to ‘0’ (Johanson and Ritchie, 2000, Fig. 3D)
+252.	Anal fin support: (0) trapezoidal with no distinct shaft; (1) cylindrical proximal shaft and triangular distal plate. 
+> - Lu *et al*., (2017; char. 145).
 
+253.	Median fin radials: (0) cylindrical; (1) hourglass-shaped. 
+> - Lu *et al*., (2017; char. 146).
 
-Postcranium (Scale and histology)
-26(0)	Scales: (0) rhombic; (1) round. > - Schultze (2000; char. 56), Challands *et al*., (2019; char. 149).
-Adelargo schultzei from ‘?’ to ‘1’ (Johanson and Ritchie, 2000, Fig. 3C)
-Chirodipterus onawayensis from ‘?’ to ‘1’ (Schultze, 1982, Fig. 3) 
-Holodipterus elderae from ‘?’ to ‘1’ (Pridmore 1994, p. 147)
-26(1)	Cosmine on scales: (0) present; (1) absent. > - Challands *et al*., (2019; char. 150).
-> - *Psarolepis* from ‘?’ to ‘0’
-Adelargo schultzei from ‘?’ to ‘1’ (Johanson and Ritchie, 2000, Fig. 3C)
-Chirodipterus onawayensis from ‘?’ to ‘0’ (Schultze, 1982, p 159) 
-Holodipterus elderae from ‘?’ to ‘1’ (Pridmore 1994, p. 147)
-Tarachomylax oepiki from ‘1’ to ‘0’ (Barwick *et al*., 1997, Fig. 6)
-26(2)	Enamel: (0) single-layered; (1) multi-layered. Lu *et al*., (2017; char. 6).
-263.	Anterodorsal process on scale: (0) absent; (1) present. Lu *et al*., (2017; char. 20).
-264.	Plicidentine: (0) absent; (1) present. Lu *et al*., (2017; char. 86).
-265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. Lu *et al*., (2017; char. 237).
+254.	Dorsal cleithrum (AL of the Placodermi), ventral cleithruin (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused. 
+> - Zhu and Yu (2002; char. 120), Schultze (2000; char. 52).
 
+255.	Interclavicle: absent (0); present (1). 
+> - Zhu and Yu (2002; char. 126), Schultze (2000; char. 53).
 
-Oral elements (Hyoid and Gill skeletons)
-266.	Ceratohyal (revised): (0) short and stout, (1) long; (2) dumbbell-shaped. > - Schultze and Marshall (1993; char. 79), Schultze and Chorn (1997; char. 26), Schultze (2001; char. 79), Schultze (2004; char. 51), Lloyd *et al*., (2012; char. 80). We add state 2 (dumbbell-shaped) to apply to some dumbbell-shaped ceratohyal in some lungfishes.
-Griphognathus whitei from ‘1’ to ‘0’ (Miles 1977, p. 265)
-Jarvikia arctica from ‘?’ to ‘1’ (Lehman, 1959, p. 48)
-Robinsondipterus longi from ‘?’ to ‘0’ (Long 2010, Fig. 9)
-Soederberghia groenlandica from ‘?’ to ‘0’ (Friedman, 2008, Fig. 4, p. 183)
-Rhinodipterus kimberleyensis from ‘?’ to ‘0’ (Clement 2012, Fig. 6)
-Laccognathus from ‘0’ to ‘1’ (Vorobyeva 2006, Fig. 7)
-Holoptychius from ‘0’ to ‘1’ (Cloutier 1996 Fig. 7)
-Gogonasus from ‘0’ to ‘1’ (Long 1997 Fig. 46)
-267.	Basihyal: (0) absent, (1) present. New character.
-268.	Basihyal: (0) short without denticles; (1) long and denticulated; (2) short and denticulated. > - Schultze and Marshall (1993; char. 80), Schultze (2001; char. 80), Schultze (2004; char. 52), Lloyd *et al*., (2012; char. 81), Challands *et al*., (2019; char. 186).
-*Youngolepis* from ‘?’ to ‘0’
-269.	Articulation facet of the hyomandibular: (0) single-headed; (1) double-headed. Lu *et al*., (2017; char. 57).
-27(0)	Oriention of the hyomandibular: (0) lean anteriorly, (1) relatively vertically, (2) relatively posteriorly, 3. relatively horizontally. New character.
-27(1)	Shape of the hyomandibular: (0) rod-like; (1) triangular. New character.
-27(2)	Urohyal morphology: (0) dorsoventrally compressed and rod-like, may bifurcate posteriorly; (1) vertical plate. Lu *et al*., (2019; char. 167)
-273.	Number of basibranchials: (0) one; (1) two. New character.
-274.	Hypobranchials connected with the basibranchials: (0) three; (1) four; (2) five. New character. 
-275.	Hypobranchial 4: (0) connected with hypobranchial 3; (1) not connected with hypobranchial 3. New character.
-276.	Hypohyal connection with basibranchial: (0) via anterior facet on the basibranchial; (1) via lateral facet on the basibranchial. New character.
-277.	Hypohyal: (0) flat; (1) curved and tapering. New character.
+256.	Proximal articular surface of humerus: (0) concave; (1) flat: convex. 
+> - Schultze (2000; char. 54).
+
+257.	Basal plates in dorsal fin supports: (0) absent; (1) present. 
+> - Schultze (2000; char. 55).
+
+258.	 Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): (0) spatulate; (1) pointed. 
+> - Lu *et al*., (2017; char. 183).
+
+259.	Vertebral column: (0) unconstricted notochord; (1) disc centra. 
+> - Challands *et al*., (2019; char. 147).
+
+260.	Neural arches and spines: (0) separate; (1) fused. 
+> - Challands *et al*., (2019; char. 148).
+
+## Postcranium (Scale and histology)
+
+260.	Scales: (0) rhombic; (1) round. 
+> - Schultze (2000; char. 56), Challands *et al*., (2019; char. 149).
+
+261.	Cosmine on scales: (0) present; (1) absent. 
+> - Challands *et al*., (2019; char. 150).
+
+262.	Enamel: (0) single-layered; (1) multi-layered. 
+> - Lu *et al*., (2017; char. 6).
+
+263.	Anterodorsal process on scale: (0) absent; (1) present. 
+> - Lu *et al*., (2017; char. 20).
+
+264.	Plicidentine: (0) absent; (1) present. 
+> - Lu *et al*., (2017; char. 86).
+
+265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
+> - Lu *et al*., (2017; char. 237).
+
+## Oral elements (Hyoid and Gill skeletons)
+
+266.	Ceratohyal (revised): (0) short and stout, (1) long; (2) dumbbell-shaped. 
+> - Schultze and Marshall (1993; char. 79), Schultze and Chorn (1997; char. 26), Schultze (2001; char. 79), Schultze (2004; char. 51), Lloyd *et al*., (2012; char. 80).
+> - Cui *et al*.(2022) added state 2 (dumbbell-shaped) to apply to some dumbbell-shaped ceratohyal in some lungfishes.
+
+267.	Basihyal: (0) absent, (1) present. 
+> - Cui *et al*., (2022; char. 267)
+
+268.	Basihyal: (0) short without denticles; (1) long and denticulated; (2) short and denticulated. 
+> - Schultze and Marshall (1993; char. 80), Schultze (2001; char. 80), Schultze (2004; char. 52), Lloyd *et al*., (2012; char. 81), Challands *et al*., (2019; char. 186).
+
+269.	Articulation facet of the hyomandibular: (0) single-headed; (1) double-headed. 
+> - Lu *et al*., (2017; char. 57).
+
+270.	Oriention of the hyomandibular: (0) lean anteriorly, (1) relatively vertically, (2) relatively posteriorly, 3. relatively horizontally. 
+> - Cui *et al*., (2022; char. 270)
+
+271.	Shape of the hyomandibular: (0) rod-like; (1) triangular. 
+> - Cui *et al*., (2022; char. 271)
+
+272.	Urohyal morphology: (0) dorsoventrally compressed and rod-like, may bifurcate posteriorly; (1) vertical plate. 
+> - Lu *et al*., (2019; char. 167)
+
+273.	Number of basibranchials: (0) one; (1) two. 
+> - Cui *et al*., (2022; char. 273)
+
+274.	Hypobranchials connected with the basibranchials: (0) three; (1) four; (2) five.  
+> - Cui *et al*., (2022; char. 274)
+
+275.	Hypobranchial 4: (0) connected with hypobranchial 3; (1) not connected with hypobranchial 3. 
+> - Cui *et al*., (2022; char. 275)
+
+276.	Hypohyal connection with basibranchial: (0) via anterior facet on the basibranchial; (1) via lateral facet on the basibranchial. 
+> - Cui *et al*., (2022; char. 276)
+
+277.	Hypohyal: (0) flat; (1) curved and tapering. 
+> - Cui *et al*., (2022; char. 277)
