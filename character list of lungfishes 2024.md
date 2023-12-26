@@ -532,140 +532,232 @@
 > - Lu *et al*., (2017; char. 90).
 
 ## Oral elements (Tooth plate)
-164.	Tooth plates: (0) present; (1) absent. > - Challands *et al*., (2019; char. 87).
+164.	Tooth plates: (0) present; (1) absent. 
+> - Challands *et al*., (2019; char. 87).
 
-Chirodipterus wildungensis from ‘?’ to ‘1’ (Säve-Söderbergh, 1952) Fig. 10, p. 22
+165.	Morphology of teeth on pterygoid and prearticular: (0) round/conical; (1) forming distinct proximodistal cutting ridge. 
+> - Challands *et al*., (2019; char. 88).
 
-165.	Morphology of teeth on pterygoid and prearticular: (0) round/conical; (1) forming distinct proximodistal cutting ridge. > - Challands *et al*., (2019; char. 88).
+166.	Addition of large dentine elements at regular intervals to lateral margin of pterygoid/ prearticular: (0) yes; (1) no. 
+> - Challands *et al*., (2019; char. 89).
 
-166.	Addition of large dentine elements at regular intervals to lateral margin of pterygoid/ prearticular: (0) yes; (1) no. > - Challands *et al*., (2019; char. 89).
+167.	Nature of large dentine elements: (0) teeth; (1) petrodentine cores; (2) thick irregular dentine; 3. ridges narrow regular dentine ridges. 
+> - Challands *et al*., (2019; char. 90).
 
-167.	Nature of large dentine elements: (0) teeth; (1) petrodentine cores; (2) thick irregular dentine; 3. ridges narrow regular dentine ridges. > - Challands *et al*., (2019; char. 90).
+168.	Addition of marginal blisters to pterygoid/prearticular: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 91).
 
-168.	Addition of marginal blisters to pterygoid/prearticular: (0) no; (1) yes. > - Challands *et al*., (2019; char. 91).
+169.	Shape of marginal blisters: (0) bead-shaped; (1) elongated strips. 
+> - Challands *et al*., (2019; char. 92).
 
-169.	Shape of marginal blisters: (0) bead-shaped; (1) elongated strips. > - Challands *et al*., (2019; char. 92).
+170.	Addition of inter-row dentine along edge of pterygoid/prearticular: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 93).
 
-17(0)	Addition of inter-row dentine along edge of pterygoid/prearticular: (0) no; (1) yes. > - Challands *et al*., (2019; char. 93).
+171.	Nature of inter-row dentine: (0) always fuses or wears down into sheet; (1) separate denticles persist between some tooth rows. 
+> - Challands *et al*., (2019; char. 94).
 
-17(1)	Nature of inter-row dentine: (0) always fuses or wears down into sheet; (1) separate denticles persist between some tooth rows. > - Challands *et al*., (2019; char. 94).
+172.	Pulp cavity: (0) tooth plates without pulp cavity; (1) with pulp cavity. 
+> - Challands *et al*., (2019; char. 95).
 
-17(2)	Pulp cavity: (0) tooth plates without pulp cavity; (1) with pulp cavity. > - Challands *et al*., (2019; char. 95).
+173.	Diffuse dentine deposition on surface of palate/lower jaw: (0) yes, diffusely across whole palate; (1) no; (2) redeposition of denticles only within “footprint” (outer circumference) of resorbed tooth plate. 
+> - Challands *et al*., (2019; char. 96).
 
-173.	Diffuse dentine deposition on surface of palate/lower jaw: (0) yes, diffusely across whole palate; (1) no; (2) redeposition of denticles only within “footprint” (outer circumference) of resorbed tooth plate. > - Challands *et al*., (2019; char. 96).
+174.	Relative areas of denticle field/thin dentine sheet on palate: (0) all or nearly all denticles; (1) both dentine sheet and denticles; (2) mostly dentine sheet; 3. denticles outside tooth plate; 4 dentine sheet on resorption areas within tooth plate. 
+> - Challands *et al*., (2019; char. 97).
 
-174.	Relative areas of denticle field/thin dentine sheet on palate: (0) all or nearly all denticles; (1) both dentine sheet and denticles; (2) mostly dentine sheet; 3. denticles outside tooth plate; 4 dentine sheet on resorption areas within tooth plate. > - Challands *et al*., (2019; char. 97).
-*Youngolepis* from ‘0’ to ‘3’
+175.	 Relative areas of denticle field and dentine sheet on lower jaw: (0) all or nearly all denticles; (1) both denticles and dentine sheet; (2) mostly dentine sheet. 
+> - Challands *et al*., (2019; char. 98).
 
-175.	 Relative areas of denticle field and dentine sheet on lower jaw: (0) all or nearly all denticles; (1) both denticles and dentine sheet; (2) mostly dentine sheet. > - Challands *et al*., (2019; char. 98).
+176.	Resorption of dentition on pterygoid/prearticular plate origin: (0) little or no resorption, origin left unmodified; (1) extensive resorption, removing mesial parts of plate; (2) resorption and deposition of dentine sheet within toothplate only, not crossing edges. 
+> - Challands *et al*., (2019; char. 99).
 
-176.	Resorption of dentition on pterygoid/prearticular plate origin: (0) little or no resorption, origin left unmodified; (1) extensive resorption, removing mesial parts of plate; (2) resorption and deposition of dentine sheet within toothplate only, not crossing edges. > - Challands *et al*., (2019; char. 99).
-*Youngolepis* from ‘?’ to ‘0’
+177.	Distinct vertically growing “heel” on prearticular: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 100).
 
-177.	Distinct vertically growing “heel” on prearticular: (0) no; (1) yes. > - Challands *et al*., (2019; char. 100).
+178.	Petrodentine: (0) absent; (1) present.  
+> - Challands *et al*., (2019; char. 101).
+> - Cui *et al*., (2022):" Petrodentine is a highly mineralized tissue noticeably analogous to that of enameloid, and is deposited intermittently in a proximal direction by the sole participation of mesenchymal petroblasts."
 
-178.	Petrodentine: (0) absent; (1) present. > - Challands *et al*., (2019; char. 101). Petrodentine is a highly mineralized tissue noticeably analogous to that of enameloid, and is deposited intermittently in a proximal direction by the sole participation of mesenchymal petroblasts.
+179.	Sharp “additive” mesial and posterior edges on tooth plates: (0) absent; (1) present. 
+> - Challands *et al*., (2019; char. 102).
 
-179.	Sharp “additive” mesial and posterior edges on tooth plates: (0) absent; (1) present. > - Challands *et al*., (2019; char. 102).
-> - *Psarolepis* from ‘0’ to ‘?’
+180. Behaviour of “additive edges” (if present): (0) quiescent; (1) active. > - Challands *et al*., (2019; char. 103).
 
-18(0)	 Behaviour of “additive edges” (if present): (0) quiescent; (1) active. > - Challands *et al*., (2019; char. 103).
+181.	Angle between first and last tooth ridge: (0) 50–100°; (1) less than 50° or greater than 100°. 
+> - Challands *et al*., (2019; char. 157).
 
-18(1)	Angle between first and last tooth ridge: (0) 50–100o; (1) less than 50o or greater than 100o. > - Challands *et al*., (2019; char. 157).
-*Youngolepis* from ‘-’. to ‘0’
+182.	Ascending process on pterygoid: (0) absent; (1) short; (2) long. 
+> - Schultze and Marshall (1993; char. 56), Schultze and Chorn (1997; char. 20), Schultze (2001; char. 56), Schultze (2004; char. 40). Lloyd *et al*., (2012; char. 57), Challands *et al*., (2019; char. 177).
 
-18(2)	Ascending process on pterygoid: (0) absent; (1) short; (2) long. > - Schultze and Marshall (1993; char. 56), Schultze and Chorn (1997; char. 20), Schultze (2001; char. 56), Schultze (2004; char. 40). Lloyd *et al*., (2012; char. 57), Challands *et al*., (2019; char. 177).
+183.	Dentition on the entoptergoid: (0) dentine plates; (1) tooth plates; (2) toothed (shedding denticles). 
+> - Schultze and Marshall (1993; char. 72), Schultze (2001; char. 72), Schultze (2004; char. 49). Lloyd *et al*., (2012; char. 73), Challands *et al*., (2019; char. 180).
 
-183.	Dentition on the entoptergoid: (0) dentine plates; (1) tooth plates; (2) toothed (shedding denticles). > - Schultze and Marshall (1993; char. 72), Schultze (2001; char. 72), Schultze (2004; char. 49). Lloyd *et al*., (2012; char. 73), Challands *et al*., (2019; char. 180).
-*Youngolepis* from ‘1/2’ to ‘1’
-> - *Psarolepis* from ‘2’ to ‘-’.
+184.	Form of marginal tooth ridge: (0) absent; (1) continuous; (2) incomplete. 
+> - Schultze and Marshall (1993; char. 73), Schultze (2001; char. 73). Lloyd *et al*., (2012; char. 74), Challands *et al*., (2019; char. 181). 
 
-184.	Form of marginal tooth ridge: (0) absent; (1) continuous; (2) incomplete. > - Schultze and Marshall (1993; char. 73), Schultze (2001; char. 73). Lloyd *et al*., (2012; char. 74), Challands *et al*., (2019; char. 181). 
-> - *Psarolepis* from ‘0’ to ‘?’
+185.	Tuberosities (denticles) on palate: (0) present and irregular; (1) arranged radially; (2) arranged in rows; 3. absent. 
+> - Schultze and Marshall (1993; char. 74), Schultze (2001; char. 74), Lloyd *et al*., (2012; char. 75), Challands *et al*., (2019; char. 182).
 
-185.	Tuberosities (denticles) on palate: (0) present and irregular; (1) arranged radially; (2) arranged in rows; 3. absent. > - Schultze and Marshall (1993; char. 74), Schultze (2001; char. 74), Lloyd *et al*., (2012; char. 75), Challands *et al*., (2019; char. 182).
+186.	Denticles. (0) no denticles; (1) episodically shed denticles. 
+> - Schultze and Marshall (1993; char. 75), Schultze (2001; char. 75), Schultze (2004; char. 50), Lloyd *et al*., (2012; char. 76), Challands *et al*., (2019; char. 183).
 
-186.	Denticles. (0) no denticles; (1) episodically shed denticles. > - Schultze and Marshall (1993; char. 75), Schultze (2001; char. 75), Schultze (2004; char. 50), Lloyd *et al*., (2012; char. 76), Challands *et al*., (2019; char. 183).
-
-187.	Tooth plates ridges: (0) no tooth plates; (1) without radial pattern; (2) radial pattern with cusps; 3. radial pattern without cusps; 4. parallel ridges. > - Schultze and Marshall (1993; char. 76), Schultze (2001; char. 76), Lloyd *et al*., (2012; char. 77), Challands *et al*., (2019; char. 184). 
+187.	Tooth plates ridges: (0) no tooth plates; (1) without radial pattern; (2) radial pattern with cusps; 3. radial pattern without cusps; 4. parallel ridges. 
+> - Schultze and Marshall (1993; char. 76), Schultze (2001; char. 76), Lloyd *et al*., (2012; char. 77), Challands *et al*., (2019; char. 184).
 
 ## Neurocranium
-188.	Braincase/skull table relationship: (0) broad contact; (1) supported by cristae. > - Challands *et al*., (2019; char. 104).
-189.	Metotic (lateral otic) fissure: (0) present; (1) absent. > - Challands *et al*., (2019; char. 110).
-19(0)	Intracranial joint/ventral cranial fissure: (0) mobile joint; (1) ventral cranial fissure; (2) neither fissure nor joint. Partially repeats information from Lu *et al*., (2017; char. 123), Challands *et al*., (2019; char. 111). 
-Dipnorhynchus kurikae from ‘?’ to ‘2’ (Campbell and Barwick 2000, Fig. 4)
-19(1)	 Occiput inset from posterior margin of neurocranium: (0) no; (1) yes. > - Challands *et al*., (2019; char. 112).
-19(2)	 Notochordal canal occluded by ossified cranial centrum: (0) no; (1) yes. > - Challands *et al*., (2019; char. 113).
-193.	Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: (0) yes; (1) no. > - Challands *et al*., (2019; char. 114).
-194.	Ossification complete along ventral midline of notochordal canal posteriorly: (0) yes; (1) no. > - Challands *et al*., (2019; char. 115).
-195.	Occipital region bears transverse processes flanking foramen magnum: (0) no; (1) yes. > - Challands *et al*., (2019; char. 116).
-196.	Dorsal aorta: (0) divides at or anterior to occiput; (1) divides posterior to occiput. > - Challands *et al*., (2019; char. 117).
-197.	Lateral dorsal aortae: (0) run along ventral surface of neurocranium; (1) run in grooves on parasphenoid. > - Challands *et al*., (2019; char. 118).
-198.	Occipital artery extramural: (0) no; (1) yes. > - Challands *et al*., (2019; char. 119).
-199.	Neurocranium extends far posterior to hind margin of postparietals: (0) no; (1) yes. > - Challands *et al*., (2019; char. 120).
-20(0)	Dorsolateral crista fenestrated: (0) no; (1) yes. > - Challands *et al*., (2019; char. 121).
-20(1)	Median crista discontinuous: (0) no; (1) yes. > - Challands *et al*., (2019; char. 122).
-20(2)	 Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): (0) no; (1) yes. > - Challands *et al*., (2019; char. 123).
-203.	Lateral cristae fenestrated: (0) no; (1) yes. > - Challands *et al*., (2019; char. 124).
-204.	Development of a pronounced ridge anterior to and continuous with the dorsolateral cristae: (0) no; (1) yes. > - Challands *et al*., (2019; char. 125).
-> - *Psarolepis* from ‘0’ to ‘-’.
-205.	Articulation of first epibranchial posterior to the level of the foramen for N. IX: (0) no; (1) yes. > - Challands *et al*., (2019; char.126).
-206.	Notochord extending to or beyond level of N. V: (0) yes; (1) no. > - Challands *et al*., (2019; char. 127.)
-Guiyu from ‘?’ to ‘0’
-> - *Psarolepis* from ‘?’ to ‘0’
-Styloichthys from ‘?’ to ‘0’
-Kenichthys from ‘?’ to ‘0’
-207.	Development of a deep “spiracular recess” sensu Thomson and Campbell (1971): (0) yes; (1) no. > - Challands *et al*., (2019; char. 128).
-> - *Psarolepis* from ‘0’ to ‘-’.
-208.	Separate foramina for the internal carotid artery and efferent pseudobranchial artery: (0) no; (1) yes. > - Challands *et al*., (2019; char. 129). 
-209.	Jugular vein: (0) little or no groove; (1) travels through deep groove along length of otic region. > - Challands *et al*., (2019; char. 130).
-21(0)	. Foramina for the jugular vein and the ramus hyomandibularis N. VII on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. > - Challands *et al*., (2019; char. 131).
-21(1)	Foramina for the jugular vein and the orbital artery on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. > - Challands *et al*., (2019; char. 132).
-21(2)	Foramina for the ramus hyomandibularis N. VII and the orbital artery on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. > - Challands *et al*., (2019; char. 133).
-213.	Hyomandibular facet tranverses fissure in transverse otic wall (hyomandibular facet extends on to palatoquadrate): (0) no; (1) yes. > - Challands *et al*., (2019; char. 134).
-Styloichthys, Gogonasus, Glyptolepis, *Youngolepis*, Powichthys, *Diabolepis* from ‘?’ to ‘0’
-214.	Separate ossified canals for pineal and parapineal organs: (0) yes; (1) no. > - Challands *et al*., (2019; char. 135). 
-> - *Psarolepis* from ‘0’ to ‘?’
+188.	Braincase/skull table relationship: (0) broad contact; (1) supported by cristae. 
+> - Challands *et al*., (2019; char. 104).
+
+189.	Metotic (lateral otic) fissure: (0) present; (1) absent. 
+> - Challands *et al*., (2019; char. 110).
+
+190.	Intracranial joint/ventral cranial fissure: (0) mobile joint; (1) ventral cranial fissure; (2) neither fissure nor joint. 
+> - Partially repeats information from Lu *et al*., (2017; char. 123), Challands *et al*., (2019; char. 111). 
+
+192.	 Occiput inset from posterior margin of neurocranium: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 112).
+
+193.	 Notochordal canal occluded by ossified cranial centrum: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 113).
+
+194.	Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: (0) yes; (1) no. 
+> - Challands *et al*., (2019; char. 114).
+
+195.	Ossification complete along ventral midline of notochordal canal posteriorly: (0) yes; (1) no. 
+> - Challands *et al*., (2019; char. 115).
+
+196.	Occipital region bears transverse processes flanking foramen magnum: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 116).
+
+197.	Dorsal aorta: (0) divides at or anterior to occiput; (1) divides posterior to occiput. 
+> - Challands *et al*., (2019; char. 117).
+
+198.	Lateral dorsal aortae: (0) run along ventral surface of neurocranium; (1) run in grooves on parasphenoid. 
+> - Challands *et al*., (2019; char. 118).
+
+199.	Occipital artery extramural: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 119).
+
+200.	Neurocranium extends far posterior to hind margin of postparietals: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 120).
+
+201.	Dorsolateral crista fenestrated: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 121).
+
+202.	Median crista discontinuous: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 122).
+
+203.	 Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 123).
+
+204.	Lateral cristae fenestrated: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 124).
+
+204.	Development of a pronounced ridge anterior to and continuous with the dorsolateral cristae: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 125).
+
+205.	Articulation of first epibranchial posterior to the level of the foramen for N. IX: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char.126).
+
+206.	Notochord extending to or beyond level of N. V: (0) yes; (1) no. 
+> - Challands *et al*., (2019; char. 127.)
+
+207.	Development of a deep “spiracular recess” sensu Thomson and Campbell (1971): (0) yes; (1) no. 
+> - Challands *et al*., (2019; char. 128).
+
+208.	Separate foramina for the internal carotid artery and efferent pseudobranchial artery: (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 129). 
+
+209.	Jugular vein: (0) little or no groove; (1) travels through deep groove along length of otic region. 
+> - Challands *et al*., (2019; char. 130).
+
+210. Foramina for the jugular vein and the ramus hyomandibularis N. VII on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. 
+> - Challands *et al*., (2019; char. 131).
+
+211.	Foramina for the jugular vein and the orbital artery on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. 
+> - Challands *et al*., (2019; char. 132).
+
+212.	Foramina for the ramus hyomandibularis N. VII and the orbital artery on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. 
+> - Challands *et al*., (2019; char. 133).
+
+213.	Hyomandibular facet tranverses fissure in transverse otic wall (hyomandibular facet extends on to palatoquadrate): (0) no; (1) yes. 
+> - Challands *et al*., (2019; char. 134).
+
+214.	Separate ossified canals for pineal and parapineal organs: (0) yes; (1) no. 
+> - Challands *et al*., (2019; char. 135). 
+
 215.	Foramen for N. II above the level of foramen sphenoticum minus: (0) no; (1) yes. > - Challands *et al*., (2019; char. 136).
+
 216.	Foramen for N. III above level of foramen sphenoticum minus: (0) no; (1) yes. > - Challands *et al*., (2019; char. 137).
+
 217.	Ventral face of nasal capsule: (0) complete; (1) perforated by fenestration that opens posteroventrolaterally (fenestra ventralis); (2) solum nasi completely unossified. (**Ordered**). > - Challands *et al*., (2019; char. 138).
+
 218.	Nasal capsule set well posterior to snout margin or preoral eminence: (0) no; (1) yes. > - Challands *et al*., (2019; char. 139).
+
 219.	Enlarged, knob-shaped protrusion on the posteroventral surface of the quadrate (hyosuspensory eminence of Miles, 1977): (0) absent; (1) present. > - Challands *et al*., (2019; char. 140).
+
 22(0)	Adlateral cristae (posterodorsal extensions of the lateral cristae that connect the otic region of the neurocranium to the visceral surface of the dermal skull roof) present: (0) yes; (1) no. > - Challands *et al*., (2019; char. 151).
+
 22(1)	Foramen for the internal carotid anterior to that for the efferent pseudobranchial artery: (0) no; (1) yes. > - Challands *et al*., (2019; char. 154).
+
 22(2)	Ossification of neurocranium: (0) completely ossified; (1) poorly-ossified/cartilaginous. > - Challands *et al*., (2019; char.155).
+
 223.	Kinesis between nasal region and braincase behind it: (0) absent; (1) present. > - Schultze and Marshall (1993; char. 4), Schultze (2001; char. 4), Schultze (2004; char. 2), Lloyd *et al*., (2012; char. 4), Challands *et al*., (2019; char. 159).
+
 224.	Supraoccipital commissure: (0) through Z-G-I-A-I-G-Z; (1) through I-A-I; (2) through I-B-I; 3. through Z-B-Z; 4. above bones. > - Schultze and 1Marshall (1993; char. 6), Schultze and Chorn (1997; char. 3), Schultze (2001; char. 6), Schultze (2004; char. 4), Lloyd *et al*., (2012; char. 6), Challands *et al*., (2019; char. 161).
+
 225.	Buccohypophysial foramen of parasphenoid: (0) single; (1) double. > - Schultze (2000; char. 37).
 *Diabolepis* from ‘?’ to ‘0’
+
 226.	Parasphenoid: (0) protruding forward in ethmoid region of endocranium; (1) behind ethmoid region. > - Zhu and Yu (2002; char. 93), Schultze (2000; char. 38).
+
 227.	Dorsal endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. > - Zhu and Yu (2002; char. 98), Schultze (2000; char. 39).
+
 228.	Ventral endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
+
 229.	Orientation of intracranial joint or fissure: (0) vertical or anteroventrally slanting; (1) posteroventrally slanting. > - Zhu and Yu (2002; char. 100), Schultze (2000; char. 41).
+
 23(0)	Position of intracranial joint or fissure relative to cranial nerves: (0) joint through profundus foramen; (1) joint through trigeminal foramen. > - Zhu and Yu (2002; char. 101), Schultze (2000; char. 42).
+
 23(1)	Processus descendens of sphenoid: (0) absent; (1) present. > - Zhu and Yu (2002; char. 102), Schultze (2000; char. 43).
+
 23(2)	Fossa autopalatina: (0) absent; (1) present. > - Schultze (2000; char. 44).
+
 233.	Vomeral area with grooves and raised areas: (0) absent; (1) present. > - Zhu and Yu (2002; char. 106), Schultze (2000; char. 45).
 > - *Psarolepis* from ‘1’ to ‘0’ Yu 1998, fig. 3
+
 234.	Fenestra ventralis: (0) absent; (1) large, medially situated; (2) common ventral fenestra for anterior and posterior nostrils. > - Zhu and Yu (2002; char. 107), Schultze (2000; char. 46).
+
 235.	Large median opening and several small dorsolateral openings in postnasal wall: (0) absent; (1) present. > - Zhu and Yu (2002; char. 108), Schultze (2000; char. 47).
+
 236.	Postorbital process on braincase: (0) present; (1) absent. Lu *et al*., (2017; char. 132） (statuses are inverse), Schultze (2000; char. 48).
+
 237.	Basicranial fenestra with arcual plates: (0) absent; (1) present. > - Zhu and Yu (2002; char. 114), Schultze (2000; char. 49).
+
 238.	Otico-sphenoid bridge: (0) present; (1) absent. > - Schultze (2000; char. 50).
+
 239.	Posttemporal fossae: (0) absent; (1) present. > - Schultze (2000; char. 51).
+
 24(0)	Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent. Lu *et al*., (2017; char. 118).
+
 24(1)	Spiracular groove on basicranial surface: (0) absent; (1) Present. Lu *et al*., (2017; char. 124).
+
 24(2)	Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal. Lu *et al*., (2017; char. 268).
+
 243.	Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium Lu *et al*., (2017; char. 124).
+
 244.	Articulation between neurocranium and palatoquadrate posterodorsal to orbit
 (suprapterygoid articulation): (0) absent (1) present. Lu *et al*., (2017; char. 147).
+
 245.	Vestibular fontanelle: (0) absent (1) present. Lu *et al*., (2017; char. 171).
 Porolepis from ‘?’ to ‘1’, (Jarvik, 1972; Plate 10 fig.3)
+
 246.	Paired pineal and parapineal tracts: (0) absent; (1) present. Lu *et al*., (2017; char. 266).
+
 247.	Lateral cranial canal: (0) absent, (1) present. Lu *et al*., (2017; char. 155).
 
 
-Postcranium (Fins and girdles)
+## Postcranium (Fins and girdles)
 248.	Cleithrum and clavicle: (0) with cosmine; (1) without cosmine. Lu *et al*., (2017; char. 142).
 > - *Psarolepis* from ‘?’ to ‘0’ Zhu 1999, fig. 2
 249.	Median fin morphologies: (0) all separate and short-based; (1) posterior dorsal fin long-based; (2) both dorsal fins long-based uninterrupted fin fringe. Lu *et al*., (2017; char. 143).
