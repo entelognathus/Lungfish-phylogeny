@@ -1,5 +1,5 @@
 # Character list of lungfishes
-> We assembled a matrix based on characters taken from four analyses: > - Challands *et al*. (2019) for lungfishes, Schultze (2000) for porolepiforms, Lu *et al*. (2017) for sarcopterygians more generally, and Giles *et al*. (2015) for actinopterygians. We also added some new characters, which are indicated below. In cases where taxa have been recoded for specific characters, we note this explicitly.
+> We assembled a matrix based on characters taken from four analyses: > - Challands *et al*. (2019) for lungfishes, Schultze (2000) for porolepiforms, Lu *et al*. (2017) for sarcopterygians more generally. We also added some new characters, which are indicated below. In cases where taxa have been recoded for specific characters, we note this explicitly.
 
 ## External dermal bones of the skull 
 1. Pineal opening: (0) open; (1) closed.
