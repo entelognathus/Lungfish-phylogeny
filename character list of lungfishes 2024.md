@@ -763,19 +763,20 @@
 > - Lu *et al*., (2017; char. 155).
 
 ## Postcranium
-248.	Cleithrum and clavicle: (0) with cosmine; (1) without cosmine. 
-> - Lu *et al*., (2017; char. 142).
+249.	Cleithrum and clavicle: (0) with cosmine; (1) without cosmine. 
+> - Lu *et al*., (2017; char. 142), Challands *et al*., (2019; char. 142).
 
-249.	Median fin morphologies: (0) all separate and short-based; (1) posterior dorsal fin long-based; (2) both dorsal fins long-based uninterrupted fin fringe. 
+250.	Median fin morphologies: (0) all separate and short-based; (1) posterior dorsal fin long-based; (2) both dorsal fins long-based uninterrupted fin fringe.
+> - Challands *et al*., (2019; char. 143).
 
-250.	Posterior dorsal fin support: (0) all radials carried by basal plate; (1) anterior radials on basal plate, posterior radials free; (2) no basal plate. Lu *et al*., (2017; char. 144).
-> - Lu *et al*., (2017; char. 143).
+251.	Posterior dorsal fin support: (0) all radials carried by basal plate; (1) anterior radials on basal plate, posterior radials free; (2) no basal plate. Lu *et al*., (2017; char. 144).
+> - Challands *et al*., (2019; char. 144).
 
 252.	Anal fin support: (0) trapezoidal with no distinct shaft; (1) cylindrical proximal shaft and triangular distal plate. 
-> - Lu *et al*., (2017; char. 145).
+> - Challands *et al*., (2019; char. 145).
 
 253.	Median fin radials: (0) cylindrical; (1) hourglass-shaped. 
-> - Lu *et al*., (2017; char. 146).
+> - Challands *et al*., (2019; char. 146).
 
 254.	Dorsal cleithrum (AL of the Placodermi), ventral cleithruin (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused. 
 > - Zhu and Yu (2002; char. 120), Schultze (2000; char. 52).
@@ -800,65 +801,65 @@
 
 ## Postcranium (Scale and histology)
 
-260.	Scales: (0) rhombic; (1) round. 
+261.	Scales: (0) rhombic; (1) round. 
 > - Schultze (2000; char. 56), Challands *et al*., (2019; char. 149).
 
-261.	Cosmine on scales: (0) present; (1) absent. 
+262.	Cosmine on scales: (0) present; (1) absent. 
 > - Challands *et al*., (2019; char. 150).
 
-262.	Enamel: (0) single-layered; (1) multi-layered. 
+263.	Enamel: (0) single-layered; (1) multi-layered. 
 > - Lu *et al*., (2017; char. 6).
 
-263.	Anterodorsal process on scale: (0) absent; (1) present. 
+264.	Anterodorsal process on scale: (0) absent; (1) present. 
 > - Lu *et al*., (2017; char. 20).
 
-264.	Plicidentine: (0) absent; (1) present. 
+265.	Plicidentine: (0) absent; (1) present. 
 > - Lu *et al*., (2017; char. 86).
 
-265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
+266.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
 > - Lu *et al*., (2017; char. 237).
 
 ## Oral elements (Hyoid and Gill skeletons)
 
-266.	Ceratohyal (revised): (0) short and stout, (1) long; (2) dumbbell-shaped. 
+267.	Ceratohyal (revised): (0) short and stout, (1) long; (2) dumbbell-shaped. 
 > - Schultze and Marshall (1993; char. 79), Schultze and Chorn (1997; char. 26), Schultze (2001; char. 79), Schultze (2004; char. 51), Lloyd *et al*., (2012; char. 80), Challands *et al*., (2019; char. 185).
 > - Cui *et al*.(2022) added state 2 (dumbbell-shaped) to apply to some dumbbell-shaped ceratohyal in some lungfishes.
 
-267.	Basihyal: (0) absent, (1) present. 
+268.	Basihyal: (0) absent, (1) present. 
 > - Cui *et al*., (2022; char. 267).
 
-268.	Basihyal: (0) short without denticles; (1) long and denticulated; (2) short and denticulated. 
+269.	Basihyal: (0) short without denticles; (1) long and denticulated; (2) short and denticulated. 
 > - Schultze and Marshall (1993; char. 80), Schultze (2001; char. 80), Schultze (2004; char. 52), Lloyd *et al*., (2012; char. 81), Challands *et al*., (2019; char. 186).
 
-269.	Articulation facet of the hyomandibular: (0) single-headed; (1) double-headed. 
+270.	Articulation facet of the hyomandibular: (0) single-headed; (1) double-headed. 
 > - Lu *et al*., (2017; char. 57).
 
-270.	Oriention of the hyomandibular: (0) lean anteriorly, (1) relatively vertically, (2) relatively posteriorly, 3. relatively horizontally. 
+271.	Oriention of the hyomandibular: (0) lean anteriorly, (1) relatively vertically, (2) relatively posteriorly, 3. relatively horizontally. 
 > - Cui *et al*., (2022; char. 270).
 
-271.	Shape of the hyomandibular: (0) rod-like; (1) triangular. 
+272.	Shape of the hyomandibular: (0) rod-like; (1) triangular. 
 > - Cui *et al*., (2022; char. 271).
 
-272.	Urohyal morphology: (0) dorsoventrally compressed and rod-like, may bifurcate posteriorly; (1) vertical plate. 
+273.	Urohyal morphology: (0) dorsoventrally compressed and rod-like, may bifurcate posteriorly; (1) vertical plate. 
 > - Lu *et al*., (2019; char. 167).
 
-273.	Number of basibranchials: (0) one; (1) two. 
+274.	Number of basibranchials: (0) one; (1) two. 
 > - Cui *et al*., (2022; char. 273).
 
-274.	Hypobranchials connected with the basibranchials: (0) three; (1) four; (2) five.  
+275.	Hypobranchials connected with the basibranchials: (0) three; (1) four; (2) five.  
 > - Cui *et al*., (2022; char. 274).
 
-275.	Hypobranchial 4: (0) connected with hypobranchial 3; (1) not connected with hypobranchial 3. 
+276.	Hypobranchial 4: (0) connected with hypobranchial 3; (1) not connected with hypobranchial 3. 
 > - Cui *et al*., (2022; char. 275).
 
-276.	Hypohyal connection with basibranchial: (0) via anterior facet on the basibranchial; (1) via lateral facet on the basibranchial. 
+277.	Hypohyal connection with basibranchial: (0) via anterior facet on the basibranchial; (1) via lateral facet on the basibranchial. 
 > - Cui *et al*., (2022; char. 276).
 
-277.	Hypohyal: (0) flat; (1) curved and tapering. 
+278.	Hypohyal: (0) flat; (1) curved and tapering. 
 > - Cui *et al*., (2022; char. 277).
 
-278. Dermopalatine sensu Rosen et al. (1981): 0. absent; 1. present.
-> - Luo *et al*., (2022; char. 188).
+279. Dermopalatine sensu Rosen et al. (1981): 0. absent; 1. present.
+> - Luo *et al*., (2022; char. 188), Challands *et al*., (2019; char. 188).
 
-279. Oral growth lines: 0. absent; 1. Present.
+280. Oral growth lines: 0. absent; 1. Present.
 > - Luo *et al*., (2022; char. 189).
