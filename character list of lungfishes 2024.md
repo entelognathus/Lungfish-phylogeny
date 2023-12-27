@@ -303,7 +303,7 @@
 96.	Lateral angle of parasphenoid: (0) no angle, (1) angular, (2) rounded, 3. reflexed. 
 > - Schultze and Marshall (1993; char. 48), Schultze (2001; char. 48), Schultze (2004; char. 33), Challands *et al*., (2019; char. 51).
 
-98.	(Posterior) end of parasphenoid (stalk): (0) single point; (1) bifid; (2) trifid with lateral projections. 
+97.	(Posterior) end of parasphenoid (stalk): (0) single point; (1) bifid; (2) trifid with lateral projections. 
 > - Challands *et al*., (2019; char. 52).
 
 98.	Margins of posterior stalk of parasphenoid: (0) converge to posterior angle; (1) subparallel. 
@@ -591,43 +591,43 @@
 190.	Intracranial joint/ventral cranial fissure: (0) mobile joint; (1) ventral cranial fissure; (2) neither fissure nor joint. 
 > - Partially repeats information from Lu *et al*., (2017; char. 123), Challands *et al*., (2019; char. 111). 
 
-192.	 Occiput inset from posterior margin of neurocranium: (0) no; (1) yes. 
+191.	 Occiput inset from posterior margin of neurocranium: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 112).
 
-193.	 Notochordal canal occluded by ossified cranial centrum: (0) no; (1) yes. 
+192.	 Notochordal canal occluded by ossified cranial centrum: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 113).
 
-194.	Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: (0) yes; (1) no. 
+193.	Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: (0) yes; (1) no. 
 > - Challands *et al*., (2019; char. 114).
 
-195.	Ossification complete along ventral midline of notochordal canal posteriorly: (0) yes; (1) no. 
+194.	Ossification complete along ventral midline of notochordal canal posteriorly: (0) yes; (1) no. 
 > - Challands *et al*., (2019; char. 115).
 
-196.	Occipital region bears transverse processes flanking foramen magnum: (0) no; (1) yes. 
+195.	Occipital region bears transverse processes flanking foramen magnum: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 116).
 
-197.	Dorsal aorta: (0) divides at or anterior to occiput; (1) divides posterior to occiput. 
+196.	Dorsal aorta: (0) divides at or anterior to occiput; (1) divides posterior to occiput. 
 > - Challands *et al*., (2019; char. 117).
 
-198.	Lateral dorsal aortae: (0) run along ventral surface of neurocranium; (1) run in grooves on parasphenoid. 
+197.	Lateral dorsal aortae: (0) run along ventral surface of neurocranium; (1) run in grooves on parasphenoid. 
 > - Challands *et al*., (2019; char. 118).
 
-199.	Occipital artery extramural: (0) no; (1) yes. 
+198.	Occipital artery extramural: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 119).
 
-200.	Neurocranium extends far posterior to hind margin of postparietals: (0) no; (1) yes. 
+199.	Neurocranium extends far posterior to hind margin of postparietals: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 120).
 
-201.	Dorsolateral crista fenestrated: (0) no; (1) yes. 
+200.	Dorsolateral crista fenestrated: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 121).
 
-202.	Median crista discontinuous: (0) no; (1) yes. 
+201.	Median crista discontinuous: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 122).
 
-203.	 Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): (0) no; (1) yes. 
+202.	 Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 123).
 
-204.	Lateral cristae fenestrated: (0) no; (1) yes. 
+203.	Lateral cristae fenestrated: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 124).
 
 204.	Development of a pronounced ridge anterior to and continuous with the dorsolateral cristae: (0) no; (1) yes. 
@@ -747,119 +747,119 @@
 242.	Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal. 
 > - Lu *et al*., (2017; char. 268).
 
-244.	Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium. 
+243.	Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium. 
 > - Lu *et al*., (2017; char. 124).
 
-245.	Articulation between neurocranium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): (0) absent (1) present. 
+244.	Articulation between neurocranium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): (0) absent (1) present. 
 > - Lu *et al*., (2017; char. 147).
 
-246.	Vestibular fontanelle: (0) absent (1) present. 
+245.	Vestibular fontanelle: (0) absent (1) present. 
 > - Lu *et al*., (2017; char. 171).
 
-247.	Paired pineal and parapineal tracts: (0) absent; (1) present. 
+246.	Paired pineal and parapineal tracts: (0) absent; (1) present. 
 > - Lu *et al*., (2017; char. 266).
 
-248.	Lateral cranial canal: (0) absent, (1) present. 
+247.	Lateral cranial canal: (0) absent, (1) present. 
 > - Lu *et al*., (2017; char. 155).
 
 ## Postcranium
-249.	Cleithrum and clavicle: (0) with cosmine; (1) without cosmine. 
+248.	Cleithrum and clavicle: (0) with cosmine; (1) without cosmine. 
 > - Lu *et al*., (2017; char. 142), Challands *et al*., (2019; char. 142).
 
-250.	Median fin morphologies: (0) all separate and short-based; (1) posterior dorsal fin long-based; (2) both dorsal fins long-based uninterrupted fin fringe.
+249.	Median fin morphologies: (0) all separate and short-based; (1) posterior dorsal fin long-based; (2) both dorsal fins long-based uninterrupted fin fringe.
 > - Challands *et al*., (2019; char. 143).
 
-251.	Posterior dorsal fin support: (0) all radials carried by basal plate; (1) anterior radials on basal plate, posterior radials free; (2) no basal plate. Lu *et al*., (2017; char. 144).
+250.	Posterior dorsal fin support: (0) all radials carried by basal plate; (1) anterior radials on basal plate, posterior radials free; (2) no basal plate. Lu *et al*., (2017; char. 144).
 > - Challands *et al*., (2019; char. 144).
 
-252.	Anal fin support: (0) trapezoidal with no distinct shaft; (1) cylindrical proximal shaft and triangular distal plate. 
+251.	Anal fin support: (0) trapezoidal with no distinct shaft; (1) cylindrical proximal shaft and triangular distal plate. 
 > - Challands *et al*., (2019; char. 145).
 
-253.	Median fin radials: (0) cylindrical; (1) hourglass-shaped. 
+252.	Median fin radials: (0) cylindrical; (1) hourglass-shaped. 
 > - Challands *et al*., (2019; char. 146).
 
-254.	Dorsal cleithrum (AL of the Placodermi), ventral cleithruin (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused. 
+253.	Dorsal cleithrum (AL of the Placodermi), ventral cleithruin (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused. 
 > - Zhu and Yu (2002; char. 120), Schultze (2000; char. 52).
 
-255.	Interclavicle: absent (0); present (1). 
+254.	Interclavicle: absent (0); present (1). 
 > - Zhu and Yu (2002; char. 126), Schultze (2000; char. 53).
 
-256.	Proximal articular surface of humerus: (0) concave; (1) flat: convex. 
+255.	Proximal articular surface of humerus: (0) concave; (1) flat: convex. 
 > - Schultze (2000; char. 54).
 
-257.	Basal plates in dorsal fin supports: (0) absent; (1) present. 
+256.	Basal plates in dorsal fin supports: (0) absent; (1) present. 
 > - Schultze (2000; char. 55).
 
-258.	 Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): (0) spatulate; (1) pointed. 
+257.	 Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): (0) spatulate; (1) pointed. 
 > - Lu *et al*., (2017; char. 183).
 
-259.	Vertebral column: (0) unconstricted notochord; (1) disc centra. 
+258.	Vertebral column: (0) unconstricted notochord; (1) disc centra. 
 > - Challands *et al*., (2019; char. 147).
 
-260.	Neural arches and spines: (0) separate; (1) fused. 
+259.	Neural arches and spines: (0) separate; (1) fused. 
 > - Challands *et al*., (2019; char. 148).
 
 ## Postcranium (Scale and histology)
 
-261.	Scales: (0) rhombic; (1) round. 
+260.	Scales: (0) rhombic; (1) round. 
 > - Schultze (2000; char. 56), Challands *et al*., (2019; char. 149).
 
-262.	Cosmine on scales: (0) present; (1) absent. 
+261.	Cosmine on scales: (0) present; (1) absent. 
 > - Challands *et al*., (2019; char. 150).
 
-263.	Enamel: (0) single-layered; (1) multi-layered. 
+262.	Enamel: (0) single-layered; (1) multi-layered. 
 > - Lu *et al*., (2017; char. 6).
 
-264.	Anterodorsal process on scale: (0) absent; (1) present. 
+263.	Anterodorsal process on scale: (0) absent; (1) present. 
 > - Lu *et al*., (2017; char. 20).
 
-265.	Plicidentine: (0) absent; (1) present. 
+264.	Plicidentine: (0) absent; (1) present. 
 > - Lu *et al*., (2017; char. 86).
 
-266.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
+265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
 > - Lu *et al*., (2017; char. 237).
 
 ## Oral elements (Hyoid and Gill skeletons)
 
-267.	Ceratohyal (revised): (0) short and stout, (1) long; (2) dumbbell-shaped. 
+266.	Ceratohyal (revised): (0) short and stout, (1) long; (2) dumbbell-shaped. 
 > - Schultze and Marshall (1993; char. 79), Schultze and Chorn (1997; char. 26), Schultze (2001; char. 79), Schultze (2004; char. 51), Lloyd *et al*., (2012; char. 80), Challands *et al*., (2019; char. 185).
 > - Cui *et al*.(2022) added state 2 (dumbbell-shaped) to apply to some dumbbell-shaped ceratohyal in some lungfishes.
 
-268.	Basihyal: (0) absent, (1) present. 
+267.	Basihyal: (0) absent, (1) present. 
 > - Cui *et al*., (2022; char. 267).
 
-269.	Basihyal: (0) short without denticles; (1) long and denticulated; (2) short and denticulated. 
+268.	Basihyal: (0) short without denticles; (1) long and denticulated; (2) short and denticulated. 
 > - Schultze and Marshall (1993; char. 80), Schultze (2001; char. 80), Schultze (2004; char. 52), Lloyd *et al*., (2012; char. 81), Challands *et al*., (2019; char. 186).
 
-270.	Articulation facet of the hyomandibular: (0) single-headed; (1) double-headed. 
+269.	Articulation facet of the hyomandibular: (0) single-headed; (1) double-headed. 
 > - Lu *et al*., (2017; char. 57).
 
-271.	Oriention of the hyomandibular: (0) lean anteriorly, (1) relatively vertically, (2) relatively posteriorly, 3. relatively horizontally. 
+270.	Oriention of the hyomandibular: (0) lean anteriorly, (1) relatively vertically, (2) relatively posteriorly, 3. relatively horizontally. 
 > - Cui *et al*., (2022; char. 270).
 
-272.	Shape of the hyomandibular: (0) rod-like; (1) triangular. 
+271.	Shape of the hyomandibular: (0) rod-like; (1) triangular. 
 > - Cui *et al*., (2022; char. 271).
 
-273.	Urohyal morphology: (0) dorsoventrally compressed and rod-like, may bifurcate posteriorly; (1) vertical plate. 
+272.	Urohyal morphology: (0) dorsoventrally compressed and rod-like, may bifurcate posteriorly; (1) vertical plate. 
 > - Lu *et al*., (2019; char. 167).
 
-274.	Number of basibranchials: (0) one; (1) two. 
+273.	Number of basibranchials: (0) one; (1) two. 
 > - Cui *et al*., (2022; char. 273).
 
-275.	Hypobranchials connected with the basibranchials: (0) three; (1) four; (2) five.  
+274.	Hypobranchials connected with the basibranchials: (0) three; (1) four; (2) five.  
 > - Cui *et al*., (2022; char. 274).
 
-276.	Hypobranchial 4: (0) connected with hypobranchial 3; (1) not connected with hypobranchial 3. 
+275.	Hypobranchial 4: (0) connected with hypobranchial 3; (1) not connected with hypobranchial 3. 
 > - Cui *et al*., (2022; char. 275).
 
-277.	Hypohyal connection with basibranchial: (0) via anterior facet on the basibranchial; (1) via lateral facet on the basibranchial. 
+276.	Hypohyal connection with basibranchial: (0) via anterior facet on the basibranchial; (1) via lateral facet on the basibranchial. 
 > - Cui *et al*., (2022; char. 276).
 
-278.	Hypohyal: (0) flat; (1) curved and tapering. 
+277.	Hypohyal: (0) flat; (1) curved and tapering. 
 > - Cui *et al*., (2022; char. 277).
 
-279. Dermopalatine sensu Rosen et al. (1981): 0. absent; 1. present.
+278. Dermopalatine sensu Rosen et al. (1981): 0. absent; 1. present.
 > - Luo *et al*., (2022; char. 188), Challands *et al*., (2019; char. 188).
 
-280. Oral growth lines: 0. absent; 1. Present.
+279. Oral growth lines: 0. absent; 1. Present.
 > - Luo *et al*., (2022; char. 189).
