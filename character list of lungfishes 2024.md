@@ -154,7 +154,7 @@
 > - Schultze and Marshall (1993; char. 32), Schultze and Chorn (1997; char. 14), Schultze (2001; char. 32), Schultze (2004; char. 25), Lloyd *et al*., (2012; char. 32), Challands *et al*., (2019; char. 171).
 
 49. T-bone: (0) present; (1) absent.
-> - Schultze and Marshall (1993; char. 34), Schultze (2001; char. 34), Lloyd *et al*., (2012; char. 34, Challands *et al*., (2019; char. 172).
+> - Schultze and Marshall (1993; char. 34), Schultze (2001; char. 34), Lloyd *et al*., (2012; char. 34), Challands *et al*., (2019; char. 172).
 > - Cui *et al*. (2022): "T bone only in some lungfishes."
 
 50.	Bone 10 (qudratojugal): (0) present, (1) absent.
@@ -313,7 +313,7 @@
 > - Challands *et al*., (2019; char. 54).
 
 100. Vomer: (0) Paired; (1) Unpaired. 
-> - *Cui et al*., (2022, char. 100).
+> - *Cui et al*., (2022, char. 100), Luo *et al*., (2022; char. 187).
 
 101.	“Dermopalatine 1” sensu Miles (1977): (0) median; (1) paired. 
 > - Challands *et al*., (2019; char. 55).
@@ -567,10 +567,10 @@
 > - Schultze and Marshall (1993; char. 56), Schultze and Chorn (1997; char. 20), Schultze (2001; char. 56), Schultze (2004; char. 40). Lloyd *et al*., (2012; char. 57), Challands *et al*., (2019; char. 177).
 
 183.	Dentition on the entoptergoid: (0) dentine plates; (1) tooth plates; (2) toothed (shedding denticles). 
-> - Schultze and Marshall (1993; char. 72), Schultze (2001; char. 72), Schultze (2004; char. 49). Lloyd *et al*., (2012; char. 73), Challands *et al*., (2019; char. 180).
+> - Schultze and Marshall (1993; char. 72), Schultze (2001; char. 72), Schultze (2004; char. 49), Lloyd *et al*., (2012; char. 73), Challands *et al*., (2019; char. 180).
 
 184.	Form of marginal tooth ridge: (0) absent; (1) continuous; (2) incomplete. 
-> - Schultze and Marshall (1993; char. 73), Schultze (2001; char. 73). Lloyd *et al*., (2012; char. 74), Challands *et al*., (2019; char. 181). 
+> - Schultze and Marshall (1993; char. 73), Schultze (2001; char. 73), Lloyd *et al*., (2012; char. 74), Challands *et al*., (2019; char. 181). 
 
 185.	Tuberosities (denticles) on palate: (0) present and irregular; (1) arranged radially; (2) arranged in rows; 3. absent. 
 > - Schultze and Marshall (1993; char. 74), Schultze (2001; char. 74), Lloyd *et al*., (2012; char. 75), Challands *et al*., (2019; char. 182).
@@ -703,7 +703,7 @@
 > - Zhu and Yu (2002; char. 98), Schultze (2000; char. 39).
 
 228.	Ventral endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. 
-Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
+> - Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
 
 229.	Orientation of intracranial joint or fissure: (0) vertical or anteroventrally slanting; (1) posteroventrally slanting. 
 > - Zhu and Yu (2002; char. 100), Schultze (2000; char. 41).
@@ -825,7 +825,7 @@ Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
 > - Cui *et al*.(2022) added state 2 (dumbbell-shaped) to apply to some dumbbell-shaped ceratohyal in some lungfishes.
 
 267.	Basihyal: (0) absent, (1) present. 
-> - Cui *et al*., (2022; char. 267)
+> - Cui *et al*., (2022; char. 267).
 
 268.	Basihyal: (0) short without denticles; (1) long and denticulated; (2) short and denticulated. 
 > - Schultze and Marshall (1993; char. 80), Schultze (2001; char. 80), Schultze (2004; char. 52), Lloyd *et al*., (2012; char. 81), Challands *et al*., (2019; char. 186).
@@ -834,27 +834,31 @@ Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
 > - Lu *et al*., (2017; char. 57).
 
 270.	Oriention of the hyomandibular: (0) lean anteriorly, (1) relatively vertically, (2) relatively posteriorly, 3. relatively horizontally. 
-> - Cui *et al*., (2022; char. 270)
+> - Cui *et al*., (2022; char. 270).
 
 271.	Shape of the hyomandibular: (0) rod-like; (1) triangular. 
-> - Cui *et al*., (2022; char. 271)
+> - Cui *et al*., (2022; char. 271).
 
 272.	Urohyal morphology: (0) dorsoventrally compressed and rod-like, may bifurcate posteriorly; (1) vertical plate. 
-> - Lu *et al*., (2019; char. 167)
+> - Lu *et al*., (2019; char. 167).
 
 273.	Number of basibranchials: (0) one; (1) two. 
-> - Cui *et al*., (2022; char. 273)
+> - Cui *et al*., (2022; char. 273).
 
 274.	Hypobranchials connected with the basibranchials: (0) three; (1) four; (2) five.  
-> - Cui *et al*., (2022; char. 274)
+> - Cui *et al*., (2022; char. 274).
 
 275.	Hypobranchial 4: (0) connected with hypobranchial 3; (1) not connected with hypobranchial 3. 
-> - Cui *et al*., (2022; char. 275)
+> - Cui *et al*., (2022; char. 275).
 
 276.	Hypohyal connection with basibranchial: (0) via anterior facet on the basibranchial; (1) via lateral facet on the basibranchial. 
-> - Cui *et al*., (2022; char. 276)
+> - Cui *et al*., (2022; char. 276).
 
 277.	Hypohyal: (0) flat; (1) curved and tapering. 
-> - Cui *et al*., (2022; char. 277)
-========================================================================================================
-**Here need add the data from Luo *et al*. (2022).**
+> - Cui *et al*., (2022; char. 277).
+
+278. Dermopalatine sensu Rosen et al. (1981): 0. absent; 1. present.
+> - Luo *et al*., (2022; char. 188).
+
+279. Oral growth lines: 0. absent; 1. Present.
+> - Luo *et al*., (2022; char. 189).
