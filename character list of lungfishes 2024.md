@@ -821,7 +821,7 @@ Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
 ## Oral elements (Hyoid and Gill skeletons)
 
 266.	Ceratohyal (revised): (0) short and stout, (1) long; (2) dumbbell-shaped. 
-> - Schultze and Marshall (1993; char. 79), Schultze and Chorn (1997; char. 26), Schultze (2001; char. 79), Schultze (2004; char. 51), Lloyd *et al*., (2012; char. 80).
+> - Schultze and Marshall (1993; char. 79), Schultze and Chorn (1997; char. 26), Schultze (2001; char. 79), Schultze (2004; char. 51), Lloyd *et al*., (2012; char. 80), Challands *et al*., (2019; char. 185).
 > - Cui *et al*.(2022) added state 2 (dumbbell-shaped) to apply to some dumbbell-shaped ceratohyal in some lungfishes.
 
 267.	Basihyal: (0) absent, (1) present. 
