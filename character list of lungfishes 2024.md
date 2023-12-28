@@ -542,7 +542,7 @@
 174.	Relative areas of denticle field/thin dentine sheet on palate: (0) all or nearly all denticles; (1) both dentine sheet and denticles; (2) mostly dentine sheet; 3. denticles outside tooth plate; 4 dentine sheet on resorption areas within tooth plate. 
 > - Challands *et al*., (2019; char. 97).
 
-175.	 Relative areas of denticle field and dentine sheet on lower jaw: (0) all or nearly all denticles; (1) both denticles and dentine sheet; (2) mostly dentine sheet. 
+175.	Relative areas of denticle field and dentine sheet on lower jaw: (0) all or nearly all denticles; (1) both denticles and dentine sheet; (2) mostly dentine sheet. 
 > - Challands *et al*., (2019; char. 98).
 
 176.	Resorption of dentition on pterygoid/prearticular plate origin: (0) little or no resorption, origin left unmodified; (1) extensive resorption, removing mesial parts of plate; (2) resorption and deposition of dentine sheet within toothplate only, not crossing edges. 
@@ -624,7 +624,7 @@
 201.	Median crista discontinuous: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 122).
 
-202.	 Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): (0) no; (1) yes. 
+202.	Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 123).
 
 203.	Lateral cristae fenestrated: (0) no; (1) yes. 
