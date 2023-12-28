@@ -371,7 +371,7 @@
 118.	Posterior nostril: (0) located dorsal to oral margin; (1) marginal (2) palatal. (**Ordered**). 
 > - Challands *et al*., (2019; char. 61).
 
-119.	  Internasal pits: (0) well developed; (1) reduced or absent. 
+119.	Internasal pits: (0) well developed; (1) reduced or absent. 
 > - Lu *et al*., (2017; char. 120), Challands *et al*., (2019; char. 62).
 
 120.	Pore cluster: (0) absent; (1) present. 
@@ -400,7 +400,7 @@
 > - Schultze and Marshall (1993; char. 66), Schultze (2001; char. 66), Schultze (2004; char. 45), Challands *et al*., (2019; char. 67). 
 > - Cui *et al*. (2022)：“Here we consider the adsymphysial is homologized with the parasymphysial dental plate in osteolepiforms, porolepiforms.”
 
-128.	 Parasymphysial tooth whorl: (0) tooth whorl; (1) denticles; (2) plate with a tusk.  
+128.	Parasymphysial tooth whorl: (0) tooth whorl; (1) denticles; (2) plate with a tusk.  
 > - Cui *et al*., (2022; char. 128).
 > - Cui *et al*. (2022)：“The parasymphysial and the adsymphysial are homologous. And they all belong to the coronoid series."
 
@@ -591,10 +591,10 @@
 190.	Intracranial joint/ventral cranial fissure: (0) mobile joint; (1) ventral cranial fissure; (2) neither fissure nor joint. 
 > - Partially repeats information from Lu *et al*., (2017; char. 123), Challands *et al*., (2019; char. 111). 
 
-191.	 Occiput inset from posterior margin of neurocranium: (0) no; (1) yes. 
+191.	Occiput inset from posterior margin of neurocranium: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 112).
 
-192.	 Notochordal canal occluded by ossified cranial centrum: (0) no; (1) yes. 
+192.	Notochordal canal occluded by ossified cranial centrum: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 113).
 
 193.	Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: (0) yes; (1) no. 
@@ -790,7 +790,7 @@
 256.	Basal plates in dorsal fin supports: (0) absent; (1) present. 
 > - Schultze (2000; char. 55).
 
-257.	 Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): (0) spatulate; (1) pointed. 
+257.	Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): (0) spatulate; (1) pointed. 
 > - Lu *et al*., (2017; char. 183).
 
 258.	Vertebral column: (0) unconstricted notochord; (1) disc centra. 
