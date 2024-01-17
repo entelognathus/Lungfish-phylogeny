@@ -1,19 +1,25 @@
 # Character list of lungfishes
 > We assembled a matrix based on characters taken from four analyses: > - Challands *et al*. (2019) for lungfishes, Schultze (2000) for porolepiforms, Lu *et al*. (2017) for sarcopterygians more generally. We also added some new characters, which are indicated below. In cases where taxa have been recoded for specific characters, we note this explicitly. **Here need add the data from Luo *et al*. (2022).**
 
-## External dermal bones of the skull 
+**An excellent start**
+
+## External dermal bones of the skull (skull roof?)
 1. Pineal opening: (0) open; (1) closed.
-> - Schultze and Marshall (1993; char. 1), Schultze (2001; char. 1), Ahlberg *et al*., (2006; char. 55), Qiao and Zhu (2009; char. 1), Schultze (2000; char. 5) Lu *et al*., (2017; char. 41), Lu *et al*., (2012; char. 23), Challands *et al*., (2019; char. 1).
+> Schultze and Marshall (1993; char. 1), Schultze (2001; char. 1), Ahlberg *et al*., (2006; char. 55), Qiao and Zhu (2009; char. 1), Schultze (2000; char. 5) Lu *et al*., (2017; char. 41), Lu *et al*., (2012; char. 23), Challands *et al*., (2019; char. 1).
 
 2.	Pineal region marked by short eminence: (0) no; (1) yes.
-> - Lu *et al*., (2012; char. 24), Challands *et al*., (2019; char. 2).
+> Lu *et al*., (2012; char. 24), Challands *et al*., (2019; char. 2). **To complement the older references like the above.** 
+
 > - Cui *et al*. (2022): "Some early sarcopterygians without pineal foramen in the dermal skull roof bear the pineal region marked by a small, dome-shaped elevation. This structure is found in porolepiforms (*Glyptolepis*, *Holoptychius*, and *Porolepis*; Jarvik, 1972) as well as in *Youngolepis* (Chang, 1982: figs 5, 6) and *Diabolepis*. Friedman (2007) argued that this character cannot logically be coded for those taxa that possess a pineal foramen. We therefore change *Guiyu* from ‘0’ to ‘-’., because it has a pineal foramen (Qiao and Zhu, 2010)."
 
 3.	Cosmine present on skull: (0) yes, full cover; (1) yes, but strongly reduced; (2) no. (**Ordered**)
 > - Challands *et al*., (2019; char. 3).
 
+> - **For the ordered character, how about separating it into two or more characters? Now we had better avoid using the ordered character.**
+
 4.	Length of B bone: (0) short (less than 2 times its width); (1) long (equal or more than 2 times its width); (2) broad (wider than long).
 > - Challands *et al*., (2019; char. 4).
+
 > - Cui *et al*. (2022): "*Diabolepis* from ‘-’. to ‘2’ Taxa more distantly related to lungfishes than *Diabolepis* do not possess a B bone (Chang and Yu, 1984)."
 
 5.	Pit-lines on B bone: (0) absent; (1) anterior and middle pit-line present; (2) only anterior pit-line; (3) only posterior pit line.
