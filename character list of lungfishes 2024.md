@@ -11,6 +11,7 @@
 
 2.	Pineal region marked by short eminence: (0) no; (1) yes.
 > Lu *et al*., (2012; char. 24), Challands *et al*., (2019; char. 2). **To complement the older references like the above. Coped from the old file.** 
+> Friedman (2007), Character 40; Qiao and Zhu (2009), Character 2; Qiao and Zhu (2015), Character 2; Clack et al. (2019), Character 2; Challands et al. (2019), Character 2; Luo et al. (2022), Character 2.
 
 > - Cui *et al*. (2022): "Some early sarcopterygians without pineal foramen in the dermal skull roof bear the pineal region marked by a small, dome-shaped elevation. This structure is found in porolepiforms (*Glyptolepis*, *Holoptychius*, and *Porolepis*; Jarvik, 1972) as well as in *Youngolepis* (Chang, 1982: figs 5, 6) and *Diabolepis*. Friedman (2007) argued that this character cannot logically be coded for those taxa that possess a pineal foramen. We therefore change *Guiyu* from ‘0’ to ‘-’., because it has a pineal foramen (Qiao and Zhu, 2010)."
 
