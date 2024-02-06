@@ -1,4 +1,4 @@
-# Character list of lungfishes
+![image](https://github.com/entelognathus/Lungfish-phylogeny/assets/157091111/6ff0b1d1-9807-45a1-8fb5-7d3f42a3e366)# Character list of lungfishes
 > We assembled a matrix based on characters taken from four analyses: > - Challands *et al*. (2019) for lungfishes, Schultze (2000) for porolepiforms, Lu *et al*. (2017) for sarcopterygians more generally. We also added some new characters, which are indicated below. In cases where taxa have been recoded for specific characters, we note this explicitly. **Here need add the data from Luo *et al*. (2022).**
 
 **An excellent start**
@@ -227,61 +227,85 @@
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 46. Lateral line entering skull table through: (0) bone Z; (1) bone I; (2) above bones.
-> - Schultze and Marshall (1993; char. 30), Schultze (2001; char. 30), Schultze (2004; char. 23), Lloyd *et al*., (2012; char. 30), Challands *et al*., (2019; char. 169). 
+> Schultze and Marshall (1993; char. 30), Schultze (2001; char. 30), Schultze (2004; char. 23), Lloyd *et al*., (2012; char. 30), Challands *et al*., (2019; char. 169). 
+> - Changing *Holoptychius* from '?' to '2' (Jarvik, 1972).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 47. Y-bone: (0) Y1- and Y2-bones present; (1) only one Y-bone; (2) space of X+Y; 3. space of Y+Z.
-> - Schultze and Marshall (1993; char. 31), Schultze and Chorn (1997; char. 13,35), Schultze (2001; char. 31), Schultze (2004; char. 24), Lloyd *et al*., (2012; char. 31), Challands *et al*., (2019; char. 170).
+> Schultze and Marshall (1993; char. 31), Schultze and Chorn (1997; char. 13,35), Schultze (2001; char. 31), Schultze (2004; char. 24), Lloyd *et al*., (2012; char. 31), Challands *et al*., (2019; char. 170).
+> - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972).
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0' (Lu & Zhu, 2019).
 
 48. X-bone (intertemporal): (0) isolated; (1) space of X+K; (2) space of X+Y; (3) missing; (4) fused with the fronto-ethmoidal shield (like *Porolepis* and *Glyptolepis*) (Jarvik 1972, Figs 38, 43).
-> - Schultze and Marshall (1993; char. 32), Schultze and Chorn (1997; char. 14), Schultze (2001; char. 32), Schultze (2004; char. 25), Lloyd *et al*., (2012; char. 32), Challands *et al*., (2019; char. 171).
+> Schultze and Marshall (1993; char. 32), Schultze and Chorn (1997; char. 14), Schultze (2001; char. 32), Schultze (2004; char. 25), Lloyd *et al*., (2012; char. 32), Challands *et al*., (2019; char. 171).
+> - Changing *Holoptychius* from '?' to '4' (Jarvik, 1972); changing *Quebecius* from '0' to '4'. The intertemporal is not mentioned amoung porolepiformes except *Quebecius* (Schultze, 1987). In other porolepiformes, the dermal bone next to the parietal is labeled as prespiracular (Jarvik, 1972; Miller & Brazeau, 2007; Down et al., 2013; Mondéjar‐Fernández *et al*., 2021). Schultze(1987) labeled intertemporal but not labeled prespiracular. However, Cloutier and Schultze(1996) relabeled this bone as prespiracular.
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 49. T-bone: (0) present; (1) absent.
-> - Schultze and Marshall (1993; char. 34), Schultze (2001; char. 34), Lloyd *et al*., (2012; char. 34), Challands *et al*., (2019; char. 172).
+> Schultze and Marshall (1993; char. 34), Schultze (2001; char. 34), Lloyd *et al*., (2012; char. 34), Challands *et al*., (2019; char. 172).
 > - Cui *et al*. (2022): "T bone only in some lungfishes."
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 50.	Bone 10 (qudratojugal): (0) present, (1) absent.
-> -	Schultze and Marshall (1993; char. 36), Schultze (2001; char. 36), Schultze (2004; char. 28), Lloyd *et al*., (2012; char. 36), Challands *et al*., (2019; char. 173). 
+> Schultze and Marshall (1993; char. 36), Schultze (2001; char. 36), Schultze (2004; char. 28), Lloyd *et al*., (2012; char. 36), Challands *et al*., (2019; char. 173). 
+> - Changing *Holoptychius* from '?' to '4' (Jarvik, 1972; Cloutier and Schultze, 1996)
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '0'.
 
 51	Bone 11: (0) Present; (1) absent.
-> - Schultze and Marshall (1993; char. 36), Schultze (2001; char. 36), Schultze (2004; char. 28), Lloyd *et al*., (2012; char. 37), Challands *et al*., (2019; char. 174). 
+> Schultze and Marshall (1993; char. 36), Schultze (2001; char. 36), Schultze (2004; char. 28), Lloyd *et al*., (2012; char. 37), Challands *et al*., (2019; char. 174). 
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 52.	Space taken by L+M: (0) not present, (1) present, (2) space of J+L+M, 3. space of J+K+L+M (+ possible N), 4. space of I+J+L+M, 5. space of K+L+M.
-> - Schultze and Marshall (1993; char. 37), Schultze (2001; char. 37), Schultze (2004; char. 29), Lloyd *et al*., (2012; char. 38), Challands *et al*., (2019; char. 175).
+> Schultze and Marshall (1993; char. 37), Schultze (2001; char. 37), Schultze (2004; char. 29), Lloyd *et al*., (2012; char. 38), Challands *et al*., (2019; char. 175).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 53.	Tectal (sensu Cloutier & Ahlberg, 1996): absent (0); present (1).
-> - (Zhu *et al* 2002 char. 9).
+> Zhu *et al* (2002 char. 9).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 54.	Number of tectals: (0) one; (1) two or more; (2) absent or no suture.
-> - Zhu and Yu (2002 char. 10), Schultze (2000; char. 2).
+> Zhu and Yu (2002 char. 10), Schultze (2000; char. 2).
 > - Cui *et al*. (2022): "Tectals are bones anterior to the orbit that lie between bones carrying the supraorbital canal (nasals) and those carrying the infraorbital canal."
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 55.	Number of supraorbitals (Revised): (0) one (0); (1) two; (2) more than two; 3. missing.
-> - Zhu and Yu (2002 char. 12), Schultze (2000; char. 3).
+> Zhu and Yu (2002 char. 12), Schultze (2000; char. 3).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 56.	Anterior margin of parietals: (0) between or in front of orbits (0); (1) slightly posterior to orbits; (2) much posterior to orbits.
-> - Zhu and Yu (2002 char. 14), Schultze (2000; char. 4).
+> Zhu and Yu (2002 char. 14), Schultze (2000; char. 4).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 57.	Parietal-supraorbital contact: (0) absent; (1) present.
-> - Zhu and Yu (2002 char. 16), Schultze (2000; char. 6).
+> Zhu and Yu (2002 char. 16), Schultze (2000; char. 6).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 58.	Supratemporal (Y1 bone): (0) present; (1) absent.
-> - Schultze (2000; char. 8).
+> Schultze (2000; char. 8).
+> Jarvik(1972) labeled the only marginal bone as supratemporal in *Porolepis*, *Glyptolepis* and *Holoptychius*, while other researchers labeled this bone as tabular bone.
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0'.
 
 59.	Postparietal and cheek contact: (0) absent; (1) present.
-> - Schultze (2000; char. 9).
- 
+> Schultze (2000; char. 9).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
+
 60.	Dermal joint between parietal and postparietal: (0) absent;(1) present.
-> - Zhu and Yu (2002 char. 20), Schultze (2000; char. 10).
+> Zhu and Yu (2002 char. 20), Schultze (2000; char. 10).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 61.	Processus dermintermedius: (0) absent; (1) present.
-> - Zhu and Yu (2002 char. 24), Schultze (2000; char. 11).
+> Zhu and Yu (2002 char. 24), Schultze (2000; char. 11).
 > - Cui *et al*. (2022): "This is a process of dermal bone that extends into the opening of the nostril (Jarvik 1972, Fig 67, p162). It is very hard to determine presence or absence."
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 62.	Ethmoid commissure (sensory canal): (0) present; (1) absent.
-> - Zhu and Yu (2002 char. 30), Schultze (2000; char. 13).
+> Zhu and Yu (2002 char. 30), Schultze (2000; char. 13).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 63.	Course of ethmoid commissure: (0) middle portion through median rostral; (1) sutural course; (2) through bone centre.
-> - Zhu and Yu (2002 char. 31), Schultze (2000; char. 14).
+> Zhu and Yu (2002 char. 31), Schultze (2000; char. 14).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972)
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 64.	Relationship of infraorbital canal to premaxilla: (0) infraorbital canal entering premaxilla; (1) infraorbital canal following dorsal margin of premaxilla.
 > - Zhu and Yu (2002; char. 35), Schultze (2000; char. 16).
