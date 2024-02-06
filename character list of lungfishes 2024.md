@@ -131,9 +131,13 @@
 
 25. Ossified upper lip in adult: (0) mosaic; (1) fused; (2) absent.
 > - Challands *et al*., (2019; char. 25).
+> - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972; Downs *et al*, 2013).
+> - The coding of *Heimenia* is '1' (Clement, 2001). The coding of *Arquachthys* and ZJYporo is '?'. 
 
 26. Snout/skull roof: (0) with diffuse posterior margin; (1) with sharp posterior margin.
 > - Challands *et al*., (2019; char. 26).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972; Downs *et al*, 2013).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 27. Supraorbital and infraorbital canals: (0) separated; (1) connected.
 > - Challands *et al*., (2019; char. 27).
