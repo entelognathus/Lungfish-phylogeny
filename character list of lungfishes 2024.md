@@ -182,37 +182,49 @@
 > - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '1'.
 
 36. Buccohypophyseal opening (foramen): (0) present; (1) absent.
-> - Challands *et al*., (2019; char. 36).
+> Challands *et al*., (2019; char. 36).
 > - Notes：Qiao 2015 included 3 states
-
-37. B-bone (Median skull roof bone between postparietals): (0) absent; (1) present. 
-> - Schultze (2001; char. 8), Lu *et al*., (2017; char. 242), Challands *et al*., (2019; char. 153).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
+37. B-bone (Median skull roof bone between postparietals): (0) absent; (1) present. 
+> Schultze (2001; char. 8), Lu *et al*., (2017; char. 242), Challands *et al*., (2019; char. 153).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
+> - The coding of *Heimenia* is '?'. The coding of ZJYporo and *Arquachthys* is '0'.
+
 38. C-bone(s): (0) paired; (1) single. Character state ‘1’ changed from ‘single/absent’ to differentiate between character 6: C-bone: (0) absent; (1) absent. 
-> - Lloyd *et al*., (2012; char. 11), Challands *et al*., (2019; char. 156).
+> Lloyd *et al*., (2012; char. 11), Challands *et al*., (2019; char. 156).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 39. A-bone (median extrascapular): (0) independent A-bone; (1) not present as independent bone; (2) incorporated into skull roof.
-> - Schultze and Marshall (1993; char. 5), Schultze (2001; char. 5), Schultze (2004; char. 3), Lloyd *et al*., (2012; char. 5), Challands *et al*., (2019; char. 160).
+> Schultze and Marshall (1993; char. 5), Schultze (2001; char. 5), Schultze (2004; char. 3), Lloyd *et al*., (2012; char. 5), Challands *et al*., (2019; char. 160).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 40. F-bone: (0) not existing; (1) present; (2) place of F+E. 
-> - Schultze and Marshall (1993; char. 15), Schultze (2001; char. 15), Schultze (2004; char. 12), Lloyd *et al*., (2012; char. 15), Challands *et al*., (2019; char. 163).
+> Schultze and Marshall (1993; char. 15), Schultze (2001; char. 15), Schultze (2004; char. 12), Lloyd *et al*., (2012; char. 15), Challands *et al*., (2019; char. 163).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 41. Space taken by K+L or more bones (i.e. K- and L-bones missing if ‘0’): (0) not; (1) yes; (2) in addition M; 3. in addition M+N; 4. in addition J+M; 5. in addition X.
-> - Schultze and Marshall (1993; char. 16), Schultze (2001; char. 16), Schultze (2004; char. 13), Lloyd *et al*., (2012; char. 16), Challands *et al*., (2019; char. 164).
+> Schultze and Marshall (1993; char. 16), Schultze (2001; char. 16), Schultze (2004; char. 13), Lloyd *et al*., (2012; char. 16), Challands *et al*., (2019; char. 164).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 42. G-bone: (0) present; (1) absent.
-> - Schultze and Marshall (1993; char. 18), Schultze (2001; char. 18). Lloyd *et al*., (2012; char. 18), Challands *et al*., (2019; char. 165).
- 
+> Schultze and Marshall (1993; char. 18), Schultze (2001; char. 18). Lloyd *et al*., (2012; char. 18), Challands *et al*., (2019; char. 165).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
+
 43. I-bone (postparietal): (0) present; (1) space of I+J; (2) space of I+J+L+M; 3. space of I+Z; 4. space of A+B+I+J; 5. space of I+Y+Z.
-> - Schultze and Marshall (1993; char. 19), Schultze and Chorn (1997; char. 8), Schultze (2001; char. 19), Schultze (2004; char. 14), Lloyd *et al*., (2012; char. 19), Challands *et al*., (2019; char. 166).
+> Schultze and Marshall (1993; char. 19), Schultze and Chorn (1997; char. 8), Schultze (2001; char. 19), Schultze (2004; char. 14), Lloyd *et al*., (2012; char. 19), Challands *et al*., (2019; char. 166).
+> - The coding of *Heimenia* is '?'. The coding of ZJYporo and *Arquachthys* is '0'.
 
 44. J-bone (parietal): (0) present; (1) space of J+K+L+M; (2) space of I+J; 3. space of J+L+M; 4. space of A+B+I+J, 5. space of J+C.
-> - Schultze and Marshall (1993; char. 22), Schultze and Chorn (1997; char. 2), Schultze (2001; char. 22), Schultze (2004; char. 16), Lloyd *et al*., (2012; char. 22), Challands *et al*., (2019; char. 167).
+> Schultze and Marshall (1993; char. 22), Schultze and Chorn (1997; char. 2), Schultze (2001; char. 22), Schultze (2004; char. 16), Lloyd *et al*., (2012; char. 22), Challands *et al*., (2019; char. 167).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 45. Z-bone (lateral extrascapular): (0) behind skull roof; (1) integrated into skull roof; (2) space of Y+Z; (3) lacking as isolated bone.
-> - Schultze and Marshall (1993; char. 29), Schultze and Chorn (1997; char. 12,34), Schultze (2001; char. 29), Schultze (2004; char. 22), Lloyd *et al*., (2012; char. 29), Challands *et al*., (2019; char. 168).
+> Schultze and Marshall (1993; char. 29), Schultze and Chorn (1997; char. 12,34), Schultze (2001; char. 29), Schultze (2004; char. 22), Lloyd *et al*., (2012; char. 29), Challands *et al*., (2019; char. 168).
 > - Cui *et al.* (2022): "Z-bone is homoglogous with the lateral extrascapular."
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 46. Lateral line entering skull table through: (0) bone Z; (1) bone I; (2) above bones.
 > - Schultze and Marshall (1993; char. 30), Schultze (2001; char. 30), Schultze (2004; char. 23), Lloyd *et al*., (2012; char. 30), Challands *et al*., (2019; char. 169). 
