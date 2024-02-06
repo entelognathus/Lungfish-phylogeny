@@ -8,85 +8,107 @@
 ## External dermal bones of the skull (skull roof?)
 1. Pineal opening: (0) open; (1) closed.
 > Schultze and Marshall (1993; char. 1), Schultze (2001; char. 1), Ahlberg *et al*., (2006; char. 55), Qiao and Zhu (2009; char. 1), Schultze (2000; char. 5) Lu *et al*., (2017; char. 41), Lu *et al*., (2012; char. 23), Challands *et al*., (2019; char. 1).
-
+> - Changing *Holoptychius* from '?' to '1'.
+> - The coding of *Heimenia* (Clement, 2001; Mondéjar‐Fernández and Clement, 2012), *Arquachthys*(Lu and Zhu, 2008; Lu and Zhu, 2019) and ZJYporo is '?'.
 2.	Pineal region marked by short eminence: (0) no; (1) yes.
 > Lu *et al*., (2012; char. 24), Challands *et al*., (2019; char. 2). **To complement the older references like the above. Coped from the old file.** 
 > Friedman (2007), Character 40; Qiao and Zhu (2009), Character 2; Qiao and Zhu (2015), Character 2; Clack et al. (2019), Character 2; Challands et al. (2019), Character 2; Luo et al. (2022), Character 2.
-
+> - The coding of *Heimenia* (Clement, 2001; Mondéjar‐Fernández and Clement, 2012), *Arquachthys*(Lu and Zhu, 2008; Lu and Zhu, 2019) and ZJYporo is '?'.
 > - Cui *et al*. (2022): "Some early sarcopterygians without pineal foramen in the dermal skull roof bear the pineal region marked by a small, dome-shaped elevation. This structure is found in porolepiforms (*Glyptolepis*, *Holoptychius*, and *Porolepis*; Jarvik, 1972) as well as in *Youngolepis* (Chang, 1982: figs 5, 6) and *Diabolepis*. Friedman (2007) argued that this character cannot logically be coded for those taxa that possess a pineal foramen. We therefore change *Guiyu* from ‘0’ to ‘-’., because it has a pineal foramen (Qiao and Zhu, 2010)."
+
+> - The coding of *Heimenia* (Clement, 2001; Mondéjar‐Fernández and Clement, 2012), *Arquachthys* (Lu and Zhu, 2008; Lu and Zhu, 2019) and ZJYporo is '?'.
 
 3.	Cosmine present on skull: (0) yes, full cover; (1) yes, but strongly reduced; (2) no. (**Ordered**)
 > Challands *et al*., (2019; char. 3).
-
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008; Lu and Zhu, 2019) is '0'. 
 > - **For the ordered character, how about separating it into two or more characters? Now we had better avoid using the ordered character.**
 
 4.	Length of B bone: (0) short (less than 2 times its width); (1) long (equal or more than 2 times its width); (2) broad (wider than long).
 > Challands *et al*., (2019; char. 4).
 
 > - Cui *et al*. (2022): "*Diabolepis* from ‘-’. to ‘2’ Taxa more distantly related to lungfishes than *Diabolepis* do not possess a B bone (Chang and Yu, 1984)."
+> - The coding of *Heimenia* (Clement, 2001; Mondéjar‐Fernández and Clement, 2012), *Arquachthys* (Lu and Zhu, 2008; Lu and Zhu, 2019) and ZJYporo is '-'.
 
 5.	Pit-lines on B bone: (0) absent; (1) anterior and middle pit-line present; (2) only anterior pit-line; (3) only posterior pit line.
 > Challands *et al*., (2019; char. 5).
 
-> -
+> - The coding of *Heimenia* (Clement, 2001; Mondéjar‐Fernández and Clement, 2012), *Arquachthys* (Lu and Zhu, 2008; Lu and Zhu, 2019) and ZJYporo is '-'.
 
 6.	C-bone: (0) absent; (1) present. 
 > Challands *et al*., (2019; char. 6).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
 
 7.	D-bone: (0) many; (1) single; (2) absent. 
 > - Challands *et al*., (2019; char. 7).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 8.	Contact between E and C bones: (0) absent; (1) present.
 > - Challands *et al*., (2019; char. 8).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 9.	Postrostral (Revised): (0) absent; (1) postrostral mosaic of small variable bones; (2) large median postrostral, with or without accessory bones; (3) paired E bones; (4) single E-bone.
 > - Zhu and Yu (2002; char. 6), Challands *et al*., (2019; char. 9).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 10. Length of E-bone(s): (0) less than twice their width; (1) more than twice their width.
 > - Challands *et al*., (2019; char. 10).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 11. I-bones meeting in midline: (0) yes; (1) no, separated by B bone.
 > - Challands *et al*., (2019; char. 11).
 > - Cui *et al*. (2022): "This character changed to just refer to I-bones, which we regard as homologues of the postparietals. In the present matrix, we expanded the ingroup by adding more porolepiforms, which show the primitive contact between the postparietals."
+> - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'.
 
 
 12.	Posterior process of I bone: (0) absent; (1) present. 
 > - Challands *et al*., (2019; char. 12).
+> - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'.
 
 13. J-bones (parietals) meeting in midline: (0) yes; (1) no. 
 > - Challands *et al*., (2019; char. 13).
 > - Cui *et al*. (2022): "This character changed to just refer to J-bones, which we regard as homologues of the parietals." 
-
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 14. L-bone: (0) two present; (1) one present; (2) fused K+L, (3) fused K+L+M, (4) other bones included.
 > - Schultze and Marshall (1993; char. 25), Schultze and Chorn (1997; char. 10, 37, 38, 39, 40), Schultze (2001; char. 25), Schultze (2004; char. 18), Challands *et al*., (2019; char. 14).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 15. Length of L-bone: (0) similar to others in supraorbital canal series; (1) about twice as long as others in supraorbital canal series.
 > - Challands *et al*., (2019; char. 15).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 16. K-bone: (0) single; (1) space of K+X; (2) neither single nor K+X (e. g. fused (i.e ‘space of’) K- + L-bones); (3) K-bone absent.
 > - Schultze and Marshall (1993; char. 24), Schultze and Chorn (1997; char. 9, 36), Schultze (2001; char. 24), Schultze (2004; char. 17), Challands *et al*., (2019; char. 16).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 17. K bone: (0) medial to X bone; (1) anterior to X bone; (2) in sequence.
 > - Challands *et al*., (2019; char. 17).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 18. M bone: (0) present; (1) absent.
 > - Challands *et al*., (2019; char. 18).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 19. N bone: (0) present; (1) absent.
 > - Challands *et al*., (2019; char. 19).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 20. Q bone: (0) absent; (1) present.
 > - Challands *et al*., (2019; char. 20).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 21. Z bone: (0) posterior to I bone; (1) lateral to I bone.
 > - Challands *et al*., (2019; char. 21).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 22. Maximum width of skull roof situated posterior to the level of the bone Y1 (supratemporal): (0) yes; (1) no.
 > - Challands *et al*., (2019; char. 22).
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0'. 
+
 
 23. Sutures between median series of skull roofing bones: (0) straight; (1) interdigitate; (2) open.
 > - Schultze and Marshall (1993; char. 3), Schultze (2001; char. 3), Schultze (2004; char. 1), Challands *et al*., (2019; char. 1).
+> - The coding of *Heimenia* is '?'. The coding of *Arquachthys* and ZJYporo is '0'. 
 
 24. Elongated snout: (0) absent; (1) present.
 > - Challands *et al*., (2019; char. 24).
