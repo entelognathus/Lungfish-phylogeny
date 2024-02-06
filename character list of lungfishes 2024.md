@@ -69,23 +69,23 @@
 > - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'.
 
 13. J-bones (parietals) meeting in midline: (0) yes; (1) no. 
-> - Challands *et al*., (2019; char. 13).
+> Challands *et al*., (2019; char. 13).
 > - Cui *et al*. (2022): "This character changed to just refer to J-bones, which we regard as homologues of the parietals." 
 > - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972; Downs *et al*, 2013).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 14. L-bone: (0) two present; (1) one present; (2) fused K+L, (3) fused K+L+M, (4) other bones included.
-> - Schultze and Marshall (1993; char. 25), Schultze and Chorn (1997; char. 10, 37, 38, 39, 40), Schultze (2001; char. 25), Schultze (2004; char. 18), Challands *et al*., (2019; char. 14).
+> Schultze and Marshall (1993; char. 25), Schultze and Chorn (1997; char. 10, 37, 38, 39, 40), Schultze (2001; char. 25), Schultze (2004; char. 18), Challands *et al*., (2019; char. 14).
 > - Changing *Holoptychius* from '?' to '-' (Jarvik, 1972).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 15. Length of L-bone: (0) similar to others in supraorbital canal series; (1) about twice as long as others in supraorbital canal series.
-> - Challands *et al*., (2019; char. 15).
+> Challands *et al*., (2019; char. 15).
 > - Changing *Holoptychius* from '?' to '-' (Jarvik, 1972).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 16. K-bone: (0) single; (1) space of K+X; (2) neither single nor K+X (e. g. fused (i.e ‘space of’) K- + L-bones); (3) K-bone absent.
-> - Schultze and Marshall (1993; char. 24), Schultze and Chorn (1997; char. 9, 36), Schultze (2001; char. 24), Schultze (2004; char. 17), Challands *et al*., (2019; char. 16).
+> Schultze and Marshall (1993; char. 24), Schultze and Chorn (1997; char. 9, 36), Schultze (2001; char. 24), Schultze (2004; char. 17), Challands *et al*., (2019; char. 16).
 > - Changing *Holoptychius* from '?' to '-' (Jarvik, 1972).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
@@ -115,56 +115,71 @@
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 22. Maximum width of skull roof situated posterior to the level of the bone Y1 (supratemporal): (0) yes; (1) no.
-> - Challands *et al*., (2019; char. 22).
+> Challands *et al*., (2019; char. 22).
 > - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972). The single marginal bone of porolepiformes remains controversial in terms of nomenclature. Jarvik(1972) labeled this bone as supratemporal in *Porolepis*, *Glyptolepis* and *Holoptychius*. However, in articles about *Laccognathus* (Vorbyeva, 1980; Vorbyeva, 2006; Downs *et al*., 2011), *Nasogaluakus* (Schultze, 2000), *Quebecius* (Schultze & Arsenault, 1987; Cloutier & Schultze, 1996) and *Durialepis* (Otto, 2001; Mondéjar‐Fernández *et al*., 2021), this bone was labeled as tabular. Mondéjar‐Fernández *et al*.(2021) also labeled this bone as tabular in *Porolepis*, *Glyptolepis* and *Holoptychius*.
 > - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0'. 
 
 
 23. Sutures between median series of skull roofing bones: (0) straight; (1) interdigitate; (2) open.
-> - Schultze and Marshall (1993; char. 3), Schultze (2001; char. 3), Schultze (2004; char. 1), Challands *et al*., (2019; char. 1).
+> Schultze and Marshall (1993; char. 3), Schultze (2001; char. 3), Schultze (2004; char. 1), Challands *et al*., (2019; char. 1).
 > - The coding of *Heimenia* is '?'. The coding of *Arquachthys* and ZJYporo is '0'. 
 
 24. Elongated snout: (0) absent; (1) present.
-> - Challands *et al*., (2019; char. 24).
+> Challands *et al*., (2019; char. 24).
 > - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
 > - The coding of *Heimenia* is '0' (Clement, 2001). The coding of *Arquachthys* and ZJYporo is '?'. 
 
 25. Ossified upper lip in adult: (0) mosaic; (1) fused; (2) absent.
-> - Challands *et al*., (2019; char. 25).
+> Challands *et al*., (2019; char. 25).
 > - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972; Downs *et al*, 2013).
 > - The coding of *Heimenia* is '1' (Clement, 2001). The coding of *Arquachthys* and ZJYporo is '?'. 
 
 26. Snout/skull roof: (0) with diffuse posterior margin; (1) with sharp posterior margin.
-> - Challands *et al*., (2019; char. 26).
+> Challands *et al*., (2019; char. 26).
 > - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972; Downs *et al*, 2013).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 27. Supraorbital and infraorbital canals: (0) separated; (1) connected.
-> - Challands *et al*., (2019; char. 27).
+> Challands *et al*., (2019; char. 27).
+> - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 28. Lateral line in bone 3: (0) absent; (1) present. 
-> - Challands *et al*., (2019; char. 28).
+> Challands *et al*., (2019; char. 28).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 29. Cheek bones: (0) cheek bones 1–11 present; (1) no 11; (2) no 10, 11.
-> - Challands *et al*., (2019; char. 29).
+> Challands *et al*., (2019; char. 29).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 30. Length of postorbital cheek: (0) substantially longer than diameter of orbit; (1) equal to or shorter than diameter of orbit.
-> - Challands *et al*., (2019; char. 30).
+> Challands *et al*., (2019; char. 30).
+> - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '1'.
 
 31. Ratio length snout/cheek: (0) <1; (1) >= 1.
-> - Schultze and Marshall (1993; char. 85), Schultze (2001; char. 85), Schultze (2004; char. 53), Challands *et al*., (2019; char. 31).
+> Schultze and Marshall (1993; char. 85), Schultze (2001; char. 85), Schultze (2004; char. 53), Challands *et al*., (2019; char. 31).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 32. Bone 6: (0) reaching ventral margin of cheek; (1) excluded from ventral margin of cheek by bone 10.
-> - Challands *et al*., (2019; char. 32).
+> Challands *et al*., (2019; char. 32).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 33. Bone 7: (0) approximately equilateral; (1) much longer than deep.
-> - Challands *et al*., (2019; char. 33).
+> Challands *et al*., (2019; char. 33).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 34. Size of bone 10 (quadratojugal): (0) large, as 5(jugal) or greater; (1) much smaller than 5, or absent.
-> - Challands *et al*., (2019; char. 34).
+> Challands *et al*., (2019; char. 34).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '0'.
 
 35. Subopercular: (0) two; (1) one.
 > - Challands *et al*., (2019; char. 35).
+> - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972). 
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '1'.
 
 36. Buccohypophyseal opening (foramen): (0) present; (1) absent.
 > - Challands *et al*., (2019; char. 36).
@@ -172,6 +187,7 @@
 
 37. B-bone (Median skull roof bone between postparietals): (0) absent; (1) present. 
 > - Schultze (2001; char. 8), Lu *et al*., (2017; char. 242), Challands *et al*., (2019; char. 153).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 38. C-bone(s): (0) paired; (1) single. Character state ‘1’ changed from ‘single/absent’ to differentiate between character 6: C-bone: (0) absent; (1) absent. 
 > - Lloyd *et al*., (2012; char. 11), Challands *et al*., (2019; char. 156).
