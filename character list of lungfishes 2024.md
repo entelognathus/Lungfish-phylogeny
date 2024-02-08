@@ -1,4 +1,4 @@
-![image](https://github.com/entelognathus/Lungfish-phylogeny/assets/157091111/6ff0b1d1-9807-45a1-8fb5-7d3f42a3e366)# Character list of lungfishes
+ ![image](https://github.com/entelognathus/Lungfish-phylogeny/assets/157091111/6ff0b1d1-9807-45a1-8fb5-7d3f42a3e366)# Character list of lungfishes
 > We assembled a matrix based on characters taken from four analyses: > - Challands *et al*. (2019) for lungfishes, Schultze (2000) for porolepiforms, Lu *et al*. (2017) for sarcopterygians more generally. We also added some new characters, which are indicated below. In cases where taxa have been recoded for specific characters, we note this explicitly. **Here need add the data from Luo *et al*. (2022).**
 
 **An excellent start**
@@ -308,58 +308,77 @@
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 64.	Relationship of infraorbital canal to premaxilla: (0) infraorbital canal entering premaxilla; (1) infraorbital canal following dorsal margin of premaxilla.
-> - Zhu and Yu (2002; char. 35), Schultze (2000; char. 16).
+> Zhu and Yu (2002; char. 35), Schultze (2000; char. 16).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '0'. 
 
 65.	Course of otic sensory canal: (0) not through growth centre of postparietal; (1) through growth centre of postparietal.
-> - Schultze (2000; char. 17).
+> Schultze (2000; char. 17).
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0'. 
 
 66.	Otic canal extends through postparietals: (0) Absent; (1) Present.
-> - Lu *et al*., (2017 char. 147).
+> Lu *et al*., (2017 char. 147).
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0'. 
 
 67.	Posterior end of supraorbital sensory canal: (0) in postparietal; (1) in parietal; (2) in intertemporal.
-> - Zhu and Yu (2002 char. 36), Schultze (2000; char. 18).
+> Zhu and Yu (2002 char. 36), Schultze (2000; char. 18).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 68.	Otic and supraorbital sensory canals: (0) not in contact; (1) in contact.
-> - Zhu and Yu (2002; char. 37), Schultze (2000; char. 19).
- 
+> Zhu and Yu (2002; char. 37), Schultze (2000; char. 19).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
+
 69.	Position of posterior pit line: (0) on posterior half of postparietal; (1) on anterior half of postparietal. 
-> - Zhu and Yu (2002; char. 39), Schultze (2000; char. 20).
+> Zhu and Yu (2002; char. 39), Schultze (2000; char. 20).
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0'. 
  
 70.	Shape of jugal: (0) short and deep; (1) long and low.
-> - Schultze (2000; char. 22).
- 
+> Schultze (2000; char. 22).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '1'. 
+
 71.	Prespiracular: (0) absent; (1) present.
-> - Schultze (2000; char. 23).
+> Schultze (2000; char. 23).
+> - Changing *Holoptychius* (Jarvik, 1972), *Laccognathus* (Vorobyeva, 2006), *Quebecius* (Cloutier and Schultze, 1996) from '?' to '1'.
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 72.	Squamosal, quadratojugal and preopercular bones: (0) Separated; (1) fused.
-> - Lu *et al*. (2017 char. 54, status is inverse), Zhu and Yu (2002; char. 46), Schultze (2000; char. 24).
- 
+> Lu *et al*. (2017 char. 54, status is inverse), Zhu and Yu (2002; char. 46), Schultze (2000; char. 24).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '0'. 
+
 73.	Subsquamosals: (0) absent; (1) present.
->- Lu *et al*., (2017; char. 55), Zhu and Yu (2002; char. 48), Schultze (2000; char. 25).
+> Lu *et al*., (2017; char. 55), Zhu and Yu (2002; char. 48), Schultze (2000; char. 25).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 74.	Preoperculosubmandibular: (0) absent; (1) present.
 > - Lu *et al*., (2017; char. 244), Zhu and Yu (2002; char. 52), Schultze (2000; char. 26).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 75.	Foramina on dermal cheek bones: (0) absent; (1) present.
-> - Zhu and Yu (2002; char. 53), Schultze (2000; char. 27).
+> Zhu and Yu (2002; char. 53), Schultze (2000; char. 27).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 76.	Vertical bar-like preopercular bone: (0) absent; (1) present.
-> - Zhu and Yu (2002; char. 54), Schultze (2000; char. 28).
+> Zhu and Yu (2002; char. 54), Schultze (2000; char. 28).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '0'. 
  
 77.	Postorbital: (0) restricted to anterior cranial division; (1) spanning two divisions.
-> - Schultze (2000; char. 29).
+> Schultze (2000; char. 29).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '0'. 
 
 78.	Median gular: (0) present; (1) absent.
-> - Zhu and Yu (2002; char. 85), Schultze (2000; char. 34).
+> Zhu and Yu (2002; char. 85), Schultze (2000; char. 34).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '1'. 
 
 79.	Sensory line network: (0) preserved as open grooves (sulci) in dermal bones; (1) sensory lines pass through canals in dermal bones (open as pores).
-> - Lu *et al*. (2017; char. 30).
+> Lu *et al*. (2017; char. 30).
+> - The coding of *Heimenia* is '?'. The coding of ZJYporo and *Arquachthys* is '1'. 
 
 80.	Westoll lines: (0) absent; (1) present.
-> - Zhu and Yu (2002; char. 151), Lu *et al*. (2017; char. 243).
+> Zhu and Yu (2002; char. 151), Lu *et al*. (2017; char. 243).
+> - The coding of *Heimenia* is '?'. The coding of ZJYporo and *Arquachthys* is '0'. 
 
 81.	Canal-bearing bone of skull roof extends far past posterior margin of parietals: (0) no, (1) yes.
-> - Lu *et al*. (2017; char. 238).
+> Lu *et al*. (2017; char. 238).
+> - The coding of *Heimenia* is '?'. The coding of ZJYporo and *Arquachthys* is '0'. 
 
 ## Oral elements (palate part)
 82.	Palatal construction: (0) parasphenoid separates pterygoids; (1) pterygoids articulate with each other with suture; (2) pterygoids fused.
