@@ -374,6 +374,7 @@
 
 80.	Westoll lines: (0) absent; (1) present.
 > Zhu and Yu (2002; char. 151), Lu *et al*. (2017; char. 243).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
 > - The coding of *Heimenia* is '?'. The coding of ZJYporo and *Arquachthys* is '0'. 
 
 81.	Canal-bearing bone of skull roof extends far past posterior margin of parietals: (0) no, (1) yes.
@@ -382,29 +383,38 @@
 
 ## Oral elements (palate part)
 82.	Palatal construction: (0) parasphenoid separates pterygoids; (1) pterygoids articulate with each other with suture; (2) pterygoids fused.
-> - Challands *et al*., (2019; char. 37).
+> Challands *et al*., (2019; char. 37).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 83.	Parasphenoid: (0) fused into palate; (1) visible sutures; (2) overlapping (pterygoids).
-> - Challands *et al*., (2019; char. 38).
+> Challands *et al*., (2019; char. 38).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 84.	Transverse curvature of palate: (0) flat; (1) arched.
-> - Challands *et al*., (2019; char. 39).
+> Challands *et al*., (2019; char. 39).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 85.	Parasphenoid stalk: (0) no stalk; (1) simple stalk without sharp division into tapering proximal portion and parallel-sided distal portion; (2) stalk with sharp division into tapering proximal portion and parallel-sided distal portion. (**Ordered**). 
-> - Challands *et al*., (2019; char. 40).
+> Challands *et al*., (2019; char. 40).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 86.	Ratio of posterior length to anterior length of parasphenoid: (0) less than 1 or about 1; (1) greater than 1. 
-> - Challands *et al*., (2019; char. 41).
+> Challands *et al*., (2019; char. 41).
 > - Cui *et al*. (2022): "This distinction is usually made between the body (or corpus) of the parasphenoid and the stalk. In some taxa this distinction is very clear. But in many cases, this is not so obvious (e.g. *Dipterus*)."
+> - The coding of *Heimenia* is '-'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 87.	Furrow on ventral surface of parasphenoid stalk: (0) absent; (1) present. 
-> - Challands *et al*., (2019; char. 42).
+> Challands *et al*., (2019; char. 42).
+> - The coding of *Heimenia* is '-'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 88.	Furrow on dorsal surface of parasphenoid stalk: (0) absent; (1) present.
-> - Challands *et al*., (2019; char. 43).
+> Challands *et al*., (2019; char. 43).
+> - The coding of *Heimenia* is '-'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 89.	Parasphenoid bearing denticle-lined ascending process: (0) no; (1) yes. 
-> - Lu *et al*., (2017; char. 113), Challands *et al*., (2019; char. 44).
+> Lu *et al*., (2017; char. 113), Challands *et al*., (2019; char. 44).
+> - The coding of *Heimenia* is '1'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 90.	Dental material on parasphenoid: (0) present; (1) absent. 
 > - Challands *et al*., (2019; char. 45).
