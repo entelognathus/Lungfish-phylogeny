@@ -1,4 +1,4 @@
- ![image](https://github.com/entelognathus/Lungfish-phylogeny/assets/157091111/6ff0b1d1-9807-45a1-8fb5-7d3f42a3e366)# Character list of lungfishes
+Character list of lungfishes
 > We assembled a matrix based on characters taken from four analyses: > - Challands *et al*. (2019) for lungfishes, Schultze (2000) for porolepiforms, Lu *et al*. (2017) for sarcopterygians more generally. We also added some new characters, which are indicated below. In cases where taxa have been recoded for specific characters, we note this explicitly. **Here need add the data from Luo *et al*. (2022).**
 
 **An excellent start**
