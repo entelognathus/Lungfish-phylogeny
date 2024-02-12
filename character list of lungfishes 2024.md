@@ -530,10 +530,12 @@ Character list of lungfishes
 
 ## Neurocranium (Nasal part)
 117.	Anterior nostril: (0) located dorsal to oral margin; (1) marginal. 
-> - Challands *et al*., (2019; char. 60).
+> Challands *et al*., (2019; char. 60).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 118.	Posterior nostril: (0) located dorsal to oral margin; (1) marginal (2) palatal. (**Ordered**). 
-> - Challands *et al*., (2019; char. 61).
+> Challands *et al*., (2019; char. 61).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 119.	Internasal pits: (0) well developed; (1) reduced or absent. 
 > - Lu *et al*., (2017; char. 120), Challands *et al*., (2019; char. 62).
@@ -549,7 +551,7 @@ Character list of lungfishes
 
 ## Oral elements (Dentition and jaw bones)
 123. Premaxilla: (0) present; (1) absent. 
-> - Challands *et al*., (2019; char. 64).
+> Challands *et al*., (2019; char. 64).
 
 124.	Maxilla: (0) absent, (1) present. 
 > - Schultze and Marshall (1993; char. 38), Schultze (2001; char. 38), Lloyd *et al*., (2012; char. 39), Challands *et al*., (2019; char. 61).
