@@ -417,87 +417,116 @@ Character list of lungfishes
 > - The coding of *Heimenia* is '1'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 90.	Dental material on parasphenoid: (0) present; (1) absent. 
-> - Challands *et al*., (2019; char. 45).
+> Challands *et al*., (2019; char. 45).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 91.	Parasphenoid reaching posterior margin of occiput: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 46).
+> Challands *et al*., (2019; char. 46).
 > - Cui *et al*. (2022): "This assumes the presence of a stalk. Can only be coded for taxa with a stalked paraphenoid."
+> - The coding of *Heimenia* is '-'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 92.	Shape of parasphenoid: (0) anteriad elongated, (1) plow-shaped, (2) with lozenge, 3. round anterior portion, 4. angled anterior portion. 
-> - Schultze and Marshall (1993; char. 49), Schultze and Chorn (1997; char. 18), Schultze (2001; char. 49), Schultze (2004; char. 34), Challands *et al*., (2019; char. 47).
+> Schultze and Marshall (1993; char. 49), Schultze and Chorn (1997; char. 18), Schultze (2001; char. 49), Schultze (2004; char. 34), Challands *et al*., (2019; char. 47).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 93.	Position of parasphenoid: (0) below ethmosphenoid; (1) below otico-occipital; (2) below both. 
-> - Challands *et al*., (2019; char. 48).
+> Challands *et al*., (2019; char. 48).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 94.	Position of anterior end of parasphenoid: (0) in front of jaw articulation; (1) not in front. 
-> - Challands *et al*., (2019; char. 49).
+> Challands *et al*., (2019; char. 49).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 95.	Ratio of the maximum width of parasphenoid to the distance of articulation points of jaws: (0) less than 1/3; (1) between 1/3 and 2/3; (2) greater than 2/3. 
-> - Challands *et al*., (2019; char. 50).
+> Challands *et al*., (2019; char. 50).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 96.	Lateral angle of parasphenoid: (0) no angle, (1) angular, (2) rounded, 3. reflexed. 
-> - Schultze and Marshall (1993; char. 48), Schultze (2001; char. 48), Schultze (2004; char. 33), Challands *et al*., (2019; char. 51).
+> Schultze and Marshall (1993; char. 48), Schultze (2001; char. 48), Schultze (2004; char. 33), Challands *et al*., (2019; char. 51).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 97.	(Posterior) end of parasphenoid (stalk): (0) single point; (1) bifid; (2) trifid with lateral projections. 
-> - Challands *et al*., (2019; char. 52).
+> Challands *et al*., (2019; char. 52).
+> - The coding of *Heimenia* is '-'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 98.	Margins of posterior stalk of parasphenoid: (0) converge to posterior angle; (1) subparallel. 
-> - Challands *et al*., (2019; char. 53).
+> Challands *et al*., (2019; char. 53).
+> - The coding of *Heimenia* is '-'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 99. “Vomer” sensu Miles (1977): (0) present; (1) absent. 
-> - Challands *et al*., (2019; char. 54).
+> Challands *et al*., (2019; char. 54).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 100. Vomer: (0) Paired; (1) Unpaired. 
-> - *Cui et al*., (2022, char. 100), Luo *et al*., (2022; char. 187).
+> *Cui et al*., (2022, char. 100), Luo *et al*., (2022; char. 187).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 101.	“Dermopalatine 1” sensu Miles (1977): (0) median; (1) paired. 
-> - Challands *et al*., (2019; char. 55).
+> Challands *et al*., (2019; char. 55).
+> - The coding of *Heimenia* and ZJYporo is '1'. The coding of *Arquachthys* is '?'. 
 
 102. “Dermopalatine 1” sensu Miles (1977) / pterygoid: (0) fused to pterygoid; (1) sutured to pterygoid; (2) isolated.
-> - Challands *et al*., (2019; char. 56).
+> Challands *et al*., (2019; char. 56).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 103.	Series anterolateral to pterygoids (dermopalatine, extopterygoid, and vomer): (0) present, with tusks; (1) present with denticles or dentine sheet; (2) present with tooth row. 
-> - Challands *et al*., (2019; char. 57).
+> Challands *et al*., (2019; char. 57).
 > - Cui *et al*. (2022): "This is interpreted as meaning ‘dental’ series anterolateral to pterygoids. Here, we consider the series anterolateral to pterygoids include the dermopalatine, extopterygoid, and vomer."
+> - Changing *Porolepis* from '?' to '0' (Jarvick, 1966; Chang, 1991).
+> - The coding of *Heimenia* and ZJYporo is '0'. The coding of *Arquachthys* is '?'. 
 
 104.	Parasphenoid separating pterygoids along more than half of their length: (0) yes; (1) no. 
-> - Challands *et al*., (2019; char. 58).
+> Challands *et al*., (2019; char. 58).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 105.	Angle between midline and anterolateral margin of pterygoid: (0) less than 55 degrees; (1) more than 55 degrees. 
-> - Ahlberg *et al*., (2006; char. 24), Challands *et al*., (2019; char. 59).
+> Ahlberg *et al*., (2006; char. 24), Challands *et al*., (2019; char. 59).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 106.	Cosmine-like tissue within oral cavity: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 63).
+> Challands *et al*., (2019; char. 63).
+> - The coding of ZJYporo and *Heimenia* is '0'. The coding of *Arquachthys* is '?'. 
 
 107.	Angle between quadrate and plane of parasphenoid: (0) 90–95 degrees; (1) 80–65 degrees; (2) 55–35 degrees. 
-> - Challands *et al*., (2019; char. 105).
+> Challands *et al*., (2019; char. 105).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 108.	Autostyly: (0) absent; (1) present. 
-> - Challands *et al*., (2019; char. 106).
+> Challands *et al*., (2019; char. 106).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 109.	Lateral commissure: (0) separate from palatoquadrate; (1) partly fused but distinguishable; (2) wholly fused to palatoquadrate. (**Ordered**). 
-> - Challands *et al*., (2019; char. 107).
+> Challands *et al*., (2019; char. 107).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 110.	Palatoquadrate: (0) fused into palate; (1) free. 
-> - Challands *et al*., (2019; char. 108).
+> Challands *et al*., (2019; char. 108).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 111.	Dorsolateral process on palatoquadrate: (0) absent; (1) present. 
-> - Challands *et al*., (2019; char. 109).
+> Challands *et al*., (2019; char. 109).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 112. Overlap relationship between entopterygoids and parasphenoid: (0) parasphenoid overlaps entopterygoids dorsally; (1) entopterygoids overlap parasphenoid dorsally. 
-> - Challands *et al*., (2019; char. 141).
+> Challands *et al*., (2019; char. 141).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 113.	Median callus on palate: (0) absent; (1) present. 
-> - Ahlberg *et al*., (2006; char. 18), Challands *et al*., (2019; char. 152).
+> Ahlberg *et al*., (2006; char. 18), Challands *et al*., (2019; char. 152).
+> - Changing *Holoptychius* from '?' to '0' (Downs *et al*., 2013).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 114.	Articulation of parasphenoid: (0) parasphenoid not sutured to vomer; (1) parasphenoid sutured to vomer. 
-> - Schultze (2000; char. 36).
+> Schultze (2000; char. 36).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 115.	Palatoquadrate fused with neurocranium: (0) absent; (1) present. 
-> - Lu *et al*., (2017; char. 101).
+> Lu *et al*., (2017; char. 101).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 116.	Entopterygoids: (0) separated; (1) contact along midline. 
-> - Lu *et al*., (2017; char. 259).
+> Lu *et al*., (2017; char. 259).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 ## Neurocranium (Nasal part)
 117.	Anterior nostril: (0) located dorsal to oral margin; (1) marginal. 
