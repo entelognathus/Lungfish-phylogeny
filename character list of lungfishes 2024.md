@@ -538,23 +538,30 @@ Character list of lungfishes
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 119.	Internasal pits: (0) well developed; (1) reduced or absent. 
-> - Lu *et al*., (2017; char. 120), Challands *et al*., (2019; char. 62).
+> Lu *et al*., (2017; char. 120), Challands *et al*., (2019; char. 62).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 120.	Pore cluster: (0) absent; (1) present. 
-> - Zhu and Yu (2002; char. 152), Schultze (2000; char. 58).
+> Zhu and Yu (2002; char. 152), Schultze (2000; char. 58).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 121.	Rostral tubuli (tubules): (0) absent; (1) present. 
-> - Zhu and Yu (2002 char. 153), Schultze (2000; char. 59).
+> Zhu and Yu (2002 char. 153), Schultze (2000; char. 59).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 122.	Size of profundus canal in postnasal wall: (0) small; (1) large. 
-> - Lu *et al*., (2017; char. 265).
+> Lu *et al*., (2017; char. 265).
+> - Changing *Holoptychius* (Downs *et al*., 2013) and *Laccognathus* (Downs *et al*., 2011) from '?' to '1'.
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 ## Oral elements (Dentition and jaw bones)
 123. Premaxilla: (0) present; (1) absent. 
 > Challands *et al*., (2019; char. 64).
+> - The coding of *Heimenia* (Clement, 2001) and ZJYporo is '0', the coding of *Arquachthys* is '?'.
 
 124.	Maxilla: (0) absent, (1) present. 
-> - Schultze and Marshall (1993; char. 38), Schultze (2001; char. 38), Lloyd *et al*., (2012; char. 39), Challands *et al*., (2019; char. 61).
+> Schultze and Marshall (1993; char. 38), Schultze (2001; char. 38), Lloyd *et al*., (2012; char. 39), Challands *et al*., (2019; char. 61).
+> - The coding of *Heimenia* (Clement, 2001) and ZJYporo is '1', the coding of *Arquachthys* is '?'.
 
 125. Lateral lines in mandible: (0) parallel; (1) converging in one bone. 
 > - Challands *et al*., (2019; char. 65).
