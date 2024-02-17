@@ -567,27 +567,34 @@ Character list of lungfishes
 > - Challands *et al*., (2019; char. 65).
 
 126.	Length of symphysis (ratio length of symphysis to length of jaw): (0) greater than 1/3; (1) between 1/5 and 1/3; (2) less than 1/5. 
-> - Challands *et al*., (2019; char. 66).
+> Challands *et al*., (2019; char. 66).
+> - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '2'. 
 
 127.	Adsymphysial plate (MdY bone): (0) present, but fused, (1) isolated, sutured bone, (2) missing. 
-> - Schultze and Marshall (1993; char. 66), Schultze (2001; char. 66), Schultze (2004; char. 45), Challands *et al*., (2019; char. 67). 
+> Schultze and Marshall (1993; char. 66), Schultze (2001; char. 66), Schultze (2004; char. 45), Challands *et al*., (2019; char. 67). 
 > - Cui *et al*. (2022)：“Here we consider the adsymphysial is homologized with the parasymphysial dental plate in osteolepiforms, porolepiforms.”
+> - The coding of *Heimenia*, ZJYporo and *Arquachthys* is '?'. 
 
 128.	Parasymphysial tooth whorl: (0) tooth whorl; (1) denticles; (2) plate with a tusk.  
 > - Cui *et al*., (2022; char. 128).
 > - Cui *et al*. (2022)：“The parasymphysial and the adsymphysial are homologous. And they all belong to the coronoid series."
+> - The coding of *Heimenia*, ZJYporo and *Arquachthys* is '?'. 
 
 129.	“Dentary”: (0) unpaired; (1) paired; (2) absent. Some lungfishes have the unpaired ‘dentary’ between the left and right lower jaws. 
-> - Challands *et al*., (2019; char. 68).
+> Challands *et al*., (2019; char. 68).
+> - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '1'. 
 
 130.	Dentary-prearticular relationship: (0) dentition-generating gap; (1) small midline hole only; (2) no gap. 
-> - Challands *et al*., (2019; char. 69).
+> Challands *et al*., (2019; char. 69).
+> - The coding of *Heimenia* (Clement, 2001) and *Arquachthys* (Lu and Zhu, 2008) is '0'. The coding of ZJYporo is '?'.
 
 131.	Slot between dentary and prearticular: (0) broad; (1) narrow; (2) no slot. 
-> - Challands *et al*., (2019; char. 70).
+> Challands *et al*., (2019; char. 70).
+> - The coding of *Heimenia* (Clement, 2001) and *Arquachthys* (Lu and Zhu, 2008) is '1'. The coding of ZJYporo is '?'.
 
 132.	Adductor fossa: (0) not overhung by prearticular; (1) overhung by prearticular. 
-> - Challands *et al*., (2019; char. 71).
+> Challands *et al*., (2019; char. 71).
+> - The coding of *Heimenia*  and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'.
 
 133.	Length of adductor fossa (revised): More than 1/3; (1) 20%–1/3 of jaw length; (2) 5–20% of jaw length; 3. 0–5% of jaw length. 
 > - Revised from Challands *et al*., (2019; char. 72).
