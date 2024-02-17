@@ -594,16 +594,20 @@ Character list of lungfishes
 
 132.	Adductor fossa: (0) not overhung by prearticular; (1) overhung by prearticular. 
 > Challands *et al*., (2019; char. 71).
+> - Changing *Holoptychius* from '?' to '0' (Downs *et al*., 2013).
 > - The coding of *Heimenia*  and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'.
 
-133.	Length of adductor fossa (revised): More than 1/3; (1) 20%–1/3 of jaw length; (2) 5–20% of jaw length; 3. 0–5% of jaw length. 
-> - Revised from Challands *et al*., (2019; char. 72).
+133.	Length of adductor fossa (revised): (0) More than 1/3; (1) 20%–1/3 of jaw length; (2) 5–20% of jaw length; (3) 0–5% of jaw length. 
+> Revised from Challands *et al*., (2019; char. 72).
+> - The coding of *Heimenia*  and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'.
 
 134.	Morphology of adductor fossa: (0) open; (1) reduced to vestigial slit. 
-> - Challands *et al*., (2019; char. 73).
+> Challands *et al*., (2019; char. 73).
+> - The coding of *Heimenia*  and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'.
 
 135.	Coronoids: (0) present; (1) absent. 
-> - Challands *et al*., (2019; char. 74).
+> Challands *et al*., (2019; char. 74).
+> - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '0'. 
 
 136.	Lip fold: (0) absent; (1) present. 
 > - Challands *et al*., (2019; char. 75).
