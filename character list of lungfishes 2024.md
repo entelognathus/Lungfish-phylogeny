@@ -625,55 +625,74 @@ Character list of lungfishes
 > - Challands *et al*., (2019; char. 78).
 
 140.	Curvature of ventral mandibular margin: (0) strongly convex; (1) essentially flat. 
-> - Challands *et al*., (2019; char. 79).
+> Challands *et al*., (2019; char. 79).
+> - The coding of ZJYporo is '0'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '1'. The coding of *Heimenia* is '?'.
 
 141.	Orientation of glenoid: (0) mostly dorsally; (1) posterodorsally. 
-> - Challands *et al*., (2019; char. 80).
+> Challands *et al*., (2019; char. 80).
+> - Changing *Holoptychius* from '?' to '0' (Downs *et al*., 2013).
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'. 
 
 142.	Shape of glenoid fossa: (0) double structure; (1) single groove.
-> - Challands *et al*., (2019; char. 81).
+> Challands *et al*., (2019; char. 81).
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'. 
 
 143.	Angular (infradentary 3) and surangular (infradentary 4): (0) separate; (1) fused into a single long bone. 
-> - Challands *et al*., (2019; char. 82).
+> Challands *et al*., (2019; char. 82).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
 
 144.	Splenial (infradentary 1) and postsplenial (infradentary 2): (0) separate; (1) fused. 
-> - Challands *et al*., (2019; char. 83).
+> Challands *et al*., (2019; char. 83).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
 
 145.	Teeth on upper lip: (0) shedding teeth; (1) statodont tooth row; (2) teeth absent.
 > Challands *et al*., (2019; char. 84).
 
 146.	Teeth on dentary: (0) shedding teeth present; (1) statodont tooth rows present; (2) teeth absent. 
-> - Challands *et al*., (2019; char. 85).
+> Challands *et al*., (2019; char. 85).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '0'. 
 
 147.	Number of tooth ridges in adult specimens: (0) <10; (1) >10. 
-> - Challands *et al*., (2019; char. 86).
+> Challands *et al*., (2019; char. 86).
+> - Changing *Porolepis*, *Glyptoplepis* and *Holoptychius* from '?' to '-' (Jarvik, 1972).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'. 
 
 148.	Lower jaw: (0) short mandible rami (most lungfishes), (1) elongated rami with short symphysis (most outgroup), (2) elongated symphysis. 
-> - Schultze and Marshall (1993; char. 61), Schultze (2001; char. 61), Lloyd *et al*., (2012; Char. 62), Challands *et al*., (2019; char. 158).
+> Schultze and Marshall (1993; char. 61), Schultze (2001; char. 61), Lloyd *et al*., (2012; Char. 62), Challands *et al*., (2019; char. 158).
+> - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '1'. 
 
 149.	Adductor muscles: (0) below skull roof, (1) above skull roof. 
-> - Schultze and Marshall (1993; char. 10), Schultze (2001; char. 10), Schultze (2004; char. 8), Lloyd (2012; char. 10), Challands *et al*., (2019; char. 162).
+> Schultze and Marshall (1993; char. 10), Schultze (2001; char. 10), Schultze (2004; char. 8), Lloyd (2012; char. 10), Challands *et al*., (2019; char. 162).
+> - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'. 
 
 150.	Number of infradentaries: (0) four, (1) two, (2) one, 3. three. 
-> - Schultze and Marshall (1993; char. 64), Schultze and Chorn (1997; char. 21), Schultze (2001; char. 64), Schultze (2004; char. 43), Lloyd (2012; char. 65), Challands *et al*., (2019; char. 178).
+> Schultze and Marshall (1993; char. 64), Schultze and Chorn (1997; char. 21), Schultze (2001; char. 64), Schultze (2004; char. 43), Lloyd (2012; char. 65), Challands *et al*., (2019; char. 178).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
 
 151.	Ossified Meckelian bone: (0) present, (1) lacking. 
-> - Schultze and Marshall (1993; char. 70), Schultze (2001; char. 70), Schultze (2004; char. 48), Lloyd (2012; char. 71), Challands *et al*., (2019; char. 179).
+> Schultze and Marshall (1993; char. 70), Schultze (2001; char. 70), Schultze (2004; char. 48), Lloyd (2012; char. 71), Challands *et al*., (2019; char. 179).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '0'. 
 
 152.	Posteriorly deep maxilla: (0) present; (1) absent. 
-> - Schultze (2000; char. 21).
+> Schultze (2000; char. 21).
+> - The coding of *Heimenia* and *Arquachthys* is '?'. The coding of ZJYporo is '0'. 
 
 153.	Anterior end of dentary: (0) not modified; (1) modified into support for parasymphysial tooth whorl. 
-> - Schultze (2000; char. 30).
+> Schultze (2000; char. 30).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '1'. 
 
 154.	Axis of parasymphysial tooth whorl: (0) parallel to dentary; (1) perpendicular to dentary. 
-> - Schultze (2000; char. 31).
+> Schultze (2000; char. 31).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
 
 155.	Dentition on coronoid: (0) broad marginal “tooth field”; (1) narrow marginal tooth row; (2) single tooth row. 
-> - Schultze (2000; char. 32).
+> Schultze (2000; char. 32).
+> - The coding of *Heimenia* and ZJYporo is '2'. The coding of *Arquachthys* is '0'. 
 
 156.	Foramina on external surface of lower jaw: (0) absent; (1) present. 
-> - Schultze (2000; char. 33).
+> Schultze (2000; char. 33).
+> - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'. 
 
 157.	Length of dentary: (0) constitutes a majority of jaw length (1) half the length of jaw or less. 
 > - Lu *et al*., (2017; char. 248).
