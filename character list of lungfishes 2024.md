@@ -607,16 +607,19 @@ Character list of lungfishes
 
 135.	Coronoids: (0) present; (1) absent. 
 > Challands *et al*., (2019; char. 74).
+> - Changing *Holoptychius* from '?' to '0' (Downs *et al*., 2013).
 > - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '0'. 
 
 136.	Lip fold: (0) absent; (1) present. 
 > - Challands *et al*., (2019; char. 75).
 
 137.	Meckelian bone: (0) wholly ossified; (1) only articular ossified, or not ossified at all. 
-> - Challands *et al*., (2019; char. 676).
+> Challands *et al*., (2019; char. 676).
+> - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '0'. 
 
 138.	Retroarticular process: (0) small and poorly developed; (1) robust, squarish. 
-> - Challands *et al*., (2019; char. 77).
+> Challands *et al*., (2019; char. 77).
+> - The coding of *Heimenia*  and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'.
 
 139.	Skin contact surface on infradentary bones: (0) reaching up to lip of adductor fossa; (1) widely separated from lip of adductor fossa. 
 > - Challands *et al*., (2019; char. 78).
@@ -636,7 +639,8 @@ Character list of lungfishes
 144.	Splenial (infradentary 1) and postsplenial (infradentary 2): (0) separate; (1) fused. 
 > - Challands *et al*., (2019; char. 83).
 
-145.	Teeth on upper lip: (0) shedding teeth; (1) statodont tooth row; (2) teeth absent. > - Challands *et al*., (2019; char. 84).
+145.	Teeth on upper lip: (0) shedding teeth; (1) statodont tooth row; (2) teeth absent.
+> Challands *et al*., (2019; char. 84).
 
 146.	Teeth on dentary: (0) shedding teeth present; (1) statodont tooth rows present; (2) teeth absent. 
 > - Challands *et al*., (2019; char. 85).
