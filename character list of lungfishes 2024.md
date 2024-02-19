@@ -848,55 +848,72 @@ Character list of lungfishes
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 191.	Occiput inset from posterior margin of neurocranium: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 112).
+> Challands *et al*., (2019; char. 112).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 192.	Notochordal canal occluded by ossified cranial centrum: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 113).
+> Challands *et al*., (2019; char. 113).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 193.	Neural cavity and notochordal canal separated by an ossified shelf in the occipital region, posterior to the foramen for N. X: (0) yes; (1) no. 
-> - Challands *et al*., (2019; char. 114).
+> Challands *et al*., (2019; char. 114).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 194.	Ossification complete along ventral midline of notochordal canal posteriorly: (0) yes; (1) no. 
-> - Challands *et al*., (2019; char. 115).
+> Challands *et al*., (2019; char. 115).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 195.	Occipital region bears transverse processes flanking foramen magnum: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 116).
+> Challands *et al*., (2019; char. 116).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 196.	Dorsal aorta: (0) divides at or anterior to occiput; (1) divides posterior to occiput. 
-> - Challands *et al*., (2019; char. 117).
+> Challands *et al*., (2019; char. 117).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 197.	Lateral dorsal aortae: (0) run along ventral surface of neurocranium; (1) run in grooves on parasphenoid. 
-> - Challands *et al*., (2019; char. 118).
+> Challands *et al*., (2019; char. 118).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 198.	Occipital artery extramural: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 119).
+> Challands *et al*., (2019; char. 119).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 199.	Neurocranium extends far posterior to hind margin of postparietals: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 120).
+> Challands *et al*., (2019; char. 120).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 200.	Dorsolateral crista fenestrated: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 121).
+> Challands *et al*., (2019; char. 121).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 201.	Median crista discontinuous: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 122).
+> Challands *et al*., (2019; char. 122).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 202.	Little or no overlap between intersections of median and dorsolateral cristae with the dermal skull roof (median crista abbreviated): (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 123).
+> Challands *et al*., (2019; char. 123).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 203.	Lateral cristae fenestrated: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 124).
+> Challands *et al*., (2019; char. 124).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 204.	Development of a pronounced ridge anterior to and continuous with the dorsolateral cristae: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 125).
+> Challands *et al*., (2019; char. 125).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 205.	Articulation of first epibranchial posterior to the level of the foramen for N. IX: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char.126).
+> Challands *et al*., (2019; char.126).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 206.	Notochord extending to or beyond level of N. V: (0) yes; (1) no. 
-> - Challands *et al*., (2019; char. 127.)
+> Challands *et al*., (2019; char. 127.)
+> - The coding of *Heimenia*, and ZJYporo is '?'. The coding of *Arquachthys* is '0' (Lu and Zhu, 2019).
 
 207.	Development of a deep “spiracular recess” sensu Thomson and Campbell (1971): (0) yes; (1) no. 
-> - Challands *et al*., (2019; char. 128).
+> Challands *et al*., (2019; char. 128).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 208.	Separate foramina for the internal carotid artery and efferent pseudobranchial artery: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 129). 
