@@ -734,83 +734,118 @@ Character list of lungfishes
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '1'. 
 
 165.	Morphology of teeth on pterygoid and prearticular: (0) round/conical; (1) forming distinct proximodistal cutting ridge. 
-> - Challands *et al*., (2019; char. 88).
+> Challands *et al*., (2019; char. 88).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'. 
 
 166.	Addition of large dentine elements at regular intervals to lateral margin of pterygoid/ prearticular: (0) yes; (1) no. 
 > - Challands *et al*., (2019; char. 89).
+> - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972; Downs *et al*., 2013).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '1'. 
 
 167.	Nature of large dentine elements: (0) teeth; (1) petrodentine cores; (2) thick irregular dentine; 3. ridges narrow regular dentine ridges. 
-> - Challands *et al*., (2019; char. 90).
+> Challands *et al*., (2019; char. 90).
+> - Changing *Holoptychius* from '?' to '-'.
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'. 
 
 168.	Addition of marginal blisters to pterygoid/prearticular: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 91).
+> Challands *et al*., (2019; char. 91).
+> - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'. 
 
 169.	Shape of marginal blisters: (0) bead-shaped; (1) elongated strips. 
-> - Challands *et al*., (2019; char. 92).
+> Challands *et al*., (2019; char. 92).
+> - The coding of *Arquachthys* and ZJYporo is '-'. The coding of *Heimenia* is '?'. 
 
 170.	Addition of inter-row dentine along edge of pterygoid/prearticular: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 93).
+> Challands *et al*., (2019; char. 93).
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972; Downs *et al*., 2013).
+> - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'. 
 
 171.	Nature of inter-row dentine: (0) always fuses or wears down into sheet; (1) separate denticles persist between some tooth rows. 
-> - Challands *et al*., (2019; char. 94).
+> Challands *et al*., (2019; char. 94).
+> - Changing *Holoptychius* from '?' to '-'.
+> - The coding of *Arquachthys* and ZJYporo is '-'. The coding of *Heimenia* is '?'. 
 
 172.	Pulp cavity: (0) tooth plates without pulp cavity; (1) with pulp cavity. 
-> - Challands *et al*., (2019; char. 95).
+> Challands *et al*., (2019; char. 95).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'. 
 
 173.	Diffuse dentine deposition on surface of palate/lower jaw: (0) yes, diffusely across whole palate; (1) no; (2) redeposition of denticles only within “footprint” (outer circumference) of resorbed tooth plate. 
-> - Challands *et al*., (2019; char. 96).
+> Challands *et al*., (2019; char. 96).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
+
 
 174.	Relative areas of denticle field/thin dentine sheet on palate: (0) all or nearly all denticles; (1) both dentine sheet and denticles; (2) mostly dentine sheet; 3. denticles outside tooth plate; 4 dentine sheet on resorption areas within tooth plate. 
-> - Challands *et al*., (2019; char. 97).
+>  Challands *et al*., (2019; char. 97).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 175.	Relative areas of denticle field and dentine sheet on lower jaw: (0) all or nearly all denticles; (1) both denticles and dentine sheet; (2) mostly dentine sheet. 
-> - Challands *et al*., (2019; char. 98).
+> Challands *et al*., (2019; char. 98).
+> - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'. 
 
 176.	Resorption of dentition on pterygoid/prearticular plate origin: (0) little or no resorption, origin left unmodified; (1) extensive resorption, removing mesial parts of plate; (2) resorption and deposition of dentine sheet within toothplate only, not crossing edges. 
-> - Challands *et al*., (2019; char. 99).
+> Challands *et al*., (2019; char. 99).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 177.	Distinct vertically growing “heel” on prearticular: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 100).
+> Challands *et al*., (2019; char. 100).
+> - The coding of *Arquachthys* is '0'. The coding of *Heimenia* and ZJYporo is '?'. 
 
 178.	Petrodentine: (0) absent; (1) present.  
-> - Challands *et al*., (2019; char. 101).
+> Challands *et al*., (2019; char. 101).
 > - Cui *et al*. (2022): "Petrodentine is a highly mineralized tissue noticeably analogous to that of enameloid, and is deposited intermittently in a proximal direction by the sole participation of mesenchymal petroblasts."
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 179.	Sharp “additive” mesial and posterior edges on tooth plates: (0) absent; (1) present. 
-> - Challands *et al*., (2019; char. 102).
+> Challands *et al*., (2019; char. 102).
+> - Changing *Porolepis*, *Glyptolepis* and *Holoptychius* from '?' to '-'.
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
-180. Behaviour of “additive edges” (if present): (0) quiescent; (1) active. > - Challands *et al*., (2019; char. 103).
+180. Behaviour of “additive edges” (if present): (0) quiescent; (1) active.
+> Challands *et al*., (2019; char. 103).
+> - Changing *Porolepis*, *Durialepis*, *Glyptolepis* and *Holoptychius* from '?' to '-'.
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 181.	Angle between first and last tooth ridge: (0) 50–100°; (1) less than 50° or greater than 100°. 
-> - Challands *et al*., (2019; char. 157).
+> Challands *et al*., (2019; char. 157).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 182.	Ascending process on pterygoid: (0) absent; (1) short; (2) long. 
-> - Schultze and Marshall (1993; char. 56), Schultze and Chorn (1997; char. 20), Schultze (2001; char. 56), Schultze (2004; char. 40). Lloyd *et al*., (2012; char. 57), Challands *et al*., (2019; char. 177).
+> Schultze and Marshall (1993; char. 56), Schultze and Chorn (1997; char. 20), Schultze (2001; char. 56), Schultze (2004; char. 40). Lloyd *et al*., (2012; char. 57), Challands *et al*., (2019; char. 177).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 183.	Dentition on the entoptergoid: (0) dentine plates; (1) tooth plates; (2) toothed (shedding denticles). 
-> - Schultze and Marshall (1993; char. 72), Schultze (2001; char. 72), Schultze (2004; char. 49), Lloyd *et al*., (2012; char. 73), Challands *et al*., (2019; char. 180).
+> Schultze and Marshall (1993; char. 72), Schultze (2001; char. 72), Schultze (2004; char. 49), Lloyd *et al*., (2012; char. 73), Challands *et al*., (2019; char. 180).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 184.	Form of marginal tooth ridge: (0) absent; (1) continuous; (2) incomplete. 
-> - Schultze and Marshall (1993; char. 73), Schultze (2001; char. 73), Lloyd *et al*., (2012; char. 74), Challands *et al*., (2019; char. 181). 
+> Schultze and Marshall (1993; char. 73), Schultze (2001; char. 73), Lloyd *et al*., (2012; char. 74), Challands *et al*., (2019; char. 181). 
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 185.	Tuberosities (denticles) on palate: (0) present and irregular; (1) arranged radially; (2) arranged in rows; 3. absent. 
-> - Schultze and Marshall (1993; char. 74), Schultze (2001; char. 74), Lloyd *et al*., (2012; char. 75), Challands *et al*., (2019; char. 182).
+> Schultze and Marshall (1993; char. 74), Schultze (2001; char. 74), Lloyd *et al*., (2012; char. 75), Challands *et al*., (2019; char. 182).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 186.	Denticles. (0) no denticles; (1) episodically shed denticles. 
-> - Schultze and Marshall (1993; char. 75), Schultze (2001; char. 75), Schultze (2004; char. 50), Lloyd *et al*., (2012; char. 76), Challands *et al*., (2019; char. 183).
+> Schultze and Marshall (1993; char. 75), Schultze (2001; char. 75), Schultze (2004; char. 50), Lloyd *et al*., (2012; char. 76), Challands *et al*., (2019; char. 183).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '1'.  
 
 187.	Tooth plates ridges: (0) no tooth plates; (1) without radial pattern; (2) radial pattern with cusps; 3. radial pattern without cusps; 4. parallel ridges. 
-> - Schultze and Marshall (1993; char. 76), Schultze (2001; char. 76), Lloyd *et al*., (2012; char. 77), Challands *et al*., (2019; char. 184).
+> Schultze and Marshall (1993; char. 76), Schultze (2001; char. 76), Lloyd *et al*., (2012; char. 77), Challands *et al*., (2019; char. 184).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '0'.  
 
 ## Neurocranium
 188.	Braincase/skull table relationship: (0) broad contact; (1) supported by cristae. 
-> - Challands *et al*., (2019; char. 104).
+> Challands *et al*., (2019; char. 104).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '0'. 
 
 189.	Metotic (lateral otic) fissure: (0) present; (1) absent. 
-> - Challands *et al*., (2019; char. 110).
+> Challands *et al*., (2019; char. 110).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 190.	Intracranial joint/ventral cranial fissure: (0) mobile joint; (1) ventral cranial fissure; (2) neither fissure nor joint. 
-> - Partially repeats information from Lu *et al*., (2017; char. 123), Challands *et al*., (2019; char. 111). 
+> Partially repeats information from Lu *et al*., (2017; char. 123), Challands *et al*., (2019; char. 111). 
+> - Changing *Holoptychius* from '?' to '0' (Jarvik, 1972; Downs *et al*., 2013).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 191.	Occiput inset from posterior margin of neurocranium: (0) no; (1) yes. 
 > - Challands *et al*., (2019; char. 112).
