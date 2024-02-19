@@ -1073,109 +1073,144 @@ Character list of lungfishes
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 246.	Paired pineal and parapineal tracts: (0) absent; (1) present. 
-> - Lu *et al*., (2017; char. 266).
+> Lu *et al*., (2017; char. 266).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 247.	Lateral cranial canal: (0) absent, (1) present. 
-> - Lu *et al*., (2017; char. 155).
+> Lu *et al*., (2017; char. 155).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 ## Postcranium
 248.	Cleithrum and clavicle: (0) with cosmine; (1) without cosmine. 
-> - Lu *et al*., (2017; char. 142), Challands *et al*., (2019; char. 142).
+> Lu *et al*., (2017; char. 142), Challands *et al*., (2019; char. 142).
+> - The coding of ZJYporo is '1'. The coding of *Heimenia* and *Arquachthys* is '?'. 
 
 249.	Median fin morphologies: (0) all separate and short-based; (1) posterior dorsal fin long-based; (2) both dorsal fins long-based uninterrupted fin fringe.
-> - Challands *et al*., (2019; char. 143).
+> Challands *et al*., (2019; char. 143).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 250.	Posterior dorsal fin support: (0) all radials carried by basal plate; (1) anterior radials on basal plate, posterior radials free; (2) no basal plate. Lu *et al*., (2017; char. 144).
-> - Challands *et al*., (2019; char. 144).
+> Challands *et al*., (2019; char. 144).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 251.	Anal fin support: (0) trapezoidal with no distinct shaft; (1) cylindrical proximal shaft and triangular distal plate. 
-> - Challands *et al*., (2019; char. 145).
+> Challands *et al*., (2019; char. 145).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 252.	Median fin radials: (0) cylindrical; (1) hourglass-shaped. 
-> - Challands *et al*., (2019; char. 146).
+> Challands *et al*., (2019; char. 146).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 253.	Dorsal cleithrum (AL of the Placodermi), ventral cleithruin (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): (0) not fused; (1) fused. 
-> - Zhu and Yu (2002; char. 120), Schultze (2000; char. 52).
+> Zhu and Yu (2002; char. 120), Schultze (2000; char. 52).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 254.	Interclavicle: absent (0); present (1). 
-> - Zhu and Yu (2002; char. 126), Schultze (2000; char. 53).
+> Zhu and Yu (2002; char. 126), Schultze (2000; char. 53).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 255.	Proximal articular surface of humerus: (0) concave; (1) flat: convex. 
-> - Schultze (2000; char. 54).
+> Schultze (2000; char. 54).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 256.	Basal plates in dorsal fin supports: (0) absent; (1) present. 
-> - Schultze (2000; char. 55).
+> Schultze (2000; char. 55).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 257.	Shape of dorsal blade of dermal shoulder girdle (either cleithrum or anterolateral plate): (0) spatulate; (1) pointed. 
-> - Lu *et al*., (2017; char. 183).
+> Lu *et al*., (2017; char. 183).
+> - The coding of *Heimenia* is '0' (Clenment, 2001). The coding of *Arquachthys* and ZJYporo is '?'.  
 
 258.	Vertebral column: (0) unconstricted notochord; (1) disc centra. 
-> - Challands *et al*., (2019; char. 147).
+> Challands *et al*., (2019; char. 147).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 259.	Neural arches and spines: (0) separate; (1) fused. 
-> - Challands *et al*., (2019; char. 148).
+> Challands *et al*., (2019; char. 148).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 ## Postcranium (Scale and histology)
 
 260.	Scales: (0) rhombic; (1) round. 
-> - Schultze (2000; char. 56), Challands *et al*., (2019; char. 149).
+> Schultze (2000; char. 56), Challands *et al*., (2019; char. 149).
+> - The coding of ZJYporo is '1'. The coding of *Heimenia* is '0/1'. The coding of *Arquachthys* is '0'. 
 
 261.	Cosmine on scales: (0) present; (1) absent. 
-> - Challands *et al*., (2019; char. 150).
+> Challands *et al*., (2019; char. 150).
+> - The coding of ZJYporo is '1'. The coding of *Heimenia* is '0/1'. The coding of *Arquachthys* is '0'. 
 
 262.	Enamel: (0) single-layered; (1) multi-layered. 
-> - Lu *et al*., (2017; char. 6).
+> Lu *et al*., (2017; char. 6).
+> - Changing *Laccognathus* and *Glypto;epis* from '?' to '0' (Mondéjar Fernández, 2018).
+> - The coding of *Heimenia* is '0'. The coding of ZJYporo and *Arquachthys* is '?'. 
 
 263.	Anterodorsal process on scale: (0) absent; (1) present. 
-> - Lu *et al*., (2017; char. 20).
+> Lu *et al*., (2017; char. 20).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '0'.  
 
 264.	Plicidentine: (0) absent; (1) present. 
-> - Lu *et al*., (2017; char. 86).
+> Lu *et al*., (2017; char. 86).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
-> - Lu *et al*., (2017; char. 237).
+> Lu *et al*., (2017; char. 237).
+> - The coding of *Heimenia* is '0' (Mondéjar Fernández, 2018). The coding of ZJYporo and *Arquachthys* is '?'. 
 
 ## Oral elements (Hyoid and Gill skeletons)
 
 266.	Ceratohyal (revised): (0) short and stout, (1) long; (2) dumbbell-shaped. 
-> - Schultze and Marshall (1993; char. 79), Schultze and Chorn (1997; char. 26), Schultze (2001; char. 79), Schultze (2004; char. 51), Lloyd *et al*., (2012; char. 80), Challands *et al*., (2019; char. 185).
+> Schultze and Marshall (1993; char. 79), Schultze and Chorn (1997; char. 26), Schultze (2001; char. 79), Schultze (2004; char. 51), Lloyd *et al*., (2012; char. 80), Challands *et al*., (2019; char. 185).
 > - Cui *et al*.(2022) added state 2 (dumbbell-shaped) to apply to some dumbbell-shaped ceratohyal in some lungfishes.
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 267.	Basihyal: (0) absent, (1) present. 
-> - Cui *et al*., (2022; char. 267).
+> Cui *et al*., (2022; char. 267).
+> - The coding of ZJYporo is '0'. The coding of *Heimenia* and *Arquachthys* is '?'. 
 
 268.	Basihyal: (0) short without denticles; (1) long and denticulated; (2) short and denticulated. 
-> - Schultze and Marshall (1993; char. 80), Schultze (2001; char. 80), Schultze (2004; char. 52), Lloyd *et al*., (2012; char. 81), Challands *et al*., (2019; char. 186).
+> Schultze and Marshall (1993; char. 80), Schultze (2001; char. 80), Schultze (2004; char. 52), Lloyd *et al*., (2012; char. 81), Challands *et al*., (2019; char. 186).
+> - The coding of ZJYporo is '0'. The coding of *Heimenia* and *Arquachthys* is '?'. 
 
 269.	Articulation facet of the hyomandibular: (0) single-headed; (1) double-headed. 
-> - Lu *et al*., (2017; char. 57).
+> Lu *et al*., (2017; char. 57).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 270.	Oriention of the hyomandibular: (0) lean anteriorly, (1) relatively vertically, (2) relatively posteriorly, 3. relatively horizontally. 
-> - Cui *et al*., (2022; char. 270).
+> Cui *et al*., (2022; char. 270).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 271.	Shape of the hyomandibular: (0) rod-like; (1) triangular. 
-> - Cui *et al*., (2022; char. 271).
+> Cui *et al*., (2022; char. 271).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 272.	Urohyal morphology: (0) dorsoventrally compressed and rod-like, may bifurcate posteriorly; (1) vertical plate. 
-> - Lu *et al*., (2019; char. 167).
+> Lu *et al*., (2019; char. 167).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 273.	Number of basibranchials: (0) one; (1) two. 
-> - Cui *et al*., (2022; char. 273).
+> Cui *et al*., (2022; char. 273).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 274.	Hypobranchials connected with the basibranchials: (0) three; (1) four; (2) five.  
-> - Cui *et al*., (2022; char. 274).
+> Cui *et al*., (2022; char. 274).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 275.	Hypobranchial 4: (0) connected with hypobranchial 3; (1) not connected with hypobranchial 3. 
-> - Cui *et al*., (2022; char. 275).
+> Cui *et al*., (2022; char. 275).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 276.	Hypohyal connection with basibranchial: (0) via anterior facet on the basibranchial; (1) via lateral facet on the basibranchial. 
-> - Cui *et al*., (2022; char. 276).
+> Cui *et al*., (2022; char. 276).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 277.	Hypohyal: (0) flat; (1) curved and tapering. 
-> - Cui *et al*., (2022; char. 277).
+> Cui *et al*., (2022; char. 277).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 278. Dermopalatine sensu Rosen et al. (1981): 0. absent; 1. present.
-> - Luo *et al*., (2022; char. 188), Challands *et al*., (2019; char. 188).
+> Luo *et al*., (2022; char. 188), Challands *et al*., (2019; char. 188).
+> - The coding of *Heimenia* and ZJYporo is '1'. The coding of  *Arquachthys* is '?'. 
 
 279. Oral growth lines: 0. absent; 1. Present.
-> - Luo *et al*., (2022; char. 189).
+> Luo *et al*., (2022; char. 189).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
