@@ -1058,15 +1058,19 @@ Character list of lungfishes
 
 242.	Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal. 
 > Lu *et al*., (2017; char. 268).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 243.	Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium. 
-> - Lu *et al*., (2017; char. 124).
+> Lu *et al*., (2017; char. 124).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 244.	Articulation between neurocranium and palatoquadrate posterodorsal to orbit (suprapterygoid articulation): (0) absent (1) present. 
-> - Lu *et al*., (2017; char. 147).
+> Lu *et al*., (2017; char. 147).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '1'. 
 
 245.	Vestibular fontanelle: (0) absent (1) present. 
-> - Lu *et al*., (2017; char. 171).
+> Lu *et al*., (2017; char. 171).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 246.	Paired pineal and parapineal tracts: (0) absent; (1) present. 
 > - Lu *et al*., (2017; char. 266).
