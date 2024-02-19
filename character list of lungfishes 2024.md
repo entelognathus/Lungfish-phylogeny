@@ -564,7 +564,9 @@ Character list of lungfishes
 > - The coding of *Heimenia* (Clement, 2001) and ZJYporo is '1', the coding of *Arquachthys* is '?'.
 
 125. Lateral lines in mandible: (0) parallel; (1) converging in one bone. 
-> - Challands *et al*., (2019; char. 65).
+> Challands *et al*., (2019; char. 65).
+> - Changing *Holoptychius*, *Laccognathus* and *Quebecius* from '1' to '-'. This character is used to differentiate taxa that possess both mandibular lateral-line (p.m.sc) and oral sensory canals, hence taxa with only one mandibular sensory canal are labeled with "-".
+> - The coding of *Heimenia* (Clement, 2001) is '?', the coding of *Arquachthys* and ZJYporo is '-'.
 
 126.	Length of symphysis (ratio length of symphysis to length of jaw): (0) greater than 1/3; (1) between 1/5 and 1/3; (2) less than 1/5. 
 > Challands *et al*., (2019; char. 66).
@@ -611,7 +613,8 @@ Character list of lungfishes
 > - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '0'. 
 
 136.	Lip fold: (0) absent; (1) present. 
-> - Challands *et al*., (2019; char. 75).
+> Challands *et al*., (2019; char. 75).
+> - The coding of *Arquachthys* (Lu and Zhu, 2008) and ZJYporo is '0'. The coding of *Heimenia* is '?'.
 
 137.	Meckelian bone: (0) wholly ossified; (1) only articular ossified, or not ossified at all. 
 > Challands *et al*., (2019; char. 676).
@@ -622,7 +625,8 @@ Character list of lungfishes
 > - The coding of *Heimenia*  and ZJYporo is '?'. The coding of *Arquachthys* (Lu and Zhu, 2008) is '0'.
 
 139.	Skin contact surface on infradentary bones: (0) reaching up to lip of adductor fossa; (1) widely separated from lip of adductor fossa. 
-> - Challands *et al*., (2019; char. 78).
+> Challands *et al*., (2019; char. 78).
+> - The coding of *Arquachthys* and *Heimenia* is '?', the coding of ZJYporo is '0'.
 
 140.	Curvature of ventral mandibular margin: (0) strongly convex; (1) essentially flat. 
 > Challands *et al*., (2019; char. 79).
@@ -648,6 +652,7 @@ Character list of lungfishes
 
 145.	Teeth on upper lip: (0) shedding teeth; (1) statodont tooth row; (2) teeth absent.
 > Challands *et al*., (2019; char. 84).
+> - The coding of *Heimenia* and ZJYporo is '0'. The coding of *Arquachthys* is '?'. 
 
 146.	Teeth on dentary: (0) shedding teeth present; (1) statodont tooth rows present; (2) teeth absent. 
 > Challands *et al*., (2019; char. 85).
@@ -699,26 +704,34 @@ Character list of lungfishes
 > - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'. 
 
 158.	Labial pit: (0) absent; (1) Present. 
-> - Lu *et al*., (2017; char. 249).
+> Lu *et al*., (2017; char. 249).
+> - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'. 
 
 159.	Prearticular symphysis: (0) absent; (1) present. 
-> - Lu *et al*., (2017; char. 250).
+> Lu *et al*., (2017; char. 250).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '0'. 
 
 16(0)	Inturned medial process of premaxilla: (0) absent; (1) present. 
-> - Lu *et al*., (2017; char. 255).
+> Lu *et al*., (2017; char. 255).
+> - The coding of *Arquachthys* is '?'. The coding of ZJYporo is '1'. The coding of *Heimenia* is '0'. 
 
 16(1)	Coronoids: (0) Four or more; (1) Three or less. 
-> - Lu *et al*., (2017; char. 106).
+> Lu *et al*., (2017; char. 106).
+> - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972).
+> - The coding of *Arquachthys* and ZJYporo is '1'. The coding of *Heimenia* is '?'. 
 
 16(2)	Premaxilla: (0) Extends under orbit; (1) Restricted anterior to orbit. 
-> - Lu *et al*., (2017; char. 89).
+> Lu *et al*., (2017; char. 89).
+> - The coding of *Arquachthys* and *Heimenia* is '?'. The coding of ZJYporo is '1'. 
 
 163.	Maxilla shape: (0) Splint-shaped; (1) Cleaver-shaped. 
-> - Lu *et al*., (2017; char. 90).
+> Lu *et al*., (2017; char. 90).
+> - The coding of *Arquachthys* and *Heimenia* is '?'. The coding of ZJYporo is '1'. 
 
 ## Oral elements (Tooth plate)
 164.	Tooth plates: (0) present; (1) absent. 
-> - Challands *et al*., (2019; char. 87).
+> Challands *et al*., (2019; char. 87).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '1'. 
 
 165.	Morphology of teeth on pterygoid and prearticular: (0) round/conical; (1) forming distinct proximodistal cutting ridge. 
 > - Challands *et al*., (2019; char. 88).
