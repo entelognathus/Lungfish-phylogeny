@@ -916,94 +916,128 @@ Character list of lungfishes
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 208.	Separate foramina for the internal carotid artery and efferent pseudobranchial artery: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 129). 
+> Challands *et al*., (2019; char. 129). 
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 209.	Jugular vein: (0) little or no groove; (1) travels through deep groove along length of otic region. 
-> - Challands *et al*., (2019; char. 130).
+> Challands *et al*., (2019; char. 130).
+> - Changing *Holoptychius* from '?' to '1' (Downs *et al*., 2013).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 210. Foramina for the jugular vein and the ramus hyomandibularis N. VII on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. 
-> - Challands *et al*., (2019; char. 131).
+> Challands *et al*., (2019; char. 131).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 211.	Foramina for the jugular vein and the orbital artery on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. 
-> - Challands *et al*., (2019; char. 132).
+> Challands *et al*., (2019; char. 132).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 212.	Foramina for the ramus hyomandibularis N. VII and the orbital artery on the posterior surface of the transverse wall of the otic region: (0) confluent; (1) separate. 
-> - Challands *et al*., (2019; char. 133).
+> Challands *et al*., (2019; char. 133).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 213.	Hyomandibular facet tranverses fissure in transverse otic wall (hyomandibular facet extends on to palatoquadrate): (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 134).
+> Challands *et al*., (2019; char. 134).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 214.	Separate ossified canals for pineal and parapineal organs: (0) yes; (1) no. 
-> - Challands *et al*., (2019; char. 135). 
+> Challands *et al*., (2019; char. 135). 
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 215.	Foramen for N. II above the level of foramen sphenoticum minus: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 136).
+> Challands *et al*., (2019; char. 136).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 216.	Foramen for N. III above level of foramen sphenoticum minus: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 137).
+> Challands *et al*., (2019; char. 137).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 217.	Ventral face of nasal capsule: (0) complete; (1) perforated by fenestration that opens posteroventrolaterally (fenestra ventralis); (2) solum nasi completely unossified. (**Ordered**). 
-> - Challands *et al*., (2019; char. 138).
+> Challands *et al*., (2019; char. 138).
+> - Changing *Holoptychius* from '?' to '1' (Downs *et al*., 2013).
+> - The coding of *Arquachthys* and ZJYporo is '?'.  The coding of *Heimenia* is '1'.
 
 218.	Nasal capsule set well posterior to snout margin or preoral eminence: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 139).
+> Challands *et al*., (2019; char. 139).
+> - Changing *Holoptychius* from '?' to '0' (Downs *et al*., 2013).
+> - The coding of *Arquachthys* and ZJYporo is '?'.  The coding of *Heimenia* is '0'.
 
 219.	Enlarged, knob-shaped protrusion on the posteroventral surface of the quadrate (hyosuspensory eminence of Miles, 1977): (0) absent; (1) present. 
-> - Challands *et al*., (2019; char. 140).
+> Challands *et al*., (2019; char. 140).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 220.	Adlateral cristae (posterodorsal extensions of the lateral cristae that connect the otic region of the neurocranium to the visceral surface of the dermal skull roof) present: (0) yes; (1) no.
-> - Challands *et al*., (2019; char. 151).
+> Challands *et al*., (2019; char. 151).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 221.	Foramen for the internal carotid anterior to that for the efferent pseudobranchial artery: (0) no; (1) yes. 
-> - Challands *et al*., (2019; char. 154).
+> Challands *et al*., (2019; char. 154).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 222.	Ossification of neurocranium: (0) completely ossified; (1) poorly-ossified/cartilaginous. 
-> - Challands *et al*., (2019; char.155).
+> Challands *et al*., (2019; char.155).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 223.	Kinesis between nasal region and braincase behind it: (0) absent; (1) present. 
-> - Schultze and Marshall (1993; char. 4), Schultze (2001; char. 4), Schultze (2004; char. 2), Lloyd *et al*., (2012; char. 4), Challands *et al*., (2019; char. 159).
+> Schultze and Marshall (1993; char. 4), Schultze (2001; char. 4), Schultze (2004; char. 2), Lloyd *et al*., (2012; char. 4), Challands *et al*., (2019; char. 159).
+> - Changing *Holoptychius* from '?' to '0' (Downs *et al*., 2013).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '0'.
 
 224.	Supraoccipital commissure: (0) through Z-G-I-A-I-G-Z; (1) through I-A-I; (2) through I-B-I; 3. through Z-B-Z; 4. above bones. 
-> - Schultze and 1Marshall (1993; char. 6), Schultze and Chorn (1997; char. 3), Schultze (2001; char. 6), Schultze (2004; char. 4), Lloyd *et al*., (2012; char. 6), Challands *et al*., (2019; char. 161).
+> Schultze and 1Marshall (1993; char. 6), Schultze and Chorn (1997; char. 3), Schultze (2001; char. 6), Schultze (2004; char. 4), Lloyd *et al*., (2012; char. 6), Challands *et al*., (2019; char. 161).
+> - Changing *Holoptychius* from '?' to '-' (Jarvik, 1972; Downs *et al*., 2013).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 225.	Buccohypophysial foramen of parasphenoid: (0) single; (1) double. 
-> - Schultze (2000; char. 37).
+> Schultze (2000; char. 37).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '0'.
 
 226.	Parasphenoid: (0) protruding forward in ethmoid region of endocranium; (1) behind ethmoid region. 
-> - Zhu and Yu (2002; char. 93), Schultze (2000; char. 38).
+> Zhu and Yu (2002; char. 93), Schultze (2000; char. 38).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '1'.
 
 227.	Dorsal endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. 
-> - Zhu and Yu (2002; char. 98), Schultze (2000; char. 39).
+> Zhu and Yu (2002; char. 98), Schultze (2000; char. 39).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 228.	Ventral endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. 
-> - Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
+> Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 229.	Orientation of intracranial joint or fissure: (0) vertical or anteroventrally slanting; (1) posteroventrally slanting. 
-> - Zhu and Yu (2002; char. 100), Schultze (2000; char. 41).
+> Zhu and Yu (2002; char. 100), Schultze (2000; char. 41).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 230.	Position of intracranial joint or fissure relative to cranial nerves: (0) joint through profundus foramen; (1) joint through trigeminal foramen. 
-> - Zhu and Yu (2002; char. 101), Schultze (2000; char. 42).
+> Zhu and Yu (2002; char. 101), Schultze (2000; char. 42).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 231.	Processus descendens of sphenoid: (0) absent; (1) present. 
-> - Zhu and Yu (2002; char. 102), Schultze (2000; char. 43).
+> Zhu and Yu (2002; char. 102), Schultze (2000; char. 43).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '0'.
 
 232.	Fossa autopalatina: (0) absent; (1) present. 
-> - Schultze (2000; char. 44).
+> Schultze (2000; char. 44).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '1'.
 
 233.	Vomeral area with grooves and raised areas: (0) absent; (1) present. 
-> - Zhu and Yu (2002; char. 106), Schultze (2000; char. 45).
+> Zhu and Yu (2002; char. 106), Schultze (2000; char. 45).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '0'.
 
 234.	Fenestra ventralis: (0) absent; (1) large, medially situated; (2) common ventral fenestra for anterior and posterior nostrils. 
-> - Zhu and Yu (2002; char. 107), Schultze (2000; char. 46).
+> Zhu and Yu (2002; char. 107), Schultze (2000; char. 46).
+> - The coding of *Arquachthys* and ZJYporo is '?'. The coding of *Heimenia* is '1'.
 
 235.	Large median opening and several small dorsolateral openings in postnasal wall: (0) absent; (1) present. 
-> - Zhu and Yu (2002; char. 108), Schultze (2000; char. 47).
+> Zhu and Yu (2002; char. 108), Schultze (2000; char. 47).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 236.	Postorbital process on braincase: (0) present; (1) absent. 
-> - Lu *et al*., (2017; char. 132) (statuses are inverse), Schultze (2000; char. 48).
+> Lu *et al*., (2017; char. 132) (statuses are inverse), Schultze (2000; char. 48).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 237.	Basicranial fenestra with arcual plates: (0) absent; (1) present. 
-> - Zhu and Yu (2002; char. 114), Schultze (2000; char. 49).
+> Zhu and Yu (2002; char. 114), Schultze (2000; char. 49).
 
 238.	Otico-sphenoid bridge: (0) present; (1) absent. 
 > - Schultze (2000; char. 50).
