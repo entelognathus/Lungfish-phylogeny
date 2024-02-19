@@ -1038,21 +1038,26 @@ Character list of lungfishes
 
 237.	Basicranial fenestra with arcual plates: (0) absent; (1) present. 
 > Zhu and Yu (2002; char. 114), Schultze (2000; char. 49).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 238.	Otico-sphenoid bridge: (0) present; (1) absent. 
-> - Schultze (2000; char. 50).
+> Schultze (2000; char. 50).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 239.	Posttemporal fossae: (0) absent; (1) present. 
-> - Schultze (2000; char. 51).
+> Schultze (2000; char. 51).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 240.	Prominent pre-orbital rostral expansion of the neurocranium: (0) present; (1) absent. 
-> - Lu *et al*., (2017; char. 118).
+> Lu *et al*., (2017; char. 118).
+> - The coding of *Arquachthys* is '?'. The coding of *Heimenia* and ZJYporo is '1'. 
 
 241.	Spiracular groove on basicranial surface: (0) absent; (1) Present. 
-> - Lu *et al*., (2017; char. 124).
+> Lu *et al*., (2017; char. 124).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 242.	Endoskeletal spiracular canal: (0) open; (1) partial enclosure or spiracular bar; (2) complete enclosure in canal. 
-> - Lu *et al*., (2017; char. 268).
+> Lu *et al*., (2017; char. 268).
 
 243.	Entrance of internal carotids: (0) through separate openings flanking the hypophyseal opening or recess; (1) through a common opening at the central midline of the basicranium. 
 > - Lu *et al*., (2017; char. 124).
