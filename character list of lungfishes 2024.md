@@ -695,7 +695,8 @@ Character list of lungfishes
 > - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'. 
 
 157.	Length of dentary: (0) constitutes a majority of jaw length (1) half the length of jaw or less. 
-> - Lu *et al*., (2017; char. 248).
+> Lu *et al*., (2017; char. 248).
+> - The coding of *Arquachthys* and ZJYporo is '0'. The coding of *Heimenia* is '?'. 
 
 158.	Labial pit: (0) absent; (1) Present. 
 > - Lu *et al*., (2017; char. 249).
