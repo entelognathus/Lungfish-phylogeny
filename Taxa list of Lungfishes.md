@@ -21,12 +21,11 @@ New taxa and references added along with the research.
 > - Cuifengshan Fm, Xichong, Qujing, Yunnan, China
 > - Chang and Yu, 1981a; 1982b; Chang 1991; 2004; Chang and Smith, 1992; Thanh et al., 1995
 
-[*Styloichthys changae*](https://www.deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian, 419.2, 410.8
+[*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
+> upper Lochkovian, 415.0, 410.8
 
-> - Xitun Fm, Qujing, Yunnan, China; Kuanti Fm, Qujing, Yunnan, China
-> - Friedman, 2007; Zhu and Yu, 2002; 2004; Choo et al., 2014
-
+> - Xitun Formation, Qujing, Yunnan, China
+> - [Zhu and Yu, 2002](https://www.nature.com/articles/nature00871); [Friedman, 2007](https://www.tandfonline.com/doi/abs/10.1017/S1477201907002052)
 
 [*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
 > upper Emsian, 400.45, 393.3
