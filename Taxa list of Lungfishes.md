@@ -40,11 +40,12 @@ New taxa and references added along with the research.
 > - Qujing Fm, Qujing, Yunnan, China
 > - Luo et al., 2021
 
-[*Eusthenopteron foordi*](https://www.deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen)
-> Frasnian to Famennian, 382.7, 358.9
 
-> - Escuminac Fm, Miguasha, Quebec, Canada
-> - Borgen and Nakrem, 2017; Cloutier et al., 2011; Cloutier, 2013
+[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation; Quebec, Canada.
+> - Jarvik, 1980a; b; Cloutier et al., 2011; Cloutier, 2013; Borgen and Nakrem, 2017
 
 [*Diabolepis speratus*](https://www.deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian to Pragian, 419.2, 407.6
