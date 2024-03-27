@@ -27,11 +27,12 @@ New taxa and references added along with the research.
 > - Xitun Fm, Qujing, Yunnan, China; Kuanti Fm, Qujing, Yunnan, China
 > - Friedman, 2007; Zhu and Yu, 2002; 2004; Choo et al., 2014
 
-[*Kenichthys campbelli*](https://www.deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen)
-> Emsian to Eifelian, 407.6, 387.7
 
-> - Chuandong Fm, Qujing, Yunnan, China
-> - Chang and Zhu, 1993; Zhu and Ahlberg, 2004
+[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
+> upper Emsian, 400.45, 393.3
+
+> - Chuandong Formation; Qujing, Yunnan, China.
+> - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
 
 [*Dianodipterus huizeensis*](https://www.deepbone.org/public/#/explor?s_id=165732&functionId=Deepbone_header_searchResultOpen)
 > Eifelian, 393.3, 387.7
