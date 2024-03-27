@@ -47,11 +47,11 @@ New taxa and references added along with the research.
 > - Escuminac Formation; Quebec, Canada.
 > - Jarvik, 1980a; b; Cloutier et al., 2011; Cloutier, 2013; Borgen and Nakrem, 2017
 
-[*Diabolepis speratus*](https://www.deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian to Pragian, 419.2, 407.6
+[*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
+> upper Lochkovian, 415.0, 410.8
 
-> - Cuifengshan Fm, Xichong, Qujing, Yunnan, China
-> - Smith and Chang, 1992; Chang and Yu, 1984
+> - Xitun Formation, Qujing, Yunnan, China
+> - [Chang and Yu, 1984](https://www.researchgate.net/profile/Xiaobo-Yu-3/publication/213769921_Structure_and_phylogenetic_significance_of_Diabolichthys_speratus_gen_et_sp_nov_a_new_dipnoan-like_form_from_the_Lower_Devonian_of_eastern_Yunnan_China/links/5ed81c45299bf1c67d3ba9fe/Structure-and-phylogenetic-significance-of-Diabolichthys-speratus-gen-et-sp-nov-a-new-dipnoan-like-form-from-the-Lower-Devonian-of-eastern-Yunnan-China.pdf); [Chang, 1995](https://www.researchgate.net/publication/213769908_Diabolepis_and_its_bearing_on_the_relationships_between_porolepiforms_and_dipnoans)
 
 [*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, 382.7, 372.2
