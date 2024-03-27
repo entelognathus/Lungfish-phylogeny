@@ -52,7 +52,7 @@ New taxa and references added along with the research.
 > - [Chang and Yu, 1984](https://www.researchgate.net/profile/Xiaobo-Yu-3/publication/213769921_Structure_and_phylogenetic_significance_of_Diabolichthys_speratus_gen_et_sp_nov_a_new_dipnoan-like_form_from_the_Lower_Devonian_of_eastern_Yunnan_China/links/5ed81c45299bf1c67d3ba9fe/Structure-and-phylogenetic-significance-of-Diabolichthys-speratus-gen-et-sp-nov-a-new-dipnoan-like-form-from-the-Lower-Devonian-of-eastern-Yunnan-China.pdf); [Chang, 1995](https://www.researchgate.net/publication/213769908_Diabolepis_and_its_bearing_on_the_relationships_between_porolepiforms_and_dipnoans)
 
 [*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 377.45
 
 > - Gogo Fm, Canning Basin, Western Australia, Australia
 > - Henderson and Challands, 2018; Miles, 1977; Campbell and Barwick, 1995; Campbell et al., 2006
@@ -286,7 +286,7 @@ New taxa and references added along with the research.
 > - Meyer, 1859
 
 [*Chirodipterus onawayensis*](https://www.deepbone.org/public/#/explor?s_id=4104&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> middle Givetian, 386.07, 384.37
 
 > - Koehler Limestone Fm, Traverse Group, Presque Isle County, Michigan，USA
 > - Schultze, 1982
