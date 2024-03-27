@@ -9,17 +9,17 @@
 
 New taxa and references added along with the research.
 
-[*Guiyu oneiros*](https://www.deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen)
+[*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2009
 > Ludfordian, 425.6, 423.0
 
-> - Kuanti Fm, Xiaoxiang Reservoir, Qujing, Yunnan, China
-> - Qiao and Zhu, 2010; Zhu et al., 2012; Zhu et al., 2009; Choo et al., 2017; Cui et al., 2019
+> - Kuanti Formation; Qujing, Yunnan, China.
+> - [Qiao and Zhu, 2010](https://link.springer.com/article/10.1007/s11430-010-4089-6); [Zhu et al., 2009](https://www.nature.com/articles/nature07855); [Cui et al., 2019](https://www.nature.com/articles/s41598-019-40845-7)
 
-[*Youngolepis praecursor*](https://www.deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian, 419.2, 410.8
+[*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1981
+> upper Lochkovian, 415.0, 410.8
 
-> - Cuifengshan Fm, Xichong, Qujing, Yunnan, China
-> - Chang and Yu, 1981a; 1982b; Chang 1991; 2004; Chang and Smith, 1992; Thanh et al., 1995
+> - Xitun Formation, Qujing, Yunnan, China
+> - Chang, 1982; 1991; Chang and Yu, 1981
 
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
 > upper Lochkovian, 415.0, 410.8
@@ -34,11 +34,10 @@ New taxa and references added along with the research.
 > - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
 
 [*Dianodipterus huizeensis*](https://www.deepbone.org/public/#/explor?s_id=165732&functionId=Deepbone_header_searchResultOpen)
-> Eifelian, 393.3, 387.7
+> upper Eifelian, 393.3, 387.7
 
-> - Qujing Fm, Qujing, Yunnan, China
+> - lower part of Qujing Formation, Huizhe, Qujing, Yunnan, China
 > - Luo et al., 2021
-
 
 [*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
 > middle Frasnian, 379.2, 375.7
