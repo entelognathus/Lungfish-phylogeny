@@ -52,7 +52,7 @@ New taxa and references added along with the research.
 > - [Chang and Yu, 1984](https://www.researchgate.net/profile/Xiaobo-Yu-3/publication/213769921_Structure_and_phylogenetic_significance_of_Diabolichthys_speratus_gen_et_sp_nov_a_new_dipnoan-like_form_from_the_Lower_Devonian_of_eastern_Yunnan_China/links/5ed81c45299bf1c67d3ba9fe/Structure-and-phylogenetic-significance-of-Diabolichthys-speratus-gen-et-sp-nov-a-new-dipnoan-like-form-from-the-Lower-Devonian-of-eastern-Yunnan-China.pdf); [Chang, 1995](https://www.researchgate.net/publication/213769908_Diabolepis_and_its_bearing_on_the_relationships_between_porolepiforms_and_dipnoans)
 
 [*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 377.45
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Canning Basin, Western Australia, Australia
 > - Henderson and Challands, 2018; Miles, 1977; Campbell and Barwick, 1995; Campbell et al., 2006
@@ -76,7 +76,7 @@ New taxa and references added along with the research.
 > - Ahlberg and Trewin, 1995; Campbell et al., 2006
 
 [*Gogodipterus paddyensis*](https://www.deepbone.org/public/#/explor?s_id=3201&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Canning Basin, Western Australia, Australia
 > - Long, 1992b; Clement et al., 2022; Kemp, 2003
@@ -88,7 +88,7 @@ New taxa and references added along with the research.
 > - Jarvik, 1967; Schultze, 2001
 
 [*Orlovichthys limnatis*](https://www.deepbone.org/public/#/explor?s_id=3197&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> middle Famennian, 368.88, 362.23
 
 > - Ketleri Fm, Venta River, Latvia; Rybnitsa locality, Orel region, Russia
 > - Krupina et al., 2001; Moloshnikov, 2008
@@ -136,7 +136,7 @@ New taxa and references added along with the research.
 > - Otto and Bardenheuer, 1996
 
 [*Fleurantia denticulata*](https://www.deepbone.org/public/#/explor?s_id=3189&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 379.2
 
 > - Escuminac Fm, Shore of River Ristigouche, Miguasha，Canada
 > - Graham-Smith and Westoll, 1937; Friedman, 2007; Cloutier, 2013; Cloutier et al., 2011
@@ -184,7 +184,7 @@ New taxa and references added along with the research.
 > - Long et al., 1994
 
 [*Adololopas moyasmithae*](https://www.deepbone.org/public/#/explor?s_id=3169&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Paddys Valley, Western Australia, Australia
 > - Campbell and Barwick, 1998; Ahlberg et al., 2006
@@ -256,7 +256,7 @@ New taxa and references added along with the research.
 > - Clement and Long, 2010
 
 [*Asthenorhynchus meemannae*](https://www.deepbone.org/public/#/explor?s_id=163646&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Paddys Valley, Australia
 > - Pridmore et al., 1994
@@ -268,7 +268,7 @@ New taxa and references added along with the research.
 > - Campbell et al., 2012
 
 [*Holodipterus gogoensis*](https://www.deepbone.org/public/#/explor?s_id=163648&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Western Australia, Australia
 > - Miles, 1977
@@ -317,6 +317,7 @@ New taxa and references added along with the research.
 
 [*Griphognathus sculpta*](https://www.deepbone.org/public/#/explor?s_id=4219&functionId=Deepbone_header_searchResultOpen)
 > **No data in deepbone**
+> lowest Frasnian, 382.7, 379.2
 
 > - **No data in deepbone**
 > - Schultze, 1969
@@ -328,7 +329,7 @@ New taxa and references added along with the research.
 > - Krupina, 2000; Obruchev and Vorobyeva, 1964
 
 [*Holodipterus elderae*](https://www.deepbone.org/public/#/explor?s_id=163650&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian to Frasnian, 419.2, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo, Western Australia, Australia
 > - Pridmore et al., 1994; Long, 2010
@@ -485,7 +486,12 @@ New taxa and references added along with the research.
 
 
 [*Holoptychius*]
-> Frasnian to Famennian, 382.7, 358.9 
+> - Frasnian to Famennian, 382.7, 358.9 
+
+[*Gogonasus*]
+> - lower Frasnian, 382.7, 379.2
+> - Gogo Fm, Canning Basin, Western Australia, Australia
+> - Long, 1985
 
 
 **References**
