@@ -52,7 +52,7 @@ New taxa and references added along with the research.
 > - [Chang and Yu, 1984](https://www.researchgate.net/profile/Xiaobo-Yu-3/publication/213769921_Structure_and_phylogenetic_significance_of_Diabolichthys_speratus_gen_et_sp_nov_a_new_dipnoan-like_form_from_the_Lower_Devonian_of_eastern_Yunnan_China/links/5ed81c45299bf1c67d3ba9fe/Structure-and-phylogenetic-significance-of-Diabolichthys-speratus-gen-et-sp-nov-a-new-dipnoan-like-form-from-the-Lower-Devonian-of-eastern-Yunnan-China.pdf); [Chang, 1995](https://www.researchgate.net/publication/213769908_Diabolepis_and_its_bearing_on_the_relationships_between_porolepiforms_and_dipnoans)
 
 [*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Canning Basin, Western Australia, Australia
 > - Henderson and Challands, 2018; Miles, 1977; Campbell and Barwick, 1995; Campbell et al., 2006
@@ -64,19 +64,19 @@ New taxa and references added along with the research.
 > - Song and Chang, 1991
 
 [*Chirodipterus wildungensis*](https://www.deepbone.org/public/#/explor?s_id=3173&functionId=Deepbone_header_searchResultOpen)
-> Middle Devonian, 393.3, 382.7
+> upper Frasnian, Late Devonian, 375.7, 372.2
 
 > - Koehler Limestone, Traverse Group, Presque Isle County, Michigan, USA
 > - Säve-Söderbergh, 1952
 
 [*Dipterus valenciennesi*](https://www.deepbone.org/public/#/explor?s_id=3200&functionId=Deepbone_header_searchResultOpen)
-> Givetian to Frasnian, 387.7, 372.2
+> lower Givetian to lowest Frasnian, 387.7, 379.2
 
 > - Oberer Plattenkalk Fm, North Rhine-Westphalia, Germany; Latheron Fm, Caithness, Scotland
 > - Ahlberg and Trewin, 1995; Campbell et al., 2006
 
 [*Gogodipterus paddyensis*](https://www.deepbone.org/public/#/explor?s_id=3201&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Canning Basin, Western Australia, Australia
 > - Long, 1992b; Clement et al., 2022; Kemp, 2003
@@ -88,22 +88,22 @@ New taxa and references added along with the research.
 > - Jarvik, 1967; Schultze, 2001
 
 [*Orlovichthys limnatis*](https://www.deepbone.org/public/#/explor?s_id=3197&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> middle Famennian, 368.88, 362.23
 
 > - Ketleri Fm, Venta River, Latvia; Rybnitsa locality, Orel region, Russia
 > - Krupina et al., 2001; Moloshnikov, 2008
 
 [*Pillararhynchus longi*](https://www.deepbone.org/public/#/explor?s_id=3177&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Canning Basin, Western Australia, Australia
 > - Campbell and Barwick, 1990; Barwick and Campbell, 1996
 
 [*Soederberghia groenlandica*](https://www.deepbone.org/public/#/explor?s_id=3187&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Aina Dal Fm, Celsius Bjerg Group, East Greenland
-> - Friedman, 2007; Friedman and Daeschler, 2006; Ahlberg et al., 2001
+> Friedman, 2007; Friedman and Daeschler, 2006; Ahlberg et al., 2001
 
 [*Sorbitorhynchus deleaskitus*](https://www.deepbone.org/public/#/explor?s_id=3175&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
@@ -118,31 +118,31 @@ New taxa and references added along with the research.
 > - Bernacsek, 1977
 
 [*Speonesydrion iani*](https://www.deepbone.org/public/#/explor?s_id=3153&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian to Emsian, 419.2, 393.3
+> Emsian, 407.6, 393.3
 
 > - Bloomfield Limestone, Wee Jasper, New South Wales, Australia
 > - Campbell and Barwick, 1984; 1995; 2007
 
 [*Westollrhynchus lehmanni*](https://www.deepbone.org/public/#/explor?s_id=3147&functionId=Deepbone_header_searchResultOpen)
-> Pragian, 410.8, 407.6
+> upper Pragian to lower Emsian, 408.67, 402.84
 
 > - Mine Schmiedenberg, Palatine, Germany
 > - Westoll, 1949; Schultze, 2001
 
 [*Jessenia concentrica*](https://www.deepbone.org/public/#/explor?s_id=3158&functionId=Deepbone_header_searchResultOpen)
-> Emsian, 407.6, 393.3
+> lower Emsian, 407.6, 402.84
 
 > - Germany
 > - Otto and Bardenheuer, 1996
 
 [*Fleurantia denticulata*](https://www.deepbone.org/public/#/explor?s_id=3189&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 379.2
 
 > - Escuminac Fm, Shore of River Ristigouche, Miguasha，Canada
 > - Graham-Smith and Westoll, 1937; Friedman, 2007; Cloutier, 2013; Cloutier et al., 2011
 
 [*Scaumenacia curta*](https://www.deepbone.org/public/#/explor?s_id=3195&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Escuminac Fm, Shore of River Ristigouche, Miguasha，Canada
 > - Cloutier, 2013; Cloutier et al., 2011
@@ -160,31 +160,31 @@ New taxa and references added along with the research.
 > - Long, 1992a
 
 [*Andreyevichthys epitomus*](https://www.deepbone.org/public/#/explor?s_id=3199&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper/top Famennian, 362.23, 358.9
 
 > - Khovanshshina Beds, Zovalzkh Fm, Tula, Siberia, Russia
 > - Krupina, 1997; Krupina and Reisz, 2000; Smith et al., 2002; Moloshnikov, 2008; Reisz and Smith, 2001
 
 [*Rhinodipterus secans*](https://www.deepbone.org/public/#/explor?s_id=4205&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> middle Givetian, 386.04, 384.37
 
 > - Lode Member, Gauja Fm, Lode, Latvia
 > - Clement, 2012
 
 [*Adelargo schultzei*](https://www.deepbone.org/public/#/explor?s_id=3167&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia
 > - Johanson and Ritchie, 2000
 
 [*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen)
-> Pragian, 410.8, 407.6
+> Pragian, 410.8, 407.6/upper Pragian to lower Emsian, 408.67, 402.84 (**check it**)
 
 > - Bell Point Fm, Waratah Bay, Victoria, Australia
 > - Long et al., 1994
 
 [*Adololopas moyasmithae*](https://www.deepbone.org/public/#/explor?s_id=3169&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Paddys Valley, Western Australia, Australia
 > - Campbell and Barwick, 1998; Ahlberg et al., 2006
@@ -202,7 +202,7 @@ New taxa and references added along with the research.
 > - Schultze, 1992
 
 [*Uranolophus wyomingensis*](https://www.deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian, 419.2, 410.8
+> lower or middle Pragian, 410.8, 408.67
 
 > - Beartooth Butte Fm, Park County, Wyoming, USA
 > - Denison, 1968
@@ -217,22 +217,28 @@ New taxa and references added along with the research.
 > Famennian, 372.2, 358.9
 
 > - Catskill Fm, Pennsylvania, USA
-> - Friedman and Daeschler, 2006
+> Friedman and Daeschler, 2006
 
 [*Dipnorhynchus sussmilchi*](https://www.deepbone.org/public/#/explor?s_id=3151&functionId=Deepbone_header_searchResultOpen)
-> Emsian to Eifelian, 407.6, 387.7
+> Emsian, 407.6, 393.3
 
 > - Taemas-Wee Jasper limestones, Burrinjuck Dam, New South Wales, Australia
 > - Campbell and Barwick, 1982a; Thomson and Campbell, 1971; Clement et al., 2016
 
-[*Erikia jarviki*](https://www.deepbone.org/public/#/explor?s_id=72355&functionId=Deepbone_header_searchResultOpen)
+[*Dipnorhynchus kurikae*]
 > Emsian, 407.6, 393.3
+
+> - Taemas-Wee Jasper limestones, Burrinjuck Dam, New South Wales, Australia
+> - Campbell and Barwick, 1985
+
+[*Erikia jarviki*](https://www.deepbone.org/public/#/explor?s_id=72355&functionId=Deepbone_header_searchResultOpen)
+> lower Emsian, 407.6, 402.84
 
 > - Pochiao Fm, Guangnan, Yunnan, China
 > - Chang and Wang, 1995
 
 [*Dipnotuberculus gnathodus*](https://www.deepbone.org/public/#/explor?s_id=72329&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> lower to middle Givetian, 387.7, 384.37
 
 > - Bou Dib Fm, Morocco
 > - Campbell et al., 2002
@@ -250,13 +256,13 @@ New taxa and references added along with the research.
 > - Clement, 2009
 
 [*Xeradipterus hatcheri*](https://www.deepbone.org/public/#/explor?s_id=72523&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower to middle Frasnian, 382.7, 372.2
 
 > - Gogo Fm, Paddys Valley, Australia
 > - Clement and Long, 2010
 
 [*Asthenorhynchus meemannae*](https://www.deepbone.org/public/#/explor?s_id=163646&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Paddys Valley, Australia
 > - Pridmore et al., 1994
@@ -268,31 +274,31 @@ New taxa and references added along with the research.
 > - Campbell et al., 2012
 
 [*Holodipterus gogoensis*](https://www.deepbone.org/public/#/explor?s_id=163648&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Western Australia, Australia
 > - Miles, 1977
 
 [*Robinsondipterus longi*](https://www.deepbone.org/public/#/explor?s_id=72490&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Western Australia, Australia
 > - Long et al., 2010
 
 [*Archaeonectes pertusus*](https://www.deepbone.org/public/#/explor?s_id=4098&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> lower Givetian, 387.7, 386.04
 
 > - Gerrolstein, Rhineland-Palatinate, Germany
 > - Meyer, 1859
 
 [*Chirodipterus onawayensis*](https://www.deepbone.org/public/#/explor?s_id=4104&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> middle Givetian, 386.07, 384.37
 
 > - Koehler Limestone Fm, Traverse Group, Presque Isle County, Michigan，USA
 > - Schultze, 1982
 
 [*Dipnorhynchus cathlesae*](https://www.deepbone.org/public/#/explor?s_id=74600&functionId=Deepbone_header_searchResultOpen)
-> Emsian, 407.6, 393.3
+> upper Emsian, 398.07, 393.3
 
 > - Taemas Limestone, New South Wales, Australia
 > - Campbell and Barwick, 1999
@@ -304,19 +310,20 @@ New taxa and references added along with the research.
 > - Campbell and Barwick, 1982b
 
 [*Eoctenodus microsoma*](https://www.deepbone.org/public/#/explor?s_id=72348&functionId=Deepbone_header_searchResultOpen)
-> Givetian to Frasnian, 387.7, 372.2
+> middle Givetian to Frasnian, 386.04, 372.2
 
 > - Blue Range Fm, Taggerty, Victoria, Australia
 > - Long, 1987
 
 [*Griphognathus minutidens*](https://www.deepbone.org/public/#/explor?s_id=3185&functionId=Deepbone_header_searchResultOpen)
-> Givetian to Frasnian, 387.7, 372.2
+> Frasnian, 382.7, 372.2
 
 > - Lode Member, Gauja Fm, MDF Gauja, Latvia
 > - Schultze, 1969; Gross, 1956; Friedman, 2007
 
 [*Griphognathus sculpta*](https://www.deepbone.org/public/#/explor?s_id=4219&functionId=Deepbone_header_searchResultOpen)
 > **No data in deepbone**
+> lowest Frasnian, 382.7, 379.2
 
 > - **No data in deepbone**
 > - Schultze, 1969
@@ -328,7 +335,7 @@ New taxa and references added along with the research.
 > - Krupina, 2000; Obruchev and Vorobyeva, 1964
 
 [*Holodipterus elderae*](https://www.deepbone.org/public/#/explor?s_id=163650&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian to Frasnian, 419.2, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo, Western Australia, Australia
 > - Pridmore et al., 1994; Long, 2010
@@ -346,7 +353,7 @@ New taxa and references added along with the research.
 > - Blom et al., 2007; Friedman, 2007
 
 [*Oervigia nordica*](https://www.deepbone.org/public/#/explor?s_id=6046&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Celsius Bjerg Group, Denmark, East Greenland
 > - Clack et al., 2018; Friedman, 2007
@@ -358,13 +365,13 @@ New taxa and references added along with the research.
 > - Van Beneden and de Koninck, 1862
 
 [*Pentlandia macropterus*](https://www.deepbone.org/public/#/explor?s_id=163605&functionId=Deepbone_header_searchResultOpen)
-> Eifelian to Givetian, 393.3, 382.7
+> upper Givetian, 384.37, 382.7
 
 > - Last House Fm, John O’Groats Sandstone Group, Orcadian Basin, John O’Groats, Caithness, Scotland
 > - Jude et al., 2014; Challands and den Blaauwen, 2016
 
 [*Phaneropleuron andersoni*](https://www.deepbone.org/public/#/explor?s_id=4474&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> lower Famennian, 372.2, 368.88
 
 > - Dura Den, Scotland
 > - Anderson, 1859; Traquair, 1871
@@ -384,7 +391,7 @@ New taxa and references added along with the research.
 [*Megapleuron zangerli*](https://www.deepbone.org/public/#/explor?s_id=72407&functionId=Deepbone_header_searchResultOpen)
 > Moscovian, 315.2, 307.0
 
-> - Francis Creek Shale Member, Carbondale Fm, Will and Kankakee County, Illinois, USA
+> Francis Creek Shale Member, Carbondale Fm, Will and Kankakee County, Illinois, USA
 > - Schultze, 1977
 
 [*Palaeophichthys parvulus*](https://www.deepbone.org/public/#/explor?s_id=5727&functionId=Deepbone_header_searchResultOpen)
@@ -424,7 +431,7 @@ New taxa and references added along with the research.
 > - Smithson et al., 2016
 
 [*Rhinodipterus kimberleyensis*](https://www.deepbone.org/public/#/explor?s_id=72487&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> upper Givetian to lower Frasnian, 384.37, 379.2 (**check the upper Givetian**)
 
 > - Gogo Fm, Western Australia, Australia
 > - Clement, 2012; Clement and Ahlberg, 2014; Clement et al., 2016
@@ -436,7 +443,7 @@ New taxa and references added along with the research.
 > - Ørvig, 1960; Schultze, 1992
 
 [*Rhynchodipterus elginensis*](https://www.deepbone.org/public/#/explor?s_id=4468&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> lower Famennian, 372.2, 368.88
 
 > - Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland
 > - Ahlberg et al., 2001; Friedman, 2007
@@ -448,13 +455,13 @@ New taxa and references added along with the research.
 > - Pardo et al., 2014
 
 [*Sinodipterus beibei*](https://www.deepbone.org/public/#/explor?s_id=3179&functionId=Deepbone_header_searchResultOpen)
-> Eifelian, 393.3, 387.7
+> upper Eifelian, 389.57, 387.7
 
 > - Qujing Fm, Zhaotong, Yunnan, China
 > - Qiao and Zhu, 2009
 
 [*Celsiodon ahlbergi*](https://www.deepbone.org/public/#/explor?s_id=73758&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Denmark, East Greenland
 > - Clack et al., 2019
@@ -482,6 +489,55 @@ New taxa and references added along with the research.
 
 > - **No data in deepbone**
 > - Heidtke, 1986
+
+[*Stomiahykusthlaodus*]
+> Eifelian, 393.3, 387.7
+
+> - Snake River area, Yukon Territory, Canada
+> - Bernacsek, 1977
+
+[*Holoptychius*]
+> Frasnian to Famennian, 382.7, 358.9 
+
+[*Gogonasus*]
+> - lower Frasnian, 382.7, 379.2
+> - Gogo Fm, Canning Basin, Western Australia, Australia
+> - Long, 1985
+
+[*Glyptolepis*]
+> - Eifelian to Frasnian, 393.3, 372.2
+>
+[*Palaeodaphus insignis*]
+> Frasnian, 382.7, 372.2
+
+[*Quebecius quebecensis*]
+> Frasnian, 382.7, 372.2
+> - Escuminac Fm, Ristigouche River at Miguasha, Province of Quebec, Canada
+
+[*Laccognathus*]
+> - Givetian, 387.7, 382.7
+>
+
+[*Raynerius splendens*]
+> middle Frasnian, 379.2, 375.7
+
+[*Grossipterus_crassus*]
+> uppest Givetian, 384.37382.7
+>
+
+[*Durialepis*]
+> lower Emsian, 407.6, 402.84
+> 
+
+[*Nasogaluakus chorni*]
+> Emsian, 407.6, 393.3
+
+> - Bear Rock Formation
+> - Standard Oil Co. locality no. AR.25.58 (Mr. Ben Moore‘s Anderson River traverse in summer 1958). 68‘ 11’ 06” Ni 125” 49’ 72” W. Anderson River. about 330 km east of Inuvik and 150 km southsouthwest of Paulatuk, Northwest Territories. Canada.
+> - Schultze, 2000
+
+[*Porolepis*]
+> Pragian to Emsian, 410.8, 393.3
 
 **References**
 
