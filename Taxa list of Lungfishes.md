@@ -64,13 +64,13 @@ New taxa and references added along with the research.
 > - Song and Chang, 1991
 
 [*Chirodipterus wildungensis*](https://www.deepbone.org/public/#/explor?s_id=3173&functionId=Deepbone_header_searchResultOpen)
-> Middle Devonian, 393.3, 382.7
+> upper Frasnian, Late Devonian, 375.7, 372.2
 
 > - Koehler Limestone, Traverse Group, Presque Isle County, Michigan, USA
 > - Säve-Söderbergh, 1952
 
 [*Dipterus valenciennesi*](https://www.deepbone.org/public/#/explor?s_id=3200&functionId=Deepbone_header_searchResultOpen)
-> Givetian to Frasnian, 387.7, 372.2
+> lower Givetian to lowest Frasnian, 387.7, 379.2
 
 > - Oberer Plattenkalk Fm, North Rhine-Westphalia, Germany; Latheron Fm, Caithness, Scotland
 > - Ahlberg and Trewin, 1995; Campbell et al., 2006
@@ -94,7 +94,7 @@ New taxa and references added along with the research.
 > - Krupina et al., 2001; Moloshnikov, 2008
 
 [*Pillararhynchus longi*](https://www.deepbone.org/public/#/explor?s_id=3177&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Canning Basin, Western Australia, Australia
 > - Campbell and Barwick, 1990; Barwick and Campbell, 1996
@@ -103,7 +103,7 @@ New taxa and references added along with the research.
 > upper Famennian, 362.23, 358.9
 
 > - Aina Dal Fm, Celsius Bjerg Group, East Greenland
-> - Friedman, 2007; Friedman and Daeschler, 2006; Ahlberg et al., 2001
+> Friedman, 2007; Friedman and Daeschler, 2006; Ahlberg et al., 2001
 
 [*Sorbitorhynchus deleaskitus*](https://www.deepbone.org/public/#/explor?s_id=3175&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
@@ -142,7 +142,7 @@ New taxa and references added along with the research.
 > - Graham-Smith and Westoll, 1937; Friedman, 2007; Cloutier, 2013; Cloutier et al., 2011
 
 [*Scaumenacia curta*](https://www.deepbone.org/public/#/explor?s_id=3195&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Escuminac Fm, Shore of River Ristigouche, Miguasha，Canada
 > - Cloutier, 2013; Cloutier et al., 2011
@@ -166,7 +166,7 @@ New taxa and references added along with the research.
 > - Krupina, 1997; Krupina and Reisz, 2000; Smith et al., 2002; Moloshnikov, 2008; Reisz and Smith, 2001
 
 [*Rhinodipterus secans*](https://www.deepbone.org/public/#/explor?s_id=4205&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> middle Givetian, 386.04, 384.37
 
 > - Lode Member, Gauja Fm, Lode, Latvia
 > - Clement, 2012
@@ -217,7 +217,7 @@ New taxa and references added along with the research.
 > Famennian, 372.2, 358.9
 
 > - Catskill Fm, Pennsylvania, USA
-> - Friedman and Daeschler, 2006
+> Friedman and Daeschler, 2006
 
 [*Dipnorhynchus sussmilchi*](https://www.deepbone.org/public/#/explor?s_id=3151&functionId=Deepbone_header_searchResultOpen)
 > Emsian to Eifelian, 407.6, 387.7
@@ -232,7 +232,7 @@ New taxa and references added along with the research.
 > - Chang and Wang, 1995
 
 [*Dipnotuberculus gnathodus*](https://www.deepbone.org/public/#/explor?s_id=72329&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> lower to middle Givetian, 387.7, 384.37
 
 > - Bou Dib Fm, Morocco
 > - Campbell et al., 2002
@@ -250,13 +250,13 @@ New taxa and references added along with the research.
 > - Clement, 2009
 
 [*Xeradipterus hatcheri*](https://www.deepbone.org/public/#/explor?s_id=72523&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> lower to middle Frasnian, 382.7, 372.2
 
 > - Gogo Fm, Paddys Valley, Australia
 > - Clement and Long, 2010
 
 [*Asthenorhynchus meemannae*](https://www.deepbone.org/public/#/explor?s_id=163646&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 379.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Paddys Valley, Australia
 > - Pridmore et al., 1994
@@ -274,13 +274,13 @@ New taxa and references added along with the research.
 > - Miles, 1977
 
 [*Robinsondipterus longi*](https://www.deepbone.org/public/#/explor?s_id=72490&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> - lower Frasnian, 382.7, 379.2
 
 > - Gogo Fm, Western Australia, Australia
 > - Long et al., 2010
 
 [*Archaeonectes pertusus*](https://www.deepbone.org/public/#/explor?s_id=4098&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> lower Givetian, 387.7, 386.04
 
 > - Gerrolstein, Rhineland-Palatinate, Germany
 > - Meyer, 1859
@@ -304,13 +304,13 @@ New taxa and references added along with the research.
 > - Campbell and Barwick, 1982b
 
 [*Eoctenodus microsoma*](https://www.deepbone.org/public/#/explor?s_id=72348&functionId=Deepbone_header_searchResultOpen)
-> Givetian to Frasnian, 387.7, 372.2
+> middle Givetian to Frasnian, 386.04, 372.2
 
 > - Blue Range Fm, Taggerty, Victoria, Australia
 > - Long, 1987
 
 [*Griphognathus minutidens*](https://www.deepbone.org/public/#/explor?s_id=3185&functionId=Deepbone_header_searchResultOpen)
-> Givetian to Frasnian, 387.7, 372.2
+> Frasnian, 382.7, 372.2
 
 > - Lode Member, Gauja Fm, MDF Gauja, Latvia
 > - Schultze, 1969; Gross, 1956; Friedman, 2007
@@ -359,7 +359,7 @@ New taxa and references added along with the research.
 > - Van Beneden and de Koninck, 1862
 
 [*Pentlandia macropterus*](https://www.deepbone.org/public/#/explor?s_id=163605&functionId=Deepbone_header_searchResultOpen)
-> Eifelian to Givetian, 393.3, 382.7
+> upper Givetian, 384.37, 382.7
 
 > - Last House Fm, John O’Groats Sandstone Group, Orcadian Basin, John O’Groats, Caithness, Scotland
 > - Jude et al., 2014; Challands and den Blaauwen, 2016
@@ -385,7 +385,7 @@ New taxa and references added along with the research.
 [*Megapleuron zangerli*](https://www.deepbone.org/public/#/explor?s_id=72407&functionId=Deepbone_header_searchResultOpen)
 > Moscovian, 315.2, 307.0
 
-> - Francis Creek Shale Member, Carbondale Fm, Will and Kankakee County, Illinois, USA
+> Francis Creek Shale Member, Carbondale Fm, Will and Kankakee County, Illinois, USA
 > - Schultze, 1977
 
 [*Palaeophichthys parvulus*](https://www.deepbone.org/public/#/explor?s_id=5727&functionId=Deepbone_header_searchResultOpen)
@@ -425,7 +425,7 @@ New taxa and references added along with the research.
 > - Smithson et al., 2016
 
 [*Rhinodipterus kimberleyensis*](https://www.deepbone.org/public/#/explor?s_id=72487&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> upper Givetian to lower Frasnian, 384.37, 379.2 (**check the upper Givetian**)
 
 > - Gogo Fm, Western Australia, Australia
 > - Clement, 2012; Clement and Ahlberg, 2014; Clement et al., 2016
@@ -484,15 +484,39 @@ New taxa and references added along with the research.
 > - **No data in deepbone**
 > - Heidtke, 1986
 
+[*Stomiahykusthlaodus*]
+> Eifelian, 393.3, 387.7
+
+> - Snake River area, Yukon Territory, Canada
+> - Bernacsek, 1977
 
 [*Holoptychius*]
-> - Frasnian to Famennian, 382.7, 358.9 
+> Frasnian to Famennian, 382.7, 358.9 
 
 [*Gogonasus*]
 > - lower Frasnian, 382.7, 379.2
 > - Gogo Fm, Canning Basin, Western Australia, Australia
 > - Long, 1985
 
+[*Glyptolepis*]
+> - Eifelian to Frasnian, 393.3, 372.2
+>
+[*Palaeodaphus insignis*]
+> Frasnian, 382.7, 372.2
+
+[*Quebecius quebecensis*]
+> Frasnian, 382.7, 372.2
+> - Escuminac Fm, Ristigouche River at Miguasha, Province of Quebec, Canada
+
+[*Laccognathus*]
+> - Givetian, 387.7, 382.7
+>
+
+[*Raynerius splendens*]
+> middle Frasnian, 379.2, 375.7
+
+[*Grossipterus_crassus*]
+> uppest Givetian, 384.37382.7
 
 **References**
 
