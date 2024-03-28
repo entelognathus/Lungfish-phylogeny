@@ -100,7 +100,7 @@ New taxa and references added along with the research.
 > - Campbell and Barwick, 1990; Barwick and Campbell, 1996
 
 [*Soederberghia groenlandica*](https://www.deepbone.org/public/#/explor?s_id=3187&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Aina Dal Fm, Celsius Bjerg Group, East Greenland
 > - Friedman, 2007; Friedman and Daeschler, 2006; Ahlberg et al., 2001
@@ -160,7 +160,7 @@ New taxa and references added along with the research.
 > - Long, 1992a
 
 [*Andreyevichthys epitomus*](https://www.deepbone.org/public/#/explor?s_id=3199&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper/top Famennian, 362.23, 358.9
 
 > - Khovanshshina Beds, Zovalzkh Fm, Tula, Siberia, Russia
 > - Krupina, 1997; Krupina and Reisz, 2000; Smith et al., 2002; Moloshnikov, 2008; Reisz and Smith, 2001
@@ -172,7 +172,7 @@ New taxa and references added along with the research.
 > - Clement, 2012
 
 [*Adelargo schultzei*](https://www.deepbone.org/public/#/explor?s_id=3167&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia
 > - Johanson and Ritchie, 2000
@@ -346,7 +346,7 @@ New taxa and references added along with the research.
 > - Blom et al., 2007; Friedman, 2007
 
 [*Oervigia nordica*](https://www.deepbone.org/public/#/explor?s_id=6046&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Celsius Bjerg Group, Denmark, East Greenland
 > - Clack et al., 2018; Friedman, 2007
@@ -364,7 +364,7 @@ New taxa and references added along with the research.
 > - Jude et al., 2014; Challands and den Blaauwen, 2016
 
 [*Phaneropleuron andersoni*](https://www.deepbone.org/public/#/explor?s_id=4474&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> lower Famennian, 372.2, 368.88
 
 > - Dura Den, Scotland
 > - Anderson, 1859; Traquair, 1871
@@ -436,7 +436,7 @@ New taxa and references added along with the research.
 > - Ørvig, 1960; Schultze, 1992
 
 [*Rhynchodipterus elginensis*](https://www.deepbone.org/public/#/explor?s_id=4468&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> lower Famennian, 372.2, 368.88
 
 > - Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland
 > - Ahlberg et al., 2001; Friedman, 2007
@@ -454,7 +454,7 @@ New taxa and references added along with the research.
 > - Qiao and Zhu, 2009
 
 [*Celsiodon ahlbergi*](https://www.deepbone.org/public/#/explor?s_id=73758&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Denmark, East Greenland
 > - Clack et al., 2019
@@ -482,6 +482,11 @@ New taxa and references added along with the research.
 
 > - **No data in deepbone**
 > - Heidtke, 1986
+
+
+[*Holoptychius*]
+> Frasnian to Famennian, 382.7, 358.9 
+
 
 **References**
 
