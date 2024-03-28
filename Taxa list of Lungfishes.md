@@ -118,19 +118,19 @@ New taxa and references added along with the research.
 > - Bernacsek, 1977
 
 [*Speonesydrion iani*](https://www.deepbone.org/public/#/explor?s_id=3153&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian to Emsian, 419.2, 393.3
+> Emsian, 407.6, 393.3
 
 > - Bloomfield Limestone, Wee Jasper, New South Wales, Australia
 > - Campbell and Barwick, 1984; 1995; 2007
 
 [*Westollrhynchus lehmanni*](https://www.deepbone.org/public/#/explor?s_id=3147&functionId=Deepbone_header_searchResultOpen)
-> Pragian, 410.8, 407.6
+> upper Pragian to lower Emsian, 408.67, 402.84
 
 > - Mine Schmiedenberg, Palatine, Germany
 > - Westoll, 1949; Schultze, 2001
 
 [*Jessenia concentrica*](https://www.deepbone.org/public/#/explor?s_id=3158&functionId=Deepbone_header_searchResultOpen)
-> Emsian, 407.6, 393.3
+> lower Emsian, 407.6, 402.84
 
 > - Germany
 > - Otto and Bardenheuer, 1996
@@ -178,7 +178,7 @@ New taxa and references added along with the research.
 > - Johanson and Ritchie, 2000
 
 [*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen)
-> Pragian, 410.8, 407.6
+> Pragian, 410.8, 407.6/upper Pragian to lower Emsian, 408.67, 402.84 (**check it**)
 
 > - Bell Point Fm, Waratah Bay, Victoria, Australia
 > - Long et al., 1994
@@ -202,7 +202,7 @@ New taxa and references added along with the research.
 > - Schultze, 1992
 
 [*Uranolophus wyomingensis*](https://www.deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian, 419.2, 410.8
+> lower or middle Pragian, 410.8, 408.67
 
 > - Beartooth Butte Fm, Park County, Wyoming, USA
 > - Denison, 1968
@@ -220,13 +220,19 @@ New taxa and references added along with the research.
 > Friedman and Daeschler, 2006
 
 [*Dipnorhynchus sussmilchi*](https://www.deepbone.org/public/#/explor?s_id=3151&functionId=Deepbone_header_searchResultOpen)
-> Emsian to Eifelian, 407.6, 387.7
+> Emsian, 407.6, 393.3
 
 > - Taemas-Wee Jasper limestones, Burrinjuck Dam, New South Wales, Australia
 > - Campbell and Barwick, 1982a; Thomson and Campbell, 1971; Clement et al., 2016
 
-[*Erikia jarviki*](https://www.deepbone.org/public/#/explor?s_id=72355&functionId=Deepbone_header_searchResultOpen)
+[*Dipnorhynchus kurikae*]
 > Emsian, 407.6, 393.3
+
+> - Taemas-Wee Jasper limestones, Burrinjuck Dam, New South Wales, Australia
+> - Campbell and Barwick, 1985
+
+[*Erikia jarviki*](https://www.deepbone.org/public/#/explor?s_id=72355&functionId=Deepbone_header_searchResultOpen)
+> lower Emsian, 407.6, 402.84
 
 > - Pochiao Fm, Guangnan, Yunnan, China
 > - Chang and Wang, 1995
@@ -292,7 +298,7 @@ New taxa and references added along with the research.
 > - Schultze, 1982
 
 [*Dipnorhynchus cathlesae*](https://www.deepbone.org/public/#/explor?s_id=74600&functionId=Deepbone_header_searchResultOpen)
-> Emsian, 407.6, 393.3
+> upper Emsian, 398.07, 393.3
 
 > - Taemas Limestone, New South Wales, Australia
 > - Campbell and Barwick, 1999
@@ -449,7 +455,7 @@ New taxa and references added along with the research.
 > - Pardo et al., 2014
 
 [*Sinodipterus beibei*](https://www.deepbone.org/public/#/explor?s_id=3179&functionId=Deepbone_header_searchResultOpen)
-> Eifelian, 393.3, 387.7
+> upper Eifelian, 389.57, 387.7
 
 > - Qujing Fm, Zhaotong, Yunnan, China
 > - Qiao and Zhu, 2009
@@ -517,6 +523,21 @@ New taxa and references added along with the research.
 
 [*Grossipterus_crassus*]
 > uppest Givetian, 384.37382.7
+>
+
+[*Durialepis*]
+> lower Emsian, 407.6, 402.84
+> 
+
+[*Nasogaluakus chorni*]
+> Emsian, 407.6, 393.3
+
+> - Bear Rock Formation
+> - Standard Oil Co. locality no. AR.25.58 (Mr. Ben Moore‘s Anderson River traverse in summer 1958). 68‘ 11’ 06” Ni 125” 49’ 72” W. Anderson River. about 330 km east of Inuvik and 150 km southsouthwest of Paulatuk, Northwest Territories. Canada.
+> - Schultze, 2000
+
+[*Porolepis*]
+> Pragian to Emsian, 410.8, 393.3
 
 **References**
 
