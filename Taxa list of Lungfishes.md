@@ -315,6 +315,7 @@ New taxa and references added along with the research.
 
 > - Blue Range Formation, Taggerty, Victoria, Australia
 > - Long, 1987
+> - **check sites github for the latest age constraint**
 
 [*Griphognathus minutidens*](https://www.deepbone.org/public/#/explor?s_id=3185&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, 382.7, 372.2
@@ -491,7 +492,7 @@ New taxa and references added along with the research.
 > - **No data in deepbone**
 > - Heidtke, 1986
 
-[*Stomiahykusthlaodus*]
+[*Stomiahykus thlaodus*]
 > Eifelian, 393.3, 387.7
 
 > - Snake River area, Yukon Territory, Canada
