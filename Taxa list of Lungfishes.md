@@ -68,6 +68,7 @@ New taxa and references added along with the research.
 
 > - Koehler Limestone, Traverse Group, Presque Isle County, Michigan, USA
 > - Säve-Söderbergh, 1952
+> - **Clearly, this species comes from Bad Wuldungen, Germany. see sites github. There is another species from USA, not this one. Add authors and date.**
 
 [*Dipterus valenciennesi*](https://www.deepbone.org/public/#/explor?s_id=3200&functionId=Deepbone_header_searchResultOpen)
 > lower Givetian to lowest Frasnian, 387.7, 379.2
