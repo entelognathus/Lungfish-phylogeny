@@ -1,6 +1,5 @@
 **List of taxa, geological range (Ma), horizon and locality, and references in Luo *et al*. (2022)**
 
-
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
@@ -8,6 +7,8 @@
 > - [references]
 
 New taxa and references added along with the research.
+
+**taxa to be alphabetically arranged.**
 
 [*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu et al., 2009
 > Ludfordian, 425.6, 423.0
