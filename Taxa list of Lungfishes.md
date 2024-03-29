@@ -19,7 +19,7 @@ New taxa and references added along with the research.
 [*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1981
 > upper Lochkovian, 415.0, 410.8
 
-> - Xitun Formation, Qujing, Yunnan, China
+> -  Xitun Formation, Qujing, Yunnan, China
 > - Chang, 1982; 1991; Chang and Yu, 1981
 
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
