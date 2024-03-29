@@ -129,13 +129,14 @@ New taxa and references added along with the research.
 
 > - Mine Schmiedenberg, Palatine, Germany
 > - Westoll, 1949; Schultze, 2001
+> - **? from Hunsrückschiefer fauna: upper Pragian to lower Emsian, 409.2, 400.45, see sites github.**
 
 [*Jessenia concentrica*](https://www.deepbone.org/public/#/explor?s_id=3158&functionId=Deepbone_header_searchResultOpen)
 > lower Emsian, 407.6, 402.84
 
 > - Germany
 > - Otto and Bardenheuer, 1996
-> - ? from Hunsrückschiefer fauna: upper Pragian to lower Emsian, 409.2, 400.45
+> - **? from Hunsrückschiefer fauna: upper Pragian to lower Emsian, 409.2, 400.45**
 
 [*Fleurantia denticulata*](https://www.deepbone.org/public/#/explor?s_id=3189&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
