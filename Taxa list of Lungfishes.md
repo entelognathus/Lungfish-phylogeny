@@ -155,6 +155,7 @@ New taxa and references added along with the research.
 
 > - Avon River Group, Mount Howitt, Victoria, Australia
 > - Long, 1992a
+> - **new date: MAV8, Taggerty-Mt. Howitta fauna, late Givetian; keep consistency with sites github, early gnathostome github.**
 
 [*Barwickia downunda*](https://www.deepbone.org/public/#/explor?s_id=3193&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, 382.7, 372.2
@@ -318,6 +319,7 @@ New taxa and references added along with the research.
 > - Blue Range Formation, Taggerty, Victoria, Australia
 > - Long, 1987
 > - **check sites github for the latest age constraint**
+> - **MAV8, Taggerty-Mt. Howitta fauna, late Givetian**
 
 [*Griphognathus minutidens*](https://www.deepbone.org/public/#/explor?s_id=3185&functionId=Deepbone_header_searchResultOpen)
 > Frasnian, 382.7, 372.2
