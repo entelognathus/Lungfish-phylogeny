@@ -34,17 +34,19 @@ New taxa and references added along with the research.
 > - Chuandong Formation; Qujing, Yunnan, China.
 > - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
 
+[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation; Quebec, Canada.
+> - Jarvik, 1980a; b; Cloutier et al., 2011; Cloutier, 2013; Borgen and Nakrem, 2017
+
+
 [*Dianodipterus huizeensis*](https://www.deepbone.org/public/#/explor?s_id=165732&functionId=Deepbone_header_searchResultOpen)
 > upper Eifelian, 393.3, 387.7
 
 > - lower part of Qujing Formation, Huizhe, Qujing, Yunnan, China
 > - Luo et al., 2021
 
-[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
-> middle Frasnian, 379.2, 375.7
-
-> - Escuminac Formation; Quebec, Canada.
-> - Jarvik, 1980a; b; Cloutier et al., 2011; Cloutier, 2013; Borgen and Nakrem, 2017
 
 [*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
 > upper Lochkovian, 415.0, 410.8
@@ -77,6 +79,24 @@ New taxa and references added along with the research.
 
 > - Oberer Plattenkalk Formation, North Rhine-Westphalia, Germany; Latheron Formation, Caithness, Scotland
 > - Ahlberg and Trewin, 1995; Campbell et al., 2006
+>
+[*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen)
+> Tournaisian, 358.9, 346.7
+
+> - Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
+> - Long and Campbell, 1985
+
+[*Gnathorhiza serrata*](https://www.deepbone.org/public/#/explor?s_id=72369&functionId=Deepbone_header_searchResultOpen)
+> Kungurian, 283.5, 273.01
+
+> - Wellington Formation, Oklahoma, USA
+> - Carlson, 1968; Olson, 1951; Cope, 1883
+
+[*Megapleuron zangerli*](https://www.deepbone.org/public/#/explor?s_id=72407&functionId=Deepbone_header_searchResultOpen)
+> Moscovian, 315.2, 307.0
+
+> Francis Creek Shale Member, Carbondale Formation, Will and Kankakee County, Illinois, USA
+> - Schultze, 1977
 
 [*Gogodipterus paddyensis*](https://www.deepbone.org/public/#/explor?s_id=3201&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
@@ -384,23 +404,7 @@ New taxa and references added along with the research.
 > - Dura Den, Scotland
 > - Anderson, 1859; Traquair, 1871
 
-[*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen)
-> Tournaisian, 358.9, 346.7
 
-> - Devil’s Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
-> - Long and Campbell, 1985
-
-[*Gnathorhiza serrata*](https://www.deepbone.org/public/#/explor?s_id=72369&functionId=Deepbone_header_searchResultOpen)
-> Kungurian, 283.5, 273.01
-
-> - Wellington Formation, Oklahoma, USA
-> - Carlson, 1968; Olson, 1951; Cope, 1883
-
-[*Megapleuron zangerli*](https://www.deepbone.org/public/#/explor?s_id=72407&functionId=Deepbone_header_searchResultOpen)
-> Moscovian, 315.2, 307.0
-
-> Francis Creek Shale Member, Carbondale Formation, Will and Kankakee County, Illinois, USA
-> - Schultze, 1977
 
 [*Palaeophichthys parvulus*](https://www.deepbone.org/public/#/explor?s_id=5727&functionId=Deepbone_header_searchResultOpen)
 > Moscovian, 315.2, 307.0
