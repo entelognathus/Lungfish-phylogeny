@@ -135,6 +135,7 @@ New taxa and references added along with the research.
 
 > - Germany
 > - Otto and Bardenheuer, 1996
+> - ? from Hunsrückschiefer fauna: upper Pragian to lower Emsian, 409.2, 400.45
 
 [*Fleurantia denticulata*](https://www.deepbone.org/public/#/explor?s_id=3189&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
