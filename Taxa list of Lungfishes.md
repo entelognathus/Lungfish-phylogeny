@@ -204,7 +204,7 @@ New taxa and references added along with the research.
 > - Johanson and Ritchie, 2000
 
 [*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen)
-> Pragian, 410.8, 407.6/upper Pragian to lower Emsian, 408.67, 402.84 (**check it**)
+> upper Pragian to lower Emsian, 408.67, 402.84
 
 > - Bell Point Formation, Waratah Bay, Victoria, Australia
 > - Long et al., 1994
@@ -229,6 +229,8 @@ New taxa and references added along with the research.
 
 [*Uranolophus wyomingensis*](https://www.deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen)
 > lower or middle Pragian, 410.8, 408.67
+> 
+> - **the age here is more accurate, check the fauna file**
 
 > - Beartooth Butte Formation, Park County, Wyoming, USA
 > - Denison, 1968
