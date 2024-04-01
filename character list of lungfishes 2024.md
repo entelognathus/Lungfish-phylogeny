@@ -282,7 +282,8 @@ Character list of lungfishes
 
 58.	Supratemporal (Y1 bone): (0) present; (1) absent.
 > Schultze (2000; char. 8).
-> Jarvik(1972) labeled the only marginal bone as supratemporal in *Porolepis*, *Glyptolepis* and *Holoptychius*, while other researchers labeled this bone as tabular bone.
+> Jarvik(1972) labeled the only marginal bone as supratemporal in *Porolepis*, *Glyptolepis* and *Holoptychius*, while other researchers labeled this bone as tabular bone. Here we label the bone as tabular in *Porolepis*, *Glyptolepis* and *Holoptychius* (Downs *et al*., 2011; Mondéjar-Fernández *et al*., 2020).
+> - Changing *Porolepis*, *Glyptolepis* and *Holoptychius* from '0' to '1'. 
 > - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0'.
 
 59.	Postparietal and cheek contact: (0) absent; (1) present.
