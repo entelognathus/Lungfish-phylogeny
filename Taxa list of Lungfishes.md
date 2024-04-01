@@ -539,7 +539,6 @@ New taxa and references added along with the research.
 > Pragian to Emsian, 410.8, 393.3
 
 
-
 **References**
 
 Ahlberg, P. E. and Trewin, N. H., 1994. The postcranial skeleton of the Middle Devonian lungfish *Dipterus valenciennesi*. *Earth and Environmental Science Transactions of The Royal Society of Edinburgh*. **85**(3): 159-175.
