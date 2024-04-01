@@ -8,7 +8,6 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-**OUT-Group taxa**
 
 [*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2009
 > Ludfordian, 425.6, 423.0
@@ -39,10 +38,7 @@ New taxa and references added along with the research.
 
 > - Escuminac Formation; Quebec, Canada.
 > - Jarvik, 1980a; b; Cloutier et al., 2011; Cloutier, 2013; Borgen and Nakrem, 2017
-
-**In-Group taxa**
-
-**taxa to be alphabetically arranged.**
+>   
 
 [*Adelargo schultzei*](https://www.deepbone.org/public/#/explor?s_id=3167&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 362.23, 358.9
