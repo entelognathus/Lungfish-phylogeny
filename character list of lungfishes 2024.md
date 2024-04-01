@@ -1108,7 +1108,8 @@ Character list of lungfishes
 
 254.	Interclavicle: absent (0); present (1). 
 > Zhu and Yu (2002; char. 126), Schultze (2000; char. 53).
-> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
+> - Changing *Laccognathus* from '0' to '1' (Vorobyeva, 2006).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
 
 255.	Proximal articular surface of humerus: (0) concave; (1) flat: convex. 
 > Schultze (2000; char. 54).
