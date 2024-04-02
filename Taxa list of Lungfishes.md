@@ -544,12 +544,11 @@ New taxa and references added along with the research.
 > - Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
 > - Watson and Gill, 1923; Otoo et al., 2019; Smithson et al., 2019
 
-[*Westollrhynchus lehmanni*](https://www.deepbone.org/public/#/explor?s_id=3147&functionId=Deepbone_header_searchResultOpen)
-> upper Pragian to lower Emsian, 408.67, 402.84
+[*Westollrhynchus lehmanni*](https://www.deepbone.org/public/#/explor?s_id=3147&functionId=Deepbone_header_searchResultOpen) (Westoll, 1949)
+> upper Pragian to lower Emsian, 409.2, 400.45
 
-> - Mine Schmiedenberg, Palatine, Germany
+> - Hunsrückschiefer; Mine Schmiedenberg, Palatine, Germany
 > - Westoll, 1949; Schultze, 2001
-> - **? from Hunsrückschiefer fauna: upper Pragian to lower Emsian, 409.2, 400.45, see sites github.**
 
 [*Xeradipterus hatcheri*](https://www.deepbone.org/public/#/explor?s_id=72523&functionId=Deepbone_header_searchResultOpen)
 > - lower Frasnian, 382.7, 379.2
