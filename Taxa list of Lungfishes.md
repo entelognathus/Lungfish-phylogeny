@@ -83,9 +83,9 @@ New taxa and references added along with the research.
 > - Pridmore et al., 1994
 
 [*Barwickia downunda*](https://www.deepbone.org/public/#/explor?s_id=3193&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> upper Givetian, 384.37, 382.7
 
-> - Avon River Group, Mount Howitt, Victoria, Australia
+> - Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
 > - Long, 1992a
 
 [*Cathlorhynchus trismodipterus*](https://www.deepbone.org/public/#/explor?s_id=4064&functionId=Deepbone_header_searchResultOpen)
@@ -119,17 +119,16 @@ New taxa and references added along with the research.
 > - Schultze, 1982
 
 [*Chirodipterus wildungensis*](https://www.deepbone.org/public/#/explor?s_id=3173&functionId=Deepbone_header_searchResultOpen)
-> upper Frasnian, Late Devonian, 375.7, 372.2
+> upper Frasnian, 375.7, 372.2
 
-> - Koehler Limestone, Traverse Group, Presque Isle County, Michigan, USA
-> - S盲ve-S枚derbergh, 1952
-> - **Clearly, this species comes from Bad Wuldungen, Germany. see sites github. There is another species from USA, not this one. Add authors and date.**
-> - see below "Chirodipterus onawayensis" from USA
+> - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany
+> - Save-Soderbergh, 1952
+
 
 [*Conchopoma gadiforme*](https://www.deepbone.org/public/#/explor?s_id=6050&functionId=Deepbone_header_searchResultOpen)
 > **No data in deepbone**
 
-> - **No data in deepbone**
+> - Humberg near Odernheim am Glan, SW-Germany
 > - Heidtke, 1986
 
 [*Ctenodus cristatus*](https://www.deepbone.org/public/#/explor?s_id=72308&functionId=Deepbone_header_searchResultOpen)
@@ -193,12 +192,10 @@ New taxa and references added along with the research.
 > - Ahlberg and Trewin, 1995; Campbell et al., 2006
 
 [*Eoctenodus microsoma*](https://www.deepbone.org/public/#/explor?s_id=72348&functionId=Deepbone_header_searchResultOpen)
-> middle Givetian to Frasnian, 386.04, 372.2
+> upper Givetian, 384.37, 382.7
 
-> - Blue Range Formation, Taggerty, Victoria, Australia
-> - Long, 1987
-> - **check sites github for the latest age constraint**
-> - **MAV8, Taggerty-Mt. Howitta fauna, late Givetian**
+> - Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
+> - Long, 1987；Hills，1929
 
 [*Erikia jarviki*](https://www.deepbone.org/public/#/explor?s_id=72355&functionId=Deepbone_header_searchResultOpen)
 > lower Emsian, 407.6, 402.84
@@ -268,11 +265,10 @@ New taxa and references added along with the research.
 > - Miles, 1977
 
 [*Howidipterus donnae*](https://www.deepbone.org/public/#/explor?s_id=3191&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+> upper Givetian, 384.37, 382.7
 
-> - Avon River Group, Mount Howitt, Victoria, Australia
+> - Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
 > - Long, 1992a
-> - **new date: MAV8, Taggerty-Mt. Howitta fauna, late Givetian; keep consistency with sites github, early gnathostome github.**
 
 [*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen)
 > Pragian, 410.8, 407.6/upper Pragian to lower Emsian, 408.67, 402.84 (**check it**)
