@@ -357,12 +357,11 @@ New taxa and references added along with the research.
 > - Aina Dal Formation, East Greenland
 > - Blom et al., 2007; Friedman, 2007
 
-[*Jessenia concentrica*](https://www.deepbone.org/public/#/explor?s_id=3158&functionId=Deepbone_header_searchResultOpen)
+[*Jessenia concentrica*](https://www.deepbone.org/public/#/explor?s_id=3158&functionId=Deepbone_header_searchResultOpen) Otto and Bardenheuer, 1996
 > lower Emsian, 407.6, 402.84
 
-> - Germany
+> - Klerf Formation; southern part of the Eifel Hills, Germany.
 > - Otto and Bardenheuer, 1996
-> - **? from Hunsrückschiefer fauna: upper Pragian to lower Emsian, 409.2, 400.45**
 
 [*Limanichthys fraseri*](https://www.deepbone.org/public/#/explor?s_id=73069&functionId=Deepbone_header_searchResultOpen)
 > Famennian to Tournaisian, 372.2, 346.7
