@@ -20,11 +20,6 @@ New taxa and references added along with the research.
 > - Kuanti Formation; Qujing, Yunnan, China.
 > - [Zhu *et al*., 2009](https://www.nature.com/articles/nature07855); [Qiao and Zhu, 2010](https://link.springer.com/article/10.1007/s11430-010-4089-6); [Cui *et al*., 2019](https://www.nature.com/articles/s41598-019-40845-7)
 
-[*Quebecius quebecensis*]
-> middle Frasnian, 379.2, 375.7
-
-> - Escuminac Formation, Miguasha, Quebec, Canada
-> - [references]
 
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
 > upper Lochkovian, 415.0, 410.8
@@ -44,11 +39,18 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - Clément, 2004; Jarvik, 1972
 
-[*Holoptychius*]
-> Frasnian to Famennian, 382.7, 358.9 
+*Holoptychius jarviki*
+> middle Frasnian, 379.2, 375.7
 
-> - [horizon and locality]
+> - Escuminac Formation, Miguasha, Quebec, Canada
 > - [references]
+> - *Holoptychius* Agassiz, 1839
+
+*Quebecius quebecensis* (Whiteaves 1889)
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation, Miguasha, Quebec, Canada
+> - Johnson, 2000
 
 [*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
 > upper Eifelian to lower Givetian, 389.6, 386.0
