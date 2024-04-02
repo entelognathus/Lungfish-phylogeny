@@ -49,7 +49,7 @@ New taxa and references added along with the research.
 [*Adololopas moyasmithae*](https://www.deepbone.org/public/#/explor?s_id=3169&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Paddys Valley, Western Australia, Australia
+> - Gogo Formation, Paddys Valley, Western Australia
 > - Campbell and Barwick, 1998; Ahlberg et al., 2006
 
 [*Amadeodipterus kencampbelli*](https://www.deepbone.org/public/#/explor?s_id=72213&functionId=Deepbone_header_searchResultOpen)
@@ -65,7 +65,7 @@ New taxa and references added along with the research.
 > - Krupina, 1997; Krupina and Reisz, 2000; Smith et al., 2002; Moloshnikov, 2008; Reisz and Smith, 2001
 
 [*Apatorhynchus opistheretmus*](https://www.deepbone.org/public/#/explor?s_id=72221&functionId=Deepbone_header_searchResultOpen)
-> Famennian (Fa2b), 372.2, 358.9
+> ** late Famennian (Fa2b), 362.23, 358.9 **
 
 > - Catskill Formation, Red Hill, Pennsylvania, USA
 > - Friedman and Daeschler, 2006
@@ -79,7 +79,7 @@ New taxa and references added along with the research.
 [*Asthenorhynchus meemannae*](https://www.deepbone.org/public/#/explor?s_id=163646&functionId=Deepbone_header_searchResultOpen)
 > - lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Paddys Valley, Australia
+> - Gogo Formation, Paddys Valley, Western Australia
 > - Pridmore et al., 1994
 
 [*Barwickia downunda*](https://www.deepbone.org/public/#/explor?s_id=3193&functionId=Deepbone_header_searchResultOpen)
@@ -115,7 +115,7 @@ New taxa and references added along with the research.
 [*Chirodipterus onawayensis*](https://www.deepbone.org/public/#/explor?s_id=4104&functionId=Deepbone_header_searchResultOpen)
 > middle Givetian, 386.07, 384.37
 
-> - Koehler Limestone Formation, Traverse Group, Presque Isle County, Michigan锛孶SA
+> - Koehler Limestone Formation, Traverse Group, Presque Isle County, Michigan, USA
 > - Schultze, 1982
 
 [*Chirodipterus wildungensis*](https://www.deepbone.org/public/#/explor?s_id=3173&functionId=Deepbone_header_searchResultOpen)
@@ -126,7 +126,7 @@ New taxa and references added along with the research.
 
 
 [*Conchopoma gadiforme*](https://www.deepbone.org/public/#/explor?s_id=6050&functionId=Deepbone_header_searchResultOpen)
-> Asselian, Permian, 298.9 - 293.52
+> Asselian, Permian, 298.9，293.52
 
 > - Humberg near Odernheim am Glan, SW-Germany
 > - Heidtke, 1986
