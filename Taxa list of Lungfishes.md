@@ -39,11 +39,11 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - Clément, 2004; Jarvik, 1972
 
-*Holoptychius jarviki*
+*Holoptychius jarviki* Cloutier and Schultze, 1996
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Formation, Miguasha, Quebec, Canada
-> - [references]
+> - Cloutier and Schultze, 1996
 > - *Holoptychius* Agassiz, 1839
 
 *Quebecius quebecensis* (Whiteaves 1889)
