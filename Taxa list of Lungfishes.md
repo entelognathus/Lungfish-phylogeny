@@ -65,10 +65,10 @@ New taxa and references added along with the research.
 > - Krupina, 1997; Krupina and Reisz, 2000; Smith et al., 2002; Moloshnikov, 2008; Reisz and Smith, 2001
 
 [*Apatorhynchus opistheretmus*](https://www.deepbone.org/public/#/explor?s_id=72221&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> Famennian (Fa2b), 372.2, 358.9
 
-> - Catskill Formation, Pennsylvania, USA
-> Friedman and Daeschler, 2006
+> - Catskill Formation, Red Hill, Pennsylvania, USA
+> - Friedman and Daeschler, 2006
 
 [*Archaeonectes pertusus*](https://www.deepbone.org/public/#/explor?s_id=4098&functionId=Deepbone_header_searchResultOpen)
 > lower Givetian, 387.7, 386.04
