@@ -166,7 +166,7 @@ New taxa and references added along with the research.
 [*Celsiodon ahlbergi*](https://www.deepbone.org/public/#/explor?s_id=73758&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 362.23, 358.9
 
-> - Denmark, East Greenland
+> - East Greenland, Denmark.
 > - Clack et al., 2019
 
 [*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen)
@@ -382,11 +382,11 @@ New taxa and references added along with the research.
 > - Bear Rock Formation, Northwest Territories, Canada
 > - Jarvik, 1967; Schultze, 2001
 
-[*Nielsenia nordica*](https://www.deepbone.org/public/#/explor?s_id=72424&functionId=Deepbone_header_searchResultOpen)
+[*Nielsenia nordica*](https://www.deepbone.org/public/#/explor?s_id=72424&functionId=Deepbone_header_searchResultOpen) Lehman, 1959
 > Famennian, 372.2, 358.9
 
-> - Greenland
-> - Blom et al., 2007; Friedman, 2007
+> - Kap Graah Group; East Greenland.
+> - Lehman, 1959; Blom et al., 2007; Friedman, 2007
 
 [*Oervigia nordica*](https://www.deepbone.org/public/#/explor?s_id=6046&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 362.23, 358.9
@@ -490,7 +490,7 @@ New taxa and references added along with the research.
 > - Qujing Formation, Zhaotong, Yunnan, China
 > - Qiao and Zhu, 2009
 
-[*Soederberghia groenlandica*](https://www.deepbone.org/public/#/explor?s_id=3187&functionId=Deepbone_header_searchResultOpen)
+[*Soederberghia groenlandica*](https://www.deepbone.org/public/#/explor?s_id=3187&functionId=Deepbone_header_searchResultOpen) Lehman, 1959
 > upper Famennian, 362.23, 358.9
 
 > - Aina Dal Formation, Celsius Bjerg Group, East Greenland
