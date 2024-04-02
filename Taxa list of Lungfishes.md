@@ -132,10 +132,10 @@ New taxa and references added along with the research.
 > - Heidtke, 1986
 
 [*Ctenodus cristatus*](https://www.deepbone.org/public/#/explor?s_id=72308&functionId=Deepbone_header_searchResultOpen)
-> Tournaisian to Moscovian, 358.9, 307.0
+> Tournaisian to Moscovian, Carboniferous，358.9, 307.0
 
-> - Scotland
-> - Sharp and Clack, 2013; Schultze, 1977
+> - Scotland and Yorkshire, England
+> - Sharp and Clack, 2013; Schultze, 1977; Watson & Gill, 1923
 
 [*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen)
 > Tournaisian, 358.9, 346.7
