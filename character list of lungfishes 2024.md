@@ -810,7 +810,7 @@ Character list of lungfishes
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 181.	Angle between first and last tooth ridge: (0) 50–100°; (1) less than 50° or greater than 100°. 
-> Challands *et al*., (2019; char. 157).
+> Challands *et al*., (2019; char. 157). ** here refers to the pterygoid tooth ridge **
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 182.	Ascending process on pterygoid: (0) absent; (1) short; (2) long. 
