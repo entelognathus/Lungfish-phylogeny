@@ -238,7 +238,7 @@ Character list of lungfishes
 
 48. X-bone (intertemporal): (0) isolated; (1) space of X+K; (2) space of X+Y; (3) missing; (4) fused with the fronto-ethmoidal shield (like *Porolepis* and *Glyptolepis*) (Jarvik 1972, Figs 38, 43).
 > Schultze and Marshall (1993; char. 32), Schultze and Chorn (1997; char. 14), Schultze (2001; char. 32), Schultze (2004; char. 25), Lloyd *et al*., (2012; char. 32), Challands *et al*., (2019; char. 171).
-> - Changing *Holoptychius* from '?' to '4' (Jarvik, 1972); changing *Quebecius* from '0' to '4'. The intertemporal is not mentioned amoung porolepiformes except *Quebecius* (Schultze, 1987). In other porolepiformes, the dermal bone next to the parietal is labeled as prespiracular (Jarvik, 1972; Miller & Brazeau, 2007; Down et al., 2013; Mondéjar‐Fernández *et al*., 2021). Schultze(1987) labeled intertemporal but not labeled prespiracular. However, Cloutier and Schultze(1996) relabeled this bone as prespiracular.
+> - Changing *Holoptychius* from '?' to '4' (Jarvik, 1972); changing *Quebecius* from '0' to '4'; changing *Nasogaluakus* from '3' to '4'. The intertemporal is not mentioned amoung porolepiformes except *Quebecius* (Schultze, 1987). In other porolepiformes, the dermal bone next to the parietal is labeled as prespiracular (Jarvik, 1972; Miller & Brazeau, 2007; Down et al., 2013; Mondéjar‐Fernández *et al*., 2021). Schultze(1987) labeled intertemporal but not labeled prespiracular. However, Cloutier and Schultze(1996) relabeled this bone as prespiracular.
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 49. T-bone: (0) present; (1) absent.
