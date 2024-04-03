@@ -20,18 +20,37 @@ New taxa and references added along with the research.
 > - Kuanti Formation; Qujing, Yunnan, China.
 > - [Zhu *et al*., 2009](https://www.nature.com/articles/nature07855); [Qiao and Zhu, 2010](https://link.springer.com/article/10.1007/s11430-010-4089-6); [Cui *et al*., 2019](https://www.nature.com/articles/s41598-019-40845-7)
 
-
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation, Qujing, Yunnan, China
 > - [Zhu and Yu, 2002](https://www.nature.com/articles/nature00871); [Friedman, 2007](https://www.tandfonline.com/doi/abs/10.1017/S1477201907002052)
 
+[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
+> upper Emsian, 400.45, 393.3
+
+> - Chuandong Formation; Qujing, Yunnan, China.
+> - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
+
+[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
+> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
+
+[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation; Miguasha, Quebec, Canada.
+> - Jarvik, 1980a; b; Cloutier et al., 2011; Cloutier, 2013; Borgen and Nakrem, 2017
+
 [*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1981
 > upper Lochkovian, 415.0, 410.8
 
 > - Xitun Formation, Qujing, Yunnan, China
 > - Chang and Yu, 1981; Chang, 1982; 1991. 
+
+**Porolepiform taxa**
 
 [*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=2889&functionId=Deepbone_header_searchResultOpen)
 > Pragian to Emsian, 410.8, 393.3
@@ -89,23 +108,6 @@ New taxa and references added along with the research.
 
 > - Schultze, 2000
 
-[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
-> upper Emsian, 400.45, 393.3
-
-> - Chuandong Formation; Qujing, Yunnan, China.
-> - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
-
-[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
-> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
-
-[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
-> middle Frasnian, 379.2, 375.7
-
-> - Escuminac Formation; Miguasha, Quebec, Canada.
-> - Jarvik, 1980a; b; Cloutier et al., 2011; Cloutier, 2013; Borgen and Nakrem, 2017
  
 **Lungfish taxa**
 
