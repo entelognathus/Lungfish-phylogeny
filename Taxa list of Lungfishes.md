@@ -197,7 +197,7 @@ New taxa and references added along with the research.
 
 
 [*Conchopoma gadiforme*](https://www.deepbone.org/public/#/explor?s_id=6050&functionId=Deepbone_header_searchResultOpen)
-> **No data in deepbone**
+> Asselian, lower Permian, 298.9 - 293.52Ma
 
 > - Humberg near Odernheim am Glan, SW-Germany
 > - Heidtke, 1986
