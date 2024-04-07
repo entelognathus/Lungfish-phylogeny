@@ -1152,6 +1152,7 @@ Character list of lungfishes
 
 264.	Plicidentine: (0) absent; (1) present. 
 > Lu *et al*., (2017; char. 86).
+> - Changing *Durialepis* from '1' to '0'(Mondéjar Fernández *et al*., 2020).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
