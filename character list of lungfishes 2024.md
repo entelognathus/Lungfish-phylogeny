@@ -242,7 +242,7 @@ Character list of lungfishes
 
 48. X-bone (intertemporal): (0) isolated; (1) space of X+K; (2) space of X+Y; (3) missing; (4) fused with the fronto-ethmoidal shield (like *Porolepis* and *Glyptolepis*) (Jarvik 1972, Figs 38, 43).
 > Schultze and Marshall (1993; char. 32), Schultze and Chorn (1997; char. 14), Schultze (2001; char. 32), Schultze (2004; char. 25), Lloyd *et al*., (2012; char. 32), Challands *et al*., (2019; char. 171).
-> - Changing *Holoptychius* from '?' to '4' (Jarvik, 1972); changing *Quebecius* from '0' to '4'. The intertemporal is not mentioned amoung porolepiformes except *Quebecius* (Schultze, 1987). In other porolepiformes, the dermal bone next to the parietal is labeled as prespiracular (Jarvik, 1972; Miller & Brazeau, 2007; Down et al., 2013; Mondéjar‐Fernández *et al*., 2021). Schultze(1987) labeled intertemporal but not labeled prespiracular. However, Cloutier and Schultze(1996) relabeled this bone as prespiracular.
+> - Changing *Holoptychius* from '?' to '4' (Jarvik, 1972); changing *Quebecius* from '0' to '4'; changing *Nasogaluakus* from '3' to '4'. The intertemporal is not mentioned amoung porolepiformes except *Quebecius* (Schultze, 1987). In other porolepiformes, the dermal bone next to the parietal is labeled as prespiracular (Jarvik, 1972; Miller & Brazeau, 2007; Down et al., 2013; Mondéjar‐Fernández *et al*., 2021). Schultze(1987) labeled intertemporal but not labeled prespiracular. However, Cloutier and Schultze(1996) relabeled this bone as prespiracular.
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
 49. T-bone: (0) present; (1) absent.
@@ -286,7 +286,8 @@ Character list of lungfishes
 
 58.	Supratemporal (Y1 bone): (0) present; (1) absent.
 > Schultze (2000; char. 8).
-> Jarvik(1972) labeled the only marginal bone as supratemporal in *Porolepis*, *Glyptolepis* and *Holoptychius*, while other researchers labeled this bone as tabular bone.
+> Jarvik(1972) labeled the only marginal bone as supratemporal in *Porolepis*, *Glyptolepis* and *Holoptychius*, while other researchers labeled this bone as tabular bone. Here we label the bone as tabular in *Porolepis*, *Glyptolepis* and *Holoptychius* (Downs *et al*., 2011; Mondéjar-Fernández *et al*., 2020).
+> - Changing *Porolepis*, *Glyptolepis* and *Holoptychius* from '0' to '1'. 
 > - The coding of *Heimenia* and ZJYporo is '?'. The coding of *Arquachthys* is '0'.
 
 59.	Postparietal and cheek contact: (0) absent; (1) present.
@@ -1112,7 +1113,8 @@ Character list of lungfishes
 
 254.	Interclavicle: absent (0); present (1). 
 > Zhu and Yu (2002; char. 126), Schultze (2000; char. 53).
-> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
+> - Changing *Laccognathus* from '0' to '1' (Vorobyeva, 2006).
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'. 
 
 255.	Proximal articular surface of humerus: (0) concave; (1) flat: convex. 
 > Schultze (2000; char. 54).
@@ -1155,6 +1157,7 @@ Character list of lungfishes
 
 264.	Plicidentine: (0) absent; (1) present. 
 > Lu *et al*., (2017; char. 86).
+> - Changing *Durialepis* from '1' to '0'(Mondéjar Fernández *et al*., 2020).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
 
 265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 

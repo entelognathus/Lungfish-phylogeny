@@ -8,18 +8,17 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
+[*Raynerius splendens*](https://deepbone.org/public/#/explor?s_id=3044&functionId=Deepbone_header_searchResultOpen) Giles et al., 2015
+> Frasnian, 382.7, 372.2
+
+> - Upper part of the Grey Member, Ferques Formation, La Parisienne quarry (now flooded), Pas-de-Calas, France.
+> - [Giles et al., 2015b](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1485)
 
 [*Guiyu oneiros*](https://deepbone.org/public/#/explor?s_id=2059&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2009
 > Ludfordian, 425.6, 423.0
 
 > - Kuanti Formation; Qujing, Yunnan, China.
 > - [Zhu *et al*., 2009](https://www.nature.com/articles/nature07855); [Qiao and Zhu, 2010](https://link.springer.com/article/10.1007/s11430-010-4089-6); [Cui *et al*., 2019](https://www.nature.com/articles/s41598-019-40845-7)
-
-[*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1981
-> upper Lochkovian, 415.0, 410.8
-
-> - Xitun Formation, Qujing, Yunnan, China
-> - Chang and Yu, 1981; Chang, 1982; 1991. 
 
 [*Styloichthys changae*](https://deepbone.org/public/#/explor?s_id=2879&functionId=Deepbone_header_searchResultOpen) Zhu and Yu, 2002
 > upper Lochkovian, 415.0, 410.8
@@ -33,12 +32,70 @@ New taxa and references added along with the research.
 > - Chuandong Formation; Qujing, Yunnan, China.
 > - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
 
+[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
+> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
+
 [*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
 > middle Frasnian, 379.2, 375.7
 
-> - Escuminac Formation; Quebec, Canada.
+> - Escuminac Formation; Miguasha, Quebec, Canada.
 > - Jarvik, 1980a; b; Cloutier et al., 2011; Cloutier, 2013; Borgen and Nakrem, 2017
->   
+
+[*Youngolepis praecursor*](https://deepbone.org/public/#/explor?s_id=2874&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1981
+> upper Lochkovian, 415.0, 410.8
+
+> - Xitun Formation, Qujing, Yunnan, China
+> - Chang and Yu, 1981; Chang, 1982; 1991. 
+
+**Porolepiform taxa**
+
+[*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=2889&functionId=Deepbone_header_searchResultOpen)
+> Pragian to Emsian, 410.8, 393.3
+
+> - wide distribution.
+> - Clément, 2004; Jarvik, 1972
+
+[*Holoptychius jarviki*](https://deepbone.org/public/#/explor?s_id=4388&functionId=Deepbone_header_searchResultOpen) Cloutier and Schultze, 1996
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation, Miguasha, Quebec, Canada
+> - Cloutier and Schultze, 1996
+> - *Holoptychius* Agassiz, 1839
+
+[*Quebecius quebecensis*](https://deepbone.org/public/#/explor?s_id=72189&functionId=Deepbone_header_searchResultOpen) (Whiteaves 1889)
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation, Miguasha, Quebec, Canada
+> - Johnson, 2000
+
+[*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
+> upper Eifelian to lower Givetian, 389.6, 386.0
+
+> - Canning Land, East Greenland.
+> - Jarvik, 1972; Ahlberg, 1989;
+
+[*Laccognathus panderi*](https://deepbone.org/public/#/explor?s_id=4199&functionId=Deepbone_header_searchResultOpen) Gross, 1941
+> upper Givetian, 384.4, 382.7
+
+> - Lode Formation, Gauja, Latvia.
+> - [references]
+
+[*Durialepis edentatus*](https://www.deepbone.org/public/#/explor?s_id=72193functionId=Deepbone_header_searchResultOpen) Otto, 2007
+> lower Emsian, 407.6, 402.84
+
+> - Klerf Formation; northern Eifel, Germany.
+> - Otto, 2007.
+
+[*Nasogaluakus chorni*](https://www.deepbone.org/public/#/explor?s_id=72191functionId=Deepbone_header_searchResultOpen) Schultze, 2000
+> Emsian, 407.6, 393.3
+
+> - Bear Rock Formation; Northwest Territories. Canada. 68 degrees, 11’ 06” N, 125 degrees, 49’ 72” W
+> - Schultze, 2000
+
+**Lungfish taxa**
 
 [*Adelargo schultzei*](https://www.deepbone.org/public/#/explor?s_id=3167&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 362.23, 358.9
@@ -65,7 +122,7 @@ New taxa and references added along with the research.
 > - Krupina, 1997; Krupina and Reisz, 2000; Smith et al., 2002; Moloshnikov, 2008; Reisz and Smith, 2001
 
 [*Apatorhynchus opistheretmus*](https://www.deepbone.org/public/#/explor?s_id=72221&functionId=Deepbone_header_searchResultOpen)
-> ** late Famennian (Fa2b), 362.23, 358.9 **
+>  late Famennian (Fa2b), 362.23, 358.9 
 
 > - Catskill Formation, Red Hill, Pennsylvania, USA
 > - Friedman and Daeschler, 2006
@@ -97,7 +154,7 @@ New taxa and references added along with the research.
 [*Celsiodon ahlbergi*](https://www.deepbone.org/public/#/explor?s_id=73758&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 362.23, 358.9
 
-> - Denmark, East Greenland
+> - East Greenland, Denmark.
 > - Clack et al., 2019
 
 [*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen)
@@ -204,9 +261,9 @@ New taxa and references added along with the research.
 > - Chang and Wang, 1995
 
 [*Fleurantia denticulata*](https://www.deepbone.org/public/#/explor?s_id=3189&functionId=Deepbone_header_searchResultOpen)
-> lower Frasnian, 382.7, 379.2
+> middle Frasnian, 379.2, 375.7
 
-> - Escuminac Formation, Shore of River Ristigouche, Miguasha锛孋anada
+> - Escuminac Formation; Miguasha, Quebec, Canada.
 > - Graham-Smith and Westoll, 1937; Friedman, 2007; Cloutier, 2013; Cloutier et al., 2011
 
 [*Gnathorhiza serrata*](https://www.deepbone.org/public/#/explor?s_id=72369&functionId=Deepbone_header_searchResultOpen)
@@ -221,29 +278,29 @@ New taxa and references added along with the research.
 > - Gogo Formation, Canning Basin, Western Australia, Australia
 > - Long, 1992b; Clement et al., 2022; Kemp, 2003
 
-[*Griphognathus minutidens*](https://www.deepbone.org/public/#/explor?s_id=3185&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+[*Griphognathus minutidens*](https://www.deepbone.org/public/#/explor?s_id=3185&functionId=Deepbone_header_searchResultOpen) Gross, 1956
+> lower Frasnian, 382.7, 379.2
 
-> - Lode Member, Gauja Formation, MDF Gauja, Latvia
-> - Schultze, 1969; Gross, 1956; Friedman, 2007
+> - Snetnaya Gora Beds, Latvia.
+> - Gross, 1956; Schultze, 1969; Friedman, 2007
 
-[*Griphognathus sculpta*](https://www.deepbone.org/public/#/explor?s_id=4219&functionId=Deepbone_header_searchResultOpen)
-> **No data in deepbone**
-> lowest Frasnian, 382.7, 379.2
+[*Griphognathus sculpta*](https://www.deepbone.org/public/#/explor?s_id=4219&functionId=Deepbone_header_searchResultOpen) Schultze, 1969
+> lower Frasnian, 382.7, 379.2
 
-> - **No data in deepbone**
+> - Bergisch Gladbach, Germany
 > - Schultze, 1969
-
+> **No data in deepbone**
+>   
 [*Griphognathus whitei*](https://www.deepbone.org/public/#/explor?s_id=163647&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Western Australia, Australia
 > - Campbell et al., 2012
 
-[*Grossipterus crassus*](https://www.deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+[*Grossipterus crassus*](https://deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+> upper Givetian, 384.4, 382.7
 
-> - Latvia
+> - Lode Formation, Gauja, Latvia.
 > - Krupina, 2000; Obruchev and Vorobyeva, 1964
 
 [*Harajicadipterus youngi*](https://www.deepbone.org/public/#/explor?s_id=72371&functionId=Deepbone_header_searchResultOpen)
@@ -270,10 +327,10 @@ New taxa and references added along with the research.
 > - Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
 > - Long, 1992a
 
-[*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen)
-> Pragian, 410.8, 407.6/upper Pragian to lower Emsian, 408.67, 402.84 (**check it**)
+[*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen) Long et al., 1994
+> lower Emsian, 407.6, 402.84
 
-> - Bell Point Formation, Waratah Bay, Victoria, Australia
+> - Bell Point Limestone, Waratah Bay, Victoria, Australia
 > - Long et al., 1994
 
 [*Iowadipterus halli*](https://www.deepbone.org/public/#/explor?s_id=3160&functionId=Deepbone_header_searchResultOpen)
@@ -288,12 +345,11 @@ New taxa and references added along with the research.
 > - Aina Dal Formation, East Greenland
 > - Blom et al., 2007; Friedman, 2007
 
-[*Jessenia concentrica*](https://www.deepbone.org/public/#/explor?s_id=3158&functionId=Deepbone_header_searchResultOpen)
+[*Jessenia concentrica*](https://www.deepbone.org/public/#/explor?s_id=3158&functionId=Deepbone_header_searchResultOpen) Otto and Bardenheuer, 1996
 > lower Emsian, 407.6, 402.84
 
-> - Germany
+> - Klerf Formation; southern part of the Eifel Hills, Germany.
 > - Otto and Bardenheuer, 1996
-> - **? from Hunsr眉ckschiefer fauna: upper Pragian to lower Emsian, 409.2, 400.45**
 
 [*Limanichthys fraseri*](https://www.deepbone.org/public/#/explor?s_id=73069&functionId=Deepbone_header_searchResultOpen)
 > Famennian to Tournaisian, 372.2, 346.7
@@ -313,11 +369,11 @@ New taxa and references added along with the research.
 > - Bear Rock Formation, Northwest Territories, Canada
 > - Jarvik, 1967; Schultze, 2001
 
-[*Nielsenia nordica*](https://www.deepbone.org/public/#/explor?s_id=72424&functionId=Deepbone_header_searchResultOpen)
+[*Nielsenia nordica*](https://www.deepbone.org/public/#/explor?s_id=72424&functionId=Deepbone_header_searchResultOpen) Lehman, 1959
 > Famennian, 372.2, 358.9
 
-> - Greenland
-> - Blom et al., 2007; Friedman, 2007
+> - Kap Graah Group; East Greenland.
+> - Lehman, 1959; Blom et al., 2007; Friedman, 2007
 
 [*Oervigia nordica*](https://www.deepbone.org/public/#/explor?s_id=6046&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 362.23, 358.9
@@ -331,11 +387,12 @@ New taxa and references added along with the research.
 > - Ketleri Formation, Venta River, Latvia; Rybnitsa locality, Orel region, Russia
 > - Krupina et al., 2001; Moloshnikov, 2008
 
-[*Palaedaphus insignis*](https://www.deepbone.org/public/#/explor?s_id=72439&functionId=Deepbone_header_searchResultOpen)
+[*Palaedaphus insignis*](https://www.deepbone.org/public/#/explor?s_id=72439&functionId=Deepbone_header_searchResultOpen) (Gervais)
 > Frasnian, 382.7, 372.2
 
 > - Belgium
 > - Van Beneden and de Koninck, 1862
+> - *Palaeodaphus insignis* 
 
 [*Palaeophichthys parvulus*](https://www.deepbone.org/public/#/explor?s_id=5727&functionId=Deepbone_header_searchResultOpen)
 > Moscovian, 315.2, 307.0
@@ -370,13 +427,13 @@ New taxa and references added along with the research.
 [*Pillararhynchus longi*](https://www.deepbone.org/public/#/explor?s_id=3177&functionId=Deepbone_header_searchResultOpen)
 > - lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Canning Basin, Western Australia, Australia
+> - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
 > - Campbell and Barwick, 1990; Barwick and Campbell, 1996
 
 [*Rhinodipterus kimberleyensis*](https://www.deepbone.org/public/#/explor?s_id=72487&functionId=Deepbone_header_searchResultOpen)
-> upper Givetian to lower Frasnian, 384.37, 379.2 (**check the upper Givetian**)
+> lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Western Australia, Australia
+> - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
 > - Clement, 2012; Clement and Ahlberg, 2014; Clement et al., 2016
 
 [*Rhinodipterus secans*](https://www.deepbone.org/public/#/explor?s_id=4205&functionId=Deepbone_header_searchResultOpen)
@@ -389,7 +446,7 @@ New taxa and references added along with the research.
 > Givetian, 387.7, 382.7
 
 > - Oberer Plattenkalk Formation, Heiligenstock Quarry, North Rhine-Westphalia, Germany
-> - 脴rvig, 1960; Schultze, 1992
+> - Orvig, 1960; Schultze, 1992
 
 [*Rhynchodipterus elginensis*](https://www.deepbone.org/public/#/explor?s_id=4468&functionId=Deepbone_header_searchResultOpen)
 > lower Famennian, 372.2, 368.88
@@ -400,7 +457,7 @@ New taxa and references added along with the research.
 [*Robinsondipterus longi*](https://www.deepbone.org/public/#/explor?s_id=72490&functionId=Deepbone_header_searchResultOpen)
 > - lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Western Australia, Australia
+> - Gogo Formation, Western Australia, Australia.
 > - Long et al., 2010
 
 [*Sagenodus inaequalis*](https://www.deepbone.org/public/#/explor?s_id=4945&functionId=Deepbone_header_searchResultOpen)
@@ -410,9 +467,9 @@ New taxa and references added along with the research.
 > - Beeby et al., 2020; Smith, 1979
 
 [*Scaumenacia curta*](https://www.deepbone.org/public/#/explor?s_id=3195&functionId=Deepbone_header_searchResultOpen)
-> - lower Frasnian, 382.7, 379.2
+> middle Frasnian, 379.2, 375.7
 
-> - Escuminac Formation, Shore of River Ristigouche, Miguasha锛孋anada
+> - Escuminac Formation; Quebec, Canada.
 > - Cloutier, 2013; Cloutier et al., 2011
 
 [*Sinodipterus beibei*](https://www.deepbone.org/public/#/explor?s_id=3179&functionId=Deepbone_header_searchResultOpen)
@@ -421,11 +478,11 @@ New taxa and references added along with the research.
 > - Qujing Formation, Zhaotong, Yunnan, China
 > - Qiao and Zhu, 2009
 
-[*Soederberghia groenlandica*](https://www.deepbone.org/public/#/explor?s_id=3187&functionId=Deepbone_header_searchResultOpen)
+[*Soederberghia groenlandica*](https://www.deepbone.org/public/#/explor?s_id=3187&functionId=Deepbone_header_searchResultOpen) Lehman, 1959
 > upper Famennian, 362.23, 358.9
 
 > - Aina Dal Formation, Celsius Bjerg Group, East Greenland
-> Friedman, 2007; Friedman and Daeschler, 2006; Ahlberg et al., 2001
+> - Friedman, 2007; Friedman and Daeschler, 2006; Ahlberg et al., 2001
 
 [*Sorbitorhynchus deleaskitus*](https://www.deepbone.org/public/#/explor?s_id=3175&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
@@ -464,7 +521,7 @@ New taxa and references added along with the research.
 > - Thomson, 1965
 
 [*Uranolophus wyomingensis*](https://www.deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen)
-> lower or middle Pragian, 410.8, 408.67
+> Pragian, 410.8, 407.6
 
 > - Beartooth Butte Formation, Park County, Wyoming, USA
 > - Denison, 1968
@@ -475,17 +532,16 @@ New taxa and references added along with the research.
 > - Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
 > - Watson and Gill, 1923; Otoo et al., 2019; Smithson et al., 2019
 
-[*Westollrhynchus lehmanni*](https://www.deepbone.org/public/#/explor?s_id=3147&functionId=Deepbone_header_searchResultOpen)
-> upper Pragian to lower Emsian, 408.67, 402.84
+[*Westollrhynchus lehmanni*](https://www.deepbone.org/public/#/explor?s_id=3147&functionId=Deepbone_header_searchResultOpen) (Westoll, 1949)
+> upper Pragian to lower Emsian, 409.2, 400.45
 
-> - Mine Schmiedenberg, Palatine, Germany
+> - Hunsrückschiefer; Mine Schmiedenberg, Palatine, Germany
 > - Westoll, 1949; Schultze, 2001
-> - **? from Hunsr眉ckschiefer fauna: upper Pragian to lower Emsian, 409.2, 400.45, see sites github.**
 
 [*Xeradipterus hatcheri*](https://www.deepbone.org/public/#/explor?s_id=72523&functionId=Deepbone_header_searchResultOpen)
-> lower to middle Frasnian, 382.7, 372.2
+> - lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Paddys Valley, Australia
+> - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
 > - Clement and Long, 2010
 
 [*Xylognathus macrustenus*](https://www.deepbone.org/public/#/explor?s_id=74540&functionId=Deepbone_header_searchResultOpen)
@@ -494,45 +550,6 @@ New taxa and references added along with the research.
 > - Ballagan Formation, Burnmouth, Scottish Borders, Scotland
 > - Smithson et al., 2016
 
-[*Holoptychius*]
-> Frasnian to Famennian, 382.7, 358.9 
-
-[*Gogonasus*]
-> - lower Frasnian, 382.7, 379.2
-> - Gogo Formation, Canning Basin, Western Australia, Australia
-> - Long, 1985
-
-[*Glyptolepis*]
-> - Eifelian to Frasnian, 393.3, 372.2
-
-[*Palaeodaphus insignis*]
-> - Frasnian, 382.7, 372.2
-
-[*Quebecius quebecensis*]
-> Frasnian, 382.7, 372.2
-> - Escuminac Formation, Ristigouche River at Miguasha, Province of Quebec, Canada
-
-[*Laccognathus*]
-> - Givetian, 387.7, 382.7
-
-[*Raynerius splendens*]
-> middle Frasnian, 379.2, 375.7
-
-[*Grossipterus_crassus*]
-> uppest Givetian, 384.37382.7
-
-[*Durialepis*]
-> lower Emsian, 407.6, 402.84
-
-[*Nasogaluakus chorni*]
-> Emsian, 407.6, 393.3
-
-> - Bear Rock Formation
-> - Standard Oil Co. locality no. AR.25.58 (Mr. Ben Moore鈥榮 Anderson River traverse in summer 1958). 68鈥? 11鈥? 06鈥? Ni 125鈥? 49鈥? 72鈥? W. Anderson River. about 330 km east of Inuvik and 150 km southsouthwest of Paulatuk, Northwest Territories. Canada.
-> - Schultze, 2000
-
-[*Porolepis*]
-> Pragian to Emsian, 410.8, 393.3
 
 
 **References**
