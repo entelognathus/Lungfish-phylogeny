@@ -103,7 +103,7 @@ New taxa and references added along with the research.
 > - Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia
 > - Johanson and Ritchie, 2000
 
-[*Adololopas moyasmithae*](https://www.deepbone.org/public/#/explor?s_id=3169&functionId=Deepbone_header_searchResultOpen)
+[*Adololopas moyasmithae*](https://www.deepbone.org/public/#/explor?s_id=3169&functionId=Deepbone_header_searchResultOpen) Campbell and Barwick, 1998
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Paddys Valley, Western Australia
@@ -115,67 +115,67 @@ New taxa and references added along with the research.
 > - Amadeus Basin, Northern Territory, Australia
 > - Young and Schultze, 2005
 
-[*Andreyevichthys epitomus*](https://www.deepbone.org/public/#/explor?s_id=3199&functionId=Deepbone_header_searchResultOpen)
-> upper/top Famennian, 362.23, 358.9
+[*Andreyevichthys epitomus*](https://www.deepbone.org/public/#/explor?s_id=3199&functionId=Deepbone_header_searchResultOpen) Krupina, 1997
+> upper Famennian, 362.23, 358.9
 
 > - Khovanshshina Beds, Zovalzkh Formation, Tula, Siberia, Russia
 > - Krupina, 1997; Krupina and Reisz, 2000; Smith et al., 2002; Moloshnikov, 2008; Reisz and Smith, 2001
 
-[*Apatorhynchus opistheretmus*](https://www.deepbone.org/public/#/explor?s_id=72221&functionId=Deepbone_header_searchResultOpen)
->  late Famennian (Fa2b), 362.23, 358.9 
+[*Apatorhynchus opistheretmus*](https://www.deepbone.org/public/#/explor?s_id=72221&functionId=Deepbone_header_searchResultOpen) Friedman and Daeschler, 2006
+> upper Famennian, 362.23, 358.9
 
 > - Catskill Formation, Red Hill, Pennsylvania, USA
 > - Friedman and Daeschler, 2006
 
-[*Archaeonectes pertusus*](https://www.deepbone.org/public/#/explor?s_id=4098&functionId=Deepbone_header_searchResultOpen)
+[*Archaeonectes pertusus*](https://www.deepbone.org/public/#/explor?s_id=4098&functionId=Deepbone_header_searchResultOpen) von Meyer, 1859
 > lower Givetian, 387.7, 386.04
 
 > - Gerrolstein, Rhineland-Palatinate, Germany
-> - Meyer, 1859
+> - von Meyer, 1859
 
-[*Asthenorhynchus meemannae*](https://www.deepbone.org/public/#/explor?s_id=163646&functionId=Deepbone_header_searchResultOpen)
+[*Asthenorhynchus meemannae*](https://www.deepbone.org/public/#/explor?s_id=163646&functionId=Deepbone_header_searchResultOpen) Pridmore et al., 1994
 > - lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Paddys Valley, Western Australia
 > - Pridmore et al., 1994
 
-[*Barwickia downunda*](https://www.deepbone.org/public/#/explor?s_id=3193&functionId=Deepbone_header_searchResultOpen)
+[*Barwickia downunda*](https://www.deepbone.org/public/#/explor?s_id=3193&functionId=Deepbone_header_searchResultOpen) Long, 1992
 > upper Givetian, 384.37, 382.7
 
 > - Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
-> - Long, 1992a
+> - Long, 1992
 
-[*Cathlorhynchus trismodipterus*](https://www.deepbone.org/public/#/explor?s_id=4064&functionId=Deepbone_header_searchResultOpen)
+[*Cathlorhynchus trismodipterus*](https://www.deepbone.org/public/#/explor?s_id=4064&functionId=Deepbone_header_searchResultOpen) Campbell et al., 2009
 > Emsian, 407.6, 393.3
 
 > - Currajong Limestone, Taemas Formation, New South Wales, Australia
 > - Campbell et al., 2009
 
-[*Celsiodon ahlbergi*](https://www.deepbone.org/public/#/explor?s_id=73758&functionId=Deepbone_header_searchResultOpen)
+[*Celsiodon ahlbergi*](https://www.deepbone.org/public/#/explor?s_id=73758&functionId=Deepbone_header_searchResultOpen) Clack et al., 2019
 > upper Famennian, 362.23, 358.9
 
 > - East Greenland, Denmark.
 > - Clack et al., 2019
 
-[*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen)
+[*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen) Miles, 1977
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Canning Basin, Western Australia, Australia
-> - Henderson and Challands, 2018; Miles, 1977; Campbell and Barwick, 1995; Campbell et al., 2006
+> - Miles, 1977; Campbell and Barwick, 1995; Campbell et al., 2006; Henderson and Challands, 2018.
 
-[*Chirodipterus liangcheni*](https://www.deepbone.org/public/#/explor?s_id=163601&functionId=Deepbone_header_searchResultOpen)
+[*Chirodipterus liangcheni*](https://www.deepbone.org/public/#/explor?s_id=163601&functionId=Deepbone_header_searchResultOpen) Song and Chang, 1991
 > Frasnian, 382.7, 372.2
 
 > - Shetianqiao Formation, Guiyang, Hunan, China
 > - Song and Chang, 1991
 
-[*Chirodipterus onawayensis*](https://www.deepbone.org/public/#/explor?s_id=4104&functionId=Deepbone_header_searchResultOpen)
+[*Chirodipterus onawayensis*](https://www.deepbone.org/public/#/explor?s_id=4104&functionId=Deepbone_header_searchResultOpen) Schultze, 1982
 > middle Givetian, 386.07, 384.37
 
 > - Koehler Limestone Formation, Traverse Group, Presque Isle County, Michigan, USA
 > - Schultze, 1982
 
-[*Chirodipterus wildungensis*](https://www.deepbone.org/public/#/explor?s_id=3173&functionId=Deepbone_header_searchResultOpen)
+[*Chirodipterus wildungensis*](https://www.deepbone.org/public/#/explor?s_id=3173&functionId=Deepbone_header_searchResultOpen) Gross, 1933
 > upper Frasnian, 375.7, 372.2
 
 > - Kellwasserkalk Formation, Schmidt Quarry near Bad Wildungen, Hessen, Germany
