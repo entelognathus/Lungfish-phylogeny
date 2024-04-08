@@ -97,7 +97,7 @@ New taxa and references added along with the research.
 
 **Lungfish taxa**
 
-[*Adelargo schultzei*](https://www.deepbone.org/public/#/explor?s_id=3167&functionId=Deepbone_header_searchResultOpen)
+[*Adelargo schultzei*](https://www.deepbone.org/public/#/explor?s_id=3167&functionId=Deepbone_header_searchResultOpen) Johanson and Ritchie, 2000
 > upper Famennian, 362.23, 358.9
 
 > - Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia
@@ -109,10 +109,10 @@ New taxa and references added along with the research.
 > - Gogo Formation, Paddys Valley, Western Australia
 > - Campbell and Barwick, 1998; Ahlberg et al., 2006
 
-[*Amadeodipterus kencampbelli*](https://www.deepbone.org/public/#/explor?s_id=72213&functionId=Deepbone_header_searchResultOpen)
-> Emsian to Eifelian, 407.6, 387.7
+[*Amadeodipterus kencampbelli*](https://www.deepbone.org/public/#/explor?s_id=72213&functionId=Deepbone_header_searchResultOpen) Young and Schultze, 2005
+> late Emsian to early Eifelian
 
-> - Amadeus Basin and Georgina Basin, Australia
+> - Amadeus Basin, Northern Territory, Australia
 > - Young and Schultze, 2005
 
 [*Andreyevichthys epitomus*](https://www.deepbone.org/public/#/explor?s_id=3199&functionId=Deepbone_header_searchResultOpen)
