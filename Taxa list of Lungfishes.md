@@ -78,7 +78,7 @@ New taxa and references added along with the research.
 > - Jarvik, 1972; Ahlberg, 1989;
 
 [*Laccognathus panderi*](https://deepbone.org/public/#/explor?s_id=4199&functionId=Deepbone_header_searchResultOpen) Gross, 1941
-> upper Givetian, 384.37, 382.7
+> upper Givetian, 384.4, 382.7
 
 > - Lode Formation, Gauja, Latvia.
 > - [references]
@@ -278,27 +278,27 @@ New taxa and references added along with the research.
 > - Gogo Formation, Canning Basin, Western Australia, Australia
 > - Long, 1992b; Clement et al., 2022; Kemp, 2003
 
-[*Griphognathus minutidens*](https://www.deepbone.org/public/#/explor?s_id=3185&functionId=Deepbone_header_searchResultOpen)
-> Frasnian, 382.7, 372.2
+[*Griphognathus minutidens*](https://www.deepbone.org/public/#/explor?s_id=3185&functionId=Deepbone_header_searchResultOpen) Gross, 1956
+> lower Frasnian, 382.7, 379.2
 
-> - Lode Member, Gauja Formation, MDF Gauja, Latvia
-> - Schultze, 1969; Gross, 1956; Friedman, 2007
+> - Snetnaya Gora Beds, Latvia.
+> - Gross, 1956; Schultze, 1969; Friedman, 2007
 
-[*Griphognathus sculpta*](https://www.deepbone.org/public/#/explor?s_id=4219&functionId=Deepbone_header_searchResultOpen)
-> **No data in deepbone**
-> lowest Frasnian, 382.7, 379.2
+[*Griphognathus sculpta*](https://www.deepbone.org/public/#/explor?s_id=4219&functionId=Deepbone_header_searchResultOpen) Schultze, 1969
+> lower Frasnian, 382.7, 379.2
 
-> - **No data in deepbone**
+> - Bergisch Gladbach, Germany
 > - Schultze, 1969
-
+> **No data in deepbone**
+>   
 [*Griphognathus whitei*](https://www.deepbone.org/public/#/explor?s_id=163647&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Western Australia, Australia
 > - Campbell et al., 2012
 
-[*Grossipterus_crassus*](https://deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen) Gross, 1933
-> upper Givetian, 384.37, 382.7
+[*Grossipterus crassus*](https://deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+> upper Givetian, 384.4, 382.7
 
 > - Lode Formation, Gauja, Latvia.
 > - Krupina, 2000; Obruchev and Vorobyeva, 1964
