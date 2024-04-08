@@ -58,14 +58,14 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - Clément, 2004; Jarvik, 1972
 
-[*Holoptychius jarviki* Cloutier and Schultze, 1996](https://deepbone.org/public/#/explor?s_id=4388&functionId=Deepbone_header_searchResultOpen)
+[*Holoptychius jarviki*](https://deepbone.org/public/#/explor?s_id=4388&functionId=Deepbone_header_searchResultOpen) Cloutier and Schultze, 1996
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Formation, Miguasha, Quebec, Canada
 > - Cloutier and Schultze, 1996
 > - *Holoptychius* Agassiz, 1839
 
-[*Quebecius quebecensis* (Whiteaves 1889)](https://deepbone.org/public/#/explor?s_id=72189&functionId=Deepbone_header_searchResultOpen)
+[*Quebecius quebecensis*](https://deepbone.org/public/#/explor?s_id=72189&functionId=Deepbone_header_searchResultOpen) (Whiteaves 1889)
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Formation, Miguasha, Quebec, Canada
