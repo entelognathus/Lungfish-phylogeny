@@ -95,11 +95,11 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [references]
 
-[*Durialepis*]
+[*Durialepis edentatus*](https://www.deepbone.org/public/#/explor?s_id=72193functionId=Deepbone_header_searchResultOpen) Otto, 2007
 > lower Emsian, 407.6, 402.84
 
 > - [horizon and locality]
-> - [references]
+> - Otto, 2007.
 
 [*Nasogaluakus chorni*]
 > Emsian, 407.6, 393.3
