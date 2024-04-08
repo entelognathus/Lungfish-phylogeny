@@ -78,7 +78,7 @@ New taxa and references added along with the research.
 > - Jarvik, 1972; Ahlberg, 1989;
 
 [*Laccognathus panderi*](https://deepbone.org/public/#/explor?s_id=4199&functionId=Deepbone_header_searchResultOpen) Gross, 1941
-> upper Givetian, 384.4, 382.7
+> upper Givetian, 384.37, 382.7
 
 > - Lode Formation, Gauja, Latvia.
 > - [references]
@@ -298,7 +298,7 @@ New taxa and references added along with the research.
 > - Campbell et al., 2012
 
 [*Grossipterus crassus*](https://deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen) Gross, 1933
-> upper Givetian, 384.4, 382.7
+> upper Givetian, 384.37, 382.7
 
 > - Lode Formation, Gauja, Latvia.
 > - Krupina, 2000; Obruchev and Vorobyeva, 1964
