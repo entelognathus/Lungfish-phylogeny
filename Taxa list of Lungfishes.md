@@ -106,7 +106,7 @@ New taxa and references added along with the research.
 [*Adololopas moyasmithae*](https://www.deepbone.org/public/#/explor?s_id=3169&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Paddys Valley, Western Australia, Australia
+> - Gogo Formation, Paddys Valley, Western Australia
 > - Campbell and Barwick, 1998; Ahlberg et al., 2006
 
 [*Amadeodipterus kencampbelli*](https://www.deepbone.org/public/#/explor?s_id=72213&functionId=Deepbone_header_searchResultOpen)
@@ -124,8 +124,8 @@ New taxa and references added along with the research.
 [*Apatorhynchus opistheretmus*](https://www.deepbone.org/public/#/explor?s_id=72221&functionId=Deepbone_header_searchResultOpen)
 >  late Famennian (Fa2b), 362.23, 358.9 
 
-> - Catskill Formation, Pennsylvania, USA
-> Friedman and Daeschler, 2006
+> - Catskill Formation, Red Hill, Pennsylvania, USA
+> - Friedman and Daeschler, 2006
 
 [*Archaeonectes pertusus*](https://www.deepbone.org/public/#/explor?s_id=4098&functionId=Deepbone_header_searchResultOpen)
 > lower Givetian, 387.7, 386.04
@@ -136,7 +136,7 @@ New taxa and references added along with the research.
 [*Asthenorhynchus meemannae*](https://www.deepbone.org/public/#/explor?s_id=163646&functionId=Deepbone_header_searchResultOpen)
 > - lower Frasnian, 382.7, 379.2
 
-> - Gogo Formation, Paddys Valley, Australia
+> - Gogo Formation, Paddys Valley, Western Australia
 > - Pridmore et al., 1994
 
 [*Barwickia downunda*](https://www.deepbone.org/public/#/explor?s_id=3193&functionId=Deepbone_header_searchResultOpen)
@@ -172,7 +172,7 @@ New taxa and references added along with the research.
 [*Chirodipterus onawayensis*](https://www.deepbone.org/public/#/explor?s_id=4104&functionId=Deepbone_header_searchResultOpen)
 > middle Givetian, 386.07, 384.37
 
-> - Koehler Limestone Formation, Traverse Group, Presque Isle County, Michigan锛孶SA
+> - Koehler Limestone Formation, Traverse Group, Presque Isle County, Michigan, USA
 > - Schultze, 1982
 
 [*Chirodipterus wildungensis*](https://www.deepbone.org/public/#/explor?s_id=3173&functionId=Deepbone_header_searchResultOpen)
@@ -183,16 +183,16 @@ New taxa and references added along with the research.
 
 
 [*Conchopoma gadiforme*](https://www.deepbone.org/public/#/explor?s_id=6050&functionId=Deepbone_header_searchResultOpen)
-> Asselian, lower Permian, 298.9 - 293.52Ma
+> Asselian, Permian, 298.9，293.52
 
 > - Humberg near Odernheim am Glan, SW-Germany
 > - Heidtke, 1986
 
 [*Ctenodus cristatus*](https://www.deepbone.org/public/#/explor?s_id=72308&functionId=Deepbone_header_searchResultOpen)
-> Tournaisian to Moscovian, 358.9, 307.0
+> Tournaisian to Moscovian, Carboniferous，358.9, 307.0
 
-> - Scotland
-> - Sharp and Clack, 2013; Schultze, 1977
+> - Scotland and Yorkshire, England
+> - Sharp and Clack, 2013; Schultze, 1977; Watson & Gill, 1923
 
 [*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen)
 > Tournaisian, 358.9, 346.7

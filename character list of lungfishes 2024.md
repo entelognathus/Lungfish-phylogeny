@@ -670,7 +670,8 @@ Character list of lungfishes
 
 148.	Lower jaw: (0) short mandible rami (most lungfishes), (1) elongated rami with short symphysis (most outgroup), (2) elongated symphysis. 
 > Schultze and Marshall (1993; char. 61), Schultze (2001; char. 61), Lloyd *et al*., (2012; Char. 62), Challands *et al*., (2019; char. 158).
-> - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '1'. 
+> - The coding of *Heimenia* (Clement, 2001), ZJYporo and *Arquachthys* (Lu and Zhu, 2008) is '1'.
+> - Youngolepis should be "1" Diabolepis "0"
 
 149.	Adductor muscles: (0) below skull roof, (1) above skull roof. 
 > Schultze and Marshall (1993; char. 10), Schultze (2001; char. 10), Schultze (2004; char. 8), Lloyd (2012; char. 10), Challands *et al*., (2019; char. 162).
@@ -811,7 +812,7 @@ Character list of lungfishes
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 181.	Angle between first and last tooth ridge: (0) 50–100°; (1) less than 50° or greater than 100°. 
-> Challands *et al*., (2019; char. 157).
+> Challands *et al*., (2019; char. 157). ** here refers to the pterygoid tooth ridge **
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '-'.  
 
 182.	Ascending process on pterygoid: (0) absent; (1) short; (2) long. 
