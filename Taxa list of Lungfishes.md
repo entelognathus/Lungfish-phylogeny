@@ -182,19 +182,19 @@ New taxa and references added along with the research.
 > - Save-Soderbergh, 1952
 
 
-[*Conchopoma gadiforme*](https://www.deepbone.org/public/#/explor?s_id=6050&functionId=Deepbone_header_searchResultOpen)
+[*Conchopoma gadiforme*](https://www.deepbone.org/public/#/explor?s_id=6050&functionId=Deepbone_header_searchResultOpen) Kner, 1844
 > Asselian, Permian, 298.9，293.52
 
-> - Humberg near Odernheim am Glan, SW-Germany
+> - Humberg near Odernheim am Glan, SW Germany.
 > - Heidtke, 1986
 
-[*Ctenodus cristatus*](https://www.deepbone.org/public/#/explor?s_id=72308&functionId=Deepbone_header_searchResultOpen)
+[*Ctenodus cristatus*](https://www.deepbone.org/public/#/explor?s_id=72308&functionId=Deepbone_header_searchResultOpen) Agassiz, 1838
 > Tournaisian to Moscovian, Carboniferous，358.9, 307.0
 
 > - Scotland and Yorkshire, England
-> - Sharp and Clack, 2013; Schultze, 1977; Watson & Gill, 1923
+> - Watson & Gill, 1923; Schultze, 1977; Sharp and Clack, 2013.
 
-[*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen)
+[*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen) (Woodward, 1906)
 > Tournaisian, 358.9, 346.7
 
 > - Devil's Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
@@ -206,61 +206,61 @@ New taxa and references added along with the research.
 > - Xitun Formation, Qujing, Yunnan, China
 > - [Chang and Yu, 1984](https://www.researchgate.net/profile/Xiaobo-Yu-3/publication/213769921_Structure_and_phylogenetic_significance_of_Diabolichthys_speratus_gen_et_sp_nov_a_new_dipnoan-like_form_from_the_Lower_Devonian_of_eastern_Yunnan_China/links/5ed81c45299bf1c67d3ba9fe/Structure-and-phylogenetic-significance-of-Diabolichthys-speratus-gen-et-sp-nov-a-new-dipnoan-like-form-from-the-Lower-Devonian-of-eastern-Yunnan-China.pdf); [Chang, 1995](https://www.researchgate.net/publication/213769908_Diabolepis_and_its_bearing_on_the_relationships_between_porolepiforms_and_dipnoans)
 
-[*Dianodipterus huizeensis*](https://www.deepbone.org/public/#/explor?s_id=165732&functionId=Deepbone_header_searchResultOpen)
+[*Dianodipterus huizeensis*](https://www.deepbone.org/public/#/explor?s_id=165732&functionId=Deepbone_header_searchResultOpen) Luo et al., 2021
 > upper Eifelian, 393.3, 387.7
 
 > - lower part of Qujing Formation, Huizhe, Qujing, Yunnan, China
 > - Luo et al., 2021
 
-[*Dipnorhynchus cathlesae*](https://www.deepbone.org/public/#/explor?s_id=74600&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian, 398.07, 393.3
+[*Dipnorhynchus cathlesae*](https://www.deepbone.org/public/#/explor?s_id=74600&functionId=Deepbone_header_searchResultOpen) Campbell and Barwick, 1999
+> Emsian, 407.6, 393.3
 
 > - Taemas Limestone, New South Wales, Australia
 > - Campbell and Barwick, 1999
 
-[*Dipnorhynchus kiandrensis*](https://www.deepbone.org/public/#/explor?s_id=72326&functionId=Deepbone_header_searchResultOpen)
+[*Dipnorhynchus kiandrensis*](https://www.deepbone.org/public/#/explor?s_id=72326&functionId=Deepbone_header_searchResultOpen) Campbell and Barwick, 1982
 > Emsian, 407.6, 393.3
 
 > - Lick Hole Limestone, Ravine, New South Wales, Australia
 > - Campbell and Barwick, 1982b
 
-[*Dipnorhynchus kurikae*]
+[*Dipnorhynchus kurikae*] Campbell and Barwick, 1985
 > Emsian, 407.6, 393.3
 
 > - Taemas-Wee Jasper limestones, Burrinjuck Dam, New South Wales, Australia
 > - Campbell and Barwick, 1985
 
-[*Dipnorhynchus sussmilchi*](https://www.deepbone.org/public/#/explor?s_id=3151&functionId=Deepbone_header_searchResultOpen)
+[*Dipnorhynchus sussmilchi*](https://www.deepbone.org/public/#/explor?s_id=3151&functionId=Deepbone_header_searchResultOpen) (Etheridge, 1906)
 > Emsian, 407.6, 393.3
 
 > - Taemas-Wee Jasper limestones, Burrinjuck Dam, New South Wales, Australia
 > - Campbell and Barwick, 1982a; Thomson and Campbell, 1971; Clement et al., 2016
 
-[*Dipnotuberculus gnathodus*](https://www.deepbone.org/public/#/explor?s_id=72329&functionId=Deepbone_header_searchResultOpen)
+[*Dipnotuberculus gnathodus*](https://www.deepbone.org/public/#/explor?s_id=72329&functionId=Deepbone_header_searchResultOpen) Campbell et al., 2002
 > lower to middle Givetian, 387.7, 384.37
 
-> - Bou Dib Formation, Morocco
+> - Bou Dib Formation, Morocco.
 > - Campbell et al., 2002
 
-[*Dipterus valenciennesi*](https://www.deepbone.org/public/#/explor?s_id=3200&functionId=Deepbone_header_searchResultOpen)
+[*Dipterus valenciennesi*](https://www.deepbone.org/public/#/explor?s_id=3200&functionId=Deepbone_header_searchResultOpen) (Sedgwick et Murchison, 1828)
 > lower Givetian to lowest Frasnian, 387.7, 379.2
 
 > - Oberer Plattenkalk Formation, North Rhine-Westphalia, Germany; Latheron Formation, Caithness, Scotland
 > - Ahlberg and Trewin, 1995; Campbell et al., 2006
 
-[*Eoctenodus microsoma*](https://www.deepbone.org/public/#/explor?s_id=72348&functionId=Deepbone_header_searchResultOpen)
+[*Eoctenodus microsoma*](https://www.deepbone.org/public/#/explor?s_id=72348&functionId=Deepbone_header_searchResultOpen) Hills, 1929
 > upper Givetian, 384.37, 382.7
 
 > - Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
 > - Long, 1987；Hills，1929
 
-[*Erikia jarviki*](https://www.deepbone.org/public/#/explor?s_id=72355&functionId=Deepbone_header_searchResultOpen)
+[*Erikia jarviki*](https://www.deepbone.org/public/#/explor?s_id=72355&functionId=Deepbone_header_searchResultOpen) Chang and Wang, 1995
 > lower Emsian, 407.6, 402.84
 
 > - Pochiao Formation, Guangnan, Yunnan, China
 > - Chang and Wang, 1995
 
-[*Fleurantia denticulata*](https://www.deepbone.org/public/#/explor?s_id=3189&functionId=Deepbone_header_searchResultOpen)
+[*Fleurantia denticulata*](https://www.deepbone.org/public/#/explor?s_id=3189&functionId=Deepbone_header_searchResultOpen) Graham-Smith and Westoll, 1937
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Formation; Miguasha, Quebec, Canada.
