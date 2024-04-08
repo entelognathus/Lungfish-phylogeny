@@ -211,7 +211,7 @@ New taxa and references added along with the research.
 [*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen)
 > Tournaisian, 358.9, 346.7
 
-> - Devil鈥檚 Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
+> - Devil's Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
 > - Long and Campbell, 1985
 
 [*Diabolepis speratus*](https://deepbone.org/public/#/explor?s_id=3145&functionId=Deepbone_header_searchResultOpen) Chang and Yu, 1984
