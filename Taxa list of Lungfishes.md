@@ -78,7 +78,7 @@ New taxa and references added along with the research.
 > - Jarvik, 1972; Ahlberg, 1989;
 
 [*Laccognathus panderi*](https://deepbone.org/public/#/explor?s_id=4199&functionId=Deepbone_header_searchResultOpen) Gross, 1941
-> uppee Givetian, 384.37, 382.7
+> upper Givetian, 384.37, 382.7
 
 > - Lode Formation, Gauja, Latvia.
 > - [references]
@@ -89,14 +89,12 @@ New taxa and references added along with the research.
 > - Klerf Formation; northern Eifel, Germany.
 > - Otto, 2007.
 
-[*Nasogaluakus chorni*]
+[*Nasogaluakus chorni*](https://www.deepbone.org/public/#/explor?s_id=72191functionId=Deepbone_header_searchResultOpen) Schultze, 2000
 > Emsian, 407.6, 393.3
 
-> - Bear Rock Formation; Standard Oil Co. locality no. AR.25.58 (Mr. Ben Moore鈥榮 Anderson River traverse in summer 1958). 68鈥? 11鈥? 06鈥? Ni 125鈥? 49鈥? 72鈥? W. Anderson River. about 330 km east of Inuvik and 150 km southsouthwest of Paulatuk, Northwest Territories. Canada.
-
+> - Bear Rock Formation; Northwest Territories. Canada. 68 degrees, 11’ 06” N, 125 degrees, 49’ 72” W
 > - Schultze, 2000
 
- 
 **Lungfish taxa**
 
 [*Adelargo schultzei*](https://www.deepbone.org/public/#/explor?s_id=3167&functionId=Deepbone_header_searchResultOpen)
@@ -294,13 +292,13 @@ New taxa and references added along with the research.
 > - Schultze, 1969
 
 [*Griphognathus whitei*](https://www.deepbone.org/public/#/explor?s_id=163647&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Western Australia, Australia
 > - Campbell et al., 2012
 
 [*Grossipterus_crassus*](https://deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen) Gross, 1933
-> uppee Givetian, 384.37, 382.7
+> upper Givetian, 384.37, 382.7
 
 > - Lode Formation, Gauja, Latvia.
 > - Krupina, 2000; Obruchev and Vorobyeva, 1964
