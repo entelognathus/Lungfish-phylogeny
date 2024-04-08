@@ -58,14 +58,14 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - Clément, 2004; Jarvik, 1972
 
-*Holoptychius jarviki* Cloutier and Schultze, 1996
+[*Holoptychius jarviki* Cloutier and Schultze, 1996](https://deepbone.org/public/#/explor?s_id=4388&functionId=Deepbone_header_searchResultOpen)
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Formation, Miguasha, Quebec, Canada
 > - Cloutier and Schultze, 1996
 > - *Holoptychius* Agassiz, 1839
 
-*Quebecius quebecensis* (Whiteaves 1889)
+[*Quebecius quebecensis* (Whiteaves 1889)](https://deepbone.org/public/#/explor?s_id=72189&functionId=Deepbone_header_searchResultOpen)
 > middle Frasnian, 379.2, 375.7
 
 > - Escuminac Formation, Miguasha, Quebec, Canada
@@ -77,28 +77,16 @@ New taxa and references added along with the research.
 > - Canning Land, East Greenland.
 > - Jarvik, 1972; Ahlberg, 1989;
 
-[*Palaeodaphus insignis*]
-> - Frasnian, 382.7, 372.2
+[*Laccognathus panderi*](https://deepbone.org/public/#/explor?s_id=4199&functionId=Deepbone_header_searchResultOpen) Gross, 1941
+> uppee Givetian, 384.37, 382.7
 
-> - [horizon and locality]
-> - [references]
-
-[*Laccognathus*]
-> - Givetian, 387.7, 382.7
-
-> - [horizon and locality]
-> - [references]
-
-[*Grossipterus_crassus*]
-> uppest Givetian, 384.37382.7
-
-> - [horizon and locality]
+> - Lode Formation, Gauja, Latvia.
 > - [references]
 
 [*Durialepis edentatus*](https://www.deepbone.org/public/#/explor?s_id=72193functionId=Deepbone_header_searchResultOpen) Otto, 2007
 > lower Emsian, 407.6, 402.84
 
-> - [horizon and locality]
+> - Klerf Formation; northern Eifel, Germany.
 > - Otto, 2007.
 
 [*Nasogaluakus chorni*]
@@ -311,10 +299,10 @@ New taxa and references added along with the research.
 > - Gogo Formation, Western Australia, Australia
 > - Campbell et al., 2012
 
-[*Grossipterus crassus*](https://www.deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+[*Grossipterus_crassus*](https://deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+> uppee Givetian, 384.37, 382.7
 
-> - Latvia
+> - Lode Formation, Gauja, Latvia.
 > - Krupina, 2000; Obruchev and Vorobyeva, 1964
 
 [*Harajicadipterus youngi*](https://www.deepbone.org/public/#/explor?s_id=72371&functionId=Deepbone_header_searchResultOpen)
@@ -401,11 +389,12 @@ New taxa and references added along with the research.
 > - Ketleri Formation, Venta River, Latvia; Rybnitsa locality, Orel region, Russia
 > - Krupina et al., 2001; Moloshnikov, 2008
 
-[*Palaedaphus insignis*](https://www.deepbone.org/public/#/explor?s_id=72439&functionId=Deepbone_header_searchResultOpen)
+[*Palaedaphus insignis*](https://www.deepbone.org/public/#/explor?s_id=72439&functionId=Deepbone_header_searchResultOpen) (Gervais)
 > Frasnian, 382.7, 372.2
 
 > - Belgium
 > - Van Beneden and de Koninck, 1862
+> - *Palaeodaphus insignis* 
 
 [*Palaeophichthys parvulus*](https://www.deepbone.org/public/#/explor?s_id=5727&functionId=Deepbone_header_searchResultOpen)
 > Moscovian, 315.2, 307.0
