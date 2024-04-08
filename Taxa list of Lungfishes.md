@@ -327,10 +327,10 @@ New taxa and references added along with the research.
 > - Blue Range Formation, near Taggerty, Victoria, Australia. MAV8.
 > - Long, 1992a
 
-[*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen)
-> Pragian, 410.8, 407.6/upper Pragian to lower Emsian, 408.67, 402.84 (**check it**)
+[*Ichnomylax kurnai*](https://www.deepbone.org/public/#/explor?s_id=3149&functionId=Deepbone_header_searchResultOpen) Long et al., 1994
+> lower Emsian, 407.6, 402.84
 
-> - Bell Point Formation, Waratah Bay, Victoria, Australia
+> - Bell Point Limestone, Waratah Bay, Victoria, Australia
 > - Long et al., 1994
 
 [*Iowadipterus halli*](https://www.deepbone.org/public/#/explor?s_id=3160&functionId=Deepbone_header_searchResultOpen)
