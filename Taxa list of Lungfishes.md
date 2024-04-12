@@ -134,7 +134,7 @@ New taxa and references added along with the research.
 > - von Meyer, 1859
 
 [*Asthenorhynchus meemannae*](https://www.deepbone.org/public/#/explor?s_id=163646&functionId=Deepbone_header_searchResultOpen) Pridmore et al., 1994
-> - lower Frasnian, 382.7, 379.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Paddys Valley, Western Australia
 > - Pridmore et al., 1994
@@ -425,7 +425,7 @@ New taxa and references added along with the research.
 > - Anderson, 1859; Traquair, 1871
 
 [*Pillararhynchus longi*](https://www.deepbone.org/public/#/explor?s_id=3177&functionId=Deepbone_header_searchResultOpen)
-> - lower Frasnian, 382.7, 379.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
 > - Campbell and Barwick, 1990; Barwick and Campbell, 1996
@@ -455,7 +455,7 @@ New taxa and references added along with the research.
 > - Ahlberg et al., 2001; Friedman, 2007
 
 [*Robinsondipterus longi*](https://www.deepbone.org/public/#/explor?s_id=72490&functionId=Deepbone_header_searchResultOpen)
-> - lower Frasnian, 382.7, 379.2
+> lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation, Western Australia, Australia.
 > - Long et al., 2010
@@ -547,7 +547,7 @@ New taxa and references added along with the research.
 [*Xylognathus macrustenus*](https://www.deepbone.org/public/#/explor?s_id=74540&functionId=Deepbone_header_searchResultOpen)
 > Tournaisian, 358.9, 346.7
  
-> - Ballagan Formation, Burnmouth, Scottish Borders, Scotland
+> - Ballagan Formation, Burnmouth, Scottish Borders, Northern British
 > - Smithson et al., 2016
 
 
