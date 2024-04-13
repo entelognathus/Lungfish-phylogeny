@@ -110,7 +110,7 @@ New taxa and references added along with the research.
 > - Campbell and Barwick, 1998; Ahlberg et al., 2006
 
 [*Amadeodipterus kencampbelli*](https://www.deepbone.org/public/#/explor?s_id=72213&functionId=Deepbone_header_searchResultOpen) Young and Schultze, 2005
-> late Emsian to early Eifelian
+> late Emsian to early Eifelian 400.45,391.43
 
 > - Amadeus Basin, Northern Territory, Australia
 > - Young and Schultze, 2005
