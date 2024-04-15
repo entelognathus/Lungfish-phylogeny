@@ -378,8 +378,8 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 [*Nielsenia nordica*](https://www.deepbone.org/public/#/explor?s_id=72424&functionId=Deepbone_header_searchResultOpen) Lehman, 1959
 > Famennian, 372.2, 358.9
 
-> - Kap Graah Group; East Greenland.
-> - Lehman, 1959; Blom et al., 2007; Friedman, 2007
+> - Kap Graah Group; East Greenland, Denmark.
+> - Lehman, 1959
 
 [*Oervigia nordica*](https://www.deepbone.org/public/#/explor?s_id=6046&functionId=Deepbone_header_searchResultOpen)
 > upper Famennian, 362.23, 358.9
@@ -393,12 +393,11 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Ketleri Formation, Venta River, Latvia; Rybnitsa locality, Orel region, Russia
 > - Krupina et al., 2001; Moloshnikov, 2008
 
-[*Palaedaphus insignis*](https://www.deepbone.org/public/#/explor?s_id=72439&functionId=Deepbone_header_searchResultOpen) (Gervais)
+[*Palaeodaphus insignis*](https://www.deepbone.org/public/#/explor?s_id=72439&functionId=Deepbone_header_searchResultOpen) (Gervais)
 > Frasnian, 382.7, 372.2
 
 > - Belgium
 > - Van Beneden and de Koninck, 1862
-> - *Palaeodaphus insignis* 
 
 [*Palaeophichthys parvulus*](https://www.deepbone.org/public/#/explor?s_id=5727&functionId=Deepbone_header_searchResultOpen)
 > Moscovian, 315.2, 307.0
