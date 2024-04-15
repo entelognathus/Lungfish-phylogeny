@@ -57,6 +57,8 @@ New taxa and references added along with the research.
 
 > - wide distribution.
 > - Clément, 2004; Jarvik, 1972
+>
+> - - [*Porolepis spitsbergensis* ](https://deepbone.org/public/#/explor?s_id=6079&functionId=Deepbone_header_searchResultOpen) Jarvik, 1937
 
 [*Holoptychius jarviki*](https://deepbone.org/public/#/explor?s_id=4388&functionId=Deepbone_header_searchResultOpen) Cloutier and Schultze, 1996
 > middle Frasnian, 379.2, 375.7
