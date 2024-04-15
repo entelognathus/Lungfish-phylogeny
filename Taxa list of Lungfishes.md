@@ -231,11 +231,11 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Lick Hole Limestone, Ravine, New South Wales, Australia
 > - Campbell and Barwick, 1982b
 
-[*Dipnorhynchus kurikae*] Campbell and Barwick, 1985
+[*Dipnorhynchus kurikae*](https://www.deepbone.org/public/#/explor?s_id=74601&functionId=Deepbone_header_searchResultOpen) Campbell and Barwick, 1985;2000
 > Emsian, 407.6, 393.3
 
 > - Taemas-Wee Jasper limestones, Burrinjuck Dam, New South Wales, Australia
-> - Campbell and Barwick, 1985
+> - Campbell and Barwick, 1985;2000
 
 [*Dipnorhynchus sussmilchi*](https://www.deepbone.org/public/#/explor?s_id=3151&functionId=Deepbone_header_searchResultOpen) (Etheridge, 1906)
 > Emsian, 407.6, 393.3
