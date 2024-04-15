@@ -340,13 +340,13 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Long et al., 1994
 
 [*Iowadipterus halli*](https://www.deepbone.org/public/#/explor?s_id=3160&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> upper Givetian, 384.37, 382.7 (based on Day and Bunker, 1992)
 
 > - Solon Member or Rapid Member, Little Cedar Formation, Cedar Valley Group, Vinton, Cedar Rapids, Iowa, USA
 > - Schultze, 1992
 
 [*Jarvikia arctica*](https://www.deepbone.org/public/#/explor?s_id=4518&functionId=Deepbone_header_searchResultOpen)
-> upper Famennian, 362.23, 358.9
+> upper Famennian, 362.23, 358.9 
 
 > - Aina Dal Formation, East Greenland
 > - Blom et al., 2007; Friedman, 2007
@@ -370,7 +370,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Schultze, 1977
 
 [*Melanognathus canadensis*](https://www.deepbone.org/public/#/explor?s_id=3164&functionId=Deepbone_header_searchResultOpen)
-> Emsian, 407.6, 393.3
+> Emsian, 407.6, 393.3 (note: same as *Dialipina salgueiroensis* Schultze and Cumbaa, 2001)
 
 > - Bear Rock Formation, Northwest Territories, Canada
 > - Jarvik, 1967; Schultze, 2001
