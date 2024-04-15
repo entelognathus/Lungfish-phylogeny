@@ -58,7 +58,8 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - Clément, 2004; Jarvik, 1972
 >
-> - - [*Porolepis spitsbergensis* ](https://deepbone.org/public/#/explor?s_id=6079&functionId=Deepbone_header_searchResultOpen) Jarvik, 1937
+> - - [*Porolepis spitsbergensis* ](https://deepbone.org/public/#/explor?s_id=6079&functionId=Deepbone_header_searchResultOpen) Jarvik, 1937. Bileck et al. (1987): the third *Porolepis* species from the Devonian of Spitsbergen, viz., *P.
+spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in the Wood Bay Formation (Jarvik, 1942, pl. 1). Kapp Kjeldsen Division. 
 
 [*Holoptychius jarviki*](https://deepbone.org/public/#/explor?s_id=4388&functionId=Deepbone_header_searchResultOpen) Cloutier and Schultze, 1996
 > middle Frasnian, 379.2, 375.7
