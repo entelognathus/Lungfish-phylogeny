@@ -304,15 +304,15 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Campbell et al., 2012
 
 [*Grossipterus crassus*](https://deepbone.org/public/#/explor?s_id=4204&functionId=Deepbone_header_searchResultOpen) Gross, 1933
-> upper Givetian, 384.37, 382.7
+> upper Givetian, 384.4, 382.7
 
 > - Lode Formation, Gauja, Latvia.
 > - Krupina, 2000; Obruchev and Vorobyeva, 1964
 
 [*Harajicadipterus youngi*](https://www.deepbone.org/public/#/explor?s_id=72371&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+> late Emsian to early Eifelian. 400.45,391.43.
 
-> - Harajica Sandstone Member, Parke Siltstone Formation, Northern Territory, Australia
+> - Harajica Sandstone Member, Parke Siltstone Formation, Amadeus Basin, Northern Territory, Australia
 > - Clement, 2009
 
 [*Holodipterus elderae*](https://www.deepbone.org/public/#/explor?s_id=163650&functionId=Deepbone_header_searchResultOpen)
@@ -346,7 +346,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Schultze, 1992
 
 [*Jarvikia arctica*](https://www.deepbone.org/public/#/explor?s_id=4518&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
+> upper Famennian, 362.23, 358.9
 
 > - Aina Dal Formation, East Greenland
 > - Blom et al., 2007; Friedman, 2007
@@ -358,7 +358,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Otto and Bardenheuer, 1996
 
 [*Limanichthys fraseri*](https://www.deepbone.org/public/#/explor?s_id=73069&functionId=Deepbone_header_searchResultOpen)
-> Famennian to Tournaisian, 372.2, 346.7
+> lower Tournaisian, 358.9, 354.8
 
 > - Ballagan Formation, Bournemouth, southern Scotland
 > - Challands et al., 2019
