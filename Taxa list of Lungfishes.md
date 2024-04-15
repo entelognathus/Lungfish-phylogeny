@@ -250,9 +250,9 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Campbell et al., 2002
 
 [*Dipterus valenciennesi*](https://www.deepbone.org/public/#/explor?s_id=3200&functionId=Deepbone_header_searchResultOpen) (Sedgwick et Murchison, 1828)
-> lower Givetian to lowest Frasnian, 387.7, 379.2
+> upper Eifelian to lowest Frasnian, 389.57, 379.2
 
-> - Oberer Plattenkalk Formation, North Rhine-Westphalia, Germany; Latheron Formation, Caithness, Scotland
+> - Oberer Plattenkalk Formation, North Rhine-Westphalia, Germany; Latheron Formation, Middle Old Red Sandstone, Caithness, Scotland
 > - Ahlberg and Trewin, 1995; Campbell et al., 2006
 
 [*Eoctenodus microsoma*](https://www.deepbone.org/public/#/explor?s_id=72348&functionId=Deepbone_header_searchResultOpen) Hills, 1929
