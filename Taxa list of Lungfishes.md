@@ -274,7 +274,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Graham-Smith and Westoll, 1937; Friedman, 2007; Cloutier, 2013; Cloutier et al., 2011
 
 [*Gnathorhiza serrata*](https://www.deepbone.org/public/#/explor?s_id=72369&functionId=Deepbone_header_searchResultOpen)
-> Kungurian, 283.5, 273.01
+> Kungurian,Permian, 283.5, 273.01 (Thomas, Gehrels, Sundell and Romero,2020)
 
 > - Wellington Formation, Oklahoma, USA
 > - Carlson, 1968; Olson, 1951; Cope, 1883
@@ -296,7 +296,6 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 
 > - Bergisch Gladbach, Germany
 > - Schultze, 1969
-> **No data in deepbone**
 >   
 [*Griphognathus whitei*](https://www.deepbone.org/public/#/explor?s_id=163647&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
