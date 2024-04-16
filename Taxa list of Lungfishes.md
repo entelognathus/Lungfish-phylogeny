@@ -88,7 +88,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > upper Givetian, 384.37, 382.7
 
 > - Lode Formation, Gauja, Latvia.
-> - [references]
+> - Vorobyeva 2006
 
 [*Durialepis edentatus*](https://www.deepbone.org/public/#/explor?s_id=72193functionId=Deepbone_header_searchResultOpen) Otto, 2007
 > lower Emsian, 407.6, 402.84
@@ -406,15 +406,15 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Eastman, 1908; Schultze 1994
 
 [*Parasagenodus sibiricus*](https://www.deepbone.org/public/#/explor?s_id=72444&functionId=Deepbone_header_searchResultOpen) Vorobyeva, 1972
-> Early Mississippian, Tournaisian?, 358.9, 346.7
+> Early Mississippian, Tournaisian, 358.9, 346.7
 
 > - Emyaksin Formation, Vilyui River, Siberia, Russia
-> - Vorobyeva, 1972
+> - Vorobyeva, 1972;1999
 
 [*Pentlandia macropterus*](https://www.deepbone.org/public/#/explor?s_id=163605&functionId=Deepbone_header_searchResultOpen)
-> upper Givetian, 384.37, 382.7
+> middle Givetian, 384.99, 387.30 (Jude et al., 2014)
 
-> - Last House Formation, John O鈥橤roats Sandstone Group, Orcadian Basin, John O鈥橤roats, Caithness, Scotland
+> - Johno’Groats fish bed,Caithness,northeastern Scotland
 > - Jude et al., 2014; Challands and den Blaauwen, 2016
 
 [*Persephonichthys chthonica*](https://www.deepbone.org/public/#/explor?s_id=72086&functionId=Deepbone_header_searchResultOpen)
@@ -423,8 +423,8 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Eskridge Formation, Council Grove Group, Raney Farm, Richardson County, Nebraska, USA
 > - Pardo et al., 2014
 
-[*Phaneropleuron andersoni*](https://www.deepbone.org/public/#/explor?s_id=4474&functionId=Deepbone_header_searchResultOpen)
-> lower Famennian, 372.2, 368.88
+[*Phaneropleuron andersoni*](https://www.deepbone.org/public/#/explor?s_id=4474&functionId=Deepbone_header_searchResultOpen)  Huxley 1859
+> lower Famennian, 372.2, 368.88 (Dineley 1999 )
 
 > - Dura Den, Scotland
 > - Anderson, 1859; Traquair, 1871
