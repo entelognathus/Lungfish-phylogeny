@@ -429,13 +429,13 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Dura Den, Scotland
 > - Anderson, 1859; Traquair, 1871
 
-[*Pillararhynchus longi*](https://www.deepbone.org/public/#/explor?s_id=3177&functionId=Deepbone_header_searchResultOpen)
+[*Pillararhynchus longi*](https://www.deepbone.org/public/#/explor?s_id=3177&functionId=Deepbone_header_searchResultOpen) Campbell and Barwick, 1990
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
 > - Campbell and Barwick, 1990; Barwick and Campbell, 1996
 
-[*Rhinodipterus kimberleyensis*](https://www.deepbone.org/public/#/explor?s_id=72487&functionId=Deepbone_header_searchResultOpen)
+[*Rhinodipterus kimberleyensis*](https://www.deepbone.org/public/#/explor?s_id=72487&functionId=Deepbone_header_searchResultOpen) Clement, 2012
 > lower Frasnian, 382.7, 379.2
 
 > - Gogo Formation; Canning Basin, Western Australia, Australia. -17.75, 125.17
@@ -447,17 +447,17 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Lode Member, Gauja Formation, Lode, Latvia
 > - Clement, 2012
 
-[*Rhinodipterus ulrichi*](https://www.deepbone.org/public/#/explor?s_id=4218&functionId=Deepbone_header_searchResultOpen)
-> Givetian, 387.7, 382.7
+[*Rhinodipterus ulrichi*](https://www.deepbone.org/public/#/explor?s_id=4218&functionId=Deepbone_header_searchResultOpen) Ørvig 1961
+> latest Givetian/earliest Frasnian, 387.37, 379.2
 
 > - Oberer Plattenkalk Formation, Heiligenstock Quarry, North Rhine-Westphalia, Germany
-> - Orvig, 1960; Schultze, 1992
+> - Orvig, 1961; Schultze, 1992;Clement et al.,2016
 
-[*Rhynchodipterus elginensis*](https://www.deepbone.org/public/#/explor?s_id=4468&functionId=Deepbone_header_searchResultOpen)
+[*Rhynchodipterus elginensis*](https://www.deepbone.org/public/#/explor?s_id=4468&functionId=Deepbone_header_searchResultOpen) Save-Soderbergh 1937
 > lower Famennian, 372.2, 368.88
 
 > - Rosebrae beds, Upper Old Red Sandstone, Morayshire, Scotland
-> - Ahlberg et al., 2001; Friedman, 2007
+> - Save-Soderbergh 1937; Ahlberg et al., 2001; Friedman, 2007
 
 [*Robinsondipterus longi*](https://www.deepbone.org/public/#/explor?s_id=72490&functionId=Deepbone_header_searchResultOpen)
 > lower Frasnian, 382.7, 379.2
