@@ -199,7 +199,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > Tournaisian to Moscovian, Carboniferous，358.9, 307.0
 
 > - the Black Bed Coal or Low Moor Upper Seam, Yorkshire,and Low Main Seam, Duckmantian, Scotland, England
-> - Watson & Gill, 1923; Schultze, 1977; Sharp and Clack, 2013.
+> - Watson & Gill, 1923;  Thomson, 1965; Schultze, 1977; Sharp and Clack, 2013.
 
 [*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen) (Woodward, 1906)
 > latest Famennian to earliest Tournaisian, 362.23, 354.83 (based on Garvey and Turner, 2006)
@@ -466,7 +466,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Long et al., 2010
 
 [*Sagenodus inaequalis*](https://www.deepbone.org/public/#/explor?s_id=4945&functionId=Deepbone_header_searchResultOpen)
-> Serpukhovian to Moscovian, 330.9, 307.0
+> Moscovian, 315.2, 307.0
 
 > - Millstone Grit, Summit, Lancashire, England
 > - Beeby et al., 2020; Smith, 1979
@@ -489,29 +489,29 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Aina Dal Formation, Celsius Bjerg Group, East Greenland
 > - Friedman, 2007; Friedman and Daeschler, 2006; Ahlberg et al., 2001
 
-[*Sorbitorhynchus deleaskitus*](https://www.deepbone.org/public/#/explor?s_id=3175&functionId=Deepbone_header_searchResultOpen)
-> Emsian, 407.6, 393.3
+[*Sorbitorhynchus deleaskitus*](https://www.deepbone.org/public/#/explor?s_id=3175&functionId=Deepbone_header_searchResultOpen) Wang et al., 1990
+> late Emsian, 400.45, 393.3
 
 > - Dale Formation, Liuhui Member, Zhongping, Xiangzhou, Guangxi, China
 > - Kemp, 1995; Wang et al., 1993
 
-[*Speonesydrion iani*](https://www.deepbone.org/public/#/explor?s_id=3153&functionId=Deepbone_header_searchResultOpen)
+[*Speonesydrion iani*](https://www.deepbone.org/public/#/explor?s_id=3153&functionId=Deepbone_header_searchResultOpen) Campbell and Barwick, 1984
 > Emsian, 407.6, 393.3
 
-> - Bloomfield Limestone, Wee Jasper, New South Wales, Australia
+> - Murrumbidgee Group; Burrinjuck Dam area, Taemas-Wee Jasper, New South Wales; Buchan, Victoria, Australia. MAV1.
 > - Campbell and Barwick, 1984; 1995; 2007
 
-[*Stomiahykus thlaodus*](https://www.deepbone.org/public/#/explor?s_id=3156&functionId=Deepbone_header_searchResultOpen)
-> Emsian, 407.6, 393.3
+[*Stomiahykus thlaodus*](https://www.deepbone.org/public/#/explor?s_id=3156&functionId=Deepbone_header_searchResultOpen) Bernacsek, 1977
+> early Eifelian,  393.3, 391.43
 
 > - Cranswick Formation, Yukon, Canada
 > - Bernacsek, 1977
 
-[*Straitonia waterstoni*](https://www.deepbone.org/public/#/explor?s_id=72503&functionId=Deepbone_header_searchResultOpen)
-> Tournaisian, 358.9, 346.7
+[*Straitonia waterstoni*](https://www.deepbone.org/public/#/explor?s_id=72503&functionId=Deepbone_header_searchResultOpen) Thomson, 1965
+>  Visean  (Asbian–Brigantian), Mississippian 346.7, 330.9 (https://en.wikipedia.org/wiki/Vis%C3%A9an)
 
 > - West Lothian Oil Shale Formation, Straiton, Edinburgh, Scotland
-> - Thomson, 1965
+> - Thomson, 1965; Sharp and Clack, 2012
 
 [*Tarachomylax oepiki*](https://www.deepbone.org/public/#/explor?s_id=3162&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3
