@@ -161,7 +161,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 [*Celsiodon ahlbergi*](https://www.deepbone.org/public/#/explor?s_id=73758&functionId=Deepbone_header_searchResultOpen) Clack et al., 2019
 > upper Famennian, 362.23, 358.9
 
-> - East Greenland, Denmark.
+> - Horizon uncertain, but certainly Celsius Bjerg Group, East Greenland, Denmark.
 > - Clack et al., 2019
 
 [*Chirodipterus australis*](https://www.deepbone.org/public/#/explor?s_id=3171&functionId=Deepbone_header_searchResultOpen) Miles, 1977
@@ -198,11 +198,11 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 [*Ctenodus cristatus*](https://www.deepbone.org/public/#/explor?s_id=72308&functionId=Deepbone_header_searchResultOpen) Agassiz, 1838
 > Tournaisian to Moscovian, Carboniferous，358.9, 307.0
 
-> - Scotland and Yorkshire, England
+> - the Black Bed Coal or Low Moor Upper Seam, Yorkshire,and Low Main Seam, Duckmantian, Scotland, England
 > - Watson & Gill, 1923; Schultze, 1977; Sharp and Clack, 2013.
 
 [*Delatitia breviceps*](https://www.deepbone.org/public/#/explor?s_id=4677&functionId=Deepbone_header_searchResultOpen) (Woodward, 1906)
-> Tournaisian, 358.9, 346.7
+> latest Famennian to earliest Tournaisian, 362.23, 354.83 (based on Garvey and Turner, 2006)
 
 > - Devil's Plain Formation, Mansfield Group, Mansfield Basin, Victoria, Australia
 > - Long and Campbell, 1985
@@ -220,13 +220,13 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Luo et al., 2021
 
 [*Dipnorhynchus cathlesae*](https://www.deepbone.org/public/#/explor?s_id=74600&functionId=Deepbone_header_searchResultOpen) Campbell and Barwick, 1999
-> Emsian, 407.6, 393.3
+> late Emsian, 400.45, 393.3
 
 > - Taemas Limestone, New South Wales, Australia
 > - Campbell and Barwick, 1999
 
 [*Dipnorhynchus kiandrensis*](https://www.deepbone.org/public/#/explor?s_id=72326&functionId=Deepbone_header_searchResultOpen) Campbell and Barwick, 1982
-> Emsian, 407.6, 393.3
+> Emsian, 407.6, 393.3 
 
 > - Lick Hole Limestone, Ravine, New South Wales, Australia
 > - Campbell and Barwick, 1982b
