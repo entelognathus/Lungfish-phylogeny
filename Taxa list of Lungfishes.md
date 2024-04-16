@@ -513,8 +513,8 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - West Lothian Oil Shale Formation, Straiton, Edinburgh, Scotland
 > - Thomson, 1965; Sharp and Clack, 2012
 
-[*Tarachomylax oepiki*](https://www.deepbone.org/public/#/explor?s_id=3162&functionId=Deepbone_header_searchResultOpen)
-> Emsian, 407.6, 393.3
+[*Tarachomylax oepiki*](https://www.deepbone.org/public/#/explor?s_id=3162&functionId=Deepbone_header_searchResultOpen) Barwick et al., 1997
+> lower Emsian, 407.6, 400.45
 
 > - Lower Member, Albanov Formation, Matusevich River, October Revolution Island, Severnaya Zemlya, Russia
 > - Barwick et al., 1997
@@ -525,14 +525,14 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Chester Formation, Illinois, USA
 > - Thomson, 1965
 
-[*Uranolophus wyomingensis*](https://www.deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen)
+[*Uranolophus wyomingensis*](https://www.deepbone.org/public/#/explor?s_id=3154&functionId=Deepbone_header_searchResultOpen) Denison, 1968
 > Pragian, 410.8, 407.6
 
 > - Beartooth Butte Formation, Park County, Wyoming, USA
 > - Denison, 1968
 
 [*Uronemus splendens*](https://www.deepbone.org/public/#/explor?s_id=4844&functionId=Deepbone_header_searchResultOpen)
-> Serpukhovian, 330.9, 323.2
+> Tournaisian, 358.9, 346.7
 
 > - Burghlee Ironstone, Limestone Coal Group, Loanhead, Midlothian, Scotland
 > - Watson and Gill, 1923; Otoo et al., 2019; Smithson et al., 2019
