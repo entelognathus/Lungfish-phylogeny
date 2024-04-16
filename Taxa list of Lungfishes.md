@@ -367,7 +367,7 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > Moscovian, 315.2, 307.0
 
 > Francis Creek Shale Member, Carbondale Formation, Will and Kankakee County, Illinois, USA
-> - Schultze, 1977
+> - Schultze, 1977;
 
 [*Melanognathus canadensis*](https://www.deepbone.org/public/#/explor?s_id=3164&functionId=Deepbone_header_searchResultOpen)
 > Emsian, 407.6, 393.3 (note: same as *Dialipina salgueiroensis* Schultze and Cumbaa, 2001)
@@ -399,13 +399,13 @@ spitsbergensis* Jarvik, based on one specimen, comes from an unknown locality in
 > - Belgium
 > - Van Beneden and de Koninck, 1862
 
-[*Palaeophichthys parvulus*](https://www.deepbone.org/public/#/explor?s_id=5727&functionId=Deepbone_header_searchResultOpen)
-> Moscovian, 315.2, 307.0
+[*Palaeophichthys parvulus*](https://www.deepbone.org/public/#/explor?s_id=5727&functionId=Deepbone_header_searchResultOpen) Eastman, 1908
+> Moscovian, 315.2, 307.0 (same as *Megapleuron zangerli*)(Synonym *Monongahela* Lund, 1970) 
 
-> - Mount Washington, Allegheny County, Pennsylvania, USA
-> - Eastman, 1908
+> - Francis Creek Shale, Carbondale Formation, Westphalian D, Middle Pennsylvanian; Mazon Creek area, Grundy County, Illinois, U.S.A.
+> - Eastman, 1908; Schultze 1994
 
-[*Parasagenodus sibiricus*](https://www.deepbone.org/public/#/explor?s_id=72444&functionId=Deepbone_header_searchResultOpen)
+[*Parasagenodus sibiricus*](https://www.deepbone.org/public/#/explor?s_id=72444&functionId=Deepbone_header_searchResultOpen) Vorobyeva, 1972
 > Early Mississippian, Tournaisian?, 358.9, 346.7
 
 > - Emyaksin Formation, Vilyui River, Siberia, Russia
