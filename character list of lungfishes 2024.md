@@ -1140,7 +1140,8 @@ Character list of lungfishes
 
 260.	Scales: (0) rhombic; (1) round. 
 > Schultze (2000; char. 56), Challands *et al*., (2019; char. 149).
-> - The coding of ZJYporo is '1'. The coding of *Heimenia* is '0/1'. The coding of *Arquachthys* is '0'. 
+> - The coding of ZJYporo is '1'. The coding of *Heimenia* is '0/1'. The coding of *Arquachthys* is '0'.
+> - Changing *Laccognathus* from '0' to '1'.
 
 261.	Cosmine on scales: (0) present; (1) absent. 
 > Challands *et al*., (2019; char. 150).
