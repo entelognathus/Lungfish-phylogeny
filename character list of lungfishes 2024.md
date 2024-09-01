@@ -1158,7 +1158,7 @@ Character list of lungfishes
 
 265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
 > Lu *et al*., (2017; char. 237).
-> - The coding of *Heimenia* is '0' (Mondéjar Fernández, 2018). The coding of ZJYporo and *Arquachthys* is '?'. 
+> - The coding of *Heimenia* is '0' (Mondéjar Fernández, 2018). The coding of *Porolepis* is '2'(Mondéjar Fernández, 2018). The coding of ZJYporo and *Arquachthys* is '?'. Add "the enamel lines the entire surface of pore canal" for *Porolepis*.
 
 ## Oral elements (Hyoid and Gill skeletons)
 
