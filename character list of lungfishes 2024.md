@@ -1217,4 +1217,7 @@ Character list of lungfishes
 
 279. Oral growth lines: 0. absent; 1. Present.
 > Luo *et al*., (2022; char. 189).
-> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
+
+280. Body scales with peg-and-socket articulation: (0) absent; (1) present.
+> Lu *et al*. (2017), Character 18; Lu *et al*. (2016), Character 18; Giles *et al*. (2015), Character 18; Davis *et al*. (2012), Character 10.
