@@ -1221,4 +1221,4 @@ Character list of lungfishes
 
 280. Parietal portion of skull roof relative to postparietal portion in length: (0) parietal portion roughly as long as postparietal portion; (1) parietal portion much longer postparietal portion; (2) parietal portion much shorter than postparietal portion.
 > Mondejar-Fernandez, (2019; char. 26); 
-> -The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
