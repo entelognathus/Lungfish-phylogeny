@@ -1219,5 +1219,6 @@ Character list of lungfishes
 > Luo *et al*., (2022; char. 189).
 > - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
 
-280. Body scales with peg-and-socket articulation: (0) absent; (1) present.
-> Lu *et al*. (2017), Character 18; Lu *et al*. (2016), Character 18; Giles *et al*. (2015), Character 18; Davis *et al*. (2012), Character 10.
+280. Parietal portion of skull roof relative to postparietal portion in length: (0) parietal portion roughly as long as postparietal portion; (1) parietal portion much longer postparietal portion; (2) parietal portion much shorter than postparietal portion.
+> Mondejar-Fernandez, (2019; char. 26); 
+> -The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
