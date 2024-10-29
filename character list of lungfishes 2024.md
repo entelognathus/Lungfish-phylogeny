@@ -1163,7 +1163,7 @@ Character list of lungfishes
 
 265.	Enamel and pore canals: (0) enamel absent from inner surface of pores; (1) enamel lines portions of pore canal. 
 > Lu *et al*., (2017; char. 237).
-> - The coding of *Heimenia* is '0' (Mondéjar Fernández, 2018). The coding of ZJYporo and *Arquachthys* is '?'. 
+> -  Add "the enamel lines the entire surface of pore canal" for *Porolepis*. The coding of *Heimenia* is '0' (Mondéjar Fernández, 2018). The coding of *Porolepis* is '2'(Mondéjar Fernández, 2018). The coding of ZJYporo and *Arquachthys* is '?'. Changing *Durialepis* from '?' to '1'.
 
 ## Oral elements (Hyoid and Gill skeletons)
 
@@ -1222,4 +1222,8 @@ Character list of lungfishes
 
 279. Oral growth lines: 0. absent; 1. Present.
 > Luo *et al*., (2022; char. 189).
-> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.  
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
+
+280. Parietal portion of skull roof relative to postparietal portion in length: (0) parietal portion roughly as long as postparietal portion; (1) parietal portion much longer postparietal portion; (2) parietal portion much shorter than postparietal portion.
+> Mondejar-Fernandez, (2019; char. 26); 
+> - The coding of *Heimenia*, *Arquachthys* and ZJYporo is '?'.
