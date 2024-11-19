@@ -992,6 +992,7 @@ Character list of lungfishes
 225.	Buccohypophysial foramen of parasphenoid: (0) single; (1) double. 
 > Schultze (2000; char. 37).
 > - The coding of *Arquachthys* and *Venatorolepis* is '?'. The coding of *Heimenia* is '0'.
+> - Changing *Porolepis*, *Durialepis*, *Glyptolepis*, *Holoptychius* from '1' to '0'.
 
 226.	Parasphenoid: (0) protruding forward in ethmoid region of endocranium; (1) behind ethmoid region. 
 > Zhu and Yu (2002; char. 93), Schultze (2000; char. 38).
@@ -1221,4 +1222,8 @@ Character list of lungfishes
 
 280. Parietal portion of skull roof relative to postparietal portion in length: (0) parietal portion roughly as long as postparietal portion; (1) parietal portion much longer postparietal portion; (2) parietal portion much shorter than postparietal portion.
 > Mondejar-Fernandez, (2019; char. 26); 
-> - The coding of *Heimenia*, *Arquachthys* and *Venatorolepis* is '?'.
+> - The coding of *Heimenia*, *Arquatichthys* and *Venatorolepis* is '?'.
+
+281. Body scales with peg-and-socket articulation: (0) absent; (1) present.
+> Lu *et al*., (2017; char. 18);
+> - The coding of *Heimenia* and *Arquatichthys* is '1'; the coding of *Venatorolepis* is '0'.
