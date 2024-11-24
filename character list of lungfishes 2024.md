@@ -185,7 +185,6 @@ Character list of lungfishes
 > Challands *et al*., (2019; char. 36).
 > - Notes：Qiao 2015 included 3 states
 > - The coding of *Heimenia* is '0'. The coding of *Arquatichthys* and *Venatorolepis* is '?'.
-> - Changing *Holoptychius* from '?' to '0'.
 
 37. B-bone (Median skull roof bone between postparietals): (0) absent; (1) present. 
 > Schultze (2001; char. 8), Lu *et al*., (2017; char. 242), Challands *et al*., (2019; char. 153).
@@ -993,7 +992,7 @@ Character list of lungfishes
 225.	Buccohypophysial foramen of parasphenoid: (0) single; (1) double. 
 > Schultze (2000; char. 37).
 > - The coding of *Arquatichthys* and *Venatorolepis* is '?'. The coding of *Heimenia* is '0'.
-> - Changing *Porolepis*, *Durialepis*, *Glyptolepis*, *Holoptychius* from '1' to '0'.
+> - Changing *Porolepis*, *Durialepis*, *Glyptolepis* from '1' to '0'. Changing *Holoptychius* from '1' to '?'.
 
 226.	Parasphenoid: (0) protruding forward in ethmoid region of endocranium; (1) behind ethmoid region. 
 > Zhu and Yu (2002; char. 93), Schultze (2000; char. 38).
