@@ -184,7 +184,7 @@ Character list of lungfishes
 36. Buccohypophyseal opening (foramen): (0) present; (1) absent.
 > Challands *et al*., (2019; char. 36).
 > - Notes：Qiao 2015 included 3 states
-> - The coding of *Heimenia*, *Arquatichthys* and *Venatorolepis* is '?'.
+> - The coding of *Heimenia* is '0'. The coding of *Arquatichthys* and *Venatorolepis* is '?'.
 
 37. B-bone (Median skull roof bone between postparietals): (0) absent; (1) present. 
 > Schultze (2001; char. 8), Lu *et al*., (2017; char. 242), Challands *et al*., (2019; char. 153).
