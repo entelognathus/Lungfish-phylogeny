@@ -9,19 +9,24 @@ Character list of lungfishes
 1. Pineal opening: (0) open; (1) closed.
 > Schultze and Marshall (1993; char. 1), Schultze (2001; char. 1), Ahlberg *et al*., (2006; char. 55), Qiao and Zhu (2009; char. 1), Schultze (2000; char. 5) Lu *et al*., (2017; char. 41), Lu *et al*., (2012; char. 23), Challands *et al*., (2019; char. 1).
 > - Changing *Holoptychius* from '?' to '1'.
+
 > - The coding of *Heimenia* (Clement, 2001; Mondéjar‐Fernández and Clement, 2012), *Arquatichthys*(Lu and Zhu, 2008; Lu and Zhu, 2019) and *Venatorolepis* is '?'.
+
 2.	Pineal region marked by short eminence: (0) no; (1) yes.
 > Lu *et al*., (2012; char. 24), Challands *et al*., (2019; char. 2). **To complement the older references like the above. Coped from the old file.** 
 > Friedman (2007), Character 40; Qiao and Zhu (2009), Character 2; Qiao and Zhu (2015), Character 2; Clack et al. (2019), Character 2; Challands et al. (2019), Character 2; Luo et al. (2022), Character 2.
 > - The coding of *Heimenia* (Clement, 2001; Mondéjar‐Fernández and Clement, 2012), *Arquatichthys*(Lu and Zhu, 2008; Lu and Zhu, 2019) and *Venatorolepis* is '?'.
 > - Cui *et al*. (2022): "Some early sarcopterygians without pineal foramen in the dermal skull roof bear the pineal region marked by a small, dome-shaped elevation. This structure is found in porolepiforms (*Glyptolepis*, *Holoptychius*, and *Porolepis*; Jarvik, 1972) as well as in *Youngolepis* (Chang, 1982: figs 5, 6) and *Diabolepis*. Friedman (2007) argued that this character cannot logically be coded for those taxa that possess a pineal foramen. We therefore change *Guiyu* from ‘0’ to ‘-’., because it has a pineal foramen (Qiao and Zhu, 2010)."
 > - Changing *Holoptychius* from '?' to '1' (Jarvik, 1972; Downs *et al*, 2013).
+
 > - The coding of *Heimenia* (Clement, 2001; Mondéjar‐Fernández and Clement, 2012), *Arquatichthys* (Lu and Zhu, 2008; Lu and Zhu, 2019) and *Venatorolepis* is '?'.
+
 
 3.	Cosmine present on skull: (0) yes, full cover; (1) yes, but strongly reduced; (2) no. (**Ordered**)
 > Challands *et al*., (2019; char. 3).
 > - The coding of *Heimenia* and *Venatorolepis* is '?'. The coding of *Arquatichthys* (Lu and Zhu, 2008; Lu and Zhu, 2019) is '0'. 
 > - **For the ordered character, how about separating it into two or more characters? Now we had better avoid using the ordered character.**
+> - V33088 is coded as '1'
 
 4.	Length of B bone: (0) short (less than 2 times its width); (1) long (equal or more than 2 times its width); (2) broad (wider than long).
 > Challands *et al*., (2019; char. 4).
@@ -666,7 +671,9 @@ Character list of lungfishes
 
 148.	Lower jaw: (0) short mandible rami (most lungfishes), (1) elongated rami with short symphysis (most outgroup), (2) elongated symphysis. 
 > Schultze and Marshall (1993; char. 61), Schultze (2001; char. 61), Lloyd *et al*., (2012; Char. 62), Challands *et al*., (2019; char. 158).
+
 > - The coding of *Heimenia* (Clement, 2001), *Venatorolepis* and *Arquatichthys* (Lu and Zhu, 2008) is '1'. 
+
 
 149.	Adductor muscles: (0) below skull roof, (1) above skull roof. 
 > Schultze and Marshall (1993; char. 10), Schultze (2001; char. 10), Schultze (2004; char. 8), Lloyd (2012; char. 10), Challands *et al*., (2019; char. 162).
@@ -809,6 +816,7 @@ Character list of lungfishes
 181.	Angle between first and last tooth ridge: (0) 50–100°; (1) less than 50° or greater than 100°. 
 > Challands *et al*., (2019; char. 157).
 > - The coding of *Heimenia*, *Arquatichthys* and *Venatorolepis* is '-'.  
+
 
 182.	Ascending process on pterygoid: (0) absent; (1) short; (2) long. 
 > Schultze and Marshall (1993; char. 56), Schultze and Chorn (1997; char. 20), Schultze (2001; char. 56), Schultze (2004; char. 40). Lloyd *et al*., (2012; char. 57), Challands *et al*., (2019; char. 177).
