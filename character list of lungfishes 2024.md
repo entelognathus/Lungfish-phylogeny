@@ -365,7 +365,8 @@ Character list of lungfishes
 76.	Vertical bar-like preopercular bone: (0) absent; (1) present.
 > Zhu and Yu (2002; char. 54), Schultze (2000; char. 28).
 > - The coding of *Heimenia* and *Arquatichthys* is '?'. The coding of *Venatorolepis* is '0'. 
- 
+> - Changing *Youngolepis* from '1' to '-'.
+
 77.	Postorbital: (0) restricted to anterior cranial division; (1) spanning two divisions.
 > Schultze (2000; char. 29).
 > - The coding of *Heimenia* and *Arquatichthys* is '?'. The coding of *Venatorolepis* is '0'. 
