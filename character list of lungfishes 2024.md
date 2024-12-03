@@ -1008,11 +1008,14 @@ Character list of lungfishes
 
 227.	Dorsal endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. 
 > Zhu and Yu (2002; char. 98), Schultze (2000; char. 39).
-> - The coding of *Heimenia*, *Arquatichthys* and *Venatorolepis* is '?'.  
+> - The coding of *Heimenia*, *Arquatichthys* and *Venatorolepis* is '?'.
+> - Changing *Youngolepis* from '0' to '1'.
 
 228.	Ventral endoskeletal articulation between otico-occipital and ethmosphenoid blocks of braincase: (0) absent; (1) present. 
 > Zhu 99 Zhu and Yu (2002; char. 99), Schultze (2000; char. 40).
 > - The coding of *Heimenia*, *Arquatichthys* and *Venatorolepis* is '?'.  
+> - Changing *Youngolepis* from '0' to '1'.
+
 
 229.	Orientation of intracranial joint or fissure: (0) vertical or anteroventrally slanting; (1) posteroventrally slanting. 
 > Zhu and Yu (2002; char. 100), Schultze (2000; char. 41).
